@@ -1,0 +1,13 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Study Extra Master
+
+module:
+  imports:
+    - path: github.com/imfing/hextra
+    
+theme: 
+- hugo-embed-pdf-shortcode
+- github.com/imfing/hextra
+
+enableInlineShortcodes : true    
