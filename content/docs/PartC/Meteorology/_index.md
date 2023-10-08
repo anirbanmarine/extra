@@ -7,7 +7,7 @@ type: docs
 
 * [Meteorological Observing Systems -conventional and recent systems]({{< ref "/MetObs">}})
    
-* [Wind effects]({{< ref "/Wind_Effects">}}
+* [Wind effects]({{< ref "/Wind_Effects">}})
    - Divergence
    - Convergence. 
    - Diffluence. 
@@ -17,7 +17,7 @@ type: docs
    - Geostropic and gradient wind. 
    - Cyclostrophic wind. 
    - Elemcntary ideas of general circulation and jet streams.
-* [cyclonic storms]({{< ref "/Cyclones>}}
+* [cyclonic storms]({{< ref "/Cyclones">}})
    - formation intensification,movement and weakening
 * methods of cyclone forecasting; 
    - cyclone warning bulletins of merchant ships
