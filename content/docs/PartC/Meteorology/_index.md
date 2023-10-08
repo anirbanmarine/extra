@@ -5,13 +5,9 @@ type: docs
 
 ## Contents 
 
-* Meteorological Observing Systems (conventional and recent systems)
-   - Synoptic weather observations, 
-   - Synoptic representation of pressure field, contour and thickness charts.
-   - Stream line and isotach analysis. 
-   - Stability analysis. 
-   - Techniques of weather forecasting including elementary ideas of numerical weather prediction.
-* Wind effects
+* [Meteorological Observing Systems -conventional and recent systems]({{< ref "/MetObs">}})
+   
+* [Wind effects]({{< ref "/Wind_Effects">}}
    - Divergence
    - Convergence. 
    - Diffluence. 
@@ -21,11 +17,10 @@ type: docs
    - Geostropic and gradient wind. 
    - Cyclostrophic wind. 
    - Elemcntary ideas of general circulation and jet streams.
-* cyclonic storms
+* [cyclonic storms]({{< ref "/Cyclones>}}
    - formation intensification,movement and weakening
 * methods of cyclone forecasting; 
    - cyclone warning bulletins of merchant ships
-* el-nino
-* la-nina:
+* [el-nino and  la-nina] ({{<ref "/El-Nino" >}})
 
 
