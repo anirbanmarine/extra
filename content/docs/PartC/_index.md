@@ -8,8 +8,8 @@ sidebar:
 
 ## EM301 Marine Environment and Ocean Governance
 
-* [International Conventions](/docs/partc/intconv/)
-* [Meteorology](docs/partc/meteorology/)
+* [International Conventions]({{< ref "/intconv" >}})
+* [Meteorology]({{<ref "/meteorology">}})
 * Satellite Meteorology
 * Geology and oceanography
 * Marine Resources
