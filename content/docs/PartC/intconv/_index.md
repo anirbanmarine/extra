@@ -12,7 +12,7 @@ weight: 30
 * [ United Nations Convention on Law of the Seas. 1982 (UNCLOS).]({{< ref "/unclos">}})
 * [ Basel Convention on the control of Transboundary Movement of Hazardous Wastes and their Disposal, l989 (Basel Convention)]({{< ref "/baselconv">}})
 * [ United Nations Convention on Environment and Development,1992 (Earth Summit)]({{< ref "/unced">}})
-* [ Agenda 21]({{< ref "/agenda-21">}})
+* [ Agenda 21]({{< ref "/Agenda_21">}})
 * [ United Nations Convention on Biological Diversity, 1992; ]({{< ref "/unconvbiodiversity">}})
 * [ United Nations Framework Convention on Climate change. 1992 (UNFCC); ]({{< ref "/unfccc">}})
 * [ UNFCC. Kyoto protocol. 1997.]({{< ref "/kyotoproto">}})
