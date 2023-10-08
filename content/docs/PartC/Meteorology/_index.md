@@ -21,6 +21,6 @@ type: docs
    - formation intensification,movement and weakening
 * methods of cyclone forecasting; 
    - cyclone warning bulletins of merchant ships
-* [el-nino and  la-nina] ({{<ref "/El-Nino" >}})
+* [el-nino and  la-nina] ({{< ref "/El-Nino" >}})
 
 
