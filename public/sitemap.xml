@@ -2,47 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/intconv/agenda_21/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/agenda_21/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/intconv/kyotoproto/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/kyotoproto/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/intconv/rsparis2015/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/rsparis2015/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/intconv/rio&#43;10_20/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/rio&#43;10_20/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/intconv/csd1992/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/csd1992/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/intconv/bbnj/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/bbnj/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/intconv/londondump1972/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/londondump1972/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/intconv/unced/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unced/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/intconv/unconvbiodiversity/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unconvbiodiversity/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/intconv/unfccc/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unfccc/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/intconv/unhe/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unhe/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/intconv/unepcont/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unepcont/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/intconv/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/</loc>
   </url><url>
     <loc>https://anirbanmarine.github.io/extra/about/</loc>
   </url><url>
     <loc>https://anirbanmarine.github.io/extra/categories/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/meteorology/cyclones/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/meteorology/cyclones/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/meteorology/el-nino/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/meteorology/el-nino/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/satmet/satmethistory/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/satmet/ismp/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em302/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/meteorology/metobs/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em303/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/meteorology/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/satmet/satmethistory/</loc>
+  </url><url>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/satmet/ismp/</loc>
+  </url><url>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/meteorology/metobs/</loc>
+  </url><url>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/meteorology/</loc>
   </url><url>
     <loc>https://anirbanmarine.github.io/extra/docs/parta/</loc>
   </url><url>
@@ -52,16 +58,28 @@
   </url><url>
     <loc>https://anirbanmarine.github.io/extra/docs/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/satmet/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/satmet/qestsst/</loc>
+  </url><url>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/satmet/rsense/</loc>
+  </url><url>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/satmet/</loc>
   </url><url>
     <loc>https://anirbanmarine.github.io/extra/</loc>
   </url><url>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/satmet/synclouds/</loc>
+  </url><url>
     <loc>https://anirbanmarine.github.io/extra/tags/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/intconv/baselconv/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/baselconv/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/intconv/unclos/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/satmet/sattropic/</loc>
   </url><url>
-    <loc>https://anirbanmarine.github.io/extra/docs/partc/meteorology/wind_effects/</loc>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unclos/</loc>
+  </url><url>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/satmet/vertprof/</loc>
+  </url><url>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/satmet/vandirchannels/</loc>
+  </url><url>
+    <loc>https://anirbanmarine.github.io/extra/docs/partc/em301/meteorology/wind_effects/</loc>
   </url>
 </urlset>
