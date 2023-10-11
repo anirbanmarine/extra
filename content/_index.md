@@ -12,3 +12,5 @@ This site is for openly available study materials on the web for different subje
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
+![waves](/images/waves.svg)
+

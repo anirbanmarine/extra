@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="820"
+   height="462"
+   viewBox="0 0 820 462"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="waves.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#cccccc"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:zoom="1.1839827"
+     inkscape:cx="74.32541"
+     inkscape:cy="261.40585"
+     inkscape:window-width="1600"
+     inkscape:window-height="831"
+     inkscape:window-x="0"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g824" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="rect846"
+       style="opacity:0.367184;fill:#0066ff;fill-opacity:0.999977;stroke-width:4.7;stroke-dasharray:4.7, 9.4"
+       d="m 0,231 c 0,0 111.71642,-153.868451 410,0 298.28358,153.86845 410,0 410,0 V 462 H 0 Z"
+       sodipodi:nodetypes="czcccc">
+      <animate
+         dur="5s"
+         repeatCount="indefinite"
+         attributeName="d"
+         fill="freeze"
+         calcMode="spline"
+         keySplines="0.4 0 0.2 1; 0.4 0 0.2 1"
+         values="m 0,231 c 0,0 111.71642,-153.868451 410,0 298.28358,153.86845 410,0 410,0 V 462 H 0 Z;m 0,231 c 0,0 129.41894,148.13122 410,0 280.58106,-148.131218 410,0 410,0 V 462 H 0 Z;m 0,231 c 0,0 111.71642,-153.868451 410,0 298.28358,153.86845 410,0 410,0 V 462 H 0 Z;" />
+    </path>
+  </g>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="g824">
+    <path
+       id="path822"
+       style="opacity:0.250564;fill:#0000ff;fill-opacity:0.999977;stroke-width:4.7;stroke-dasharray:4.7, 9.4"
+       d="M 820,231 C 820,231 708.28358,77.131549 410,231 111.71642,384.86845 0,231 0,231 v 231 h 820 z"
+       sodipodi:nodetypes="czcccc">
+      <animate
+         dur="5s"
+         repeatCount="indefinite"
+         attributeName="d"
+         fill="freeze"
+         calcMode="spline"
+         keySplines="0.4 0 0.2 1; 0.4 0 0.2 1"
+         values="m 0,231 c 0,0 129.41894,148.13122 410,0 280.58106,-148.131218 410,0 410,0 V 462 H 0 Z;m 0,231 c 0,0 111.71642,-153.868451 410,0 298.28358,153.86845 410,0 410,0 V 462 H 0 Z;m 0,231 c 0,0 129.41894,148.13122 410,0 280.58106,-148.131218 410,0 410,0 V 462 H 0 Z;" />
+    </path>
+    <path
+       id="path824"
+       style="opacity:0.250564;fill:#0000ff;fill-opacity:0.999977;stroke-width:4.7;stroke-dasharray:4.7, 9.4"
+       d="m 817.56629,230.77591 c 0,0 -15.01483,38.89699 -79.8738,41.68824 C 583.78483,279.08768 580.06904,157.17699 400.82794,156.2038 291.90465,155.6124 221.64371,271.94665 118.73912,277.1863 58.316813,280.26285 0,231 0,231 v 231 h 820 z"
+       sodipodi:nodetypes="cssscccc">
+      <animate
+         dur="5s"
+         repeatCount="indefinite"
+         attributeName="d"
+         fill="freeze"
+         calcMode="spline"
+         keySplines="0.4 0 0.2 1; 0.4 0 0.2 1"
+         values="m 817.56629,230.77591 c 0,0 -15.01483,38.89699 -79.8738,41.68824 C 583.78483,279.08768 580.06904,157.17699 400.82794,156.2038 291.90465,155.6124 221.64371,271.94665 118.73912,277.1863 58.316813,280.26285 0,231 0,231 v 231 h 820 z;m 817.56629,230.77591 c 0,0 -40.82906,-68.69277 -105.68803,-65.90152 C 557.9706,171.49792 580.06904,307.17699 400.82794,306.2038 291.90465,305.6124 195.82948,164.35689 92.924893,169.59654 32.502586,172.67309 0,231 0,231 v 231 h 820 z;m 817.56629,230.77591 c 0,0 -15.01483,38.89699 -79.8738,41.68824 C 583.78483,279.08768 580.06904,157.17699 400.82794,156.2038 291.90465,155.6124 221.64371,271.94665 118.73912,277.1863 58.316813,280.26285 0,231 0,231 v 231 h 820 z;" />
+    </path>
+  </g>
+</svg>
