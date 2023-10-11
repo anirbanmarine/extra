@@ -6,7 +6,7 @@ title: Parts-Syllabus
 
 
 {{< cards >}}
-  {{< card link="PartA/" title="Part A " icon="library" >}}
-  {{< card link="PartB/" title="Part B " icon="library" >}}
-  {{< card link="PartC/" title="Part C " icon="library" >}}
+  {{< card link="parta/" title="Part A " icon="library" >}}
+  {{< card link="partb/" title="Part B " icon="library" >}}
+  {{< card link="partc/" title="Part C " icon="library" >}}
 {{< /cards >}}
