@@ -9,7 +9,7 @@ type: docs
 * [International Conventions]({{< ref "/intconv" >}})
 * [Meteorology]({{<ref "/meteorology">}})
 * [Satellite Meteorology]({{<ref "/SatMet">}})
-* Geology and oceanography
+* [Geology and oceanography]({{<ref "/Oceanogeo">}})
 * Marine Resources
 * Ocean Governance
 * Hydrographical surveying
