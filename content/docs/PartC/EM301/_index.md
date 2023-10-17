@@ -1,8 +1,7 @@
 ---
 title: EM301 Marine Environment and Ocean Governance
 type: docs
-sidebar:
-  open: true
+
 ---
 
 ## Contents
@@ -10,8 +9,8 @@ sidebar:
 * [International Conventions]({{< ref "/intconv" >}})
 * [Meteorology]({{<ref "/meteorology">}})
 * [Satellite Meteorology]({{<ref "/SatMet">}})
-* Geology and oceanography
-* Marine Resources
+* [Geology and oceanography]({{<ref "/Oceanogeo">}})
+* [Marine Resources]({{<ref "/Marineres">}})
 * Ocean Governance
 * Hydrographical surveying
 * The Earth's tides
