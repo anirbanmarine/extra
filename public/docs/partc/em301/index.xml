@@ -15,31 +15,22 @@
     
     
     <item>
-      <title>International Conventions</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/</link>
+      <title>Earth&#39;s tides</title>
+      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/tides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/</guid>
+      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/tides/</guid>
       <description>
         
         
-        &lt;h2&gt;Contents&lt;span class=&#34;absolute -mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unhe/&#34; &gt; United Nations Convention on Human Environment,1972.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unepcont/&#34; &gt; United Nations Environment Programme UNEP.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/londondump1972/&#34; &gt; United Nations Convention on prevention of Marine Pollution by dumping of wastes or other matter (London dumping convention).&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unclos/&#34; &gt; United Nations Convention on Law of the Seas. 1982 (UNCLOS).&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/baselconv/&#34; &gt; Basel Convention on the control of Transboundary Movement of Hazardous Wastes and their Disposal, l989 (Basel Convention)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unced/&#34; &gt; United Nations Convention on Environment and Development,1992 (Earth Summit)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/agenda_21/&#34; &gt; Agenda 21&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unconvbiodiversity/&#34; &gt; United Nations Convention on Biological Diversity, 1992; &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unfccc/&#34; &gt; United Nations Framework Convention on Climate change. 1992 (UNFCC); &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/kyotoproto/&#34; &gt; UNFCC. Kyoto protocol. 1997.&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/rio+10_20/&#34; &gt; 2002 &amp;amp;2012 Earth Summit on Sustainable Development (Rio +10 and Rio +20);&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/csd1992/&#34; &gt; Commission on Sustainable development: Global Environment Facility (GEF);&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/rsparis2015/&#34; &gt; Paris 2015: Regional Seas Programme; &lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/bbnj/&#34; &gt; Intergovernmental Conference on biological diversity beyond national jurisdiction2023.(BBNJ)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+        &lt;ol&gt;
+&lt;li&gt;General knowledge of tides(https://anirbanmarine.github.io/extra/docs/partc/em301/tides/gktides/)&lt;/li&gt;
+&lt;li&gt;Classification of Tides(https://anirbanmarine.github.io/extra/docs/partc/em301/tides/typoftides/)&lt;/li&gt;
+&lt;li&gt;Determination of mean sea level(https://anirbanmarine.github.io/extra/docs/partc/em301/tides/msl/)&lt;/li&gt;
+&lt;li&gt;Establishment of datums(https://anirbanmarine.github.io/extra/docs/partc/em301/tides/datums/)&lt;/li&gt;
+&lt;li&gt;The use of co-Tidal charts(https://anirbanmarine.github.io/extra/docs/partc/em301/tides/cotidal/)&lt;/li&gt;
+&lt;li&gt;Tidal streams ,currents and their measurement.&lt;/li&gt;
+&lt;/ol&gt;
 
       </description>
     </item>
@@ -68,6 +59,55 @@
 &lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/oceancurr/&#34; &gt;Causes of ocean currents,surface&amp;amp; sub-surface circulation&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/ice/&#34; &gt;Ice formation and decay, distribution and movement of ice&lt;/a&gt;&lt;/li&gt;
 &lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Hydrographic Surveying</title>
+      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/hydrosurv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/hydrosurv/</guid>
+      <description>
+        
+        
+        &lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/hydrosurv/bashydro/&#34; &gt;Basic techniques of  Hydrographic Surveying &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/hydrosurv/control/&#34; &gt;Control of Hydrographic Surveying&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/hydrosurv/posfix/&#34; &gt;Position fixing including use of short-range high accuracy radio signals.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/hydrosurv/nchart/&#34; &gt;Theory of preparation of Navigational Charts.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>International Conventions</title>
+      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Contents&lt;span class=&#34;absolute -mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unhe/&#34; &gt; United Nations Convention on Human Environment,1972.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unepcont/&#34; &gt; United Nations Environment Programme UNEP.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/londondump1972/&#34; &gt; United Nations Convention on prevention of Marine Pollution by dumping of wastes or other matter (London dumping convention).&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unclos/&#34; &gt; United Nations Convention on Law of the Seas. 1982 (UNCLOS).&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/baselconv/&#34; &gt; Basel Convention on the control of Transboundary Movement of Hazardous Wastes and their Disposal, l989 (Basel Convention)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unced/&#34; &gt; United Nations Convention on Environment and Development,1992 (Earth Summit)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/agenda_21/&#34; &gt; Agenda 21&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unconvbiodiversity/&#34; &gt; United Nations Convention on Biological Diversity, 1992; &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unfccc/&#34; &gt; United Nations Framework Convention on Climate change. 1992 (UNFCC); &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/kyotoproto/&#34; &gt; UNFCC. Kyoto protocol. 1997.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/rio+10_20/&#34; &gt; 2002 &amp;amp;2012 Earth Summit on Sustainable Development (Rio +10 and Rio +20);&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/csd1992/&#34; &gt; Commission on Sustainable development: Global Environment Facility (GEF);&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/rsparis2015/&#34; &gt; Paris 2015: Regional Seas Programme; &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/bbnj/&#34; &gt; Intergovernmental Conference on biological diversity beyond national jurisdiction2023.(BBNJ)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
       </description>
     </item>
@@ -154,9 +194,9 @@
 &lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/oceangov/unfsa/&#34; &gt;UN agreement on conservation and management of Straddling Fish Stocks and Highly Migratory Fish Stocks.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/oceangov/ccrf/&#34; &gt;FAO code of conduct of Responsible Fisheries.&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/bbnj/&#34; &gt;BBNJ&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;International Seabed Authority&lt;/li&gt;
-&lt;li&gt;Commission on the limits of the continental shelf.&lt;/li&gt;
-&lt;li&gt;Sustainable development.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/oceangov/isa/&#34; &gt;International Seabed Authority&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/oceangov/clcs/&#34; &gt;Commission on the limits of the continental shelf.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://anirbanmarine.github.io/extra/docs/partc/em301/oceangov/sdev/&#34; &gt;Sustainable development.&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
       </description>

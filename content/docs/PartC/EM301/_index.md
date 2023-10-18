@@ -11,8 +11,8 @@ type: docs
 * [Satellite Meteorology]({{<ref "/SatMet">}})
 * [Geology and oceanography]({{<ref "/Oceanogeo">}})
 * [Marine Resources]({{<ref "/Marineres">}})
-* Ocean Governance
-* Hydrographical surveying
+* [Ocean Governance]({{<ref "/Oceangov">}})
+* [Hydrographical surveying]({{<ref "/Hydrosurv">}})
 * The Earth's tides
 
 

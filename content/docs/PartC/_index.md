@@ -4,16 +4,9 @@ type: docs
 
 ---
 
-## EM301 Marine Environment and Ocean Governance
+* [EM301 Marine Environment and Ocean Governance]({{< ref "/EM301">}})
 
-* [International Conventions]({{< ref "/intconv" >}})
-* [Meteorology]({{<ref "/meteorology">}})
-* [Satellite Meteorology]({{<ref "/SatMet">}})
-* [Geology and oceanography]({{<ref "/Oceanogeo">}})
-* Marine Resources
-* Ocean Governance
-* Hydrographical surveying
-* The Earth's tides
+
 
 ## EM302 Port Management
 

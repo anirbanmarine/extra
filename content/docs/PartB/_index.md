@@ -1,8 +1,7 @@
 ---
 title: Part B
 type: docs
-sidebar:
-  open: true
+
 ---
 
 ## Contents

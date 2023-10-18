@@ -1,6 +1,6 @@
 ---
 title: "International Conventions"
-weight: 30
+type: docs
 ---
 
 ## Contents 
