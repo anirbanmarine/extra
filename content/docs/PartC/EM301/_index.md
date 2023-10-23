@@ -13,6 +13,6 @@ type: docs
 * [Marine Resources]({{<ref "/Marineres">}})
 * [Ocean Governance]({{<ref "/Oceangov">}})
 * [Hydrographical surveying]({{<ref "/Hydrosurv">}})
-* The Earth's tides
+* [The Earth's tides]({{<ref "/tides">}})
 
 

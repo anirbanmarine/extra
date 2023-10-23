@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – Parts-Syllabus</title>
-    <link>https://anirbanmarine.github.io/extra/docs/</link>
+    <link>https://anirbanmarine.in/docs/</link>
     <description>Recent content in Parts-Syllabus on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://anirbanmarine.github.io/extra/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://anirbanmarine.in/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Agenda 21 UNFCCC </title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/agenda_21/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/agenda_21/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/agenda_21/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/agenda_21/</guid>
       <description>
         
         
@@ -53,10 +53,10 @@ The UNFCCC Agenda 21 has been influential in shaping the international response 
     
     <item>
       <title>Kyoto Protocol-UNFCCC (UNFCCC,Kyoto,1997)</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/kyotoproto/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/kyotoproto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/kyotoproto/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/kyotoproto/</guid>
       <description>
         
         
@@ -83,10 +83,10 @@ The UNFCCC Agenda 21 has been influential in shaping the international response 
     
     <item>
       <title>Regional Seas Programme (RSP,Paris,2015)</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/rsparis2015/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/rsparis2015/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/rsparis2015/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/rsparis2015/</guid>
       <description>
         
         
@@ -110,10 +110,10 @@ The RSP is committed to working with all stakeholders to implement the SDGs and 
     
     <item>
       <title>The 2002 World Summit on Sustainable Development-Rio&#43;10 (WSSD,Johannesburg,2002)The 2012 United Nations Conference on Sustainable Development-Rio&#43;20 (UNCSD,Rio,2012)</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/rio&#43;10_20/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/rio&#43;10_20/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/rio&#43;10_20/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/rio&#43;10_20/</guid>
       <description>
         
         
@@ -157,10 +157,10 @@ Despite these challenges, there is also a growing awareness of the importance of
     
     <item>
       <title>The Commission on Sustainable Development (CSD,Rio,1992)</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/csd1992/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/csd1992/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/csd1992/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/csd1992/</guid>
       <description>
         
         
@@ -193,10 +193,10 @@ Despite these challenges, there is also a growing awareness of the importance of
     
     <item>
       <title>The Intergovernmental Conference on biological diversity beyond national jurisdiction (BBNJ,2023)</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/bbnj/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/bbnj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/bbnj/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/bbnj/</guid>
       <description>
         
         
@@ -344,7 +344,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.github.io\/extra\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.in&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
 
     
     var pdfDoc = null,
@@ -474,10 +474,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
     
     <item>
       <title>The London Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter (LC 1972)</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/londondump1972/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/londondump1972/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/londondump1972/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/londondump1972/</guid>
       <description>
         
         
@@ -503,10 +503,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
     
     <item>
       <title>The United Nations Conference on Environment and Development (UNCED),1992</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unced/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unced/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unced/</guid>
       <description>
         
         
@@ -525,10 +525,10 @@ The Earth Summit was a major step forward in international environmental coopera
     
     <item>
       <title>The United Nations Convention on Biological Diversity (CBD,Rio,1992) </title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unconvbiodiversity/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unconvbiodiversity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unconvbiodiversity/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unconvbiodiversity/</guid>
       <description>
         
         
@@ -564,10 +564,10 @@ The CBD is a comprehensive treaty that covers all aspects of biological diversit
     
     <item>
       <title>The United Nations Framework Convention on Climate Change (UNFCCC,Rio,1992)</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unfccc/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unfccc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unfccc/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unfccc/</guid>
       <description>
         
         
@@ -720,7 +720,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-6
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.github.io\/extra\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.in&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
 
     
     var pdfDoc = null,
@@ -850,10 +850,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-6
     
     <item>
       <title>United Nations Convention on Human Environment,1972</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unhe/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unhe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unhe/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unhe/</guid>
       <description>
         
         
@@ -878,10 +878,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-6
     
     <item>
       <title>United Nations Environment Programme</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unepcont/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unepcont/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unepcont/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unepcont/</guid>
       <description>
         
         
@@ -1010,7 +1010,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.github.io\/extra\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.in&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
 
     
     var pdfDoc = null,
@@ -1140,10 +1140,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b
     
     <item>
       <title></title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/tides/typoftides/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/tides/typoftides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/tides/typoftides/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/tides/typoftides/</guid>
       <description>
         
         
@@ -1189,10 +1189,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b
     
     <item>
       <title>Active geological processes</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/actgeo/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceanogeo/actgeo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/actgeo/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceanogeo/actgeo/</guid>
       <description>
         
         
@@ -1214,10 +1214,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b
     
     <item>
       <title>Areas Beyond National Jurisdiction</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/oceangov/abnj/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceangov/abnj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/oceangov/abnj/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceangov/abnj/</guid>
       <description>
         
         
@@ -1259,10 +1259,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Basic techniques of Hydrographic Surveying</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/hydrosurv/bashydro/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/hydrosurv/bashydro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/hydrosurv/bashydro/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/hydrosurv/bashydro/</guid>
       <description>
         
         
@@ -1301,10 +1301,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Bathymetric Studies</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/bathy/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceanogeo/bathy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/bathy/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceanogeo/bathy/</guid>
       <description>
         
         
@@ -1341,10 +1341,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Co-Tidal Charts</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/tides/cotidal/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/tides/cotidal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/tides/cotidal/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/tides/cotidal/</guid>
       <description>
         
         
@@ -1372,10 +1372,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Commission on Limits of the Continental Shelf</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/oceangov/clcs/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceangov/clcs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/oceangov/clcs/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceangov/clcs/</guid>
       <description>
         
         
@@ -1399,10 +1399,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Conservation of resources</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/marfish/conserv/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/conserv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/marfish/conserv/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/conserv/</guid>
       <description>
         
         
@@ -1440,10 +1440,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Control in hydrographic surveying</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/hydrosurv/control/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/hydrosurv/control/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/hydrosurv/control/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/hydrosurv/control/</guid>
       <description>
         
         
@@ -1486,10 +1486,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Cyclonic Storms</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/meteorology/cyclones/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/meteorology/cyclones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/meteorology/cyclones/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/meteorology/cyclones/</guid>
       <description>
         
         
@@ -1562,10 +1562,10 @@ Rapid intensification can be a dangerous process, as it can make it difficult fo
     
     <item>
       <title>Demersal and Pelagic fishing</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/marfish/demerpelag/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/demerpelag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/marfish/demerpelag/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/demerpelag/</guid>
       <description>
         
         
@@ -1589,10 +1589,10 @@ Rapid intensification can be a dangerous process, as it can make it difficult fo
     
     <item>
       <title>Desalination processes</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/minerals/desalination/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/marineres/minerals/desalination/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/minerals/desalination/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/marineres/minerals/desalination/</guid>
       <description>
         
         
@@ -1646,10 +1646,10 @@ Desalination plants can produce brine, which is a concentrated wastewater that c
     
     <item>
       <title>Distribution of Salinity, Temperature and Density of Water</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/watermass/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceanogeo/watermass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/watermass/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceanogeo/watermass/</guid>
       <description>
         
         
@@ -1688,10 +1688,10 @@ Desalination plants can produce brine, which is a concentrated wastewater that c
     
     <item>
       <title>Earth&#39;s status and Earth&#39;s interior age</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/earthintro/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceanogeo/earthintro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/earthintro/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceanogeo/earthintro/</guid>
       <description>
         
         
@@ -1732,10 +1732,10 @@ These methods have all given similar ages for Earth&amp;rsquo;s interior, sugges
     
     <item>
       <title>El Nino and La Nina</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/meteorology/el-nino/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/meteorology/el-nino/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/meteorology/el-nino/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/meteorology/el-nino/</guid>
       <description>
         
         
@@ -1773,10 +1773,10 @@ The origin of the name “El Niño” dates to the 1800’s, when fishermen on t
     
     <item>
       <title>Establishment of Datums</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/tides/datums/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/tides/datums/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/tides/datums/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/tides/datums/</guid>
       <description>
         
         
@@ -1812,10 +1812,10 @@ The origin of the name “El Niño” dates to the 1800’s, when fishermen on t
     
     <item>
       <title>Extraction of Minerals from seabed</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/minerals/mineralextraction/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/marineres/minerals/mineralextraction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/minerals/mineralextraction/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/marineres/minerals/mineralextraction/</guid>
       <description>
         
         
@@ -1862,10 +1862,10 @@ The origin of the name “El Niño” dates to the 1800’s, when fishermen on t
     
     <item>
       <title>FAO Code of Conduct for Responsible Fisheries(CCRF)</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/oceangov/ccrf/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceangov/ccrf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/oceangov/ccrf/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceangov/ccrf/</guid>
       <description>
         
         
@@ -1904,10 +1904,10 @@ The origin of the name “El Niño” dates to the 1800’s, when fishermen on t
     
     <item>
       <title>Fish Types</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/marfish/fishtyp/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/fishtyp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/marfish/fishtyp/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/fishtyp/</guid>
       <description>
         
         
@@ -1955,10 +1955,10 @@ Flatfish&lt;/p&gt;
     
     <item>
       <title>Fishing Factory Vessels</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/marfish/fishfactory/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/fishfactory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/marfish/fishfactory/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/fishfactory/</guid>
       <description>
         
         
@@ -2002,10 +2002,10 @@ Flatfish&lt;/p&gt;
     
     <item>
       <title>General characteristics of the seas</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/seas/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceanogeo/seas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/seas/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceanogeo/seas/</guid>
       <description>
         
         
@@ -2042,10 +2042,10 @@ Coastline and beaches&lt;/p&gt;
     
     <item>
       <title>General Idea of Drilling</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/oilngas/drilling/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/marineres/oilngas/drilling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/oilngas/drilling/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/marineres/oilngas/drilling/</guid>
       <description>
         
         
@@ -2072,10 +2072,10 @@ Coastline and beaches&lt;/p&gt;
     
     <item>
       <title>Genesis of rocks, types of rocks,distribution of rocks in the continents and oceans</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/rocks/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceanogeo/rocks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/rocks/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceanogeo/rocks/</guid>
       <description>
         
         
@@ -2139,10 +2139,10 @@ Coastline and beaches&lt;/p&gt;
     
     <item>
       <title>Geographical location of fishing grounds</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/marfish/fishgrnd/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/fishgrnd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/marfish/fishgrnd/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/fishgrnd/</guid>
       <description>
         
         
@@ -2166,10 +2166,10 @@ Coastline and beaches&lt;/p&gt;
     
     <item>
       <title>Harnessing Energy from Sea</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/power/energyfmsea/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/marineres/power/energyfmsea/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/power/energyfmsea/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/marineres/power/energyfmsea/</guid>
       <description>
         
         
@@ -2206,10 +2206,10 @@ In addition to these four main methods, there are a number of other ways to harn
     
     <item>
       <title>Heat Budget of the Oceans</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/heatbudget/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceanogeo/heatbudget/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/heatbudget/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceanogeo/heatbudget/</guid>
       <description>
         
         
@@ -2237,10 +2237,10 @@ In addition to these four main methods, there are a number of other ways to harn
     
     <item>
       <title>History of Satellite Meteorology</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/satmet/satmethistory/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/satmet/satmethistory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/satmet/satmethistory/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/satmet/satmethistory/</guid>
       <description>
         
         
@@ -2272,10 +2272,10 @@ In addition to these four main methods, there are a number of other ways to harn
     
     <item>
       <title>Ice</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/ice/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceanogeo/ice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/ice/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceanogeo/ice/</guid>
       <description>
         
         
@@ -2309,10 +2309,10 @@ In addition to these four main methods, there are a number of other ways to harn
     
     <item>
       <title>Indian Satellite Meteorology Programme (ISMP)</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/satmet/ismp/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/satmet/ismp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/satmet/ismp/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/satmet/ismp/</guid>
       <description>
         
         
@@ -2342,10 +2342,10 @@ The ISMP is a major success story, and it has played a vital role in the develop
     
     <item>
       <title>International Seabed Authority</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/oceangov/isa/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceangov/isa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/oceangov/isa/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceangov/isa/</guid>
       <description>
         
         
@@ -2388,10 +2388,10 @@ The ISMP is a major success story, and it has played a vital role in the develop
     
     <item>
       <title>Marine Fish Farming</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/marfish/fishfarm/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/fishfarm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/marfish/fishfarm/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/fishfarm/</guid>
       <description>
         
         
@@ -2410,7 +2410,7 @@ The ISMP is a major success story, and it has played a vital role in the develop
 &lt;/ol&gt;
 &lt;p&gt;Marine fish farmingOpens in a new window
 &lt;a href=&#34;https://www.researchgate.net&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.researchgate.net&lt;/a&gt;
-&lt;img src=&#34;https://anirbanmarine.github.io/extra/extra/fishfarm.png&#34; alt=&#34;Marine fish farming&#34; loading=&#34;lazy&#34; /&gt;
+&lt;img src=&#34;https://anirbanmarine.in/fishfarm.png&#34; alt=&#34;Marine fish farming&#34; loading=&#34;lazy&#34; /&gt;
 Types of marine fish farming&lt;/p&gt;
 &lt;h2&gt;There are two main types of marine fish farming:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;there-are-two-main-types-of-marine-fish-farming&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#there-are-two-main-types-of-marine-fish-farming&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Open-ocean fish farming:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;open-ocean-fish-farming&#34;&gt;&lt;/span&gt;
@@ -2454,10 +2454,10 @@ Types of marine fish farming&lt;/p&gt;
     
     <item>
       <title>Mean Sea Level</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/tides/msl/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/tides/msl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/tides/msl/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/tides/msl/</guid>
       <description>
         
         
@@ -2492,10 +2492,10 @@ is the average height of the sea&amp;rsquo;s surface over a period of time, typi
     
     <item>
       <title>Meteorological Observation Systems</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/meteorology/metobs/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/meteorology/metobs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/meteorology/metobs/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/meteorology/metobs/</guid>
       <description>
         
         
@@ -2729,10 +2729,10 @@ NWP is a powerful tool for forecasting the weather and for making informed decis
     
     <item>
       <title>Methods of extracting minerals from seawater</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/minerals/mineralsextract/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/marineres/minerals/mineralsextract/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/marineres/minerals/mineralsextract/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/marineres/minerals/mineralsextract/</guid>
       <description>
         
         
@@ -2770,10 +2770,10 @@ NWP is a powerful tool for forecasting the weather and for making informed decis
     
     <item>
       <title>Modern Tidal Theory</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/tides/gktides/moderntide/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/tides/gktides/moderntide/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/tides/gktides/moderntide/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/tides/gktides/moderntide/</guid>
       <description>
         
         
@@ -2808,10 +2808,10 @@ NWP is a powerful tool for forecasting the weather and for making informed decis
     
     <item>
       <title>Mohole Project</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/mohole/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceanogeo/mohole/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/mohole/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceanogeo/mohole/</guid>
       <description>
         
         
@@ -2842,10 +2842,10 @@ NWP is a powerful tool for forecasting the weather and for making informed decis
     
     <item>
       <title>Ocean Governance</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/oceangov/defoceangov/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceangov/defoceangov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/oceangov/defoceangov/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceangov/defoceangov/</guid>
       <description>
         
         
@@ -2888,10 +2888,10 @@ NWP is a powerful tool for forecasting the weather and for making informed decis
     
     <item>
       <title>Physical properties of seawater, light penetration and colour of the sea</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/seawater/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceanogeo/seawater/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/oceanogeo/seawater/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceanogeo/seawater/</guid>
       <description>
         
         

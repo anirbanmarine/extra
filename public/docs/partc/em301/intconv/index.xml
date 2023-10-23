@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – International Conventions</title>
-    <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/</link>
+    <link>https://anirbanmarine.in/docs/partc/em301/intconv/</link>
     <description>Recent content in International Conventions on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://anirbanmarine.in/docs/partc/em301/intconv/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Agenda 21 UNFCCC </title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/agenda_21/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/agenda_21/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/agenda_21/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/agenda_21/</guid>
       <description>
         
         
@@ -53,10 +53,10 @@ The UNFCCC Agenda 21 has been influential in shaping the international response 
     
     <item>
       <title>Kyoto Protocol-UNFCCC (UNFCCC,Kyoto,1997)</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/kyotoproto/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/kyotoproto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/kyotoproto/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/kyotoproto/</guid>
       <description>
         
         
@@ -83,10 +83,10 @@ The UNFCCC Agenda 21 has been influential in shaping the international response 
     
     <item>
       <title>Regional Seas Programme (RSP,Paris,2015)</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/rsparis2015/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/rsparis2015/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/rsparis2015/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/rsparis2015/</guid>
       <description>
         
         
@@ -110,10 +110,10 @@ The RSP is committed to working with all stakeholders to implement the SDGs and 
     
     <item>
       <title>The 2002 World Summit on Sustainable Development-Rio&#43;10 (WSSD,Johannesburg,2002)The 2012 United Nations Conference on Sustainable Development-Rio&#43;20 (UNCSD,Rio,2012)</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/rio&#43;10_20/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/rio&#43;10_20/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/rio&#43;10_20/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/rio&#43;10_20/</guid>
       <description>
         
         
@@ -157,10 +157,10 @@ Despite these challenges, there is also a growing awareness of the importance of
     
     <item>
       <title>The Commission on Sustainable Development (CSD,Rio,1992)</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/csd1992/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/csd1992/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/csd1992/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/csd1992/</guid>
       <description>
         
         
@@ -193,10 +193,10 @@ Despite these challenges, there is also a growing awareness of the importance of
     
     <item>
       <title>The Intergovernmental Conference on biological diversity beyond national jurisdiction (BBNJ,2023)</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/bbnj/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/bbnj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/bbnj/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/bbnj/</guid>
       <description>
         
         
@@ -344,7 +344,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.github.io\/extra\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.in&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
 
     
     var pdfDoc = null,
@@ -474,10 +474,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
     
     <item>
       <title>The London Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter (LC 1972)</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/londondump1972/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/londondump1972/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/londondump1972/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/londondump1972/</guid>
       <description>
         
         
@@ -503,10 +503,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
     
     <item>
       <title>The United Nations Conference on Environment and Development (UNCED),1992</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unced/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unced/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unced/</guid>
       <description>
         
         
@@ -525,10 +525,10 @@ The Earth Summit was a major step forward in international environmental coopera
     
     <item>
       <title>The United Nations Convention on Biological Diversity (CBD,Rio,1992) </title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unconvbiodiversity/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unconvbiodiversity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unconvbiodiversity/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unconvbiodiversity/</guid>
       <description>
         
         
@@ -564,10 +564,10 @@ The CBD is a comprehensive treaty that covers all aspects of biological diversit
     
     <item>
       <title>The United Nations Framework Convention on Climate Change (UNFCCC,Rio,1992)</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unfccc/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unfccc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unfccc/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unfccc/</guid>
       <description>
         
         
@@ -720,7 +720,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-6
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.github.io\/extra\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.in&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
 
     
     var pdfDoc = null,
@@ -850,10 +850,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-6
     
     <item>
       <title>United Nations Convention on Human Environment,1972</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unhe/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unhe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unhe/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unhe/</guid>
       <description>
         
         
@@ -878,10 +878,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-6
     
     <item>
       <title>United Nations Environment Programme</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unepcont/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unepcont/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unepcont/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unepcont/</guid>
       <description>
         
         
@@ -1010,7 +1010,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.github.io\/extra\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.in&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
 
     
     var pdfDoc = null,
@@ -1140,10 +1140,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b
     
     <item>
       <title>The Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal, 1989</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/baselconv/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/baselconv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/baselconv/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/baselconv/</guid>
       <description>
         
         
@@ -1252,10 +1252,10 @@ The Basel Convention is an important tool for protecting human health and the en
     
     <item>
       <title>United Nations Convention on the Law of the Sea</title>
-      <link>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unclos/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unclos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.github.io/extra/docs/partc/em301/intconv/unclos/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unclos/</guid>
       <description>
         
         
@@ -1426,7 +1426,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-0
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.github.io\/extra\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.in&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
 
     
     var pdfDoc = null,
@@ -1591,7 +1591,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-a
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.github.io\/extra\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.in&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
 
     
     var pdfDoc = null,
