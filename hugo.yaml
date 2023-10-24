@@ -2,6 +2,8 @@ baseURL: https://www.anirbanmarine.in
 languageCode: en-us
 title: Study Extra Master
 
+relativeUrls: true
+
 module:
   imports:
     - path: github.com/imfing/hextra
