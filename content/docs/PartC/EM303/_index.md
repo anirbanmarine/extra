@@ -6,7 +6,7 @@ type: docs
 
 ## Contents
 
-* Commercial Shipping
+* [Commercial Shipping]({{< ref "/Commercial">}})
 * Sale and Purchase of Ships
 * Port agency
 * Liner agency
