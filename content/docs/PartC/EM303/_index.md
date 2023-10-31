@@ -1,8 +1,7 @@
 ---
 title: EM303 Commercial Shipping Management
 type: docs
-sidebar:
-  open: true
+
 ---
 
 ## Contents

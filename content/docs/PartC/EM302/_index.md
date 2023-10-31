@@ -1,8 +1,7 @@
 ---
 title: EM302 Port Management
 type: docs
-sidebar:
-  open: true
+
 ---
 
 ## Contents
