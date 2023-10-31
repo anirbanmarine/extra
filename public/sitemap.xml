@@ -34,15 +34,27 @@
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/oceangov/abnj/</loc>
   </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/averageadjustment/</loc>
+  </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/hydrosurv/bashydro/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/bathy/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/cabotage/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/cargoinsurance/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/categories/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/tides/cotidal/</loc>
   </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/commercial/</loc>
+  </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/oceangov/clcs/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/conseqlimitrcos/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/marineres/marfish/conserv/</loc>
   </url><url>
@@ -114,13 +126,23 @@
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/ice/</loc>
   </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/indianinsurance/</loc>
+  </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/satmet/ismp/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/intconv/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/oceangov/isa/</loc>
   </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em302/intropm/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/lineragency/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em302/portops/</loc>
+  </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/marineres/marfish/fishfarm/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/marinsurance/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/marineres/</loc>
   </url><url>
@@ -158,11 +180,25 @@
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/marineres/oilngas/pipelay/</loc>
   </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/portagency/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em302/prtpln/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em302/prtreg/</loc>
+  </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/hydrosurv/posfix/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/satmet/qestsst/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/satmet/rsense/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/riskassessmnt/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/riskcontrol/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/riskmgmnt/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/salepurchase/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/marineres/minerals/sandgrvldredge/</loc>
   </url><url>
@@ -171,6 +207,8 @@
     <loc>https://www.anirbanmarine.in/docs/partc/em301/marineres/minerals/seabedsample/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/marineres/minerals/seismicsonarprofiling/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/shippingmgmnt/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/marineres/oilngas/storage/</loc>
   </url><url>
@@ -196,11 +234,15 @@
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/marineres/power/tidalpower/</loc>
   </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em301/tides/tidstream/</loc>
+  </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/tides/gktides/tideforce/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/satmet/sattropic/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/marineres/oilngas/typesofships/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/typofpolicy/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/marineres/oilngas/terminaltypes/</loc>
   </url><url>
