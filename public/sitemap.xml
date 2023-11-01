@@ -44,6 +44,8 @@
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em303/cabotage/</loc>
   </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/demurrcalc/</loc>
+  </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/cargocirc/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em303/cargoinsurance/</loc>
@@ -119,6 +121,8 @@
     <loc>https://www.anirbanmarine.in/docs/partc/em301/marineres/marfish/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/marineres/marfish/fishfactory/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/frustrate/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/seas/</loc>
   </url><url>
@@ -272,6 +276,8 @@
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/tides/gktides/tideforce/</loc>
   </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/timecls/</loc>
+  </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/satmet/sattropic/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/marineres/oilngas/typesofships/</loc>
@@ -287,6 +293,8 @@
     <loc>https://www.anirbanmarine.in/docs/partc/em301/satmet/vertprof/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/satmet/vandirchannels/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/voyestimate/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/meteorology/wind_effects/</loc>
   </url>

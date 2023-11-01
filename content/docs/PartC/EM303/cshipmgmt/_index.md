@@ -23,10 +23,10 @@ toc: true
 16.  [Laytime calculations]({{< ref "/laytimecalc.md">}})
 17.  [Deductions from freight]({{< ref "/deduct.md">}})
 18.  [Excepted periods]({{< ref "/deduct.md">}})
-19.  Time charter (off-hire periods, final voyage, Payment of hire, bunkers,performance clauses)
-21.  Frustration of charter party
-22.  Calculation of demurrage
-23.  Voyage estimate and calculations
+19.  [Time charter (off-hire periods, final voyage, Payment of hire, bunkers,performance clauses)]({{< ref "/timecls.md">}})
+21.  [Frustration of charter party]({{< ref "/frustrate">}})
+22.  [Calculation of demurrage]({{< ref "/demurrcalc.md">}})
+23.  [Voyage estimate and calculations]({{< ref "/Voyestimate.md">}})
 24.  Container operations
 25.  Passenger operations
 26.  Bills of lading

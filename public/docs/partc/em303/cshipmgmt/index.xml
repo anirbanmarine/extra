@@ -45,6 +45,285 @@
     </item>
     
     <item>
+      <title>Calculation of Demurrage</title>
+      <link>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/demurrcalc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/demurrcalc/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;&lt;strong&gt;Calculation of Demurrage&lt;/strong&gt;&lt;/h1&gt;&lt;h2&gt;&lt;strong&gt;How are Demurrage Charges calculated?&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;how-are-demurrage-charges-calculated&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#how-are-demurrage-charges-calculated&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In the &lt;strong&gt;calculation of demurrage&lt;/strong&gt; amount payable to shipowner, demurrage rate is multiplied by the &lt;strong&gt;number of days&lt;/strong&gt; or &lt;strong&gt;part of day&lt;/strong&gt; in &lt;strong&gt;excess&lt;/strong&gt; of the &lt;strong&gt;agreed laytime&lt;/strong&gt;. For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Total Laytime Allowed 11 days&lt;/li&gt;
+&lt;li&gt;Demurrage Rate $60,000 per day pro rata (PDPR)&lt;/li&gt;
+&lt;li&gt;Ship exceeded laytime allowed for loading and discharging by 4 days 6 hours 30 mins&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Demurrage Payable&lt;/strong&gt; =4d 6h 30m x $60,000 per day =4.27083 days x $60,000 = $256,250&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In order to arrive at the &lt;strong&gt;number of days on demurrage,&lt;/strong&gt; a calculation of the time in port must be made making reference to the &lt;strong&gt;time allowed (laytime)&lt;/strong&gt; and whether time is counting or whether it is an exception and does not count. Demurrage calculation is similar to using a stopwatch in that the clock will continue to run until there is a qualifying exception and the time will stop. Therefore, in any charter-party it is important to know exactly &lt;strong&gt;when the agreed laytime has expired&lt;/strong&gt; as the ship, from that point, ship will be &lt;strong&gt;on demurrage&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;‘Once on Demurrage, Always on Demurrage’&lt;/strong&gt; phrase is sometimes overused and often misleading. It is crucial to note that the rules for the &lt;strong&gt;stopwatch&lt;/strong&gt; change when a ship is on demurrage and careful attention must be paid to the &lt;strong&gt;detail of the specific charter-party&lt;/strong&gt; when this happens.&lt;/p&gt;
+&lt;p&gt;General rule is that &lt;strong&gt;express exceptions&lt;/strong&gt; to laytime &lt;strong&gt;do not apply to demurrage&lt;/strong&gt; unless there is &lt;strong&gt;clear wording&lt;/strong&gt; in the charter-party to that effect. Theoretically, the clock &lt;strong&gt;does not&lt;/strong&gt; stop running once the ship has gone on demurrage,&lt;/p&gt;
+&lt;p&gt;For example, Asbatankvoy – Clause 7 last sentence reads as follows: Time consumed by the ship in moving from loading or discharge port anchorage to her loading or discharge berth, discharging ballast water or slops, will &lt;strong&gt;not count&lt;/strong&gt; as used lay time. If the ship was moving from the anchorage to the berth and the laytime at that time had &lt;strong&gt;not been used up&lt;/strong&gt; then time will &lt;strong&gt;not run&lt;/strong&gt; during the period of &lt;strong&gt;moving to the berth.&lt;/strong&gt; On the other hand, if &lt;strong&gt;lay time had expired&lt;/strong&gt; and the &lt;strong&gt;ship was on demurrage&lt;/strong&gt; then time would &lt;strong&gt;continue to run&lt;/strong&gt; for such an event and the owner is entitled to demurrage for this time.&lt;/p&gt;
+&lt;p&gt;.tdi_2.td-a-rec{text-align:center}.tdi_2.td-a-rec:not(.td-a-rec-no-translate){transform:translateZ(0)}.tdi_2 .td-element-style{z-index:-1}.tdi_2.td-a-rec-img{text-align:left}.tdi_2.td-a-rec-img img{margin:0 auto 0 0}@media (max-width:767px){.tdi_2.td-a-rec-img{text-align:center}} var td_screen_width = window.innerWidth; window.addEventListener(&amp;ldquo;load&amp;rdquo;, function(){ var placeAdEl = document.getElementById(&amp;ldquo;td-ad-placeholder&amp;rdquo;); if ( null !== placeAdEl &amp;amp;&amp;amp; td_screen_width &amp;gt;= 1140 ) { /* large monitors &lt;em&gt;/ var adEl = document.createElement(&amp;ldquo;ins&amp;rdquo;); placeAdEl.replaceWith(adEl); adEl.setAttribute(&amp;ldquo;class&amp;rdquo;, &amp;ldquo;adsbygoogle&amp;rdquo;); adEl.setAttribute(&amp;ldquo;style&amp;rdquo;, &amp;ldquo;display:inline-block;width:970px;height:250px&amp;rdquo;); adEl.setAttribute(&amp;ldquo;data-ad-client&amp;rdquo;, &amp;ldquo;ca-pub-5596142290138833&amp;rdquo;); adEl.setAttribute(&amp;ldquo;data-ad-slot&amp;rdquo;, &amp;ldquo;4963775542&amp;rdquo;); (adsbygoogle = window.adsbygoogle || []).push({}); } });window.addEventListener(&amp;ldquo;load&amp;rdquo;, function(){ var placeAdEl = document.getElementById(&amp;ldquo;td-ad-placeholder&amp;rdquo;); if ( null !== placeAdEl &amp;amp;&amp;amp; td_screen_width &amp;gt;= 1019 &amp;amp;&amp;amp; td_screen_width &amp;lt; 1140 ) { /&lt;/em&gt; landscape tablets &lt;em&gt;/ var adEl = document.createElement(&amp;ldquo;ins&amp;rdquo;); placeAdEl.replaceWith(adEl); adEl.setAttribute(&amp;ldquo;class&amp;rdquo;, &amp;ldquo;adsbygoogle&amp;rdquo;); adEl.setAttribute(&amp;ldquo;style&amp;rdquo;, &amp;ldquo;display:inline-block;width:970px;height:250px&amp;rdquo;); adEl.setAttribute(&amp;ldquo;data-ad-client&amp;rdquo;, &amp;ldquo;ca-pub-5596142290138833&amp;rdquo;); adEl.setAttribute(&amp;ldquo;data-ad-slot&amp;rdquo;, &amp;ldquo;4963775542&amp;rdquo;); (adsbygoogle = window.adsbygoogle || []).push({}); } });window.addEventListener(&amp;ldquo;load&amp;rdquo;, function(){ var placeAdEl = document.getElementById(&amp;ldquo;td-ad-placeholder&amp;rdquo;); if ( null !== placeAdEl &amp;amp;&amp;amp; td_screen_width &amp;gt;= 768 &amp;amp;&amp;amp; td_screen_width &amp;lt; 1019 ) { /&lt;/em&gt; portrait tablets &lt;em&gt;/ var adEl = document.createElement(&amp;ldquo;ins&amp;rdquo;); placeAdEl.replaceWith(adEl); adEl.setAttribute(&amp;ldquo;class&amp;rdquo;, &amp;ldquo;adsbygoogle&amp;rdquo;); adEl.setAttribute(&amp;ldquo;style&amp;rdquo;, &amp;ldquo;display:inline-block;width:970px;height:250px&amp;rdquo;); adEl.setAttribute(&amp;ldquo;data-ad-client&amp;rdquo;, &amp;ldquo;ca-pub-5596142290138833&amp;rdquo;); adEl.setAttribute(&amp;ldquo;data-ad-slot&amp;rdquo;, &amp;ldquo;4963775542&amp;rdquo;); (adsbygoogle = window.adsbygoogle || []).push({}); } });window.addEventListener(&amp;ldquo;load&amp;rdquo;, function(){ var placeAdEl = document.getElementById(&amp;ldquo;td-ad-placeholder&amp;rdquo;); if ( null !== placeAdEl &amp;amp;&amp;amp; td_screen_width &amp;lt; 768 ) { /&lt;/em&gt; Phones */ var adEl = document.createElement(&amp;ldquo;ins&amp;rdquo;); placeAdEl.replaceWith(adEl); adEl.setAttribute(&amp;ldquo;class&amp;rdquo;, &amp;ldquo;adsbygoogle&amp;rdquo;); adEl.setAttribute(&amp;ldquo;style&amp;rdquo;, &amp;ldquo;display:inline-block;width:320px;height:50px&amp;rdquo;); adEl.setAttribute(&amp;ldquo;data-ad-client&amp;rdquo;, &amp;ldquo;ca-pub-5596142290138833&amp;rdquo;); adEl.setAttribute(&amp;ldquo;data-ad-slot&amp;rdquo;, &amp;ldquo;4963775542&amp;rdquo;); (adsbygoogle = window.adsbygoogle || []).push({}); } });&lt;/p&gt;
+&lt;p&gt;Great care must be taken over the &lt;strong&gt;wording of the charter-party&lt;/strong&gt; for events which &lt;strong&gt;interrupt laytime&lt;/strong&gt; to apply to demurrage.&lt;/p&gt;
+&lt;p&gt;Demurrage &lt;strong&gt;would not run&lt;/strong&gt; where there is a &lt;strong&gt;fault on the part of the shipowner&lt;/strong&gt;. For example, a &lt;strong&gt;ship breakdown&lt;/strong&gt;, as shipowner &lt;strong&gt;should not be able to profit&lt;/strong&gt; (paid for demurrage) for his own breach of contract. &lt;strong&gt;General exceptions clauses&lt;/strong&gt; will &lt;strong&gt;not&lt;/strong&gt; apply to demurrage unless the wording specifically supports this. &lt;strong&gt;Time on demurrage ends&lt;/strong&gt; at the same time as &lt;strong&gt;laytime&lt;/strong&gt; would have done, such as when &lt;strong&gt;completion of cargo operations&lt;/strong&gt; in dry bulk market or when disconnection of cargo hoses in the tanker market.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;When is Demurrage Payable?&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;when-is-demurrage-payable&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#when-is-demurrage-payable&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Gencon Charterpary (GENCON 94) Clause 7 states ‘Demurrage shall fall due day by day and shall be payable &lt;strong&gt;upon receipt of the owners’ invoice.’&lt;/strong&gt; In this case an owner is entitled to submit an invoice every day for as long as the vessel is on demurrage. Clearly where there are long delays and large amounts of demurrage incurred the owner may want to do so to ensure that the charterer becomes liable immediately.&lt;/p&gt;
+&lt;p&gt;In practice a claim is submitted at the end of the voyage and, after a period of negotiating the details and amount, agreement is reached and one payment made for the entire claim. Absent the Gencon wording, it is generally accepted that demurrage is payable day by day. However some charterparties will include express terms about the timing of payment which will need to be examined on a case-by-case basis.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;What is Demurrage?&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;what-is-demurrage&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-is-demurrage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Demurrage&lt;/strong&gt; refers to the &lt;strong&gt;liquidated damages payable by the charterers to the shipowner&lt;/strong&gt; for failing to complete the loading or discharging of the ship within the &lt;strong&gt;agreed laytime period.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Demurrage is not payable when the charter party expressly provides that certain periods of time lost, such as &lt;strong&gt;breakdown&lt;/strong&gt; or &lt;strong&gt;inefficiency&lt;/strong&gt; of the ship, shall &lt;strong&gt;not count&lt;/strong&gt; for demurrage, However, the general rule is &lt;strong&gt;“once on demurrage, always on demurrage”&lt;/strong&gt; i.e., if a ship is on demurrage, no laytime exceptions such as Sundays and holidays can be deducted from the computation of demurrage.&lt;/p&gt;
+&lt;p&gt;–&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Demurrage Rate&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;demurrage-rate&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#demurrage-rate&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Demurrage is the name given to the damages payable by the Charterer to the Shipowner for the &lt;strong&gt;Charterer’s Breach of Charterparty&lt;/strong&gt; in delaying the ship beyond the agreed laytime. &lt;strong&gt;Demurrage is Liquidated Damages&lt;/strong&gt; that means the rate per day is fixed at the time the charterparty is agreed. Furthermore, Shipowners (Disponent Owners) and Charterters know in advance their respective liabilities/earnings in the event of a delay. This is distinct from Damages at Large which would require a Shipowner to prove his losses. For demurrage, the Shipowner only has to prove that the delay falls within the terms of demurrage for the relevant charterparty. The &lt;strong&gt;Demurrage Rate&lt;/strong&gt; agreed is much like the Freight Rate, &lt;strong&gt;Demurrage Rate&lt;/strong&gt; will be a reflection of the running costs of the ship and the market conditions. Usually, the &lt;strong&gt;Demurrage Rate&lt;/strong&gt; is agreed in the charterparty as a &lt;strong&gt;Daily Rate&lt;/strong&gt;. For part of a day, the rate is pro rated as.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Once on Demurrage, Always on Demurrage&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;once-on-demurrage-always-on-demurrage&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#once-on-demurrage-always-on-demurrage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;If a &lt;strong&gt;charterer detains the vessel beyond the agreed lay days&lt;/strong&gt;, then the charterer is in &lt;strong&gt;breach of contract&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The majority of charter-parties include a clause providing that he may retain the vessel for additional days in order to complete the loading or discharging operation on payment of a &lt;strong&gt;fixed daily amount&lt;/strong&gt;, known as &lt;strong&gt;demurrage&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In the late nineteenth century this additional period was judicially referred to as &lt;strong&gt;lay days that have to be paid for&lt;/strong&gt;. This is a misleading description since it conceals the fact that, in reality, the charterer is in breach of contract even though he is entitled, on payment of the agreed rate, ‘to detain the ship for the purpose of enabling him, if possible, to perform his broken contract and so mitigate any further damage’.&lt;/p&gt;
+&lt;p&gt;Nevertheless, it is an anomalous position since, despite the breach, the shipowner is unable to rescind the contract and withdraw his ship during the demurrage period unless the failure of the charterer to load amounts to a repudiation of the contract on his part, or the delay is so substantial as to frustrate the object of the charter-party. This principle applies whether the charter stipulates for a fixed number of days on demurrage or no time limit is expressed as, e.g., ‘eight days for loading, after which demurrage at £2,000 per diem’. At common law a demurrage clause is purely a creation of contract and is in the nature of a provision for agreed damages for detention of the vessel beyond the agreed lay days. The stipulated sum is recoverable by the shipowner irrespective of proof of damage, and represents the maximum amount recoverable for loss resulting from the detention.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Demurrage&lt;/strong&gt; will thus cover losses of freight arising under subsequent charter-parties affected by the delay, or from the consequent reduction in the number of voyages possible under a consecutive voyage charter-party. On the other hand, it will not extend to limit claims for losses arising from causes other than detention as, for example, from failure to load a full cargo.&lt;/p&gt;
+&lt;p&gt;As with any other provision for &lt;strong&gt;liquidated damages&lt;/strong&gt;, a &lt;strong&gt;demurrage clause&lt;/strong&gt; may be struck down by the courts as a penalty if the rate is fixed so high as to be &lt;strong&gt;extravagant&lt;/strong&gt; and &lt;strong&gt;unconscionable&lt;/strong&gt; in comparison with the greatest possible loss that could flow from the breach. In such circumstances the courts would consider the shipowner adequately compensated by being allowed to recover his actual loss. A similar principle would not appear to be applicable in reverse in cases where the rate is fixed at an &lt;strong&gt;unreasonably low level&lt;/strong&gt;. In such an event the shipowner is unable to recover his actual loss but is limited to the &lt;strong&gt;specified demurrage rate&lt;/strong&gt; even though the delay has been deliberately caused by the charterer for his own benefit. Such a situation may be open to abuse at times when costs and freight rates are rising and the shipowner may be left without an effective remedy should excessive delay result in him losing a subsequent charter.&lt;/p&gt;
+&lt;p&gt;The actual rate of demurrage will be stated in the charter-party and will normally be fixed at a figure in line with current freight rates at the time of the conclusion of the charter. As such fixtures are often made well in advance, the figure may bear little resemblance to prevailing freight rates by the time demurrage becomes payable.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Liability for the payment of demurrage accrues immediately on the expiration of the lay days and runs continuously&lt;/strong&gt; through Sundays, holidays and other periods normally excluded from laytime, e.g. bad weather working days.&lt;/p&gt;
+&lt;p&gt;The rule is &lt;strong&gt;once on demurrage, always on demurrage&lt;/strong&gt;. For a similar reason, laytime exceptions are held not to be applicable to a demurrage period unless expressly worded to that effect. Thus in a case in which the &lt;strong&gt;House of Lords had refused to allow a charterer&lt;/strong&gt; to invoke a &lt;strong&gt;strike exception after laytime had expired&lt;/strong&gt;, Lord Reid justified the decision on the grounds that ‘the shipowner might well say: true, your breach of contract in detaining my ship after the end of laytime did not cause the strike, but if you had fulfilled your contract the strike would have caused no loss because my ship would have been on the high seas before it began: so it is more reasonable that you should bear the loss than that I should’.&lt;/p&gt;
+&lt;p&gt;Nevertheless, the &lt;strong&gt;once on demurrage rule&lt;/strong&gt; may still apply even though the event covered by the exception occurs before the expiry of laytime. An exception can be &lt;strong&gt;expressly worded&lt;/strong&gt; so as to cover the demurrage period as, for example, where it was provided that demurrage was to be paid ‘at 12s 6d per hour unless detention arises from a lock-out, strikes etc.’ Similarly, demurrage will not accrue during a period where delay was due to the &lt;strong&gt;fault of the shipowner&lt;/strong&gt; or &lt;strong&gt;resulted from action taken by&lt;/strong&gt; &lt;strong&gt;the shipowner&lt;/strong&gt; for his own convenience. It will, however, accrue where the delay is &lt;strong&gt;accidental&lt;/strong&gt; and &lt;strong&gt;not due to the fault of either shipowner or charterer&lt;/strong&gt;. Even where the delay results from a breach of contract by the shipowner, demurrage may &lt;strong&gt;still be payable&lt;/strong&gt; if the length of such delay is beyond the reasonable contemplation of the parties as a possible consequence of the breach.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Demurrage as Liquidated Damages&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;demurrage-as-liquidated-damages&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#demurrage-as-liquidated-damages&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;It should be remembered that since demurrage represents the amounts which the Shipowners (Disponent Owners) and Charterers have agreed are &lt;strong&gt;payable by the Charterer&lt;/strong&gt; to the Shipowner to recompense it for any losses which it has suffered as a result of the &lt;strong&gt;detention of the ship beyond laytime&lt;/strong&gt;, it follows that the Shipowner may not be able to recover other losses which it has suffered as a result. These &lt;strong&gt;Liquidated Damages (Demurrage)&lt;/strong&gt; represent all the damages which can be recovered by the Shipowner where the laytime is exceeded. Therefore, the Shipowner (Disponent Owner) may not be able to recover extra bunkers or port costs incurred by it as a result of the delay or even the loss of a valuable next cargo (fixture) which is cancelled as a result of the delay.&lt;/p&gt;
+&lt;p&gt;To recover other losses, the Shipowner must show that the charterer is also in breach of another provision of the charterparty. For example, in a case called Reider v Arcos (1926) Case, the Shipowner proved that, as a result of the charterer’s delay, the ship could not leave port with a full cargo because the depth of water over the bar had dropped. The charterer therefore loaded less cargo than it would have loaded if there had been no delay and the owner recovered deadfreight for the Charterer’s breach on top of demurrage.&lt;/p&gt;
+&lt;h2&gt;**Ship Detention **&lt;span class=&#34;absolute -mt-20&#34; id=&#34;ship-detention&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ship-detention&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Laytime is at the free disposal of the charterer&lt;/strong&gt; since he is regarded as having paid for it in the freight. He is entitled to use it in the way which suits him best and, provided that the agreed period is not exceeded, the shipowner is not entitled to complain that the cargo could have been loaded in a shorter time. ‘The method of loading  and discharging the ship is entirely a matter for the charterers to decide. Nor is it of any consequence to the owners whether the loading or discharge proceed very slowly on some days and exceptionally fast on others or at an even pace.&lt;/p&gt;
+&lt;p&gt;All that matters to the owners is the actual time occupied by those operations.’ The most striking example of this principle in operation is to be found in the case of Margaronis Navigation Agency v Peabody where a vessel had been chartered  to load a full and complete cargo of maize at an average rate of 1,000 tons per weather working day of 24 hours, Sundays and holidays excepted. The charterers were required by the master to provide a cargo of 12,600 tons and when, by 5 p.m. on Friday, 27 December, all but 11 tons of this amount had been loaded, they instructed the stevedores to stop work as they were anxious for business reasons to obtain January bills of lading. Loading  was resumed at 8 a.m. on Tuesday, 2 January, the next working day in the port, and was completed in 40 minutes, after which the vessel sailed. Although the operation had been completed within the agreed lay-time, the shipowners nevertheless &lt;strong&gt;claimed damages for detention&lt;/strong&gt; on the  ground that &lt;strong&gt;the charterers had wrongfully detained the vessel for their own purposes&lt;/strong&gt; after a full cargo had been loaded. While admitting that the charterer’s obligation ‘was to load a full and complete cargo subject to the de minimis rule’.&lt;/p&gt;
+&lt;p&gt;The Court of Appeal nevertheless upheld the decision of the arbitrator that, in  view  of  the accuracy of the loading equipment being used, a shortage of approximately 12 tons (i.e. less than 0.01 per cent) was &lt;strong&gt;not a commercially insignificant amount&lt;/strong&gt; and so the &lt;strong&gt;charterers were entitled to detain the vessel until the balance of the agreed cargo was loaded&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In contrast, once the loading operation has been completed, the &lt;strong&gt;charterer has no right to detain the vessel further&lt;/strong&gt;, even though the &lt;strong&gt;laytime has not expired&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;In Nolisement (Owners) v Bunge y Born the loading was completed some 19 days before the expiration of the lay days, but the charterers delayed a further three days before presenting bills of lading to the master since they were &lt;strong&gt;unable to decide on the port of discharge&lt;/strong&gt;. They were held &lt;strong&gt;liable for damages for two days’ detention&lt;/strong&gt;. It would seem a little inconsistent for the charterer to be penalized for &lt;strong&gt;detaining the vessel after the completion of loading&lt;/strong&gt; if he could retain complete freedom of action by withholding a minimal amount of cargo.&lt;/p&gt;
+&lt;p&gt;Finally, it must be noted that the loading stage is &lt;strong&gt;not complete&lt;/strong&gt; until the cargo is aboard the vessel and also stowed. Although stowage of the cargo is normally the responsibility of the shipowner and the cost is usually borne by him, it is nevertheless regarded as part of the loading operation and the charterer is under an obligation to bring the cargo alongside the vessel in sufficient time to enable the shipowner to complete the stowage within the lay days. With the completion of the loading operation, the end of the second stage of the voyage charter-party is reached and the risk of subsequent delay due to accidental hindrances and obstructions reverts to the shipowner.&lt;/p&gt;
+&lt;p&gt;Consequently, if &lt;strong&gt;after the cargo has been stowed the vessel&lt;/strong&gt; is prevented from embarking on the carrying voyage by reason of &lt;strong&gt;ice or bad weather&lt;/strong&gt;, the cost of the delay must be borne by the &lt;strong&gt;shipowner&lt;/strong&gt;.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Damages for Ship Detention&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;damages-for-ship-detention&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#damages-for-ship-detention&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;When there is &lt;strong&gt;no&lt;/strong&gt; &lt;strong&gt;provision&lt;/strong&gt; in the charterparty for the payment of demurrage, a charterer will be liable for damages for &lt;strong&gt;detention&lt;/strong&gt; for all the time he detains the vessel after the expiration of the lay days. In this situation damages are at large and will be assessed by the &lt;strong&gt;court&lt;/strong&gt; in relation to the actual loss suffered by the shipowner, and in accordance with the normal principles governing remoteness of damage in contract.&lt;/p&gt;
+&lt;p&gt;Damages for detention is also the appropriate remedy where a charter-party stipulates a fixed number of days for the &lt;strong&gt;payment of demurrage&lt;/strong&gt;, and those days have expired. In the latter case, however, the court will normally assess the damages at a figure corresponding to the &lt;strong&gt;agreed demurrage rate&lt;/strong&gt;, though it is open to either party to prove that such a rate &lt;strong&gt;does not&lt;/strong&gt; represent the actual loss suffered by the shipowner.&lt;/p&gt;
+&lt;p&gt;A shipowner is &lt;strong&gt;not allowed to withdraw&lt;/strong&gt; his vessel during any period for which the payment of demurrage has been agreed, unless the delay is such as to &lt;strong&gt;frustrate the object of the charter-party&lt;/strong&gt;. On the other hand, once the &lt;strong&gt;specified demurrage period has expired&lt;/strong&gt; he is &lt;strong&gt;no longer obliged&lt;/strong&gt; to remain in port to complete the loading operation and to be restricted to a claim for damages for detention.&lt;/p&gt;
+&lt;p&gt;If part of the cargo has been loaded, he may sail and claim compensation in the form of &lt;strong&gt;dead freight,&lt;/strong&gt; or, if the charterer has failed to ship any cargo, he may &lt;strong&gt;rescind the charter&lt;/strong&gt; and sue for &lt;strong&gt;damages&lt;/strong&gt; at large. If, however, the delay occurs at the discharging port, he has little option except to complete the unloading operation and claim damages for &lt;strong&gt;detention&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;—&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Ship Detention in Dry Bulk Shipping&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;ship-detention-in-dry-bulk-shipping&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ship-detention-in-dry-bulk-shipping&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Damages for ship detention refer to the financial compensation sought by a ship owner or charterer when a vessel is unduly delayed or detained by a third party, such as a port authority, shipper, or consignee. These damages are meant to cover the losses incurred as a result of the vessel being unavailable for other potential charters, increased operational expenses, or other associated costs.&lt;/p&gt;
+&lt;p&gt;In the event of ship detention, the following steps can be taken to recover damages:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Identify the cause of detention:&lt;/strong&gt; Determine the reason for the delay or detention, such as port congestion, labor strikes, customs issues, or delays in cargo handling. Establish whether the detention was caused by a breach of contract, negligence, or another actionable reason.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Document the detention:&lt;/strong&gt; Keep a detailed record of the events, including the timeline of events, correspondence with the parties involved, and any other relevant documentation. This information will be crucial in supporting a claim for damages.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Calculate damages:&lt;/strong&gt; Determine the amount of damages incurred as a result of the detention. This may include the loss of income from potential charters, additional operational expenses, crew wages, and other associated costs. The calculation should be based on the daily rate specified in the charter party agreement or, in the absence of such an agreement, a reasonable market rate.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Notify the responsible party:&lt;/strong&gt; Once the cause of detention and the damages have been identified, inform the responsible party of the situation and provide them with an opportunity to rectify the issue. Keep a record of this communication for future reference.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pursue legal action&lt;/strong&gt;: If the detention is not resolved and the responsible party is unwilling to compensate for the damages, consider seeking legal advice and pursuing a claim in court or through arbitration. Provide all relevant documentation and evidence to support your claim.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mitigate damages:&lt;/strong&gt; While pursuing damages, take steps to mitigate the impact of the detention. This may involve seeking alternative charters, reducing operational costs, or resolving the issue that caused the detention.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Damages for ship detention are meant to compensate the ship owner or charterer for losses incurred due to delays or detention caused by third parties. To recover these damages, it is essential to identify the cause of detention, document the events, calculate the damages, notify the responsible party, and pursue legal action if necessary. Additionally, taking steps to mitigate damages can help reduce the overall impact of the detention.&lt;/p&gt;
+&lt;h1&gt;&lt;strong&gt;How is Demurrage Calculated?&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;Demurrage is a fee charged to the charterer by the shipowner for not loading or unloading the cargo within the agreed-upon laytime. Laytime is the time allocated for these processes, usually specified in the charter party (contract between the shipowner and charterer). Demurrage calculations can vary depending on the specific terms of the contract, but the general process involves the following steps:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Determine the Laytime:&lt;/strong&gt; Laytime is usually stated in hours or days in the charter party. It is the period during which the ship must be loaded and unloaded without incurring demurrage charges.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Calculate Used Laytime:&lt;/strong&gt; Calculate the actual time taken for loading and/or unloading. This may include weekends, holidays, and other exceptions as specified in the contract.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Identify Any Exceptions:&lt;/strong&gt; Identify any time periods excluded from the laytime calculation as per the contract terms, such as bad weather, customs delays, or equipment breakdowns. Subtract these periods from the used laytime to arrive at the adjusted laytime.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Compare Laytime and Adjusted Laytime:&lt;/strong&gt; If the adjusted laytime is less than or equal to the agreed-upon laytime, there is no demurrage. If the adjusted laytime exceeds the agreed-upon laytime, demurrage is incurred.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Calculate Demurrage:&lt;/strong&gt; To calculate demurrage, first determine the excess time by subtracting the agreed-upon laytime from the adjusted laytime. Then, multiply the excess time by the demurrage rate specified in the charter party. The demurrage rate is usually quoted in USD per day or per hour.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;&lt;strong&gt;Demurrage Calculation Example 1&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;demurrage-calculation-example-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#demurrage-calculation-example-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Agreed laytime: 5 days&lt;/li&gt;
+&lt;li&gt;Actual laytime used: 7 days&lt;/li&gt;
+&lt;li&gt;Weather-related delays: 1 day&lt;/li&gt;
+&lt;li&gt;Demurrage rate: $15,000 per day&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Adjusted laytime = Actual laytime used – Weather-related delays = 7 days – 1 day = 6 days&lt;/p&gt;
+&lt;p&gt;Since the adjusted laytime (6 days) is greater than the agreed laytime (5 days), demurrage is incurred.&lt;/p&gt;
+&lt;p&gt;Excess time = Adjusted laytime – Agreed laytime = 6 days – 5 days = 1 day&lt;/p&gt;
+&lt;p&gt;Demurrage = Excess time × Demurrage rate = 1 day × $13,000 per day = $13,000&lt;/p&gt;
+&lt;p&gt;In this example, the charterer would be required to pay $13,000 in demurrage charges to the shipowner.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Demurrage Calculation Example 2&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;demurrage-calculation-example-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#demurrage-calculation-example-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here is another example of Demurrage Calculation:&lt;/p&gt;
+&lt;p&gt;Assumptions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Agreed laytime: 10 days&lt;/li&gt;
+&lt;li&gt;Actual laytime used: 14 days&lt;/li&gt;
+&lt;li&gt;Non-working days (e.g., weekends, holidays): 2 days&lt;/li&gt;
+&lt;li&gt;Customs-related delays: 1 day&lt;/li&gt;
+&lt;li&gt;Demurrage rate: $15,000 per day&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Step 1: Calculate the adjusted laytime Adjusted laytime = Actual laytime used – Non-working days – Customs-related delays = 14 days – 2 days – 1 day = 11 days&lt;/p&gt;
+&lt;p&gt;Step 2: Compare laytime and adjusted laytime In this case, the adjusted laytime (11 days) is greater than the agreed laytime (10 days), which means demurrage is incurred.&lt;/p&gt;
+&lt;p&gt;Step 3: Calculate demurrage Excess time = Adjusted laytime – Agreed laytime = 11 days – 10 days = 1 day&lt;/p&gt;
+&lt;p&gt;Demurrage = Excess time × Demurrage rate = 1 day × $15,000 per day = $15,000&lt;/p&gt;
+&lt;p&gt;In this example, the charterer would be required to pay $15,000 in demurrage charges to the shipowner.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Demurrage Calculation Example 3&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;demurrage-calculation-example-3&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#demurrage-calculation-example-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here’s another example of demurrage calculation:&lt;/p&gt;
+&lt;p&gt;Assumptions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Agreed laytime: 8 days&lt;/li&gt;
+&lt;li&gt;Actual laytime used: 12 days&lt;/li&gt;
+&lt;li&gt;Non-working days (e.g., weekends, holidays): 3 days&lt;/li&gt;
+&lt;li&gt;Mechanical breakdown delays: 1 day&lt;/li&gt;
+&lt;li&gt;Demurrage rate: $12,000 per day&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Step 1: Calculate the adjusted laytime Adjusted laytime = Actual laytime used – Non-working days – Mechanical breakdown delays = 12 days – 3 days – 1 day = 8 days&lt;/p&gt;
+&lt;p&gt;Step 2: Compare laytime and adjusted laytime In this case, the adjusted laytime (8 days) is equal to the agreed laytime (8 days), which means no demurrage is incurred.&lt;/p&gt;
+&lt;p&gt;Step 3: Calculate demurrage Since the adjusted laytime does not exceed the agreed laytime, there is no excess time, and therefore, no demurrage charges are applied.&lt;/p&gt;
+&lt;p&gt;In this example, the charterer would not be required to pay any demurrage charges to the shipowner.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Demurrage Calculation Example 4&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;demurrage-calculation-example-4&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#demurrage-calculation-example-4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here’s another example of demurrage calculation:&lt;/p&gt;
+&lt;p&gt;Assumptions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Agreed laytime: 6 days&lt;/li&gt;
+&lt;li&gt;Actual laytime used: 9 days&lt;/li&gt;
+&lt;li&gt;Non-working days (e.g., weekends, holidays): 2 days&lt;/li&gt;
+&lt;li&gt;Weather-related delays: 1 day&lt;/li&gt;
+&lt;li&gt;Demurrage rate: $8,000 per day&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Step 1: Calculate the adjusted laytime Adjusted laytime = Actual laytime used – Non-working days – Weather-related delays = 9 days – 2 days – 1 day = 6 days&lt;/p&gt;
+&lt;p&gt;Step 2: Compare laytime and adjusted laytime In this case, the adjusted laytime (6 days) is equal to the agreed laytime (6 days), which means no demurrage is incurred.&lt;/p&gt;
+&lt;p&gt;Step 3: Calculate demurrage Since the adjusted laytime does not exceed the agreed laytime, there is no excess time, and therefore, no demurrage charges are applied.&lt;/p&gt;
+&lt;p&gt;In this example, the charterer would not be required to pay any demurrage charges to the shipowner.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Demurrage Calculation Example 5&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;demurrage-calculation-example-5&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#demurrage-calculation-example-5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here’s an example of a demurrage calculation:&lt;/p&gt;
+&lt;p&gt;Ship details:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Name: MV Handybulk Oceanic&lt;/li&gt;
+&lt;li&gt;Demurrage rate: $10,000 per day (pro-rated)&lt;/li&gt;
+&lt;li&gt;Allowed laytime: 5 days&lt;/li&gt;
+&lt;li&gt;Actual laytime used: 7 days&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In this example, we will calculate the demurrage for MV Handybulk Oceanic.&lt;/p&gt;
+&lt;p&gt;Step 1: Calculate the excess laytime Excess laytime = Actual laytime used – Allowed laytime Excess laytime = 7 days – 5 days Excess laytime = 2 days&lt;/p&gt;
+&lt;p&gt;Step 2: Calculate the demurrage Demurrage = Demurrage rate x Excess laytime Demurrage = $10,000/day x 2 days Demurrage = $20,000&lt;/p&gt;
+&lt;p&gt;Thus, in this example, the demurrage charge for MV Handybulk Oceanic is $20,000.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Demurrage Calculation Example 6&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;demurrage-calculation-example-6&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#demurrage-calculation-example-6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here’s another example of a demurrage calculation:&lt;/p&gt;
+&lt;p&gt;Ship details:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Name: MV Handybulk Explorer&lt;/li&gt;
+&lt;li&gt;Demurrage rate: $12,500 per day (pro-rated)&lt;/li&gt;
+&lt;li&gt;Allowed laytime: 6 days&lt;/li&gt;
+&lt;li&gt;Actual laytime used: 9 days&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In this example, we will calculate the demurrage for MV Handybulk Explorer.&lt;/p&gt;
+&lt;p&gt;Step 1: Calculate the excess laytime Excess laytime = Actual laytime used – Allowed laytime Excess laytime = 9 days – 6 days Excess laytime = 3 days&lt;/p&gt;
+&lt;p&gt;Step 2: Calculate the demurrage Demurrage = Demurrage rate x Excess laytime Demurrage = $12,500/day x 3 days Demurrage = $37,500&lt;/p&gt;
+&lt;p&gt;In this example, the demurrage charge for MV Handybulk Explorer is $37,500.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Demurrage Calculation Example 7&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;demurrage-calculation-example-7&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#demurrage-calculation-example-7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here’s another example of a demurrage calculation:&lt;/p&gt;
+&lt;p&gt;Ship details:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Name: MV Handybulk Voyager&lt;/li&gt;
+&lt;li&gt;Demurrage rate: $15,000 per day (pro-rated)&lt;/li&gt;
+&lt;li&gt;Allowed laytime: 4 days&lt;/li&gt;
+&lt;li&gt;Actual laytime used: 5.5 days&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In this example, we will calculate the demurrage for MV Handybulk Voyager.&lt;/p&gt;
+&lt;p&gt;Step 1: Calculate the excess laytime Excess laytime = Actual laytime used – Allowed laytime Excess laytime = 5.5 days – 4 days Excess laytime = 1.5 days&lt;/p&gt;
+&lt;p&gt;Step 2: Calculate the demurrage Demurrage = Demurrage rate x Excess laytime Demurrage = $15,000/day x 1.5 days Demurrage = $22,500&lt;/p&gt;
+&lt;p&gt;In this example, the demurrage charge for MV Handybulk Voyager is $22,500.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Demurrage Calculation Example 8&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;demurrage-calculation-example-8&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#demurrage-calculation-example-8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here’s another example of a demurrage calculation:&lt;/p&gt;
+&lt;p&gt;Ship details:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Name: MV Handybulk Pioneer&lt;/li&gt;
+&lt;li&gt;Demurrage rate: $8,000 per day (pro-rated)&lt;/li&gt;
+&lt;li&gt;Allowed laytime: 3 days&lt;/li&gt;
+&lt;li&gt;Actual laytime used: 4.25 days&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In this example, we will calculate the demurrage for MV Handybulk Pioneer.&lt;/p&gt;
+&lt;p&gt;Step 1: Calculate the excess laytime Excess laytime = Actual laytime used – Allowed laytime Excess laytime = 4.25 days – 3 days Excess laytime = 1.25 days&lt;/p&gt;
+&lt;p&gt;Step 2: Calculate the demurrage Demurrage = Demurrage rate x Excess laytime Demurrage = $8,000/day x 1.25 days Demurrage = $10,000&lt;/p&gt;
+&lt;p&gt;In this example, the demurrage charge for MV Handybulk Pioneer is $10,000.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Demurrage Calculation Example 9&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;demurrage-calculation-example-9&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#demurrage-calculation-example-9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here’s another example of a demurrage calculation:&lt;/p&gt;
+&lt;p&gt;Ship details:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Name: MV Handybulk Adventurer&lt;/li&gt;
+&lt;li&gt;Demurrage rate: $9,500 per day (pro-rated)&lt;/li&gt;
+&lt;li&gt;Allowed laytime: 8 days&lt;/li&gt;
+&lt;li&gt;Actual laytime used: 10.75 days&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In this example, we will calculate the demurrage for MV Handybulk Adventurer.&lt;/p&gt;
+&lt;p&gt;Step 1: Calculate the excess laytime Excess laytime = Actual laytime used – Allowed laytime Excess laytime = 10.75 days – 8 days Excess laytime = 2.75 days&lt;/p&gt;
+&lt;p&gt;Step 2: Calculate the demurrage Demurrage = Demurrage rate x Excess laytime Demurrage = $9,500/day x 2.75 days Demurrage = $26,125&lt;/p&gt;
+&lt;p&gt;In this example, the demurrage charge for MV Handybulk Adventurer is $26,125.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Demurrage Calculation Example 10&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;demurrage-calculation-example-10&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#demurrage-calculation-example-10&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here’s another example of a demurrage calculation:&lt;/p&gt;
+&lt;p&gt;Ship details:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Name: MV Handybulk Navigator&lt;/li&gt;
+&lt;li&gt;Demurrage rate: $7,500 per day (pro-rated)&lt;/li&gt;
+&lt;li&gt;Allowed laytime: 4.5 days&lt;/li&gt;
+&lt;li&gt;Actual laytime used: 6 days&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In this example, we will calculate the demurrage for MV Handybulk Navigator.&lt;/p&gt;
+&lt;p&gt;Step 1: Calculate the excess laytime Excess laytime = Actual laytime used – Allowed laytime Excess laytime = 6 days – 4.5 days Excess laytime = 1.5 days&lt;/p&gt;
+&lt;p&gt;Step 2: Calculate the demurrage Demurrage = Demurrage rate x Excess laytime Demurrage = $7,500/day x 1.5 days Demurrage = $11,250&lt;/p&gt;
+&lt;p&gt;In this example, the demurrage charge for MV Handybulk Navigator is $11,250.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;How to Avoid Demurrage Charges?&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;how-to-avoid-demurrage-charges&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#how-to-avoid-demurrage-charges&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;To avoid demurrage charges, shippers and consignees can take several steps to ensure cargo is loaded and unloaded within the allowed laytime. Here are some tips to help avoid these charges:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Plan ahead:&lt;/strong&gt; Proper planning and coordination between all parties involved in the cargo handling process can help avoid delays. Make sure the cargo is ready for loading or unloading before the vessel arrives at the port.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Communicate effectively:&lt;/strong&gt; Regular communication with the port, vessel agents, and stevedores can help identify potential issues early, allowing for faster resolution and minimizing delays.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Choose reliable partners:&lt;/strong&gt; Work with reputable shipping lines, freight forwarders, and transport providers to ensure timely delivery and handling of cargo.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Monitor ship schedules:&lt;/strong&gt; Keep track of vessel schedules and be aware of any changes in arrival or departure times. This can help you adjust your plans and avoid demurrage charges.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Understand port requirements:&lt;/strong&gt; Familiarize yourself with port regulations, customs procedures, and documentation requirements to avoid delays caused by non-compliance or missing documents.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Allocate buffer time:&lt;/strong&gt; Allow some buffer time in your planning to accommodate unforeseen delays, such as weather-related disruptions or mechanical issues.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Opt for faster modes of transportation:&lt;/strong&gt; If your cargo is time-sensitive, consider using faster modes of transportation, such as air freight or express shipping services.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Negotiate longer laytime:&lt;/strong&gt; If you anticipate delays in loading or unloading cargo, negotiate a longer laytime with the carrier to provide some flexibility.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Use technology:&lt;/strong&gt; Utilize software and tools to track and manage your shipments more effectively, enabling better visibility and control over your supply chain.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Train your staff:&lt;/strong&gt; Ensure your team is well-trained in handling cargo and documentation to minimize errors that can cause delays.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;By following these tips and maintaining open communication with all parties involved, you can reduce the likelihood of incurring demurrage charges.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;How much does Demurrage Cost in Dry Bulk Shipping?&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;how-much-does-demurrage-cost-in-dry-bulk-shipping&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#how-much-does-demurrage-cost-in-dry-bulk-shipping&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The cost of demurrage in dry bulk shipping varies based on several factors, including the type of vessel, the market conditions, the cargo being transported, and the specific terms agreed upon in the charter party contract. Demurrage fees are typically calculated on a per-day basis, referred to as a daily demurrage rate.&lt;/p&gt;
+&lt;p&gt;Some factors that influence the cost of demurrage in dry bulk shipping include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Vessel Size and Type:&lt;/strong&gt; The daily demurrage rate can vary depending on the size and type of the vessel, such as Handysize, Supramax, Panamax, or Capesize. Larger vessels usually have higher daily demurrage rates due to their higher operating costs and earning potential.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dry Bulk Shipping Market conditions:&lt;/strong&gt; The daily demurrage rate can be influenced by the supply and demand dynamics in the dry bulk shipping market. During periods of high demand or limited vessel availability, demurrage rates may be higher to reflect the opportunity cost of keeping the vessel idle.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bulk Cargo Type:&lt;/strong&gt; The type of cargo being transported can also impact the demurrage rate, as some cargo types may require specialized handling equipment or additional precautions that can influence the cost of delays.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Charter Party Agreement:&lt;/strong&gt; The demurrage rate, as well as the allowed laytime and free time, are typically negotiated and specified in the charter party agreement between the ship owner and the charterer. The demurrage rate may be influenced by the bargaining power of the parties involved and the specific terms of the agreement.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Geographic Location and Port Conditions:&lt;/strong&gt; Demurrage rates can also be influenced by the geographic location and port conditions, as certain ports may have higher operating costs or be more prone to congestion and delays.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It is difficult to provide a specific cost for demurrage in dry bulk shipping, as it can vary widely depending on the factors mentioned above. However, daily demurrage rates can range from a few thousand dollars to tens of thousands of dollars per day, depending on the vessel size, market conditions, and other factors. It is essential for both ship owners and charterers to carefully review and negotiate the demurrage terms in their charter party agreements to minimize the risk of incurring unexpected demurrage costs.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Who pays for Demurrage Charges in Dry Bulk Shipping?&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;who-pays-for-demurrage-charges-in-dry-bulk-shipping&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#who-pays-for-demurrage-charges-in-dry-bulk-shipping&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In dry bulk shipping, demurrage charges are usually the responsibility of the &lt;strong&gt;charterer&lt;/strong&gt; or the party causing the delay. The specific terms and conditions regarding demurrage charges are outlined in the charter party agreement, which is a contract between the ship owner and the charterer.&lt;/p&gt;
+&lt;p&gt;Here is a general overview of demurrage responsibilities in dry bulk shipping:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Charterer’s Responsibility:&lt;/strong&gt; In most cases, the charterer is responsible for paying demurrage charges, as they are typically the party organizing the loading and unloading of the cargo at the port. Delays in cargo handling that exceed the allowed laytime specified in the charter party agreement result in demurrage charges, which are then billed to the charterer.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shipper or Consignee’s Responsibility:&lt;/strong&gt; In some cases, the responsibility for demurrage charges may be passed on from the charterer to the shipper or consignee if the delays are caused by their actions or negligence. This transfer of responsibility would be outlined in the contracts between the charterer and the shipper or consignee.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shipowner’s Responsibility:&lt;/strong&gt; If the ship owner or their representatives, such as the vessel’s crew or agent, cause delays that result in demurrage charges, the ship owner may be held responsible for those charges. However, this scenario is relatively rare, as demurrage charges are typically associated with cargo handling delays.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;It is crucial for all parties involved in dry bulk shipping to carefully review and understand the terms and conditions of their contracts, including the charter party agreement and any contracts between the charterer, shipper, and consignee. Clear communication and understanding of each party’s responsibilities can help minimize disputes and unexpected costs related to demurrage charges.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;What is the Process of Demurrage in Dry Bulk Shipping?&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;what-is-the-process-of-demurrage-in-dry-bulk-shipping&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-is-the-process-of-demurrage-in-dry-bulk-shipping&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The process of demurrage in dry bulk shipping involves several steps, from negotiating the terms in the charter party agreement to calculating and settling the demurrage charges in case of delays. Here’s an overview of the demurrage process in dry bulk shipping:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Negotiating terms in the charter party agreement&lt;/strong&gt;: The charter party agreement is a contract between the ship owner and the charterer that outlines the terms and conditions for the shipment of cargo. This agreement includes the laytime, which is the allowed time for loading and unloading the cargo, as well as the demurrage rate, which is the daily rate charged if the laytime is exceeded.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Notice of readiness (NOR):&lt;/strong&gt; Upon the vessel’s arrival at the port, the ship owner or their representative (usually the ship’s master or agent) issues a notice of readiness (NOR) to the charterer. This notice indicates that the vessel is ready to load or unload cargo. The charterer is then responsible for providing a berth for the vessel and commencing cargo operations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Commencement of Laytime:&lt;/strong&gt; Laytime begins once the vessel has arrived, the NOR has been issued and accepted, and any agreed-upon preconditions have been met. These preconditions may include customs clearance, safety inspections, or other requirements outlined in the charter party agreement.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Monitoring Laytime:&lt;/strong&gt; Throughout the loading and unloading process, the vessel’s agent, master, or other representatives will monitor the time used for cargo operations, ensuring that it does not exceed the allowed laytime.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Calculating Demurrage:&lt;/strong&gt; If the loading or unloading process takes longer than the allowed laytime, demurrage charges will begin to accrue. These charges are calculated using the demurrage rate specified in the charter party agreement, multiplied by the number of days (or part of a day) that the laytime is exceeded.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Settlement of Demurrage Charges:&lt;/strong&gt; Once the cargo operations are complete, and any demurrage charges have been calculated, an invoice for the charges will be issued by the ship owner to the charterer. The charterer is then responsible for paying the demurrage charges according to the terms of the charter party agreement.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;By understanding the demurrage process in dry bulk shipping and following the steps outlined in the charter party agreement, all parties can minimize the risk of disputes and ensure smooth and efficient cargo operations.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;What is a Demurrage Charge in Dry Bulk Shipping?&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;what-is-a-demurrage-charge-in-dry-bulk-shipping&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-is-a-demurrage-charge-in-dry-bulk-shipping&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A demurrage charge in dry bulk shipping is a fee imposed on the charterer when the process of loading or unloading cargo at a port takes longer than the agreed-upon time, known as laytime. Demurrage charges are meant to compensate the ship owner for the additional time the vessel is kept idle at the port, as delays can lead to increased operational costs and the loss of income from potential charters.&lt;/p&gt;
+&lt;p&gt;Demurrage charges are calculated based on a daily rate, which is specified in the charter party agreement between the ship owner and the charterer. Typically, the demurrage charges start accruing after a “free time” period, also known as laytime, has been exceeded. This laytime is a grace period provided by the carrier for loading or unloading the cargo without incurring additional charges.&lt;/p&gt;
+&lt;p&gt;In dry bulk shipping, demurrage charges are associated with the vessel itself rather than specific cargo or containers, as dry bulk cargo is typically loaded and unloaded directly onto or from the vessel using specialized equipment. By minimizing delays in cargo handling and adhering to the laytime agreed upon in the charter party agreement, the charterer can avoid or reduce demurrage charges in dry bulk shipping.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;What is Despatch equals to Half Demurrage (HD) in Ship Chartering?  (D=HD)&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;what-is-despatch-equals-to-half-demurrage-hd-in-ship-chartering-dhd&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-is-despatch-equals-to-half-demurrage-hd-in-ship-chartering-dhd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Despatch equal to Half Demurrage (HD) in ship chartering is a clause that can be included in the charter party agreement between the ship owner and the charterer. It specifies that if the loading or unloading process is completed in less time than the agreed-upon laytime, the ship owner will reward the charterer with a financial incentive called despatch. In this particular clause, the despatch rate is set at half the rate of the demurrage.&lt;/p&gt;
+&lt;p&gt;The purpose of including a “Despatch equals to Half Demurrage” clause in the charter party agreement is to encourage the charterer to expedite cargo handling operations, which in turn benefits the ship owner by allowing the vessel to depart earlier and be available for other potential charters. This helps improve the overall efficiency of the shipping process and can lead to cost savings for both parties.&lt;/p&gt;
+&lt;p&gt;To calculate despatch under the HD clause, the following steps are taken:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Determine the actual time used for loading or unloading, and compare it to the allowed laytime in the charter party agreement.&lt;/li&gt;
+&lt;li&gt;Calculate the time saved by subtracting the actual time used from the allowed laytime.&lt;/li&gt;
+&lt;li&gt;Apply the “Half Demurrage” rate to the time saved by multiplying the saved time by half the demurrage rate specified in the agreement.&lt;/li&gt;
+&lt;li&gt;The resulting amount is the despatch payable by the ship owner to the charterer as a reward for completing the cargo handling process faster than the agreed-upon laytime.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;By including a “Despatch equals to Half Demurrage” clause in the charter party agreement, both the ship owner and the charterer can benefit from increased efficiency in the loading and unloading process.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Cargo Circulars for Commercial shipping</title>
       <link>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/cargocirc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1746,6 +2025,432 @@ Newcastlemax Period Time Charter Rate USD/Day&lt;/p&gt;
     </item>
     
     <item>
+      <title>frustration of charter</title>
+      <link>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/frustrate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/frustrate/</guid>
+      <description>
+        
+        
+        &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.min.js&#34; integrity=&#34;sha512-i+UmpoqoJqHkpXQ3mQfaIF8UZ2RAGoyqJvMzAKTadhBVhRk883EHluxdPsMf7c5/43D5tVpwIE8KLE1kQa0uCg==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.worker.min.js&#34; integrity=&#34;sha512-NuVK4+sDE809oDhbdAABRO1nTe80t56vXda8dg1UQ+RcQ8x7WakwTzKE7LOosoNCKi7EH7FXo7mritFNWpZiLQ==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+
+&lt;style&gt;
+  #embed-pdf-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 20vh;
+     
+  }
+  
+  .pdf-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  #the-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  
+  .pdf-loadingWrapper {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 350px;
+  }
+  
+  .pdf-loading {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 3px solid #d2d0d0;;
+    border-radius: 50%;
+    border-top-color: #383838;
+    animation: spin 1s ease-in-out infinite;
+    -webkit-animation: spin 1s ease-in-out infinite;
+  }
+  
+  
+  
+  
+  
+  #overlayText {
+    word-wrap: break-word;
+    display: grid;
+    justify-content: end;
+  }
+  
+  #overlayText a {
+    position: relative;
+    top: 10px;
+    right: 4px;
+    color: #000;
+    margin: auto;
+    background-color: #eeeeee;
+    padding: 0.3em 1em;
+    border: solid 2px;
+    border-radius: 12px;
+    border-color: #00000030;
+    text-decoration: none;
+  }
+  
+  #overlayText svg {
+    height: clamp(1em, 2vw, 1.4em);
+    width:  clamp(1em, 2vw, 1.4em);
+  }
+  
+  
+  
+  @keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  @-webkit-keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  &lt;/style&gt;&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-21bfcd2e&#34;&gt;
+    &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-21bfcd2e&#34;&gt;
+        &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-21bfcd2e&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;overlayText&#34;&gt;
+      &lt;a href=&#34;./frustrate1.pdf&#34; aria-label=&#34;Download&#34; download&gt;
+        &lt;svg aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 18 18&#34;&gt;
+            &lt;path d=&#34;M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z&#34; /&gt;
+        &lt;/svg&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;canvas class=&#34;pdf-canvas&#34; id=&#34;pdf-canvas-21bfcd2e&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;pdf-paginator&#34; id=&#34;pdf-paginator-21bfcd2e&#34;&gt;
+    &lt;button id=&#34;pdf-prev-21bfcd2e&#34;&gt;Previous&lt;/button&gt;
+    &lt;button id=&#34;pdf-next-21bfcd2e&#34;&gt;Next&lt;/button&gt; &amp;nbsp; &amp;nbsp;
+    &lt;span&gt;
+      &lt;span class=&#34;pdf-pagenum&#34; id=&#34;pdf-pagenum-21bfcd2e&#34;&gt;&lt;/span&gt; / &lt;span class=&#34;pdf-pagecount&#34; id=&#34;pdf-pagecount-21bfcd2e&#34;&gt;&lt;/span&gt;
+    &lt;/span&gt;
+    &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-21bfcd2e&#34; href=&#34;./frustrate1.pdf&#34;&gt;[pdf]&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;noscript&gt;
+View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-21bfcd2e&#34; href=&#34;./frustrate1.pdf&#34;&gt;here&lt;/a&gt;.
+&lt;/noscript&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    (function(){
+    var url = &#39;.\/frustrate1.pdf&#39;;
+
+    var hidePaginator = &#34;&#34; === &#34;true&#34;;
+    var hideLoader = &#34;&#34; === &#34;true&#34;;
+    var selectedPageNum = parseInt(&#34;&#34;) || 1;
+
+    
+    var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/www.anirbanmarine.in&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById(&#39;pdf-canvas-21bfcd2e&#39;),
+        ctx = canvas.getContext(&#39;2d&#39;),
+        paginator = document.getElementById(&#34;pdf-paginator-21bfcd2e&#34;),
+        loadingWrapper = document.getElementById(&#39;pdf-loadingWrapper-21bfcd2e&#39;);
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById(&#39;pdf-pagenum-21bfcd2e&#39;).textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = &#39;none&#39;;
+      canvas.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = &#39;flex&#39;;
+      canvas.style.display = &#39;none&#39;;
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum &lt;= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-prev-21bfcd2e&#39;).addEventListener(&#39;click&#39;, onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum &gt;= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-next-21bfcd2e&#39;).addEventListener(&#39;click&#39;, onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById(&#39;pdf-pagecount-21bfcd2e&#39;).textContent = numPages;
+
+      
+      if(pageNum &gt; numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+&lt;/script&gt;
+
+&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-b2148067&#34;&gt;
+    &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-b2148067&#34;&gt;
+        &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-b2148067&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;overlayText&#34;&gt;
+      &lt;a href=&#34;./frustrate2.pdf&#34; aria-label=&#34;Download&#34; download&gt;
+        &lt;svg aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 18 18&#34;&gt;
+            &lt;path d=&#34;M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z&#34; /&gt;
+        &lt;/svg&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;canvas class=&#34;pdf-canvas&#34; id=&#34;pdf-canvas-b2148067&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;pdf-paginator&#34; id=&#34;pdf-paginator-b2148067&#34;&gt;
+    &lt;button id=&#34;pdf-prev-b2148067&#34;&gt;Previous&lt;/button&gt;
+    &lt;button id=&#34;pdf-next-b2148067&#34;&gt;Next&lt;/button&gt; &amp;nbsp; &amp;nbsp;
+    &lt;span&gt;
+      &lt;span class=&#34;pdf-pagenum&#34; id=&#34;pdf-pagenum-b2148067&#34;&gt;&lt;/span&gt; / &lt;span class=&#34;pdf-pagecount&#34; id=&#34;pdf-pagecount-b2148067&#34;&gt;&lt;/span&gt;
+    &lt;/span&gt;
+    &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-b2148067&#34; href=&#34;./frustrate2.pdf&#34;&gt;[pdf]&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;noscript&gt;
+View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b2148067&#34; href=&#34;./frustrate2.pdf&#34;&gt;here&lt;/a&gt;.
+&lt;/noscript&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    (function(){
+    var url = &#39;.\/frustrate2.pdf&#39;;
+
+    var hidePaginator = &#34;&#34; === &#34;true&#34;;
+    var hideLoader = &#34;&#34; === &#34;true&#34;;
+    var selectedPageNum = parseInt(&#34;&#34;) || 1;
+
+    
+    var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/www.anirbanmarine.in&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById(&#39;pdf-canvas-b2148067&#39;),
+        ctx = canvas.getContext(&#39;2d&#39;),
+        paginator = document.getElementById(&#34;pdf-paginator-b2148067&#34;),
+        loadingWrapper = document.getElementById(&#39;pdf-loadingWrapper-b2148067&#39;);
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById(&#39;pdf-pagenum-b2148067&#39;).textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = &#39;none&#39;;
+      canvas.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = &#39;flex&#39;;
+      canvas.style.display = &#39;none&#39;;
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum &lt;= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-prev-b2148067&#39;).addEventListener(&#39;click&#39;, onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum &gt;= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-next-b2148067&#39;).addEventListener(&#39;click&#39;, onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById(&#39;pdf-pagecount-b2148067&#39;).textContent = numPages;
+
+      
+      if(pageNum &gt; numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+&lt;/script&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
       <title>Hire Calculations</title>
       <link>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/hirecalc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2668,6 +3373,472 @@ Total hire amount: (100,000 tons * $10 per ton) &amp;#43; (100,000 tons * $2 per
 &lt;li&gt;&lt;strong&gt;Attention to detail:&lt;/strong&gt; Ship brokers need to be detail-oriented in order to ensure that charter contracts are properly negotiated and managed.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Ship brokers can earn a good salary, and there are opportunities for advancement within the industry. Ship brokers with a strong track record of success can move into senior positions at ship broking firms, or start their own broking businesses.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Time charter (off-hire periods, final voyage, Payment of hire, bunkers,performance clauses)</title>
+      <link>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/timecls/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/timecls/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;&lt;strong&gt;Time Charter Clauses&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;Time Charter comprises hiring a ship for a specific period of time to charterers. Time Charterparty is a contract which is is governed by the law of contract. Time Charterparty is a binding contract after the acceptance of an offer and the agreement to all the substantial terms.&lt;/p&gt;
+&lt;p&gt;Under time charter, shipowner is contractually bound to offer the agreed services to the charterer through the use of the ship and ship’s crew. Ship itself is not leased to the charterer, but the charterer has the freedom, within certain expressed or implied limitations, to send the ship on specific voyages.&lt;/p&gt;
+&lt;p&gt;Shipowner and the Charterer undertake a number of specific responsibilities. For example,&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Shipowner’s Responsibilities:&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;shipowners-responsibilities&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#shipowners-responsibilities&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;maintain the performance of the ship&lt;/li&gt;
+&lt;li&gt;provide an accurate description of the ship&lt;/li&gt;
+&lt;li&gt;ensure that the ship is seaworthy&lt;/li&gt;
+&lt;li&gt;ensure that the ship is cargo worthy&lt;/li&gt;
+&lt;li&gt;deliver the ships during the agreed and allowed time frame&lt;/li&gt;
+&lt;li&gt;not unreasonably delay the ship&lt;/li&gt;
+&lt;li&gt;exercise reasonable dispatch&lt;/li&gt;
+&lt;li&gt;incur all the operating expenses of the ship&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;&lt;strong&gt;Charterer’s Responsibilities:&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;charterers-responsibilities&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#charterers-responsibilities&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;li&gt;pay hire on time, always in advance&lt;/li&gt;
+&lt;li&gt;carry out safe loading and discharging operations&lt;/li&gt;
+&lt;li&gt;respect the period of charter and redeliver the ship within the agreed time frame&lt;/li&gt;
+&lt;li&gt;nominate safe ports for the commercial use of the ship&lt;/li&gt;
+&lt;li&gt;carry lawful and not dangerous cargoes&lt;/li&gt;
+&lt;li&gt;stay within the trading limits that are stipulated such as Institute Warranty Limits (IWL) or International Navigable Waters (INW)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Time Charter Clauses&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;time-charterclauses&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#time-charterclauses&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Time Charterparty contains the following Standard Clauses&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Place, Date, Name and Domiciles of Parties (Preamble)&lt;/li&gt;
+&lt;li&gt;Ship Description&lt;/li&gt;
+&lt;li&gt;Duration of period and description of trips&lt;/li&gt;
+&lt;li&gt;Delivery and Redelivery. Places of Delivery and Redelivery. Laydays and Canceling Days.&lt;/li&gt;
+&lt;li&gt;Cargo Intentions and Exclusions&lt;/li&gt;
+&lt;li&gt;Trading Intentions and Trading Limits&lt;/li&gt;
+&lt;li&gt;Ship Condition. Undertaking by shipowner that the ship is in good condition&lt;/li&gt;
+&lt;li&gt;Shipowner’s responsibilities. List of what shipowner is to provide&lt;/li&gt;
+&lt;li&gt;Charterer’s responsibilities. List of what a charterer is to provide&lt;/li&gt;
+&lt;li&gt;Bunkers. On/off-hire surveys. Charterers take over and pay the owners for the bunkers ROB (Remaining On Board)upon delivery. Shipowners take over and pay the charterers for the bunkers ROB (Remaining On Board) upon redelivery&lt;/li&gt;
+&lt;li&gt;Hire. Ship Hire amount, when, where, and to whom hire is payable&lt;/li&gt;
+&lt;li&gt;Off-hire Clause. Provisions leading to off-hire situations such poor performance, strike by crew&lt;/li&gt;
+&lt;li&gt;Ship Performance. Poor speed and consumption performance&lt;/li&gt;
+&lt;li&gt;Ship Maintenance. Dry-docking Clause&lt;/li&gt;
+&lt;li&gt;Cargo Claims. How cargo claims will be handled and usually stipulating Inter-Club Agreement&lt;/li&gt;
+&lt;li&gt;Master (Captain) and Officers. Duties of the Master (Captain). Charterers’ rights in case Master (Captain) and Officers are not fulfilling their responsibilities toward the charterers.&lt;/li&gt;
+&lt;li&gt;Logbooks. Charterers may appoint a specialized weather routing company to check the ship’s performance. In case of discrepancy between logbooks and the independent reports, the independent reports prevail&lt;/li&gt;
+&lt;li&gt;Bills of Lading (B/L). Stipulates the procedures in which Bills of Lading (B/L) are to be&lt;br&gt;
+drawn up and signed. How Bills of Lading (B/L) protect the shipowner in case of paper inconsistencies&lt;/li&gt;
+&lt;li&gt;Stevedore Damages. Notification of stevedore damages and repairs&lt;/li&gt;
+&lt;li&gt;Commissions. Address Commissions (ADDCOM) and Brokerage Commissions&lt;/li&gt;
+&lt;li&gt;War Risks. Stipulating standard war risks clauses for time charters&lt;/li&gt;
+&lt;li&gt;Protecting Clauses. New Jason Clause and P&amp;amp;I (Protection and Indemnity) Bunkering Clause. Clause Paramount and Both to Blame Collision Clause&lt;/li&gt;
+&lt;li&gt;Supercargo and Victualling. Charterers have the right to appoint a supercargo to inspect and/or sail with the ship at their cost and responsibility&lt;/li&gt;
+&lt;li&gt;Lien. Shipowner’s and Charterer’s right of lien must be considered and stipulated&lt;/li&gt;
+&lt;li&gt;Assignment. Charterer’s right to sublet the ship to another charterer is stipulated&lt;/li&gt;
+&lt;li&gt;Arbitration. In case of a dispute between shipowners and charterers&lt;/li&gt;
+&lt;li&gt;Exceptions. Rights of contracting parties to cancel the charter&lt;br&gt;
+party in case of events that make its performance virtually impossible&lt;/li&gt;
+&lt;li&gt;Requisitions. Arrangements in the event a ship be requisitioned by the flag state&lt;/li&gt;
+&lt;li&gt;Pollution. P&amp;amp;I (Protection and Indemnity) Clubs provide insurance cover against oil spillages, resulting fines, and clean-up expenses&lt;/li&gt;
+&lt;li&gt;Salvage. In case of salvage, expenses and rewards  should be shared&lt;/li&gt;
+&lt;li&gt;Laying-up. Shipowners and charterers stipulate provisions in case a ship is laid-up due to lack of employment&lt;/li&gt;
+&lt;li&gt;Signatures. Time Charterparty is not completed unless signed by both parties.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1&gt;&lt;strong&gt;Charter Party Terms&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;In contract law, including charter parties (contracts for the hire of a vessel), terms are classified into three categories: condition, warranty, and innominate term (also known as intermediate term). These terms have specific legal implications and are used to determine the remedies available in the event of a breach.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Charter Party Terms:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Conditions&lt;/li&gt;
+&lt;li&gt;Warranties&lt;/li&gt;
+&lt;li&gt;Innominate Terms&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Conditions&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;These are the fundamental terms that go to the heart of the contract. If a condition is breached, the innocent party has the right not only to claim damages but also to terminate the contract. For example, in a time charter, the delivery date of the vessel might be a condition – if the vessel is not delivered by the agreed date, the charterer may have the right to cancel the contract.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Warranties&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Warranties are lesser terms and do not go to the root of the contract. If a warranty is breached, the innocent party can claim damages, but they can’t terminate the contract. For instance, a warranty in a charter party might be that the vessel meets certain safety standards. If those standards are not met, the charterer might be able to claim damages for any loss that resulted from the breach of warranty, but they can’t cancel the charter party unless the breach is so serious as to constitute a breach of condition.&lt;/p&gt;
+&lt;p&gt;Both conditions and warranties are important to a charter party as they define the rights and obligations of the parties involved. However, they have different implications when breached, with the breach of a condition being viewed as more serious. It’s also important to note that what counts as a condition or a warranty can sometimes be a matter of interpretation and may depend on the circumstances of each case.&lt;/p&gt;
+&lt;p&gt;Conditions are said to go to the root of the contract. This includes any term that is part of the description of the thing sold.&lt;/p&gt;
+&lt;p&gt;A condition can be a statement of fact or a promise. If the statement of fact proves to be untrue, or if the promise is not fulfilled, the innocent party may treat the breach as a repudiation and is then allowed to refuse further performance of his side of the contract.&lt;/p&gt;
+&lt;p&gt;The following are the tests that the courts use to ascertain whether a term is a condition or not. Relative importance to the parties (description of the subject matter). &lt;strong&gt;The more important a term is to the parties, the more likely it is to be a condition.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;What is Innominate Term in Charter Party?&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;what-is-innominate-term-in-charter-party&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-is-innominate-term-in-charter-party&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A &lt;strong&gt;condition&lt;/strong&gt; in a charter party agreement, in essence, forms the backbone of the contract. It stipulates crucial obligations that must be fulfilled by each party. Failure to fulfill these obligations typically allows the non-breaching party to terminate the agreement.&lt;/p&gt;
+&lt;p&gt;For example, another condition could be the seaworthiness of the vessel at the beginning of the charter. If the vessel is not seaworthy at the time of delivery, the charterer may be entitled to terminate the agreement and could also potentially seek damages. In a voyage charter, a condition might be that the vessel arrives at the loading port within an agreed cancellation date. If the vessel doesn’t arrive within this period, the charterer could terminate the contract.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Warranties&lt;/strong&gt;, on the other hand, tend to focus on less critical aspects of the agreement. These are essentially promises made by one party to another, assuring the other party of a specific fact or state of affairs.&lt;/p&gt;
+&lt;p&gt;For instance, a ship owner might provide a warranty that the crew onboard are competent and capable. If this warranty is not fulfilled and the crew is found to be incompetent, the charterer might seek damages for any losses incurred due to this breach. However, they would typically not be able to terminate the contract for this breach unless it has rendered the ship unseaworthy, which would be a breach of condition.&lt;/p&gt;
+&lt;p&gt;The distinction between conditions and warranties in a charter party is quite significant because it impacts the remedies available to the parties in case of breach. However, the categorization of a term as either a condition or a warranty isn’t always clear and can often be a complex issue requiring legal judgment.&lt;/p&gt;
+&lt;p&gt;It’s also worth mentioning that some terms might be categorized as &lt;strong&gt;“innominate” or “intermediate”. These are terms that can’t be definitively categorized as either a condition or a warranty, and the remedy for a breach of such terms would depend on the nature of the breach and its impact on the contract.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Overall, when drafting a charter party, parties should strive to be as clear as possible in defining their obligations, and the consequences of breach, to reduce ambiguity and potential disputes.&lt;/p&gt;
+&lt;p&gt;An innominate term is one where the status of the term and the resulting consequences for a breach of that term are not predetermined but rather depend on the nature and extent of the breach.&lt;/p&gt;
+&lt;p&gt;In the context of a charter party, an innominate term might be one which doesn’t fall neatly into the category of either a ‘condition’ or a ‘warranty.’ Instead, whether a breach of an innominate term gives the innocent party the right to terminate the charter party (or only to claim damages) will depend on the seriousness of the breach.&lt;/p&gt;
+&lt;p&gt;For example, consider a term in a charter party that the ship must be ‘seaworthy.’ If the ship is slightly less seaworthy but still safe for a voyage, this might be considered a minor breach, and the charterer may be entitled to some damages but not to terminate the charter. But if the ship is seriously unseaworthy and cannot safely make the voyage, this could be considered a serious breach, entitling the charterer to terminate the contract.&lt;/p&gt;
+&lt;p&gt;This concept is based on the landmark English case &lt;strong&gt;Hong Kong Fir Shipping v Kawasaki Kisen Kaisha Ltd (1962)&lt;/strong&gt;, where the term &lt;strong&gt;‘seaworthy’&lt;/strong&gt; was treated as an innominate term. The determination of whether a breach of an innominate term allows for termination depends on whether it can be said to go to the ‘root’ of the contract – that is, whether it deprives the innocent party of substantially the whole benefit that it was intended that he should obtain from the contract.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Hong Kong Fir Shipping v Kawasaki Kisen Kaisha Ltd (1962) Case&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;hong-kong-fir-shipping-v-kawasaki-kisen-kaisha-ltd-1962-case&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#hong-kong-fir-shipping-v-kawasaki-kisen-kaisha-ltd-1962-case&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;“Hong Kong Fir Shipping Co Ltd v Kawasaki Kisen Kaisha Ltd” (1962) is a landmark English contract law case. It introduced the concept of &lt;strong&gt;“innominate terms,” a provision that is neither a “condition” nor a “warranty.”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In this case, a ship was leased from Hong Kong Fir Shipping Co Ltd by Kawasaki Kisen Kaisha Ltd for a period of 24 months. The ship was in a poor state, and due to the incompetence of the engine room crew, it spent a total of 20 weeks undergoing repairs.&lt;/p&gt;
+&lt;p&gt;The defendant (Kawasaki) claimed the claimant (Hong Kong Fir) had breached their contractual obligation to provide a seaworthy vessel for the whole duration of the contract and sought to terminate the agreement. Hong Kong Fir, on the other hand, claimed that the defects did not deprive Kawasaki of the use of the ship for a considerable time.&lt;/p&gt;
+&lt;p&gt;The court needed to determine whether the term requiring the ship to be seaworthy was a condition or a warranty. A breach of condition could entitle the aggrieved party to terminate the contract, whereas a breach of warranty would only entitle them to damages.&lt;/p&gt;
+&lt;p&gt;In the court’s judgment, it was decided that the term was not clearly a condition or a warranty but rather an “innominate term,” meaning that the remedy for its breach would depend on the nature of the breach’s effect. In this case, as the ship was out of service for 20 out of 104 weeks (i.e., not a significant part of the charter period), the breach did not go to the root of the contract and therefore did not entitle the defendant to terminate.&lt;/p&gt;
+&lt;p&gt;This case is frequently cited for its establishment of the concept of “innominate terms,” helping to further refine the understanding and application of contract law. The effect of a breach of such terms is looked at in the round, considering the actual impact on the parties’ agreement. If it deprives a party of substantially the whole benefit of the contract, it may be treated as a breach of condition, and the contract may be terminated. Otherwise, the remedy would only be damages for breach of warranty.&lt;/p&gt;
+&lt;p&gt;The decision in the Hong Kong Fir Shipping case established the “innominate term” concept, which has a significant impact on future contract law cases. Before this case, terms in a contract were generally classified as either “conditions” or “warranties”. The breach of a condition would result in the innocent party being able to terminate the contract and claim damages, while the breach of a warranty would only result in a claim for damages.&lt;/p&gt;
+&lt;p&gt;The introduction of “innominate terms” provided a more nuanced approach. Under this framework, a term that cannot be definitively classified as a condition or a warranty would be treated on a case-by-case basis. The court would consider the nature and consequences of the breach and determine the appropriate remedy. If the breach deprived the innocent party of the contract’s whole benefit, the court might allow contract termination, similar to a condition’s breach. However, if the breach was less severe, the court might only award damages, akin to a warranty’s breach.&lt;/p&gt;
+&lt;p&gt;While this development added complexity to contract law, it also allowed for greater flexibility and fairness. It recognized that not all breaches should automatically lead to contract termination, which can be a drastic outcome. Instead, the actual impact of the breach on the parties involved should be taken into account.&lt;/p&gt;
+&lt;p&gt;In practical terms, the implications of the Hong Kong Fir Shipping case are significant for anyone drafting or interpreting a contract. It underscores the importance of carefully considering and defining the terms of a contract, and understanding that the classification of terms as “conditions,” “warranties,” or “innominate” can have substantial implications for the parties’ rights and remedies in the event of a breach.&lt;/p&gt;
+&lt;h1&gt;&lt;strong&gt;Ship Speed and Consumption Warranty in Time Charter Party&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;Under a time charter agreement between the Charterer and the Ship Owner, the Ship Owner guarantees that their vessel will perform according to the specified parameters outlined in the description clause. Failure to meet the specified speed and fuel consumption requirements may result in a breach of contract, leading to a claim for damages by the Charterer. It is crucial for senior shipboard personnel to fully comprehend the implications of such a breach.&lt;/p&gt;
+&lt;p&gt;A “condition” is a fundamental term of the contract, and if it is not adhered to, the contract itself becomes significantly different from the original agreement. A breach of a “condition” allows the other party to refuse to fulfill their obligations under the contract, and damages can be claimed.&lt;/p&gt;
+&lt;p&gt;A “warranty,” on the other hand, is a term that is not essential to the contract but is secondary to it. In the case of a breach of warranty, the innocent party is entitled to damages, but they do not have the right to terminate the contract.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Determining whether a particular term is a condition or a warranty depends on the intention, interpretation, and construction of each individual contract.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In the context of a time charter agreement, the time charterer assumes the role of the owner, known as the “disponent owner.” They can either use the vessel for transporting their own goods or sublet it to a sub-charterer for a specific period or voyage. The speed and fuel consumption warranty determines the expected performance of the vessel, and the disponent owner’s voyage estimates and profitability calculations rely on the parameters specified in the time charter party, particularly under the “Description” clause. These parameters form the basis for calculations that influence business decisions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Example of a Typical Speed and Consumption Warranty in a Time Charterparty Generally mentioned under the Ship Description Clause:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;…The owners guarantee that the vessel will maintain the following speed and consumption throughout the duration of this charterparty, under good weather conditions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Speed loaded: Approximately 13 knots&lt;/li&gt;
+&lt;li&gt;Speed ballast: Approximately 13 knots&lt;/li&gt;
+&lt;li&gt;Type of bunkers: VLSFO (for Main Engine)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Consumption:&lt;/strong&gt;&lt;br&gt;
+a. At sea: Approximately 25 mt VLSFO + approximately 2 mt LSMGO&lt;br&gt;
+b. In port idle: Approximately 2 mt LSMGO&lt;br&gt;
+c. Gear working per 24 hours: Approximately 4 mt LSMGO&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4&gt;&lt;strong&gt;Good Weather Conditions in Time Charter Parties&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;good-weather-conditions-in-time-charter-parties&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#good-weather-conditions-in-time-charter-parties&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;For clarity, it is advisable to include a clarification of the term “Good Weather Conditions,” typically referring to weather and sea conditions such as the &lt;strong&gt;Beaufort Wind Scale&lt;/strong&gt; and &lt;strong&gt;Douglas Sea State&lt;/strong&gt;, against which a vessel’s performance should be evaluated. These conditions help determine whether the vessel is performing as expected.&lt;/p&gt;
+&lt;p&gt;Claims for underperformance and overconsumption are frequently raised by time charterers when the vessel does not meet the speed and fuel consumption specifications outlined in the charterparty. To defend against such claims, owners heavily rely on accurate and comprehensive data collected by the Master and officers.&lt;/p&gt;
+&lt;p&gt;To ensure that the vessel’s performance is accurately assessed as described in the charterparty, the Master should rely on information acquired during periods of good weather, as specified in the charterparty. The required basic data, recorded on a daily basis, may include factors such as sea state, course changes, and the effects of tidal waters and currents, which are usually documented in the vessel’s deck log book.&lt;/p&gt;
+&lt;p&gt;Routing companies can provide expert evidence in case of disputes regarding the impact of weather on a voyage. These companies collect data from various sources and determine prevailing weather conditions along the route, offering guidance to the Master for taking the shortest route. They also study the effect of weather on vessel speed. As an independent party, routing companies play a significant role in assessing vessel performance, especially if the contract stipulates that their opinion will be sought in case of disputes.&lt;/p&gt;
+&lt;p&gt;The question of whether the time charterer has the right to appoint a weather routing company was addressed in the SMA (Society of Maritime Arbitrators) New York Arbitration Award No. 2125, where it was stated:&lt;/p&gt;
+&lt;p&gt;“Because, under a time charter agreement, the risk of delay due to weather is on the Charterer, there is no question that &lt;strong&gt;Charterer has the right to nominate a weather routing service of its choice, for its account&lt;/strong&gt;. However, the Ship Master is not under an absolute obligation to follow the advice of any routing service; he is the sole judge when it comes to deciding upon the best and safest course to take from the point of origin to destination, considering the best interests of both Owner and Charterer, as well as the safety of the vessel, cargo, and crew.”&lt;/p&gt;
+&lt;p&gt;In case of disputes, different interpretations of weather data can arise. When time charterers employ a performance monitoring company to assess the vessel’s performance, the company may rely on statistical material for a specific area rather than current, factual information at the precise location and time. As a result, the conclusions drawn from their evaluation, including performance details, may differ from the vessel’s logbook entries.&lt;/p&gt;
+&lt;p&gt;In the absence of a contractual clause that favors performance monitoring companies over the vessel’s log entries, it must be acknowledged that the parties intended to rely on the vessel’s weather data to determine whether the vessel was operating under good weather conditions. However, Charterers may produce evidence that challenges the accuracy of the vessel’s observations, leading to a consideration of alternative sources of weather information. In such cases, Charterers might employ weather routing services, like Fleet Waether, to independently determine the prevailing wind, sea, and current conditions near the vessel’s position and evaluate their impact on the vessel’s ability to maintain the warranted performance.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;ABOUT Term in&lt;/strong&gt; &lt;strong&gt;Ship Speed and Consumption Warranties in Time Charterparties&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;about-term-in-ship-speed-and-consumption-warranties-in-time-charterparties&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#about-term-in-ship-speed-and-consumption-warranties-in-time-charterparties&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The term “about” used in the charterparty has a general understanding that Owners have a &lt;strong&gt;0.5 knot margin&lt;/strong&gt;. For example, if the vessel is warranted to perform at about 13.5 knots, there will be no breach of warranty if the vessel achieves a speed of 13.0 knots. However, it should be noted that while this rule is &lt;strong&gt;commonly applied in London arbitrations, it is not legally binding&lt;/strong&gt;. According to the law, the margin “must be tailored to the ship’s configuration, size, draft, and trim” (The Al Bida 1987 1 LLR 124).&lt;/p&gt;
+&lt;p&gt;Regarding bunker consumption, &lt;strong&gt;English law does not establish a fixed margin. However, it has been widely accepted in the industry that a 5% margin is allowed for the term “about”&lt;/strong&gt; (London Arbitration 12/85 –  add 5% to the warranted figure when calculating bunkers. The calculation should consider the warranted daily figure for the actual time at sea compared to the consumption for the expected voyage duration.&lt;/p&gt;
+&lt;p&gt;The word “about” in describing bunker consumption does not imply an additional &lt;strong&gt;5% allowance on top of the speed allowance&lt;/strong&gt;. Instead, it accounts for vagaries in currents, short sea passages, and other minor effects related to navigation procedures.&lt;/p&gt;
+&lt;p&gt;In a London Arbitration case (reported in LMLN. 233, page 4), the panel examined the effect of the word “about” in a detailed Speed/Performance Warranty. The charterparty stated:&lt;/p&gt;
+&lt;p&gt;“…economic speed about 11 knots on 4.7 mt Although this charter party LMLN 158; London Arbitration 2/87 – LMLN 188).&lt;/p&gt;
+&lt;p&gt;In SMA (Society of Maritime Arbitrators) Award No. 2040, it was concluded that there is no inherent or automatic right to included specific performance capabilities of the vessel, the arbitration recognized the importance of the word “about” as expressly agreed upon by the parties. However, &lt;strong&gt;SMA (Society of Maritime Arbitrators) limited the margin to a quarter of a knot (0.25) instead of the usual half knot (0.50) used by London arbitrators&lt;/strong&gt;. This adjustment was made because multiple speeds were stated in the charterparty, and the specified speeds were already lower than those typically stipulated for larger bulk carriers.&lt;/p&gt;
+&lt;p&gt;It is worth noting that the tribunal also concluded that the allowance for fuel consumption should be proportionately reduced according to the reduction in speed allowed by the word “about.” Therefore, assuming that the vessel was expected to sail at an economic speed of 13 knots on about 25 mt of fuel oil, the allowance for “about” not only reduced the warranted speed by a quarter of a knot to 12.75 knots but also proportionately reduced the permissible fuel consumption to 23.5 mt in accordance with the charterparty figures.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;However, the warranted fuel consumption would not be automatically reduced if the obtained speed was only 0.5 knots lower than the Charter Party Speed.&lt;/strong&gt; The decision would depend on the specific wordings used in the charterparty. In the usual case where the warranty is stated as “about V Knots on about Q mt fuel oil per day,” the plain interpretation is that the vessel should achieve a &lt;strong&gt;speed of at least V-0.5 knots on “about Q mt” of fuel oil, and there is typically no implication of a proportional reduction in bunker consumption.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Evaluation of underperformance has been addressed in previous precedents. In one such decision (The Didymi Case 1988.2 LLR. 108), a two-stage test was established to determine the loss resulting from underperformance. The first stage involved assessing underperformance in good weather conditions, while the second stage required assessing underperformance in all weather conditions with the necessary extrapolations provided by an expert.&lt;/p&gt;
+&lt;p&gt;The Court of Appeal further clarified the evaluation process by introducing a three-stage approach:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Assess the vessel’s performance in good weather conditions on all sea passages from sea buoy to sea buoy, excluding any period of slow steaming at the charterer’s request.&lt;/li&gt;
+&lt;li&gt;If a variation in speed is identified compared to the stipulated norm, apply that variation to all sea passages from sea buoy to sea buoy and all weather conditions, excluding periods of slow steaming at the charterer’s request.&lt;/li&gt;
+&lt;li&gt;If a variation in consumption is found compared to the stipulated norm, apply that variation to all sea passages from sea buoy to sea buoy and all weather conditions, excluding periods of slow steaming at the charterer’s request.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Based on this approach, the speed/performance clause should be evaluated under all weather conditions, excluding slow steaming periods where the speed reduction was at the charterer’s request.&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;Calculating a Ship Speed Claim can be exemplified as follows:&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;calculating-a-ship-speed-claim-can-be-exemplified-as-follows&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#calculating-a-ship-speed-claim-can-be-exemplified-as-follows&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Vessel Name: MV HandyBulk Yagmur&lt;br&gt;
+Charter Party Speed: about 14.0 Knots&lt;br&gt;
+Charter Party Fuel Consumption: about 24 mt VLSFO&lt;/p&gt;
+&lt;p&gt;Suppose the vessel undertakes a voyage from Port X to Port Y, which is approximately 8000 Nm (Nautical Miles) apart and takes 655.7 hours to complete at an average speed of 12.2 knots.&lt;/p&gt;
+&lt;p&gt;On fair weather days, it is observed that the vessel did not meet the warranted performance. A weather routing company appointed by the charterer confirms the underperformance even based on the vessel’s records.&lt;/p&gt;
+&lt;h4&gt;&lt;strong&gt;How to Calculate Ship’s Performance Speed&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;how-to-calculate-ships-performance-speed&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#how-to-calculate-ships-performance-speed&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;To calculate the “Performance Speed,” the following weather factors are considered: Weather Factor = -0.6 Knots&lt;br&gt;
+Current Factor = +0.4 Knots&lt;/p&gt;
+&lt;p&gt;Taking into account the margin allowed for “about,” we calculate the “Performance Speed” as follows:&lt;/p&gt;
+&lt;p&gt;Performance speed = Effective Speed + Weather Factor + Current Factor&lt;br&gt;
+Performance speed = 13.5 – 0.6 + 0.4 = 13.3 Knots&lt;/p&gt;
+&lt;p&gt;Chartered Time (Based on Performance Speed) = 8000 Nm / 13.3 Knots= 601.5 Hours&lt;br&gt;
+Actual Time Taken = 655.7 Hours&lt;br&gt;
+Computed Time Lost = 54.2 hours = 2.2583 Days&lt;br&gt;
+Daily charter hire rate is $10,000&lt;br&gt;
+Speed Claim Amount = $10,000 x 2.2583 = $22,583&lt;/p&gt;
+&lt;p&gt;These calculations demonstrate how claims can arise in such cases, and overconsumption can also result in costly claims.&lt;/p&gt;
+&lt;p&gt;In an actual case (SMA Society of Maritime Arbitrators Award No. 2040), the panel examined various legs of a voyage, considering the vessel’s performance in relation to the adjusted warranty and the weather conditions. The assessment involved a careful evaluation of underperformance and resulted in the awarding of damages to the charterer for the days lost due to underperformance.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;How to Avoid Ship Underperformance Claims&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;how-to-avoid-ship-underperformance-claims&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#how-to-avoid-ship-underperformance-claims&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;To avoid underperformance claims, it is advisable to:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Avoid clauses that give preference to performance monitoring companies over vessel log entries.&lt;/li&gt;
+&lt;li&gt;Maintain accurate and complete records during the voyage.&lt;/li&gt;
+&lt;li&gt;Support logging of adverse conditions (e.g., adverse currents, head swell, heavy to moderate swell) with recognized documents or publications.&lt;/li&gt;
+&lt;li&gt;Promptly investigate and report any signs of underperformance to the head office.&lt;/li&gt;
+&lt;li&gt;Pay special attention to vessel performance on fair weather days to ensure it meets or exceeds the speed/fuel warranty.&lt;/li&gt;
+&lt;li&gt;Foster close cooperation between ship managers, ship staff, and operations to identify and mitigate potential causes of underperformance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By diligently monitoring vessel performance and taking timely action, both in terms of recording accurate data and addressing performance issues, owners can not only minimize losses but also enhance their reputation and improve their claims record.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;BIMCO Weather Routing Clause for Time Charter Parties 2006&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;bimco-weather-routing-clause-for-time-charter-parties-2006&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bimco-weather-routing-clause-for-time-charter-parties-2006&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;We kindly suggest that you visit the web page of BIMCO (Baltic and International Maritime Council) to learn more about BIMCO Weather Routing Clause and to obtain the original Charter Party forms and documents. &lt;strong&gt;&lt;a href=&#34;http://www.bimco.org/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.bimco.org&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;What is the Speed and Consumption Clause in Time Charter?&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;what-is-the-speed-and-consumption-clause-in-time-charter&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-is-the-speed-and-consumption-clause-in-time-charter&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A Time Charter is a type of charter in maritime shipping where the charterer hires the vessel for a specified period of time. The owner still manages the vessel but the charterer decides the ports and directs the vessel where to go. The charterer is responsible for paying for the fuel the vessel consumes, the port charges, and other additional costs related to the cargo.&lt;/p&gt;
+&lt;p&gt;The Speed and Consumption Clause is a significant provision in a Time Charter party. It stipulates the speed at which the vessel should operate and the amount of fuel it should consume per day. The terms of this clause are usually determined based on the specifications of the vessel when it’s in good condition and operating in good weather.&lt;/p&gt;
+&lt;p&gt;This clause is critical because it plays a role in determining the total cost of chartering the vessel. If the vessel operates at a slower speed than agreed or consumes more fuel, the charterer may end up paying more than initially estimated.&lt;/p&gt;
+&lt;p&gt;If the ship does not meet the speed and consumption guarantees as stipulated under good weather conditions, the charterer could potentially claim “off-hire” (meaning that the charterer does not have to pay the hire for that period) or might be entitled to compensation depending upon the terms of the charter party agreement.&lt;/p&gt;
+&lt;p&gt;On the other hand, from the shipowner’s perspective, these clauses help to ensure that the vessel is not being misused or overworked, which could result in accelerated wear and tear or damage to the ship.&lt;/p&gt;
+&lt;p&gt;Remember that the exact terms and conditions will depend on the individual agreement between the charterer and the owner, and they can vary widely based on a number of factors such as the type of vessel, the intended journey, and the prevailing market conditions.&lt;/p&gt;
+&lt;p&gt;From the perspective of the charterer, one crucial element is the guarantee provided by this clause. This guarantee refers to the speed and fuel consumption rates, which are typically agreed upon under specific conditions such as good weather and smooth seas. If the ship fails to meet these standards due to reasons within the owner’s control, the charterer may be entitled to compensation.&lt;/p&gt;
+&lt;p&gt;Moreover, the clause typically outlines what happens in case of disputes between the charterer and the owner. In some cases, there could be provisions for third-party arbitrations or predetermined penalties that need to be paid in case the ship does not perform as per the agreed-upon standards.&lt;/p&gt;
+&lt;p&gt;On the other hand, for the ship owner, the Speed and Consumption Clause can help protect against misuse of the ship. For example, it may have provisions to ensure that the charterer cannot overwork the ship beyond its capabilities, which could lead to damage or excessive wear and tear. The clause may also include language specifying that the charterer has to cover any extra costs related to excessive fuel consumption or slower speeds due to the charterer’s directions.&lt;/p&gt;
+&lt;p&gt;While the Speed and Consumption Clause is standard in Time Charter agreements, it’s important for both the ship owner and the charterer to fully understand its implications. Legal and maritime experts should ideally be involved in the drafting and reviewing of these agreements to protect the interests of both parties involved.&lt;/p&gt;
+&lt;p&gt;Finally, it’s worth noting that as technology and fuel-efficiency measures advance, these clauses will likely evolve to reflect new standards and expectations around a ship’s performance. For example, with the push towards more environmentally friendly shipping practices, future Time Charter agreements might include clauses related to emissions or use of alternative fuels.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Ship Speed and Consumption Disputes Under English Law&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;ship-speed-and-consumption-disputes-under-english-law&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ship-speed-and-consumption-disputes-under-english-law&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Disputes regarding ship speed and performance under English law will be examined, specifically focusing on the speed and performance guarantee outlined within the New York Produce Exchange time form of 1993. The customary expressions employed in this type of charter are as follows:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“speed about…knots, fully laden, in good weather conditions up to and including maximum force…on the Beaufort winscale, on a consumption of about…long/metric tonnes of…”.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It is worth noting that alternative forms of charterparties will feature varying language for this particular warranty. For instance, Baltime 1939 Clause 12 refers to:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;“speed capability in knots (about) on a consumption in tonnes (about)”&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When the vessel fails to perform in terms of speed and/or consumption, &lt;strong&gt;it is customary for the charterer to initiate a claim seeking damages for the breach of this specific warranty&lt;/strong&gt;. It is also worth briefly mentioning other pertinent clauses that may provide alternative grounds for the claimant’s case.&lt;/p&gt;
+&lt;p&gt;The relevant alternative provisions within the charterparty are as follows:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Line 5:&lt;/strong&gt; “with hull, machinery and equipment in a thoroughly efficient state”&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lines 21/22:&lt;/strong&gt; “vessel on her delivery to be tight, staunch, strong and in every way fitted for the service”&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clause 1:&lt;/strong&gt; “that the owners shall keep the vessel in a thoroughly efficient state in hull, machinery and equipment for and during the service”&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clause 8:&lt;/strong&gt; “the Captain shall prosecute his voyages with the utmost dispatch”&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Clause 15:&lt;/strong&gt; “if upon the voyage the speed be reduced by defect in or breakdown of any part of her hull, machinery or equipment, the time so lost and the cost of any extra fuel consumed in consequence thereof, and all extra expenses shall be deducted from hire.”&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When establishing a claim for a breach of the speed warranty is not possible, it is sometimes feasible to argue alternatively that the loss of speed was caused by a pre-existing defect at the time of delivery and/or that the defect arose after delivery, and the owners failed to take reasonable measures to rectify it, thus breaching their obligation to maintain the vessel in an entirely efficient state during service.&lt;/p&gt;
+&lt;p&gt;Regarding Clause 8, it is conceivable to assert that the owners are at fault for not proceeding promptly. However, this argument would likely be more challenging to substantiate since the master retains navigational control of the vessel.&lt;/p&gt;
+&lt;p&gt;The Ship master cannot be blamed if they choose a route to avoid anticipated inclement weather or if they reduce speed due to fog or to prevent damage from heavy waves. Errors in navigation are mutually accepted under Clause 16 of the charter, although it has been established that negligent errors of navigation cannot be excused.&lt;/p&gt;
+&lt;p&gt;A potential scenario where a claim under Clause 8 may arise is when the master wrongfully delays complying with a legitimate order from the charterers to enter a port or load cargo.&lt;/p&gt;
+&lt;p&gt;Furthermore, breach of the maintenance obligation outlined in clause 1 of the charter could be considered. This obligation is continuous and applies not only upon delivery. However, it is not an absolute guarantee, and if, for example, the engine breaks down and requires a new camshaft, the owners cannot be expected to immediately repair the engine.&lt;/p&gt;
+&lt;p&gt;The owners are solely obligated to act reasonably. The typical route for a claim related to speed and consumption is under the warranty contained in lines 9 and 10.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Ship Speed and Consumption Warranty&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;ship-speed-and-consumption-warranty&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ship-speed-and-consumption-warranty&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Terms employed to describe the vessel&lt;/li&gt;
+&lt;li&gt;Good weather conditions&lt;/li&gt;
+&lt;li&gt;About&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;1- Terms employed to describe the vessel&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Caution must be exercised when assessing whether the ship has breached its performance warranty. &lt;strong&gt;The warranty solely applies when the ship is fully laden&lt;/strong&gt;. Evidence from the owners showing that the ship was capable of attaining 14 knots during the ballast voyage to the delivery port does not suffice as proof that the warranty was fulfilled; the vessel must be capable of reaching or approximating 14 knots when &lt;strong&gt;laden&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The warranty pertains to the ship’s “capability.” It can be argued that if technical evidence is presented to demonstrate that the ship is capable of achieving the warranted speeds, even if those speeds were not actually achieved, then the performance warranty has been upheld. In practice, arbitrators will require and scrutinize evidence of actual performance.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2- Good weather conditions&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We are primarily concerned with the NYPE 1993 Time Charter Form. This charter includes a provision where parties can specify their definition of favorable weather. Since many individuals are familiar with inquiries regarding speed and performance, the commonly inserted criterion is force four on the &lt;strong&gt;Beaufort Scale&lt;/strong&gt;. Consequently, weather conditions involving force four winds or winds below force four are deemed favorable.&lt;/p&gt;
+&lt;p&gt;The shipowner argues that, given the warranty only pertains to the ship’s performance in good weather, any evidence suggesting unfavorable weather should be disregarded. In response, the courts have maintained that it is indeed essential to identify favorable weather days and determine if the ship performed below expectations during those specific days. If the ship exhibited subpar performance on favorable weather days, it is reasonable to infer that it also underperformed in inclement weather.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;3- About&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In recent times, it seems there has been a widespread acknowledgement that the term “about” included in a &lt;strong&gt;speed and performance clause grants a margin of 0.5 knots&lt;/strong&gt; on either side. It may not be entirely accurate to discuss margins in terms of percentages. Some American arbitrators do utilize percentage-based margins.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The prevailing assumption that “about” equates to 0.5 should not be regarded as absolute.&lt;/strong&gt; The 1987 Court of Appeal case of the AL BIDA, where the Court concurred with the arbitrator’s arguments, stated that the leeway concerning speed should depend on the ship’s configuration, size, draft, and trim.&lt;/p&gt;
+&lt;p&gt;Consequently, if the ship possesses a particularly unique or unconventional configuration, it is conceivable that the margin could be expanded or restricted. One could contend that a large oil tanker might require a narrower tolerance compared to a fully loaded container vessel.&lt;/p&gt;
+&lt;p&gt;However, as a general guideline, &lt;strong&gt;London arbitrators tend to recommend allowing half a knot for the term “about” in vessels up to 15 knots&lt;/strong&gt;. There are instances where arbitrators have granted margins larger than 0.5 if the ship is authorized to steam at speeds exceeding 15 knots.&lt;/p&gt;
+&lt;p&gt;So far, we have exclusively applied the term ‘about’ to the warranted speed. Nevertheless, there have been arbitration rulings that have extended the margin to the bunker consumption aspect of the warranty. In a specific arbitration ruling in London, the arbitrator concluded that the term &lt;strong&gt;‘about’ permits a 0.5 knot margin for speed and a 4% margin for consumption&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Shipowners in Defending Ship Performance Claims&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;shipowners-in-defending-ship-performance-claims&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#shipowners-in-defending-ship-performance-claims&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;There exist numerous explanations as to why a vessel may experience subpar performance, without the owners violating the charter agreement or any unforeseen incidents taking place within the off-hire provision. Let me briefly outline some justifiable defenses that the owners may consider:&lt;/p&gt;
+&lt;p&gt;1- The charterers provided substandard fuel. Such allegations pose intricate challenges when it comes to substantiating the claim. Typically, the bunker supplier retains a sample, supposedly taken from the supply barge, which exhibits the fuel’s specifications. Overcoming such evidence is exceedingly arduous for owners unless they have obtained a manifold drip sample upon receiving the bunkers.&lt;/p&gt;
+&lt;p&gt;2- Inclement weather conditions occurred during the voyage. Often, charterers argue that the vessel underperformed based on a voyage plan devised by a routing company, which merely provides anticipated weather details. Clearly, this is insufficient as the actual weather encountered during the voyage may have differed from the initial forecasts. Relying solely on post-voyage analysis does not ensure success either. Firstly, the routing organization may carry out their time loss calculation in an unapproved manner. Secondly, the weather reports obtained by the routing organization might originate from nearby vessels rather than the vessel in question. London arbitrators and the Courts acknowledge that weather conditions can fluctuate over short distances. The most reliable evidence of the vessel’s experienced conditions should be the firsthand accounts of the individuals on board, which ought to be documented in the logbooks. However, these obvious arguments may not be viable if the charter party contains a specific clause mandating the use of Ocean Routes data in case of consistent disparities between the owners’ and charterers’ evidence.&lt;/p&gt;
+&lt;p&gt;3- The term “about” should be taken into consideration both in terms of speed and fuel consumption.&lt;/p&gt;
+&lt;p&gt;4- Savings in fuel may lead to a reduction in damages.&lt;/p&gt;
+&lt;p&gt;5- The Ship Master made a prudent navigational decision to avoid adverse weather conditions or to deviate in order to safeguard life or property. Alternatively, if the master committed a navigational error, it is accepted under Clause 16 and/or the Hague rules.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Advantages of Weather Routing for Optimal Voyages&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;advantages-of-weather-routing-for-optimal-voyages&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#advantages-of-weather-routing-for-optimal-voyages&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Weather routing appears deceptively simple, but in reality, it entails intricate calculations. Weather routing aims to ascertain the optimal course based on meteorological predictions, vessel characteristics, and cargo requirements. Notably, this pursuit does not always prioritize the shortest travel duration. Rather, weather routing seeks to refine voyages by evading hazardous weather conditions, safeguarding the crew, and optimizing fuel consumption simultaneously.&lt;/p&gt;
+&lt;p&gt;Outlined below are several significant advantages of weather routing and the means to realize these benefits.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Decrease Operating Costs:&lt;/strong&gt; Shipping companies often operate on narrow profit margins, with every dollar carrying weight. Weather routing enables vessels to reduce fuel consumption and ensure timely delivery, resulting in substantial cost savings. Additionally, by implementing weather routing to optimize voyages, shipping companies can enhance their profitability by diminishing insurance expenses, minimizing crew overtime wages, and avoiding additional fees imposed by port operators.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enhance Safety:&lt;/strong&gt; Weather represents one of the most significant perils faced by ships at sea, making any tools that aid shipping companies in averting disasters invaluable. Over the past decade, approximately 100 large shipping vessels have been devastated, primarily due to severe weather conditions. Casualty statistics indicate that adverse weather is a contributing factor in one out of every five ship losses. Real-time weather routing empowers ship navigation teams to redirect vessels when necessary, circumventing hurricanes, cyclones, and storms to safeguard the crew and cargo.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Similarly, following the pandemic-induced crisis that left over 300,000 seafarers stranded at sea for months, the International Maritime Organization (IMO) has intensified its focus on crew member safety. The pandemic has reaffirmed the paramount importance of crew member safety, and weather routing can play a pivotal role in preventing accidents not only during the pandemic but also beyond.&lt;/p&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Achieve Decarbonization Targets:&lt;/strong&gt; Weather routing assumes a crucial role in attaining decarbonization objectives. The Marine Environment Protection Committee committed to a 40% reduction in shipping carbon emissions by 2030, relative to 2008 levels. While achieving this pivotal goal is no easy task, weather routing can contribute significantly.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;“Voyage optimization is an exceedingly cost-effective practice as it allows shipping companies to curtail both costs and carbon footprint by circumventing routes where ships might operate less efficiently due to adverse weather conditions,” emphasized researchers.&lt;/p&gt;
+&lt;p&gt;In 2007, vessels emitted an estimated 1.12 billion metric tons of carbon dioxide. To reach the target, emissions must be reduced by 560 million metric tons, equivalent to the emissions generated by 102 million cars.&lt;/p&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Save Bunkers:&lt;/strong&gt; As the shipping industry endeavors to meet decarbonization goals, reducing fuel consumption becomes not only more sustainable but also more cost-efficient. The IMO estimates that weather routing can save a minimum of 3% in fuel consumption, with container ships experiencing potential savings of up to 10%. Given that fuel costs constitute an estimated 50-60% of total ship operating expenses, these savings can be substantial.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Minimize Delays:&lt;/strong&gt; Supply chain disruptions have dominated recent headlines as shipping companies struggle to recover from pandemic-related shutdowns. Bottlenecks at ports worldwide have impeded the timely unloading of goods from ships. Weather-related delays, which are common during hurricane season, are the last thing ships need.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A lack of understanding of marine weather conditions can account for 80% of the performance impact. By incorporating weather data into route planning, shipping companies can circumvent the most severe weather conditions and adequately prepare for those that are unavoidable. This proactive approach allows ships to minimize delays as much as possible, particularly during these challenging times.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Voyage Estimation</title>
+      <link>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/voyestimate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/voyestimate/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;&lt;strong&gt;Voyage Estimation&lt;/strong&gt;&lt;/h1&gt;&lt;p&gt;Ship Voyage Estimation is forecasting of costs and revenues. Unavoidably, Ship Voyage Estimation includes comparing one voyage with an alternative voyage to see which produces the most immeasurable yield. Ship Management or Shipbrokers are closely involved in Ship Voyage Estimation calculations. Ship Manager must be adequately aware of the process of voyage estimating. It is important to understand how numerous pieces of data, supplied by the ship manager, apply to the process of estimating the profitability of a proposed voyage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Voyage Estimation&lt;/strong&gt; incorporates both Voyage and Time Charter Trips (TCT). Time Charter Trips (TCT) are infrequently as straightforward as they seem. Ships do not run like clockwork, therefore, in Voyage Estimation, it is impracticable to calculate to perfection. Voyage Estimation aim should be less than absolute accuracy and it is vital to seek to achieve this and to test the accuracy of the Voyage Estimates against the Final Voyage Results.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For Voyage Estimation&lt;/strong&gt;, it is also necessary to know maritime geography, distances of main ports, and load line zones. There are many digital distance tables, however, to avoid ridiculous mistakes shipbrokers should have a reasonably accurate idea of the major world distances. A helpful method is to divide the world into regions, generally this principally falls into oceans, and then learn several strategic distances across each region.&lt;/p&gt;
+&lt;p&gt;Preferably, instead of actual distance, a shipbroker can think in terms of days steamed. For example, a speed of 14 knots works out at approximately 3 days per 1,000 nautical miles. Therefore, it is easy to remember that a transatlantic voyage from US Gulf to the Netherlands is performed in 15 days. Under this easy method, voyages can be calculated and remembered. After calculating the length of the sea voyage, a frame can be produced for Voyage Estimation.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ship Voyage Length&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ship voyage should always be from the time and the place where the ship completes discharge of the previous cargo. Therefore, the first part of the voyage is the Ballast Leg unless the shipowner is fortunate enough to secure a cargo out of the port in which the ship has just discharged.&lt;/p&gt;
+&lt;p&gt;.tdi_2.td-a-rec{text-align:center}.tdi_2.td-a-rec:not(.td-a-rec-no-translate){transform:translateZ(0)}.tdi_2 .td-element-style{z-index:-1}.tdi_2.td-a-rec-img{text-align:left}.tdi_2.td-a-rec-img img{margin:0 auto 0 0}@media (max-width:767px){.tdi_2.td-a-rec-img{text-align:center}} var td_screen_width = window.innerWidth; window.addEventListener(&amp;ldquo;load&amp;rdquo;, function(){ var placeAdEl = document.getElementById(&amp;ldquo;td-ad-placeholder&amp;rdquo;); if ( null !== placeAdEl &amp;amp;&amp;amp; td_screen_width &amp;gt;= 1140 ) { /* large monitors &lt;em&gt;/ var adEl = document.createElement(&amp;ldquo;ins&amp;rdquo;); placeAdEl.replaceWith(adEl); adEl.setAttribute(&amp;ldquo;class&amp;rdquo;, &amp;ldquo;adsbygoogle&amp;rdquo;); adEl.setAttribute(&amp;ldquo;style&amp;rdquo;, &amp;ldquo;display:inline-block;width:970px;height:250px&amp;rdquo;); adEl.setAttribute(&amp;ldquo;data-ad-client&amp;rdquo;, &amp;ldquo;ca-pub-5596142290138833&amp;rdquo;); adEl.setAttribute(&amp;ldquo;data-ad-slot&amp;rdquo;, &amp;ldquo;4963775542&amp;rdquo;); (adsbygoogle = window.adsbygoogle || []).push({}); } });window.addEventListener(&amp;ldquo;load&amp;rdquo;, function(){ var placeAdEl = document.getElementById(&amp;ldquo;td-ad-placeholder&amp;rdquo;); if ( null !== placeAdEl &amp;amp;&amp;amp; td_screen_width &amp;gt;= 1019 &amp;amp;&amp;amp; td_screen_width &amp;lt; 1140 ) { /&lt;/em&gt; landscape tablets &lt;em&gt;/ var adEl = document.createElement(&amp;ldquo;ins&amp;rdquo;); placeAdEl.replaceWith(adEl); adEl.setAttribute(&amp;ldquo;class&amp;rdquo;, &amp;ldquo;adsbygoogle&amp;rdquo;); adEl.setAttribute(&amp;ldquo;style&amp;rdquo;, &amp;ldquo;display:inline-block;width:970px;height:250px&amp;rdquo;); adEl.setAttribute(&amp;ldquo;data-ad-client&amp;rdquo;, &amp;ldquo;ca-pub-5596142290138833&amp;rdquo;); adEl.setAttribute(&amp;ldquo;data-ad-slot&amp;rdquo;, &amp;ldquo;4963775542&amp;rdquo;); (adsbygoogle = window.adsbygoogle || []).push({}); } });window.addEventListener(&amp;ldquo;load&amp;rdquo;, function(){ var placeAdEl = document.getElementById(&amp;ldquo;td-ad-placeholder&amp;rdquo;); if ( null !== placeAdEl &amp;amp;&amp;amp; td_screen_width &amp;gt;= 768 &amp;amp;&amp;amp; td_screen_width &amp;lt; 1019 ) { /&lt;/em&gt; portrait tablets &lt;em&gt;/ var adEl = document.createElement(&amp;ldquo;ins&amp;rdquo;); placeAdEl.replaceWith(adEl); adEl.setAttribute(&amp;ldquo;class&amp;rdquo;, &amp;ldquo;adsbygoogle&amp;rdquo;); adEl.setAttribute(&amp;ldquo;style&amp;rdquo;, &amp;ldquo;display:inline-block;width:970px;height:250px&amp;rdquo;); adEl.setAttribute(&amp;ldquo;data-ad-client&amp;rdquo;, &amp;ldquo;ca-pub-5596142290138833&amp;rdquo;); adEl.setAttribute(&amp;ldquo;data-ad-slot&amp;rdquo;, &amp;ldquo;4963775542&amp;rdquo;); (adsbygoogle = window.adsbygoogle || []).push({}); } });window.addEventListener(&amp;ldquo;load&amp;rdquo;, function(){ var placeAdEl = document.getElementById(&amp;ldquo;td-ad-placeholder&amp;rdquo;); if ( null !== placeAdEl &amp;amp;&amp;amp; td_screen_width &amp;lt; 768 ) { /&lt;/em&gt; Phones */ var adEl = document.createElement(&amp;ldquo;ins&amp;rdquo;); placeAdEl.replaceWith(adEl); adEl.setAttribute(&amp;ldquo;class&amp;rdquo;, &amp;ldquo;adsbygoogle&amp;rdquo;); adEl.setAttribute(&amp;ldquo;style&amp;rdquo;, &amp;ldquo;display:inline-block;width:320px;height:50px&amp;rdquo;); adEl.setAttribute(&amp;ldquo;data-ad-client&amp;rdquo;, &amp;ldquo;ca-pub-5596142290138833&amp;rdquo;); adEl.setAttribute(&amp;ldquo;data-ad-slot&amp;rdquo;, &amp;ldquo;4963775542&amp;rdquo;); (adsbygoogle = window.adsbygoogle || []).push({}); } });&lt;/p&gt;
+&lt;p&gt;Some shipbrokers and ship managers commence the voyage at the loading port and follow the laden passage with a theoretical ballast back to the loading port again. However, while this view might be realistic for tankers, dry cargo tramp ships rarely proceed on the same voyage twice so this is rarely a practical solution. With distances to hand, it is not challenging to estimate the length of the sea passage including the Ballast Leg. Estimating the time spent in port can be a more prominent problem.&lt;/p&gt;
+&lt;p&gt;Estimating the time spent in port for tankers is moderately simple as most tanker charter-parties incorporate a standard 72 hours all purposes laytime. However, the time spent in port for dry cargo bulk carriers differs enormously. The difficulty is that a shipbroker or ship manager cannot usually calculate the port time until they know the cargo quantity. A shipbroker or ship manager cannot calculate the cargo lift until they know the bunkers which they cannot work out until they know the port time. Dry cargo ships consume little bunkers in port which can be safely neglected for initial cargo estimates.&lt;/p&gt;
+&lt;p&gt;A shipbroker or ship manager should be very careful over the voyage route selected. Sometimes there are alternative routes and only a negligible difference will tilt the pendulum in favor of one or the other. A shipbroker or ship manager should consider bad weather, high canal tolls on one route, and cheaper bunkers on another. In Voyage Estimation, ship speed is another crucial factor. In some circumstances, it might be more beneficial to steam slowly and economize on bunkers.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Cargo Quantity&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A shipbroker or ship manager needs to know the ship’s total deadweight (DWT). From the ship’s total deadweight (DWT), a shipbroker or ship manager must first deduct the constants (stores, water, lubricants, spares, the weight of the crew). Total constants weight is rarely critical. Total constants weight is in the region of 400 to 500 metric tons for most deep-sea ships of 30,000 DWT and above. Moreover, a shipbroker or ship manager needs to deduct the bunkers on board to calculate the true cargo capacity DWCC (Deadweight Cargo Capacity). A proper figure for DWCC (Deadweight Cargo Capacity) is calculated, however, this is not the end of the &lt;strong&gt;Voyage Estimation&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;The ship may be able to lift a particular tonnage of cargo but also the ship must have enough space to carry that cargo. Therefore, a shipbroker or ship manager must also calculate the &lt;strong&gt;Stowage Factor (SF)&lt;/strong&gt;. Theoretically, by dividing the grain or bale cubic of the ship by the Stowage Factor (SF), a shipbroker or ship manager calculates the ship’s volume capacity. However, if there are various types of grades of cargo to be separated, it may be impossible even to fill the ship. Furthermore, ship trim and stability must also be considered.&lt;/p&gt;
+&lt;p&gt;A shipbroker or ship manager must also consider the &lt;strong&gt;load-line zones&lt;/strong&gt; and calculate the cargo accordingly. All load-line zones transited between loading and discharging ports must be considered. For instance, a ship cannot enter a winter zone when loaded to summer marks.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Port Time&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When the cargo quantity, loading rates, and discharging rates per day are known, then the port time can be estimated with some accuracy. However, there are some pitfalls because it is rare for weekends and holidays to count in dry cargo charter-parties and these, united with notice time and weather delays, extend the port time before demurrage is likely to commence. Example:&lt;/p&gt;
+&lt;p&gt;A bulk carrier is to load 49,000 metric tonnes of cargo and the charter loading rate is 3,500 tonnes (PWWD) per weather working day of 24 consecutive hours, Sundays and Holidays Excepted (SHEX). If a shipbroker or ship manager divides 49,000 by 3,500, the loading time allowed to the charterers is 14 days. However, 14 days excludes weekends and if you consider the working week to be 5 days, the laytime allowed approaches 3 weeks. If allowances are also made for notice time and some weather delays, it will become realistic to allow 20 days in port for loading operation. If loading operation is to take place throughout extensive Public Holidays (Christmas, New Year, Ramadam), even more port time should be allowed. If the time allowed includes Sundays and Holidays (SHINC) less allowance will be needed, in this example, approximately 15 days. Even with Sundays and Holidays (SHINC), there are unavoidable delays such as shifting, notice time, etc.&lt;/p&gt;
+&lt;p&gt;Generally, the full-time allowance should be put in the Voyage Estimation and demurrage/despatch should be ignored. Furthermore, different criteria have to be used for Despatch Charters for particular trades such as sugar. It is very well-known that ships habitually load and discharge completely within their laytime and, however, shippers and receivers expect to earn considerable despatch money. Therefore, when comparing two voyages, Despatch Charters will present an abnormal disparity. Unfortunately, there is no shortcut to knowledge in such cases, and a shipbroker or ship manager must be aware of the trades where fast turn-rounds are to be found. In Despatch Charters, a shipbroker or ship manager should estimate a lesser port time than allowed. Therefore, a decent addition to the expenses must be made to cover the inevitable despatch money.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In&lt;/strong&gt; &lt;strong&gt;Voyage Estimation&lt;/strong&gt;, if more than one port of loading and/or discharging is used, extra hours must be allocated for the time required in the actual process of entering and leaving.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Other Delays in Voyage Estimation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bunker&lt;/strong&gt;: in some ports, bunkering might be lengthy. In Voyage Estimation, a shipbroker or ship manager should allocate one (1) day for each bunkering call.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Canal Transit&lt;/strong&gt;: canal transits unavoidably lengthens the voyage, therefore, a shipbroker or ship manager should allocate two (2) days each for passage through Suez Canal and Panama Canal in Voyage Estimation. Time might be lost for waiting and for the canal transit.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Bad Weather&lt;/strong&gt;: usually a shipbroker or ship manager does not allow additional steaming time for possible bad weather unless it is certain from the nature of the voyage that delay will be experienced.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Starting the Voyage Estimation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;When the main components are available, a shipbroker or ship manager can begin the Voyage Estimation calculations. Broadly, the Voyage Estimation calculation consists of income minus expenditure. Voyage Estimation form and procedure used is a matter of personal opinion however these can all be classified under one method. Most shipping companies have their Voyage Estimation layout depending on the type of ship they manage.&lt;/p&gt;
+&lt;p&gt;It is extremely easy to reduce the Voyage Estimation on a piece of paper, indeed. However, before that level is reached, significant experience has to be gained at a more leisurely pace and this is where a set format is so essential. In Voyage Estimation, if all the different items of income and expenditure are set out, it is hard to forget the odd item, which can make the difference between profit and loss. If a shipbroker or ship manager is likely to be involved in regular Voyage Estimation, he drafts out a suitable form and uses the Voyage Estimation draft constantly.&lt;/p&gt;
+&lt;p&gt;Today, there are computer programs for &lt;strong&gt;Voyage Estimation&lt;/strong&gt; such as &lt;strong&gt;Netpas Estimator&lt;/strong&gt;, however mastering the manual Voyage Estimation method is essential to avoid silly errors with the computer.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Voyage Estimation&lt;/strong&gt; can be made appropriately on plain paper; the essential point is to learn the method. Generally, a shipbroker or ship manager follows the here below Voyage Estimation method:&lt;/p&gt;
+&lt;p&gt;1- A shipbroker or ship manager preplans the voyage, duration, and bunker consumption. Preplanning enables a shipbroker or ship manager to observe at a glance just what is intended. This is called an itinerary.&lt;/p&gt;
+&lt;p&gt;2- A shipbroker or ship manager calculates what cargo can be loaded. This part needs to be completed in conjunction with the itinerary. For instance, when port time is estimated against a daily loading or discharging rate.&lt;/p&gt;
+&lt;p&gt;3- A shipbroker or ship manager records all expenses such as bunkers, port disbursements, canal costs, stevedoring, despatch, extra insurance premium are obvious examples.&lt;/p&gt;
+&lt;p&gt;4- A shipbroker or ship manager assess Income, Profit, and Loss.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In the Voyage Estimation process&lt;/strong&gt; here above, in part three (3), bunker consumption is presumably the most difficult to calculate. Ship Bunkering is an art and no two voyages are likely to be the same, due to seasonal changes, price fluctuation, and the need to balance bunker prices against freight income.&lt;/p&gt;
+&lt;p&gt;When transiting a canal or a narrow waterway a ship may run on MGO (Marine Gas Oil) in the main engine although this is becoming less common with modern engine designs. MGO (Marine Gas Oil) is of a higher quality and more expensive than IFO (Intermediate Fuel Oil). MGO (Marine Gas Oil) usage result in a more instant engine response to navigation movements. During MGO (Marine Gas Oil) usage, ordinary daily speeds and consumptions do not apply. The ship steams slowly and consumes bunkers more economically. Therefore, it might be necessary to estimate normal speed and consumption to and from either end of the canal, adjusting time and consumption appropriately.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Port costs cannot easily be estimated without experience&lt;/strong&gt; and most shipping companies keep records of previous port calls. Organizations such as BIMCO (The Baltic and International Maritime Organization) and INTERTANKO (International Association of Independent Tanker Owners) contribute important information on many ports but presumably the most accurate way is to call the port agent in question with necessary details of the ship and ask the port agent to provide a Proforma Disbursement Account (PDA). Normally, canal dues are based on the ship’s Canal Tonnage as the canal authorities tend to add in more cubic earning spaces when they grant the ship a canal certificate. A shipbroker or ship manager should keep in mind that mere calculation of the canal dues payable will not be sufficient, as extra charges yield for such items as agency and towage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In the Voyage Estimation process&lt;/strong&gt;, there is the possible expense of despatch payable if the trade is such that the ship is turned around much faster than the laytime allows. If a shipbroker or ship manager is in any doubt, it is more beneficial to allow full time in the Voyage Estimation to calculate the most pessimistic result and be on the safe side.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In the Voyage Estimation process&lt;/strong&gt;, a shipbroker or ship manager should also include cargo-handling expenses and extra insurance premiums such as breaching INL (Institute Navigating Limits) or extra WRI (War Risk Insurance) for trading to regions beset by the risk of warlike action.&lt;/p&gt;
+&lt;p&gt;A shipbroker or ship manager should calculate the cargo intake and multiply this quantity by the rate of freight offered by charterers. The sum is known as the Gross Freight, from which have to be deducted any Shipbrokers’ Commissions due. Besides, it is common to deduct any Freight Tax at this stage. Freight Tax and ILW (In Lieu of Weighing) are being almost invariably a percentage of the Freight. The result after deducting these items from Gross Freight is called Net Freight.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;The Voyage Estimatio&lt;/strong&gt;n result can be calculated by subtracting expenses from income and dividing the result by the number of days taken for the voyage. The result is the Gross Daily Profit. Gross Daily Profit gives us an easily comparable amount for any variety of different voyages. To calculate the Net Daily Profit, it is essential to include the Daily Running Costs. A shipbroker or ship manager is not concerned as to how that daily figure is made up but will simply want a lumpsum per day. It is the choice of the shipowner whether or not the capital costs are included in this figure however, whether capital costs are included or not, it is important to be consistent.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tankers Voyage Estimation&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;There are a few dissimilarities between Voyage Estimation for dry cargo ships and tankers. Tanker charters based upon &lt;strong&gt;Worldscale&lt;/strong&gt;, the laytime calculation is easier as the scale allows for 72 running hours total for loading and discharging and 96 hours total in port. An expense in tankers that do not occur in dry cargo ships is the consumption of bunkers for ancillary purposes such as cargo heating, pumping cargo, and tank cleaning.&lt;/p&gt;
+&lt;p&gt;It is exceptionally challenging to estimate bunker consumption for heating cargo depending, as it does, on the temperature at which the cargo is loaded, whether in wing or center tanks, and on the ambient temperature of the sea and air during the voyage. Only the technical department can give an accurate estimation for this purpose as, without their available statistics, it can only be pure guesswork. Pumping and tank cleaning is simpler, however the technical department should be asked for an average bunker consumption based on experience.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Time Charter Voyage Estimation&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;time-charter-voyage-estimation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#time-charter-voyage-estimation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;When charterers take ships on time charter for trips, it is apparent that charterers want to estimate the daily profit on Time Charter Trip (TCT) in the same way as a Voyage Charter to compare the two results. Usually, Charterers prefer to take a ship on Time Charter (TC), either for a Trip or Period, as it gives charterers flexibility and also the possibility of diminishing their costs.&lt;/p&gt;
+&lt;p&gt;Time Charter (TC) Voyage Estimation would be an extremely simpler operation if the ship is taken on delivery at the previous discharge port and redelivered on completion of the voyage in question. Shipowner or ship operator simply deduct the Daily Running Cost from the Hire earned per day to achieve the daily profit. Commission should be deducted to achieve the daily net profit. If there is any difference between the charter price of bunkers paid by charterers on delivery and the actual price paid by shipowners, this must similarly be taken into account in the calculations. In Time Charter (TC) Voyage Estimation, problems arise when the ship is not taken on hire immediately after the previous employment and allowance has then to be made, not only for the time lost to shipowners whilst the ship is unemployed, but also for the bunkers consumed during that period. The calculation is not challenging if the income and expenditure and the number of days for the entire voyage are considered. By grossing up the daily hire receivable for every day the ship is likely to be on charter and deducting the Daily Running Cost, the shipowner obtain the profit for the entire operation. Daily Running Cost must be charged not only for the trip period but also for the ballast or waiting time before hire commences plus any bunkers, port charges, canal dues, etc. which are incurred by the shipowners before commencement of hire. To calculate the daily profit it is then necessary to divide by the number of days involved which will include those days ballasting or waiting before ship delivery, not just the days the ship is on hire. By this method, the shipowner obtains a comparable number to be set against other Voyage Estimations.&lt;/p&gt;
+&lt;p&gt;If several Voyage Estimations show similar results, it is up to the shipowner to decide whether he prefers a short or long voyage. The decision may depend on the shipowner’s expectations of the future increase or decrease of the shipping market and also depending on which region the shipowner prefers to complete the voyage for future trading. Sometimes, a shipowner may prefer a voyage with a lower return if it positions the ship ideally for a subsequent voyage or drydocking.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Voyage Estimation Example&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;voyage-estimation-example&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#voyage-estimation-example&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;In Voyage Estimation Example&lt;/strong&gt; here below, a shipowner compares two (2) Voyage Estimations for his ship called MV HANDYBULK YAGMUR and selects the most profitable voyage. The question is presented here below provides all the data required to make the Voyage Estimation calculations. However, we simplified the problem that would normally arise in practice, where a shipbroker or ship manager would have to search all the data such as distances, and cheapest bunkers available.&lt;/p&gt;
+&lt;p&gt;A shipowner has the following vessel available in April at Pemba (Mozambique) following discharge of a cargo:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MV HANDYBULK YAGMUR&lt;/strong&gt;&lt;br&gt;
+2021 Built Cyprus Flag Lloyd’s Register (LR)&lt;br&gt;
+15,240 SDWT (Summer Deadweight Tonnage)&lt;br&gt;
+8.86 meters Summer Saltwater Draft&lt;br&gt;
+5 Holds/5 Weatherdeck Hatches&lt;br&gt;
+Flush Tweendecks No 1,2,3 &amp;amp; 4&lt;br&gt;
+Bridge &amp;amp; Engines 4/5ths aft.&lt;br&gt;
+No. 5 a single hold, floored over&lt;br&gt;
+Derricks: 1 x 50, 4 x 10, 6 x 5 tonnes SWL&lt;br&gt;
+Bale: 19,520 cbm (689,350 cft)&lt;br&gt;
+Grain: 21,295 cbm (752,030 cft)&lt;br&gt;
+LOA: 141 m Beam: 20.45 m&lt;br&gt;
+Constant Weights: 150 tonnes&lt;br&gt;
+Speed/Consumption&lt;br&gt;
+At Sea: 13 knots 18 mtons VLSFO + 1.5 mtons MGO&lt;br&gt;
+Port Idle: 1.5 mtons MGO per day&lt;br&gt;
+Port Working: 2.5 mtons MGO per day&lt;br&gt;
+VLSFO (Very Low Sulphur Fuel Oil)&lt;br&gt;
+MGO (Marine Gas Oil)&lt;/p&gt;
+&lt;p&gt;Bunkers Remaining on Board (ROB) 300 mtons VLSFO and 40 mtons MGO&lt;br&gt;
+MV HANDYBULK YAGMUR carries a Safety Surplus of 50 mtons VLSFO and 15 mtons MGO at all times. These quantities to be allowed for in any cargo quantity calculation (DWCC) but not to be costed in voyage results.&lt;/p&gt;
+&lt;p&gt;The Shipowner is analyzing offering for the following cargo:&lt;br&gt;
+A/C Minerals Ltd&lt;br&gt;
+Full Cargo Bulk Minerals&lt;br&gt;
+Loading Port: 1 sb 1 sp Mauritius&lt;br&gt;
+Discharging Port: 1 sb London&lt;br&gt;
+Loading Rate: 1,500 mtons PWWD SHEX&lt;br&gt;
+Discharging Rate: 750 mtons PWWD SHEX&lt;br&gt;
+Freight USD14.00 per mtons&lt;br&gt;
+Demurrage USD 2,150 /Half Despatch Laytime Saved Bends&lt;br&gt;
+5.5% Total Commission including (3.75% Address Commission)&lt;/p&gt;
+&lt;p&gt;A shipbroker or ship manager knows from previous experience:&lt;br&gt;
+1- Actual loading takes approximately 2 days, therefore allow for payment of despatch in the Voyage Estimation.&lt;br&gt;
+2- London is usually a congested port, therefore allow full laytime for discharge.&lt;/p&gt;
+&lt;p&gt;For Voyage Estimation:&lt;br&gt;
+a- Mauritius/London via Suez Canal&lt;br&gt;
+b- Mauritius/London via Cape of Good Hope (bunkering at Durban)&lt;/p&gt;
+&lt;p&gt;You will require the following information:&lt;br&gt;
+1- Distances:&lt;br&gt;
+Pemba/Dar Es Salaam 475 nm (nautical miles)&lt;br&gt;
+Dar Es Salaam/Durban 1550 nm (nautical miles)&lt;br&gt;
+Dar Es Salaam/Suez 3650 nm (nautical miles)&lt;br&gt;
+Durban/London 6850 nm (nautical miles)&lt;br&gt;
+Suez/London 3200 nm (nautical miles)&lt;/p&gt;
+&lt;p&gt;2- Suez Canal Transit&lt;br&gt;
+Allow 2 days to Bunker and transit the Suez Canal consuming:&lt;br&gt;
+7 mtons VLSFO&lt;br&gt;
+7 mtons MGO.&lt;/p&gt;
+&lt;p&gt;3- Bunker Prices (USD/pmt) VLSFO MGO&lt;br&gt;
+Remaining on Board (ROB) 70 145&lt;br&gt;
+Suez 85 180&lt;br&gt;
+Durban 85 325&lt;/p&gt;
+&lt;p&gt;4- Port Disbursements (USD)&lt;br&gt;
+Dar Es Salaam 17,500&lt;br&gt;
+Durban 2,500&lt;br&gt;
+Suez Canal 35,000&lt;br&gt;
+London 45,000&lt;/p&gt;
+&lt;p&gt;Routing via the Suez Canal:&lt;/p&gt;
+&lt;p&gt;MV HANDYBULK YAGMUR is anticipated to steam around 312 miles per day at sea (13 x 24 hours) weather permitting. Usually, percentages of days at sea are best rounded up to whole days for simplicity of calculation and to allow for any unexpected delays. However, in short voyage estimations, this is not realistic. Therefore, for the 475 nm (nautical miles) between Pemba (Mozambique) and Dar Es Salaam 1.5 days should be allowed (475/312 = 1.522) although this percentage can be disposed of in the final voyage days analysis by allowing a compensating 2.5 days to load in Dar Es Salaam. Dar Es Salaam to the Suez Canal is 3,650 nm (nautical miles) which, divided by 312 miles per day equals around 12 days. 2 days is allowed for the Suez Canal transit and a canal bunker consumption of 7 mtons VLSFO and 7 mtons MGO, these items can be entered. The final leg of 3,200 nm (nautical miles) from the Suez Canal to London should take about 10 steaming days.&lt;/p&gt;
+&lt;p&gt;We are going to calculate the port time in London however, since we are to work on a daily discharge rate in London and allow full laytime. So, we calculate the quantity of cargo on board. Furthermore, we should consider Load-Line Zones and any port limitations en route. Luckily, MV HANDYBULK YAGMUR will be in summer zones throughout the voyage so that this exercise does not have to assume the discussion of Load-Line Zones which will be dealt with in a later lesson. Fully laden MV HANDYBULK YAGMUR’s draft is still within the limits of the Suez Canal and there is sufficient depth of water at both loading and discharging ports. As a result, no restricting factors are altering the quantity of cargo to be loaded apart from those of the ship itself, its cubic capacity, and deadweight. Bulk minerals stow around 1.13 to 1.22 cubic meters per tonne (40 to 43 cubic feet).&lt;/p&gt;
+&lt;p&gt;Allowing for an increase to this calculation for loss of trimming spaces, as a result of tween-deck overhangs, of an extra 10% as compared with a bulk carrier, the cubic space available should still be more than adequate. 21,295 cubic metres divided by 1.34 (1.22 + 10%) = 15,900 mtons approximately. Consequently, cargo intake can be based on the maximum DWT (Deadweight) available on sailing from Dar Es Salaam. In other words, up to summer marks less constant weights and bunkers. Constant weights are known. Bunkers need to be calculated. T&lt;/p&gt;
+&lt;p&gt;he longest voyage leg is that from Dar Es Salaam to the Suez Canal (12 days) and therefore we estimate that the MV HANDYBULK YAGMUR will have maximum bunkers on board at the commencement of the voyage. MV HANDYBULK YAGMUR has 300 mtons VLSFO and 40 mtons MGO ROB (remaining on Board) when sailing from Pemba (Mozambique). Therefore, from the MV HANDYBULK YAGMUR’s summer deadweight (SDWT) must be deducted an allowance for bunkers and constant weights calculated to remain on board when sailing from Pemba (Mozambique) to that stage of the voyage. Therefore:&lt;/p&gt;
+&lt;p&gt;Summer Deadweight (SDWT) 15,240 mtons&lt;br&gt;
+Less&lt;br&gt;
+VLSFO 300 – 27= 273 mtons&lt;br&gt;
+MGO 40 – 6= 34 mtons (2 mtons MGO at Sea + 4 mtons MGO at Port)&lt;br&gt;
+Constant Weights= 150 mtons&lt;br&gt;
+Estimated Cargo Intake (DWCC)=14,783&lt;/p&gt;
+&lt;p&gt;300 mtons VLSFO and 40 mtons MGO includes the allowance for Safety Surplus. Bulk cargo is loaded mechanically at Dar Es Salaam by shore equipment. Hence, the MV HANDYBULK YAGMUR’s port consumption will not be increased to 2.5 mtons daily, which would be the case if MV HANDYBULK YAGMUR’s cranes were used. Discharging at London will also be by shore equipment, the HANDYBULK YAGMUR’s cranes will remain idle. To find the total discharge duration in London, Estimated Cargo Intake (DWCC)=14,783 is divided by daily discharge rate of 750 mtons equals to 20 days (19.7 days).&lt;/p&gt;
+&lt;p&gt;However, discharge takes place on SHEX (Sundays Holidays Excluded) terms, therefore, build in time lost for weekends and holidays. A magic number that can be used in normal circumstances is the Factor of 1.4, which is 2 days lost for every 5 worked, a number that provides an estimate for SHEX (Sundays Holidays Excluded) terms. 20 days x 1.4 = 28 days on full laytime at London.&lt;/p&gt;
+&lt;p&gt;We have completed the &lt;strong&gt;Voyage Itinerary&lt;/strong&gt;, &lt;strong&gt;Bunker Consumption&lt;/strong&gt;, and &lt;strong&gt;Cargo Calculation of the Voyage Estimation&lt;/strong&gt;. Now, we are going to calculate and combine all voyage expenses. We start calculating the Bunker Costs:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MV HANDYBULK YAGMUR&lt;/strong&gt; has on board 300 mtons VLSFO and 40 mtons MGO at the commencement of the voyage, VLSFO cost at USD 70 and MGO cost USD 45 per tonne. The bunker balance required 130 mtons VLSFO and 48 mtons MGO must be taken at Suez and the cost should be added accordingly. The estimated disbursements (Port DAs) at Dar Es Salaam, Suez Canal, and London should be entered into Voyage Estimation. Now, we are going to estimate the Despatch Money. To calculate Despatch Money, we should take the estimated cargo of 14,783 mtons and divide it by the loading rate of 1,500 tonnes daily which is approximately 10 days. Loading will take approximately 2 days, and this can be deducted, to leave 8 days.&lt;/p&gt;
+&lt;p&gt;If the MV HANDYBULK YAGMUR arrives and loads in midweek, then this will be the number on which to base despatch. If loading takes place over a weekend, time loading might not count (if SHEX EIU). Furthermore, we should consider if the despatch is to be calculated based on All-Time Saved or on Working Time Saved. In this Voyage Estimation example, we are going to use Working Time Saved, and allow 8 days for despatch at Dar Es Salaam. Despatch Money can be calculated as:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Despatch Money&lt;/strong&gt; equals half of Demurrage Rate (USD 2,150)= USD 1,025 Despatch $1,025 x 8 days= USD 8,200&lt;/p&gt;
+&lt;p&gt;We are going to calculate the income and the estimated result. The freight rate is USD 21 per tonne. Therefore, 14,783 mtons x $21 per tonne less 5.5% total commission leaves us with a net freight of USD 293,369. From this must be deducted the total expenses of USD 156,886, leaving a Gross Voyage Surplus of USD 136,483.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Gross Voyage Surplus&lt;/strong&gt; of USD 136,483 is then divided by the estimated number of days required to perform the voyage and we have a return of USD 2,437 gross daily which is before the deducting of daily ship running costs. If ship daily running costs were given, we deduct daily running costs from the gross daily income to arrive at the net daily income.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Routing via the Cape of Good Hope:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We have already calculated Pemba (Mozambique) to Dar Es Salaam and port time there. We have already calculated the distances from Dar Es Salaam to Durban and from Durban, via the Cape of Good Hope, to London, and can base time and consumption on this data. We are going to estimate the port time in London. Therefore, we are going to calculate cargo intake. The sea distance from Durban to London is approximately 22 days at 13 knots, weather permitting. Therefore, bunkers remaining on board (ROB) at the beginning of this leg will be greater than for any other leg and will consequently affect the maximum cargo quantity which can be allowed on board at that point. Thus, although MV HANDYBULK YAGMUR can load more cargo than would be required at Dar Es Salaam, we should remember always that the ship’s summer freeboard must not be submerged at any stage of the journey.&lt;/p&gt;
+&lt;p&gt;If MV HANDYBULK YAGMUR is loaded to her full marks at Dar Es Salaam she would be overloaded when taking on necessary bunkers at Durban. Consequently, Durban sailing on summer marks is the restricting factor in this part of the estimate. Durban is located in a permanent summer load-line zone. Since the ship would then steam to London in either summer or tropical zones, there are no restricting factors of this nature. So, we can estimate the cargo intake:&lt;/p&gt;
+&lt;p&gt;Summer Deadweight: 15,240 mtons&lt;br&gt;
+Less:&lt;br&gt;
+Durban/London 396 mtons VLSFO&lt;br&gt;
+Safety Surplus 75 mtons VLSFO&lt;br&gt;
+Durban/London 33 mtons MGO&lt;br&gt;
+Safety Surplus 15 mtons MGO&lt;br&gt;
+Constant Weights= 150 mtons&lt;br&gt;
+Estimated Cargo Intake (DWCC)=14,571&lt;/p&gt;
+&lt;p&gt;Therefore, &lt;strong&gt;Estimated Cargo Intake (DWCC)&lt;/strong&gt; via the Cape of Good Hope is going to be less than steaming via the Suez Canal, but the difference is marginal and will not affect the time needed to discharge on full laytime in London:&lt;/p&gt;
+&lt;p&gt;14,571 mtons / 750 mtons daily discharge rate x 1.4 = 27.20 days approximately 28 days&lt;/p&gt;
+&lt;p&gt;Routing via the Cape of Good Hope, port and transit expenses are similar to the routing via the Suez Canal, except that Suez Canal tolls are avoided however, instead, Durban port costs are included. Despatch Money is also similar, the difference in the cargo loaded making only minor effect.&lt;/p&gt;
+&lt;p&gt;The extra steaming time is reflected in extra bunker consumption. Once again the 300 mtons VLSFO and 40 mtons MGO remaining on board (ROB) at the commencement of the voyage must be costed at USD 70 and USD 145 per tonne respectively. However, we should add the balance of VLSFO and MGO required to steam London at the Durban prices of USD 85 and USD 325 respectively. Therefore, the estimated total expenses for routing via the Cape of Good Hope is USD 138,726. The smaller cargo intake indicates a marginally lower income of USD 289,162, however, lower-income is offset by these reduced cargo expenses to leave an increased Gross Voyage Surplus of USD 150,436.&lt;/p&gt;
+&lt;p&gt;However, routing via the Cape of Good Hope takes longer than the route via the Suez Canal. Nonetheless, the net result is more profitably via the Cape of Good Hope by an increase of around USD 100 per day. Routing via the Cape of Good Hope generates a Gross Daily Income of $150,435/59 = $2,550 against routing via the Suez Canal generates a Gross Daily Income of $2437.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;Voyage Estimation Time Charter Example&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;voyage-estimation-time-charter-example&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#voyage-estimation-time-charter-example&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Let us assume that MV HANDYBULK YAGMUR is proposed a Time Charter business as follows:&lt;/p&gt;
+&lt;p&gt;Delivery APS Durban&lt;br&gt;
+Time Charter Trip (TCT) via safe ports South and East Africa&lt;br&gt;
+with Minerals.&lt;br&gt;
+Redelivery DOP Izmir&lt;br&gt;
+Duration about 60 days, without guarantee&lt;br&gt;
+5% Total Commission&lt;br&gt;
+Charterer’s Hire Idea Maximum $3,000 per day&lt;/p&gt;
+&lt;p&gt;If the MV HANDYBULK YAGMUR performs this voyage, the shipowner would probably need to ballast after Izmir to the London-Continent to seek the next cargo. We are going to calculate if this time charter alternative is a better proposition than the voyage&lt;/p&gt;
+&lt;p&gt;Pemba (Mozambique)/Durban 1,350 nm (nautical miles)&lt;br&gt;
+Izmir/London 2,775 nm (nautical miles)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;In Voyage Estimation Time Charter Calculation&lt;/strong&gt;, we should calculate the Gross Daily Return, so that fair comparison can be made with a voyage charter alternative, as well as other Time Charter Trips (TCT). In Voyage Estimation Time Charter calculation, brokerages and commissions must be deducted. Allowances have to be made where necessary for time and voyage expenses incurred from the start point of the exercise through to the start of the time charter, and again, from the completion of the time charter through to the end of the estimated voyage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;MV HANDYBULK YAGMUR&lt;/strong&gt; will be open at Pemba (Mozambique) where she can proceed either to Dar Es Salaam to load minerals, or ballast to Durban to deliver on to Time Charter. The mineral cargo is going to be discharged in London and, for a tween-decker, the shipowner will certainly try to fix outwards from the Continent. However, the Mediterranean market is normally weaker for tween-deckers than is the Continent market. If we fix the Time Charter Trip (TCT) from Durban to Izmir, the shipowner will presumably ballast from Izmir to the Continent which must be considered. Therefore, we have another adjustment to perform following redelivery in Izmir. Pemba (Mozambique) to Durban and, at 13 knots, takes 4.5 days (1350/ 312). The distance from Izmir to London is 2775 nm (nautical miles) equating to a steaming distance of 9 days. Therefore, a total extra steaming of 13.5 days. We are going to calculate the approximate duration of the Time Charter Trip (TCT):&lt;/p&gt;
+&lt;p&gt;Income: USD 3,000 less 5% commission x 60 days= USD 171,000&lt;br&gt;
+Expenses:&lt;br&gt;
+VLSFO 13.5 days x 18 (tonnes daily) x USD 70 per tonne = USD 17,010&lt;br&gt;
+MGO 13.5 days x 1.5 (tonnes daily) x USD 145 per tonne = USD 2,937&lt;br&gt;
+Total Expenses: USD 19,947&lt;br&gt;
+Income USD 171,000 less Expenses USD 19,947 = USD 151,053&lt;br&gt;
+USD 151,053/ 73.5 total days overall (60 + 13.5) = USD 2,055 daily&lt;/p&gt;
+&lt;p&gt;The Time Charter Trip alternative is not a better proposition than the voyage.&lt;/p&gt;
+&lt;h2&gt;&lt;strong&gt;What is Ship Voyage Estimation?&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;what-is-ship-voyage-estimation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-is-ship-voyage-estimation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Voyage Estimation is the calculation of the profit or loss that a ship will make from a proposed voyage charter. Voyage Estimation is simply profit and loss calculation for the particular voyage in question that is arrived at by deducting all related expenses from total income.&lt;/p&gt;
+&lt;p&gt;In voyage charter, there are two (2) types of costs:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Operating Costs&lt;/strong&gt;: crew costs, repairs and maintenance, insurance, stores, lubes etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Voyage Costs&lt;/strong&gt;: bunker (fuel), port dues, dock dues, canal tolls etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In voyage charter, operating and voyage costs are paid for by the shipowner. Therefore, Voyage Estimation must take into account freight income and subtract all voyage-related expenses, including address commission and brokerage.&lt;/p&gt;
+&lt;p&gt;In voyage chartering negotiations, Voyage Estimation is an indispensable part that assists shipowners to assess the financial feasibility of a particular trip vis-a-vis alternative voyages that may be available and in relation to the amount of profit required as well as prevailing competing freight rates.&lt;/p&gt;
+&lt;p&gt;On the other hand, Voyage Estimation is used by charterers in order to evaluate the appropriate ship for an attempt to minimize the cost of the transportation services.&lt;/p&gt;
+&lt;p&gt;Alternative voyages may be offered to shipowner and each alternative needs to be estimated prior to negotiating and completing any chartering deal. Voyage Estimation must be performed as accurately as possible. Even tough, Voyage Estimation is an estimate, it gives a very good indication for the potential profitability of a particular voyage. Furthermore, Voyage Estimation may provide comparisons with a Time Charter Equivalent (TCE) charter. &lt;strong&gt;Time Charter Equivalent (TCE)&lt;/strong&gt; estimate is a figure that denotes the daily hire that the ship will obtain if chartered on the particular voyage trip.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Process of Voyage Estimation&lt;/strong&gt;: Voyage estimating is a process that takes into account the following factors:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Cargo and Stowage Factor&lt;/li&gt;
+&lt;li&gt;Ship Characteristics&lt;/li&gt;
+&lt;li&gt;Time at Sea&lt;/li&gt;
+&lt;li&gt;Time at Port (Loading and Discharging Operations)&lt;/li&gt;
+&lt;li&gt;Time at Bunkering Port&lt;/li&gt;
+&lt;li&gt;Bunker (Fuel) Costs&lt;/li&gt;
+&lt;li&gt;Port Costs&lt;/li&gt;
+&lt;li&gt;Canal Costs&lt;/li&gt;
+&lt;li&gt;Freight Income&lt;/li&gt;
+&lt;li&gt;Operating Expenses&lt;/li&gt;
+&lt;li&gt;Commissions (Address Commissions and Brokerages)&lt;/li&gt;
+&lt;li&gt;TCE (Time Charter Equivalent)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;&lt;strong&gt;Best Voyage Estimation Software&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;best-voyage-estimation-software&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#best-voyage-estimation-software&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Voyage Estimation Software, we recommend **Netpas Estimator **which is Powerful Voyage Estimation Calculator. **Netpas Estimator **is an outstanding and practical voyage calculator for tramper business sector. &lt;strong&gt;Netpas Estimator&lt;/strong&gt; is an excellent voyage estimation software for most of the major types of tramper business such as Voyage, Cargo Relet and Time Charter. &lt;strong&gt;Netpas Estimator&lt;/strong&gt; delivers practical voyage calculations and simulations to assist your Voyage Estimation straightforward and quick.&lt;/p&gt;
+&lt;p&gt;Shipbrokers can assist charterers anywhere and anytime with precise information. With &lt;strong&gt;Netpas Estimator&lt;/strong&gt;, Shipbrokers can simply create Voyage Estimation and save it on the computer. Shipbrokers can open the saved Voyage Estimation and find the information quickly. Furthermore, **Netpas Estimator **delivers useful function such as Estimation Analysis, Loadable Quantity, Freight Simulator, and many additional functions. For more information please check &lt;a href=&#34;https://www.netpas.net/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;www.netpas.net&lt;/a&gt;&lt;/p&gt;
 
       </description>
     </item>
