@@ -192,15 +192,20 @@ Synoptic representation of pressure field, contour and thickness charts are a wa
 
 
 
+
+
 &lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;select-none text-xl ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34; style=&#39;font-family: &#34;Apple Color Emoji&#34;, &#34;Segoe UI Emoji&#34;, &#34;Segoe UI Symbol&#34;;&#39;&gt;ℹ️&lt;/div&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
   &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;p class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
       &lt;p&gt;&lt;strong&gt;Pressure field chart:&lt;/strong&gt; A pressure field chart shows the distribution of atmospheric pressure at a given time. Pressure field charts are typically used to identify and track weather systems, such as fronts, cyclones, and anticyclones.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Contour chart:&lt;/strong&gt; A contour chart shows the height of a given pressure surface above sea level. Contour charts are typically used to identify and track upper-level weather systems, such as jet streams and troughs.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Thickness chart:&lt;/strong&gt; A thickness chart shows the difference in height between two pressure surfaces. Thickness charts are typically used to identify and track areas of warm and cold air, which can lead to precipitation and other weather events.&lt;/p&gt;
 
-    &lt;/p&gt;
+    &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -222,17 +227,22 @@ Synoptic charts are used by meteorologists to create weather forecasts and to st
 
 
 
+
+
 &lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;select-none text-xl ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34; style=&#39;font-family: &#34;Apple Color Emoji&#34;, &#34;Segoe UI Emoji&#34;, &#34;Segoe UI Symbol&#34;;&#39;&gt;ℹ️&lt;/div&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
   &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;p class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
       &lt;p&gt;&lt;strong&gt;How to interpret synoptic charts?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Here is a brief description of how to interpret synoptic charts:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Pressure field chart:&lt;/strong&gt; The higher the pressure, the closer the air molecules are together and the heavier the air is. This makes high-pressure areas more stable and less likely to produce precipitation. Low-pressure areas are the opposite, with lower pressure and less stable air. Low-pressure areas are more likely to produce precipitation and other weather events, such as thunderstorms and tornadoes.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Contour chart:&lt;/strong&gt; The closer the contour lines are together, the steeper the slope of the pressure surface. This means that the wind will be stronger in areas where the contour lines are closer together.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Thickness chart:&lt;/strong&gt; Areas of warm air have a higher thickness than areas of cold air. This is because warm air expands and takes up more space than cold air. Thickness charts can be used to identify areas where there is a strong temperature gradient, which can lead to precipitation and other weather events.&lt;/p&gt;
 
-    &lt;/p&gt;
+    &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -254,10 +264,15 @@ Synoptic charts are used by meteorologists to create weather forecasts and to st
 
 
 
+
+
 &lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;select-none text-xl ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34; style=&#39;font-family: &#34;Apple Color Emoji&#34;, &#34;Segoe UI Emoji&#34;, &#34;Segoe UI Symbol&#34;;&#39;&gt;ℹ️&lt;/div&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
   &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;p class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
       &lt;p&gt;&lt;strong&gt;What is Streamline and isotach analysis?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Streamline and isotach analysis is a method of representing the wind field at a given level in the atmosphere. Streamlines are lines that are tangent to the wind at every point. Isotachs are lines of equal wind speed.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What is Streamline and isotach analysis used for?&lt;/strong&gt;&lt;/p&gt;
@@ -281,7 +296,7 @@ Synoptic charts are used by meteorologists to create weather forecasts and to st
 &lt;p&gt;Meteorologists can also look for areas where the isotachs are close together. This indicates an area where the wind is strong. Areas where the isotachs are far apart indicate an area where the wind is weak.&lt;/p&gt;
 &lt;p&gt;Streamline and isotach analysis is a powerful tool for understanding and forecasting the weather. It is used by meteorologists around the world to create weather maps and forecasts.&lt;/p&gt;
 
-    &lt;/p&gt;
+    &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -302,10 +317,15 @@ Synoptic charts are used by meteorologists to create weather forecasts and to st
 
 
 
+
+
 &lt;div class=&#34;overflow-x-auto mt-6 flex rounded-lg border py-2 ltr:pr-4 rtl:pl-4 contrast-more:border-current contrast-more:dark:border-current border-blue-200 bg-blue-100 text-blue-900 dark:border-blue-200/30 dark:bg-blue-900/30 dark:text-blue-200&#34;&gt;
-  &lt;div class=&#34;select-none text-xl ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34; style=&#39;font-family: &#34;Apple Color Emoji&#34;, &#34;Segoe UI Emoji&#34;, &#34;Segoe UI Symbol&#34;;&#39;&gt;ℹ️&lt;/div&gt;
+  &lt;div class=&#34;ltr:pl-3 ltr:pr-2 rtl:pr-3 rtl:pl-2&#34;&gt;&lt;div class=&#34;select-none text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
+        ℹ️
+      &lt;/div&gt;&lt;/div&gt;
+
   &lt;div class=&#34;w-full min-w-0 leading-7&#34;&gt;
-    &lt;p class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
+    &lt;div class=&#34;mt-6 leading-7 first:mt-0&#34;&gt;
       &lt;p&gt;&lt;strong&gt;What is Meteorological Stability?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Meteorological stability is a measure of the atmosphere&amp;rsquo;s tendency to resist vertical motion. A stable atmosphere is one in which vertical motion is suppressed, while an unstable atmosphere is one in which vertical motion is enhanced.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What does Meteorological Stability depend upon?&lt;/strong&gt;&lt;/p&gt;
@@ -337,7 +357,7 @@ Synoptic charts are used by meteorologists to create weather forecasts and to st
 Meteorologists use information about meteorological stability to create weather forecasts and to issue warnings about hazardous weather conditions.&lt;/li&gt;
 &lt;/ol&gt;
 
-    &lt;/p&gt;
+    &lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
