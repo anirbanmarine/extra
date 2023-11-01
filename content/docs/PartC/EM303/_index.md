@@ -1,9 +1,8 @@
 ---
-title: EM303 Commercial Shipping Management
+title: Commercial Shipping Management
 type: docs
 toc: true
 ---
-
 ## Contents
 
 * [Commercial Shipping]({{< ref "/cshipmgmt">}})
