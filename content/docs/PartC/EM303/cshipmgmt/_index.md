@@ -27,8 +27,8 @@ toc: true
 21.  [Frustration of charter party]({{< ref "/frustrate">}})
 22.  [Calculation of demurrage]({{< ref "/demurrcalc.md">}})
 23.  [Voyage estimate and calculations]({{< ref "/Voyestimate.md">}})
-24.  Container operations
-25.  Passenger operations
-26.  Bills of lading
-27.  Post-fixture actions
+24.  [Container operations]({{< ref "/containerops.md">}})
+25.  [Passenger operations]({{< ref "/passops.md">}})
+26.  [Bills of lading]({{< ref "/Billoflading.md">}})
+27.  [Post-fixture actions]({{< ref "/postfixactn.md">}})
      
