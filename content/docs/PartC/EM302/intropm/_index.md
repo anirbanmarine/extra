@@ -11,7 +11,8 @@ toc: true
 6. Location of major world ports in liner. dry bulk and liquid trades.
 7. [Main places of origin and trade routes of important cargoes & seasonal variations.]({{<ref "/Originofcargo.md">}})
 8. Effect of globalisation on port choice. 
-9. How changes in logistics and distribution pattems influence the development or decline of ports.
+9. [How changes in logistics and distribution pattems influence the development or decline of ports.]({{<ref "/changeinlogisticsanddistribution.md">}})
+8. Effect of globalisation on port choice. 
 10. The use of free port/free trade zones as an economic tool.
 
 
