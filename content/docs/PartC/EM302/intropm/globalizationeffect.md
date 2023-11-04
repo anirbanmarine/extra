@@ -1,4 +1,8 @@
-## Port Management: Effect of Globalization on Port Choice
+---
+title: Port Management-Effect of Globalization on Port Choice
+type: docs
+toc: true
+---
 
 Globalization has had a significant impact on port choice. In the past, ports were primarily concerned with handling cargo from and to their own countries. However, today, ports are increasingly competing for cargo from all over the world. This is due to a number of factors, including:
 

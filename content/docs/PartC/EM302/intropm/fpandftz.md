@@ -1,4 +1,8 @@
-##The use of free port or free trade zones
+---
+title: The use of free port or free trade zones
+type: docs
+toc: true
+---
 ###Economic tool to port management
 
 Free ports or free trade zones (FTZs) are designated areas within a country where goods can be stored, processed, and assembled without being subject to customs duties or other trade restrictions. They are often located near ports or airports to facilitate trade.
