@@ -6,10 +6,10 @@ toc: true
 ## Contents
 
 
-   1. Types of Losses/Expenses;
-   2. Average Total Loss(ATL)
-   3. Constructive Total Loss(CTL)
-   4. Paticular Average.(PA)
+   1. [Types of Losses/Expenses]({{< ref "/Cgoclimtypes.md">}})
+   2. [Average Total Loss(ATL)]({{< ref "/ATL.md">}})
+   3. [Constructive Total Loss(CTL)]({{< ref "/CTL.md">}})
+   4. [Particular Average.(PA)]
    5. General Average (GA)
    6. Loss. Salvage and Sue & labour expenses:
    7. Forwarding charges. 
