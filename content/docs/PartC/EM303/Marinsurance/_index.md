@@ -5,12 +5,12 @@ toc: true
 ---
 ## Contents
 
-   1.  History and evolution of marine insurance
-   2.  Principles of marine insurance
-   3.  Fixed premium
-   4.  Concept of mutuality
-   5.  P&l associations (difference between protection and indemnity)
-   6.  Marine insurance companies and its organisational structure
+   1.  [History and evolution of marine insurance]({{<ref "/histmarinsur.md">}})
+   2.  [Principles of marine insurance]({{<ref "/principlesmarinsur.md">}})
+   3.  [Fixed premium]({{<ref "/fixedprem.md">}})
+   4.  [Concept of mutuality]({{<ref "/mutuality.md">}})
+   5.  [P & I associations (difference between protection and indemnity)]({{<ref "/pandi.md">}})
+   6.  [Marine insurance companies and its organisational structure]({{<ref "/marinsurcomp.md">}})
    7.  Protection & indemnity associations (p&l clubs) and their organizational structure, 
    8.  Constitution of modern p&l clubs: 
    9.  Committee's/board's responsibilities: 

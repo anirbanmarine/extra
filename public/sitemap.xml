@@ -94,6 +94,8 @@
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/hydrosurv/control/</loc>
   </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/indianinsurance/currentexclusions/</loc>
+  </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/meteorology/cyclones/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/deduct/</loc>
@@ -154,6 +156,8 @@
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/marineres/marfish/fishfactory/</loc>
   </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/marinsurance/fixedprem/</loc>
+  </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/forwardchrges/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/frustrate/</loc>
@@ -182,6 +186,8 @@
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/hirecalc/</loc>
   </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/marinsurance/histmarinsur/</loc>
+  </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/satmet/satmethistory/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/hydrosurv/</loc>
@@ -189,6 +195,8 @@
     <loc>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/ice/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em303/indianinsurance/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/indianinsurance/indinsur/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/satmet/ismp/</loc>
   </url><url>
@@ -234,9 +242,13 @@
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/mohole/</loc>
   </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/marinsurance/mutuality/</loc>
+  </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/oceangov/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/oceangov/defoceangov/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/marinsurance/pandi/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/parta/</loc>
   </url><url>
@@ -268,6 +280,8 @@
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/postfixactn/</loc>
   </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/marinsurance/principlesmarinsur/</loc>
+  </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/negotiate/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/satmet/qestsst/</loc>
@@ -297,6 +311,8 @@
     <loc>https://www.anirbanmarine.in/docs/partc/em303/shippingmgmnt/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em301/marineres/oilngas/storage/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/marinsurance/marinsurcomp/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/</loc>
   </url><url>
@@ -359,6 +375,8 @@
     <loc>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/voyestimate/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em303/indianinsurance/wariskinsurance/</loc>
+  </url><url>
+    <loc>https://www.anirbanmarine.in/docs/partc/em303/indianinsurance/warisktrading/</loc>
   </url><url>
     <loc>https://www.anirbanmarine.in/docs/partc/em303/cabotage/jones/</loc>
   </url><url>
