@@ -11,7 +11,7 @@ toc: true
    4.  [Concept of mutuality]({{<ref "/mutuality.md">}})
    5.  [P & I associations (difference between protection and indemnity)]({{<ref "/pandi.md">}})
    6.  [Marine insurance companies and its organisational structure]({{<ref "/marinsurcomp.md">}})
-   7.  Protection & indemnity associations (p&l clubs) and their organizational structure, 
+   7.  [Protection & indemnity associations (p&l clubs) and their organizational structure]({{<ref "/orgstructpandi.md">}})
    8.  Constitution of modern p&l clubs: 
    9.  Committee's/board's responsibilities: 
    10.  Management of the club:
