@@ -1,5 +1,5 @@
 ---
-title: EM202 Advanced Naval Architecture
+title: EM201 Advanced Navigation and Maritime Cyber Security
 type: docs
 sidebar:
   open: true
@@ -7,14 +7,24 @@ sidebar:
 
 ## Contents
 
-* Revision of Fundamentals of naval architecture
-* Resistance and propulsion
-* Stress and Strain
-* Ship Motion
-* Ship Design
-* Manoeuvring Trials
-* Stability
-* Stability at Large angle of Heels
-* Dynamic Stability
-* Damaged Stability
-* Ship Vibration
+* Limitations of various formulae
+* Laws of planetary motion
+* Positional error in fixes
+* Stellar magnitudes and distances
+* Co-Orinate universal time and time signals.
+* The theory and general application of projections
+* Special problems in navigation
+* Latest advancement in navigational equipments.
+* Latest advancement in aids to navigation.
+* Special navigation systems.
+* Research and development.
+* Magnetism.
+* Terrestrial and ship's magnetism.
+* Compass construction and siting.
+* Compass adjustment 
+* Cyber security.
+* Maritime Cyber security.
+* Steps for maritime cyber security.
+* Cyber security in ports.
+* Managing cybersecurity.
+* Case studies and incidence response procedures.
