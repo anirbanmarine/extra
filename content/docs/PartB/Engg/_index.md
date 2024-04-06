@@ -13,7 +13,7 @@ sidebar:
 * Electrical systems
 * Shaft systems and propeller
 * Heating Ventilation and Air conditioning
-* Auxiliaries (principle, Opeartion, maintenance and checks)
+* Auxiliaries (principle, Operation, maintenance and checks)
 * Budgeting
 * Procurement of spares
 * Energy efficiency
