@@ -1,18 +1,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – EM203 Commercial Engineering , Robotics and Alternative Energy</title>
-    <link>https://www.anirbanmarine.in/docs/partb/engg/</link>
+    <link>http://localhost:1313/docs/partb/engg/</link>
     <description>Recent content in EM203 Commercial Engineering , Robotics and Alternative Energy on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://www.anirbanmarine.in/docs/partb/engg/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/partb/engg/index.xml" rel="self" type="application/rss+xml" />
     
     
       
         
       
     
+    
+    <item>
+      <title>Basic Features and Operation of Diesel Plants</title>
+      <link>http://localhost:1313/docs/partb/engg/diesel_plants/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/engg/diesel_plants/</guid>
+      <description>
+        
+        
+        
+      </description>
+    </item>
     
   </channel>
 </rss>

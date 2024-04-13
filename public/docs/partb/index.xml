@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – Part B</title>
-    <link>https://www.anirbanmarine.in/docs/partb/</link>
+    <link>http://localhost:1313/docs/partb/</link>
     <description>Recent content in Part B on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://www.anirbanmarine.in/docs/partb/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/partb/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>EM201 Advanced Navigation and Maritime Cyber Security</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/</link>
+      <link>http://localhost:1313/docs/partb/adnav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/</guid>
       <description>
         
         
@@ -53,10 +53,10 @@
     
     <item>
       <title>EM202 Advanced Naval Architecture</title>
-      <link>https://www.anirbanmarine.in/docs/partb/navarch/</link>
+      <link>http://localhost:1313/docs/partb/navarch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/navarch/</guid>
+      <guid>http://localhost:1313/docs/partb/navarch/</guid>
       <description>
         
         
@@ -80,10 +80,10 @@
     
     <item>
       <title>EM203 Commercial Engineering , Robotics and Alternative Energy</title>
-      <link>https://www.anirbanmarine.in/docs/partb/engg/</link>
+      <link>http://localhost:1313/docs/partb/engg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/engg/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/</guid>
       <description>
         
         
@@ -99,7 +99,7 @@
 &lt;li&gt;Electrical systems&lt;/li&gt;
 &lt;li&gt;Shaft systems and propeller&lt;/li&gt;
 &lt;li&gt;Heating Ventilation and Air conditioning&lt;/li&gt;
-&lt;li&gt;Auxiliaries (principle, Opeartion, maintenance and checks)&lt;/li&gt;
+&lt;li&gt;Auxiliaries (principle, Operation, maintenance and checks)&lt;/li&gt;
 &lt;li&gt;Budgeting&lt;/li&gt;
 &lt;li&gt;Procurement of spares&lt;/li&gt;
 &lt;li&gt;Energy efficiency&lt;/li&gt;
