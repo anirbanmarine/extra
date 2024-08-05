@@ -1,6 +1,8 @@
 ---
 Title: Section Modulus
-
+type: docs
+sidebar:
+  open: true
 
 ---
 
