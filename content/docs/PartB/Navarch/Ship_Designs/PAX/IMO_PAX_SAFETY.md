@@ -1,9 +1,12 @@
 ---
 title: IMO RO-RO SHIPS
-type :docs
-sidebar:
-open: true
+type: docs
+toc: true
 ---
+{{< embed-pdf url="./TITANIC.pdf" >}}
+{{< embed-pdf url="./PAX_Safety.pdf" >}}
+
+## What is a Roll on -Roll off Ship
 
 The roll-on/roll-off ship is one of the most successful types operating today. Its flexibility, ability to integrate with other transport systems and speed of operation have made it extremely popular on many shipping routes.
 
@@ -31,7 +34,8 @@ The two Organizations will also collaborate on the preparation of materials and 
 
  
 
-The development of ro-ros
+## The development of ro-ros
+
 The modern roll-on/roll-off ship can trace its origins back more than one hundred years to the early days of the steam train.
 
 Ships were specially designed to take trains across rivers which were too wide for bridges: the ships were equipped with rails, and the trains simply rolled straight on to the ship, which sailed across the river to another rail berth where the train would roll off again. An example is the Firth of Forth ferry in Scotland which began operations in 1851.
@@ -46,7 +50,7 @@ Ro-ros have also proved extremely popular with holiday makers and private car ow
 
  
 
-Herald of Free Enterprise
+## Herald of Free Enterprise
 In March 1987 the roll-on/roll-off passenger ferry Herald of Free Enterprise capsized and sank shortly after leaving Zeebrugge in Belgium. The accident occurred because the bow door was left open when the ship left port allowing water to enter and flood the car deck. The accident resulted in the deaths of 193 passengers and crew members.
 
 Shortly after the Herald of Free Enterprise disaster in 1987, the United Kingdom came to IMO with a request that a series of emergency measures by considered for adoption.
@@ -84,7 +88,7 @@ Further fire safety standards for new passenger ships, built on or after 1 Octob
 
  
 
-ISM Code
+## ISM Code
 The Herald of Free Enterprise accident was one of a number of very serious accidents which occurred during the late 1980's, were manifestly caused by human errors, with management faults also identified as contributing factors.
 
 At its 16th Assembly in October 1989, IMO adopted resolution A.647(16), Guidelines on Management for the Safe Operation of Ships and for Pollution Prevention.
@@ -106,7 +110,7 @@ The procedures required by the Code should be documented and compiled in a Safet
 
  
 
-Estonia accident
+## Estonia accident
 On 28 September 1994 the passenger ro-ro ship Estonia suddenly capsized in a severe storm in the north Baltic Sea and sank with the loss of more than 850 lives.
 
 On 4 October 1994 (i.e. five days after the incident), a proposal to establish a panel of experts to look into all aspects of ro-ro safety was put forward by Mr. W.A. O'Neil leading to a SOLAS Conference, which was convened in the shortest time possible, in November 1995 and succeeded in the adoption of a series of amendments and new regulations incorporated in the Convention applicable to both new and existing ro-ro passenger ships (and to other passenger ships). Further work recommended by the same conference (e.g. on AIS, VDRs, passenger evacuation/escape routes, etc.) has now all been completed.
@@ -123,7 +127,7 @@ Mr Torkild Funder of Denmark, a former chairman of the MSC, was chosen to be cha
 
 The panel's reports and recommendations were considered by a Steering Committee, which was established to co-ordinate the work of the panel of experts, in April and then by the full MSC at its 65th session in May 1995.
 
-19th IMO Assembly - November 1995 - adopted:
+### 19th IMO Assembly - November 1995 - adopted:
 
 A.792(19) Safety culture in and around passenger ships.
 A.793(19) Strength and securing and locking arrangements of shell doors on ro-ro passenger ships.
@@ -151,3 +155,5 @@ Amendments to other Chapters in the SOLAS Convention included changes to Chapter
 Other amendments were made to Chapter IV (radiocommunications); Chapter V (safety of navigation) - including a requirement that all ro-ro passenger ships should have an established working language - and Chapter VI (carriage of cargoes).
 
 The conference also adopted a resolution which permits regional arrangements to be made on special safety requirements for ro-ro passenger ships.
+
+

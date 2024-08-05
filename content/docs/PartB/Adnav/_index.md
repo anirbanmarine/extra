@@ -1,8 +1,6 @@
 ---
 title: EM201 Advanced Navigation and Maritime Cyber Security
 type: docs
-sidebar:
-  open: true
 ---
 
 ## Contents

@@ -1140,6 +1140,175 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b
     
     <item>
       <title></title>
+      <link>http://localhost:1313/docs/partb/adnav/special_navigation_problems/different_lat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/adnav/special_navigation_problems/different_lat/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Here&amp;rsquo;s the derivation for the relationship between geocentric latitude (ψ) and geographic latitude (φ):&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Reference Surfaces and Ellipsoid Parameters:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;We&amp;rsquo;ll consider the Earth approximated by an oblate spheroid represented by an ellipsoid.&lt;/li&gt;
+&lt;li&gt;The ellipsoid has an equatorial radius (a) and a polar radius (b), with a &amp;gt; b due to the Earth&amp;rsquo;s bulge.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Geometry:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Geographic Latitude (φ):&lt;/strong&gt; Imagine a point P on the Earth&amp;rsquo;s surface.  Draw a line from P to the center of the Earth (O), designated PO.  Extend this line further upwards to pierce the equatorial plane at point Q.   Angle φ is the geographic latitude, which is the angle between the equatorial plane (EQ) and the line normal (perpendicular) to the ellipsoid at point P.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Geocentric Latitude (ψ):&lt;/strong&gt;  Again, consider point P on the surface. Draw line PO connecting P to the Earth&amp;rsquo;s center (O). Angle ψ is the geocentric latitude, which is the angle between the equatorial plane (EQ) and line PO.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Relating the Angles:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ellipsoid Normality:&lt;/strong&gt;  Line OP is normal (perpendicular) to the ellipsoid&amp;rsquo;s surface at point P. This implies that angle OPQ (represented by ε) is 90 degrees.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Angle Relationships:&lt;/strong&gt; Angles φ + ε and ψ sum to 90 degrees because OQ and OP lie on a straight line.  Therefore:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;code-block relative mt-6 first:mt-0 group/code&#34;&gt;&lt;pre&gt;&lt;code id=&#34;code-block-0&#34;&gt;ψ &amp;#43; ε = 90°  (Equation 1)&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0&#34;&gt;
+    &lt;button
+      class=&#34;code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50&#34;
+      title=&#34;Copy code&#34;
+      data-clipboard-target=&#34;#code-block-0&#34;
+    &gt;
+      &lt;div class=&#34;group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+    &lt;/button&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Relating Ellipsoid Geometry to ε:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ellipsoid and Point P:&lt;/strong&gt;  Since P is on the ellipsoid&amp;rsquo;s surface, point P is a distance &amp;lsquo;a&amp;rsquo; from the center (O) along the equatorial plane and a distance &amp;lsquo;b&amp;rsquo; from the center (O) along the polar axis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Triangle OPQ:&lt;/strong&gt; Triangle OPQ is a right triangle with right angle at Q.  We can use trigonometry to relate side lengths and angle ε.  In this case, we&amp;rsquo;ll use the sine function (sin) because ε is opposite to side PQ and adjacent to side OP.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;code-block relative mt-6 first:mt-0 group/code&#34;&gt;&lt;pre&gt;&lt;code id=&#34;code-block-1&#34;&gt;sin(ε) = PQ / OP  (Equation 2)&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0&#34;&gt;
+    &lt;button
+      class=&#34;code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50&#34;
+      title=&#34;Copy code&#34;
+      data-clipboard-target=&#34;#code-block-1&#34;
+    &gt;
+      &lt;div class=&#34;group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+    &lt;/button&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;PQ from Ellipsoid:&lt;/strong&gt;  From the ellipsoid definition, distance PQ is equal to the difference between the equatorial radius (a) and the distance from the center (O) to point P along the polar axis.  This distance along the polar axis is often denoted by &amp;lsquo;z&amp;rsquo;.  Therefore:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;code-block relative mt-6 first:mt-0 group/code&#34;&gt;&lt;pre&gt;&lt;code id=&#34;code-block-2&#34;&gt;PQ = a - z&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0&#34;&gt;
+    &lt;button
+      class=&#34;code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50&#34;
+      title=&#34;Copy code&#34;
+      data-clipboard-target=&#34;#code-block-2&#34;
+    &gt;
+      &lt;div class=&#34;group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+    &lt;/button&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;z from φ:&lt;/strong&gt; We can relate distance &amp;lsquo;z&amp;rsquo; to geographic latitude (φ) using the concept of flattening.  Imagine a sphere inscribed within the ellipsoid, tangent to it at the equator. The distance from the center (O) to the equator on this sphere would be exactly &amp;lsquo;a&amp;rsquo;.  As we move away from the equator towards the poles, the ellipsoid bulges outwards compared to the inscribed sphere. Distance &amp;lsquo;z&amp;rsquo; represents the distance between the ellipsoid surface at point P and the surface of the inscribed sphere at the same latitude. There are various ways to calculate &amp;lsquo;z&amp;rsquo; depending on the specific ellipsoid model being used. A common approach uses the following formula:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;code-block relative mt-6 first:mt-0 group/code&#34;&gt;&lt;pre&gt;&lt;code id=&#34;code-block-3&#34;&gt;z = b * [1 - (1 - e^2) * sin^2(φ)]^(1/2)&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0&#34;&gt;
+    &lt;button
+      class=&#34;code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50&#34;
+      title=&#34;Copy code&#34;
+      data-clipboard-target=&#34;#code-block-3&#34;
+    &gt;
+      &lt;div class=&#34;group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+    &lt;/button&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;where &amp;rsquo;e&amp;rsquo; is the eccentricity of the ellipse, defined as:&lt;/p&gt;
+&lt;div class=&#34;code-block relative mt-6 first:mt-0 group/code&#34;&gt;&lt;pre&gt;&lt;code id=&#34;code-block-4&#34;&gt;e = sqrt(1 - (b^2 / a^2))&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0&#34;&gt;
+    &lt;button
+      class=&#34;code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50&#34;
+      title=&#34;Copy code&#34;
+      data-clipboard-target=&#34;#code-block-4&#34;
+    &gt;
+      &lt;div class=&#34;group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+    &lt;/button&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Substituting and Simplifying:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Substitute Equation 4 (z formula) into Equation 3 (PQ formula):&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;code-block relative mt-6 first:mt-0 group/code&#34;&gt;&lt;pre&gt;&lt;code id=&#34;code-block-5&#34;&gt;PQ = a - b * [1 - (1 - e^2) * sin^2(φ)]^(1/2)&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0&#34;&gt;
+    &lt;button
+      class=&#34;code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50&#34;
+      title=&#34;Copy code&#34;
+      data-clipboard-target=&#34;#code-block-5&#34;
+    &gt;
+      &lt;div class=&#34;group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+    &lt;/button&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Substitute Equation 5 (PQ formula) and OP (which is simply the equatorial radius &amp;lsquo;a&amp;rsquo;) into Equation 2 (sin(ε) formula):&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;code-block relative mt-6 first:mt-0 group/code&#34;&gt;&lt;pre&gt;&lt;code id=&#34;code-block-6&#34;&gt;sin(ε) = [a - b * [1 - (1 - e^2) * sin^2(φ)]^(1/2)] / a&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0&#34;&gt;
+    &lt;button
+      class=&#34;code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50&#34;
+      title=&#34;Copy code&#34;
+      data-clipboard-target=&#34;#code-block-6&#34;
+    &gt;
+      &lt;div class=&#34;group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+    &lt;/button&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Using trigonometric identities, we can rewrite sin(ε) as 1 - cos(ε)^2. Substitute this and rearrange the equation to solve for cos(ε):&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;code-block relative mt-6 first:mt-0 group/code&#34;&gt;&lt;pre&gt;&lt;code id=&#34;code-block-7&#34;&gt;cos(ε) = sqrt[ 1 - ( (a^2 - b^2) / a^2 ) * sin^2(φ)]&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0&#34;&gt;
+    &lt;button
+      class=&#34;code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50&#34;
+      title=&#34;Copy code&#34;
+      data-clipboard-target=&#34;#code-block-7&#34;
+    &gt;
+      &lt;div class=&#34;group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+    &lt;/button&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;strong&gt;Relating ε to ψ:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Substitute Equation 1 (ψ + ε = 90°) and solve for cos(ε):&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;code-block relative mt-6 first:mt-0 group/code&#34;&gt;&lt;pre&gt;&lt;code id=&#34;code-block-8&#34;&gt;cos(ε) = sin(ψ)&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;opacity-0 transition group-hover/code:opacity-100 flex gap-1 absolute m-[11px] right-0 top-0&#34;&gt;
+    &lt;button
+      class=&#34;code-copy-btn group/copybtn transition-all active:opacity-50 bg-primary-700/5 border border-black/5 text-gray-600 hover:text-gray-900 rounded-md p-1.5 dark:bg-primary-300/10 dark:border-white/10 dark:text-gray-400 dark:hover:text-gray-50&#34;
+      title=&#34;Copy code&#34;
+      data-clipboard-target=&#34;#code-block-8&#34;
+    &gt;
+      &lt;div class=&#34;group-[.copied]/copybtn:hidden copy-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+      &lt;div class=&#34;hidden group-[.copied]/copybtn:block success-icon pointer-events-none h-4 w-4&#34;&gt;&lt;/div&gt;
+    &lt;/button&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Equate the two expressions for&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://localhost:1313/docs/partc/em301/tides/typoftides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1382,6 +1551,40 @@ Seasonal variations&lt;/p&gt;
 &lt;p&gt;d) There is a potential conflict between sections 55(2)(a) and 78(4) MIA in that the former provision provides that unreasonable conduct on the part of the master will not prevent the assured from recovering under the policy provided that the loss has been caused by an insured peril, whereas the latter provision provides that the assured’s claim may be prejudiced if the master as the assured’s agent fails to take reasonable steps to avert or minimise the damage. In State of the Netherlands v Youell, the Court of Appeal said that this conflict is unlikely to arise and noted that if the master’s negligence is an insured peril under the policy, the conflict would not arise.&lt;/p&gt;
 &lt;p&gt;e) The duty applies ‘in all cases’, suggesting that it applies even when there is no sue and labour&lt;/p&gt;
 &lt;p&gt;f) However, there is a question whether or not the duty applies in respect of all circumstances which are insured or only those relating to a maritime adventure (section 3 MIA).&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>A Shift Towards Probabilistic Safety Assessment SOLAS 90 plus 50</title>
+      <link>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;SOLAS 90+50&lt;/strong&gt; is a term often used to collectively refer to the &lt;strong&gt;SOLAS 90&lt;/strong&gt; damage stability standards and the &lt;strong&gt;Stockholm Agreement&lt;/strong&gt;, as well as the subsequent &lt;strong&gt;SOLAS 2009&lt;/strong&gt; regulations, which introduced a probabilistic approach to ship safety.&lt;/p&gt;
+&lt;h3&gt;Key Points:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-points&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-points&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;SOLAS 90:&lt;/strong&gt; Established deterministic damage stability requirements for ships, particularly focusing on passenger ferries.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stockholm Agreement:&lt;/strong&gt; Introduced additional, stricter stability standards for ro-ro passenger ships operating in specific sea areas, particularly in response to the MS Estonia tragedy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SOLAS 2009:&lt;/strong&gt; Marked a significant shift from deterministic to probabilistic methods for assessing ship safety. This involved using statistical models to evaluate the likelihood of various damage scenarios and their consequences.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Why the Shift to Probabilistic Approach?&lt;span class=&#34;absolute -mt-20&#34; id=&#34;why-the-shift-to-probabilistic-approach&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#why-the-shift-to-probabilistic-approach&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The probabilistic approach offers several advantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;More Realistic Assessment:&lt;/strong&gt; It considers a wider range of potential damage scenarios, providing a more accurate picture of ship safety.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improved Risk Management:&lt;/strong&gt; By quantifying risks, it allows for better decision-making in ship design and operation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enhanced Safety:&lt;/strong&gt; Ultimately, it aims to improve the overall safety of ships and passengers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Challenges and Considerations:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;challenges-and-considerations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#challenges-and-considerations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Complexity:&lt;/strong&gt; Probabilistic methods require sophisticated calculations and modeling, which can be complex and resource-intensive.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data Availability:&lt;/strong&gt; Accurate data on damage scenarios and their consequences is essential for reliable probabilistic assessments.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry Adoption:&lt;/strong&gt; The transition from deterministic to probabilistic methods requires a significant learning curve for the maritime industry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Despite these challenges, the move towards probabilistic safety assessment is a crucial step in enhancing maritime safety.&lt;/p&gt;
 
       </description>
     </item>
@@ -3738,185 +3941,6 @@ Desalination plants can produce brine, which is a concentrated wastewater that c
 &lt;/ol&gt;
 &lt;h2&gt;Conclusion&lt;span class=&#34;absolute -mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Desalination is a growing technology that has the potential to help solve the world&amp;rsquo;s water crisis. However, it is important to weigh the advantages and disadvantages of desalination before building a desalination plant.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Differences between dry cargo and tanker chartering</title>
-      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/diffdcrgotnkchrtr/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/diffdcrgotnkchrtr/</guid>
-      <description>
-        
-        
-        &lt;p&gt;&lt;strong&gt;Differences between dry cargo and tanker chartering:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Type of cargo:&lt;/strong&gt; Dry cargo chartering involves the carriage of dry cargo, such as iron ore, coal, and grain. Tanker chartering involves the carriage of liquid cargo, such as oil and chemicals.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Ship type:&lt;/strong&gt; Dry cargo chartering typically involves the use of bulk carriers, general cargo ships, and container ships. Tanker chartering typically involves the use of crude oil tankers, product tankers, and chemical tankers.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cargo handling:&lt;/strong&gt; Dry cargo is typically loaded and discharged using cranes and other mechanical handling equipment. Liquid cargo is typically loaded and discharged using pumps and pipelines.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Cargo specifications:&lt;/strong&gt; Dry cargo specifications are typically less stringent than liquid cargo specifications. Liquid cargo specifications are typically more stringent due to the potential for environmental damage in the event of a spill.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Risk:&lt;/strong&gt; Tanker chartering is generally considered to be more risky than dry cargo chartering. This is due to the potential for environmental damage in the event of a spill.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Similarities between dry cargo and tanker chartering:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;similarities-between-dry-cargo-and-tanker-chartering&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#similarities-between-dry-cargo-and-tanker-chartering&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Types of charter parties:&lt;/strong&gt; Both dry cargo and tanker chartering can be done on a voyage or time charter basis.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Common terms:&lt;/strong&gt; Many of the common terms used in dry cargo charter parties are also used in tanker charter parties, such as freight rate, laytime, demurrage, and despatch.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Negotiation process:&lt;/strong&gt; The negotiation process for dry cargo and tanker charter parties is similar. Both the charterer and shipowner will need to negotiate the terms of the charter party, such as the freight rate, laytime, demurrage, and despatch.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Overall, dry cargo and tanker chartering are similar in many ways. However, there are some important differences, such as the type of cargo, ship type, cargo handling, cargo specifications, and risk.&lt;/p&gt;
-&lt;h2&gt;Here is a table that summarizes the key differences and similarities between dry cargo and tanker chartering:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;here-is-a-table-that-summarizes-the-key-differences-and-similarities-between-dry-cargo-and-tanker-chartering&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#here-is-a-table-that-summarizes-the-key-differences-and-similarities-between-dry-cargo-and-tanker-chartering&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Characteristic&lt;/th&gt;
-&lt;th&gt;Dry cargo chartering&lt;/th&gt;
-&lt;th&gt;Tanker chartering&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Type of cargo&lt;/td&gt;
-&lt;td&gt;Dry cargo, such as iron ore, coal, and grain&lt;/td&gt;
-&lt;td&gt;Liquid cargo, such as oil and chemicals&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Ship type&lt;/td&gt;
-&lt;td&gt;Bulk carriers, general cargo ships, and container ships&lt;/td&gt;
-&lt;td&gt;Crude oil tankers, product tankers, and chemical tankers&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Cargo handling&lt;/td&gt;
-&lt;td&gt;Typically loaded and discharged using cranes and other mechanical handling equipment&lt;/td&gt;
-&lt;td&gt;Typically loaded and discharged using pumps and pipelines&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Cargo specifications&lt;/td&gt;
-&lt;td&gt;Typically less stringent&lt;/td&gt;
-&lt;td&gt;Typically more stringent&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Risk&lt;/td&gt;
-&lt;td&gt;Generally considered to be less risky&lt;/td&gt;
-&lt;td&gt;Generally considered to be more risky&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Types of charter parties&lt;/td&gt;
-&lt;td&gt;Voyage or time charter&lt;/td&gt;
-&lt;td&gt;Voyage or time charter&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Common terms&lt;/td&gt;
-&lt;td&gt;Freight rate, laytime, demurrage, despatch, etc.&lt;/td&gt;
-&lt;td&gt;Freight rate, laytime, demurrage, despatch, etc.&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Negotiation process&lt;/td&gt;
-&lt;td&gt;Both charterer and shipowner negotiate the terms of the charter party&lt;/td&gt;
-&lt;td&gt;Both charterer and shipowner negotiate the terms of the charter party&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Different forms of the ownership structure of ports and port services</title>
-      <link>http://localhost:1313/docs/partc/em302/intropm/portown/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partc/em302/intropm/portown/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Public ports&lt;span class=&#34;absolute -mt-20&#34; id=&#34;public-ports&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#public-ports&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Public ports are owned and operated by the government. The government may be responsible for all aspects of port management, including infrastructure development, cargo handling, and marketing. Public ports are typically subject to government regulation, and their rates and services are often subsidized.&lt;/p&gt;
-&lt;p&gt;Examples of public ports include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Port of Los Angeles, California&lt;/li&gt;
-&lt;li&gt;Port of New York and New Jersey&lt;/li&gt;
-&lt;li&gt;Port of Rotterdam, Netherlands&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Private ports&lt;span class=&#34;absolute -mt-20&#34; id=&#34;private-ports&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#private-ports&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Private ports are owned and operated by private companies. Private ports may be fully or partially privatized. Fully privatized ports are owned by private companies and operate with little or no government involvement. Partially privatized ports may be owned by a combination of public and private entities.&lt;/p&gt;
-&lt;p&gt;Examples of private ports include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Port of Dubai, United Arab Emirates&lt;/li&gt;
-&lt;li&gt;Port of Singapore&lt;/li&gt;
-&lt;li&gt;Port of Gioia Tauro, Italy&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Landlord ports&lt;span class=&#34;absolute -mt-20&#34; id=&#34;landlord-ports&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#landlord-ports&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Landlord ports are a hybrid form of port ownership that combines elements of public and private ownership. In a landlord port, the government owns the port land and infrastructure, but leases it to private companies to operate. The private companies are responsible for building and operating cargo terminals, warehouses, and other port facilities.&lt;/p&gt;
-&lt;p&gt;Examples of landlord ports include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Port of Hong Kong&lt;/li&gt;
-&lt;li&gt;Port of Tanjung Priok, Indonesia&lt;/li&gt;
-&lt;li&gt;Port of Piraeus, Greece&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Full or part service provider terminal facilities within ports&lt;span class=&#34;absolute -mt-20&#34; id=&#34;full-or-part-service-provider-terminal-facilities-within-ports&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#full-or-part-service-provider-terminal-facilities-within-ports&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Terminal facilities within ports can be owned and operated by a variety of entities, including the port authority, private companies, or joint ventures. Some terminal facilities may be fully owned and operated by a single entity, while others may be partially owned and operated by multiple entities.&lt;/p&gt;
-&lt;p&gt;Examples of full or part service provider terminal facilities within ports include:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Container terminal operated by MSC (private company) at the Port of Piraeus, Greece&lt;/li&gt;
-&lt;li&gt;Ro-Ro terminal operated by PSA (joint venture between the Singapore government and PSA International) at the Port of Algeciras, Spain&lt;/li&gt;
-&lt;li&gt;Dry bulk terminal operated by APM Terminals (private company) at the Port of Rotterdam, Netherlands&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Conclusion&lt;span class=&#34;absolute -mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#conclusion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;There are a variety of ownership structures for ports and port services. The specific structure that is used in a particular port will depend on a number of factors, including the country&amp;rsquo;s economic system, the port&amp;rsquo;s strategic importance, and the level of government involvement desired.&lt;/p&gt;
-&lt;h2&gt;Benefits and drawbacks of different ownership structures&lt;span class=&#34;absolute -mt-20&#34; id=&#34;benefits-and-drawbacks-of-different-ownership-structures&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#benefits-and-drawbacks-of-different-ownership-structures&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;&lt;strong&gt;Public ports&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;public-ports-1&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#public-ports-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;benefits&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#benefits&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Public ports can be more responsive to the needs of the local community.&lt;/li&gt;
-&lt;li&gt;Public ports can provide subsidized rates and services to certain users.&lt;/li&gt;
-&lt;li&gt;Public ports can be used to promote national economic development.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Drawbacks:&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;drawbacks&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#drawbacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Public ports can be inefficient and bureaucratic.&lt;/li&gt;
-&lt;li&gt;Public ports can be subject to political interference.&lt;/li&gt;
-&lt;li&gt;Public ports can be slow to respond to changing market conditions.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;strong&gt;Private ports&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;private-ports-1&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#private-ports-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;benefits-1&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#benefits-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Private ports are typically more efficient and innovative.&lt;/li&gt;
-&lt;li&gt;Private ports are more responsive to market demand.&lt;/li&gt;
-&lt;li&gt;Private ports can attract investment and create jobs.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Drawbacks:&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;drawbacks-1&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#drawbacks-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Private ports may be less responsive to the needs of the local community.&lt;/li&gt;
-&lt;li&gt;Private ports may charge higher rates and fees.&lt;/li&gt;
-&lt;li&gt;Private ports may be subject to monopoly power.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;strong&gt;Landlord ports&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;landlord-ports-1&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#landlord-ports-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;benefits-2&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#benefits-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Landlord ports combine the efficiency of private operation with the public interest of government ownership of land and infrastructure.&lt;/li&gt;
-&lt;li&gt;Landlord ports can attract investment and create jobs.&lt;/li&gt;
-&lt;li&gt;Landlord ports can provide a level of government oversight and regulation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Drawbacks:&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;drawbacks-2&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#drawbacks-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Landlord ports may be more complex to manage than other port ownership structures.&lt;/li&gt;
-&lt;li&gt;Landlord ports may be subject to political interference in the leasing process.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;&lt;strong&gt;Full or part service provider terminal facilities within ports&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;full-or-part-service-provider-terminal-facilities-within-ports-1&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#full-or-part-service-provider-terminal-facilities-within-ports-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;&lt;strong&gt;Benefits:&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;benefits-3&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#benefits-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Full or part service provider terminal facilities can bring in expertise and investment from the private sector.&lt;/li&gt;
-&lt;li&gt;Full or part service provider terminal facilities can provide more flexibility and competition in the port market.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Drawbacks:&lt;/strong&gt;&lt;span class=&#34;absolute -mt-20&#34; id=&#34;drawbacks-3&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#drawbacks-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Full or part service provider terminal facilities may be more expensive to operate than government-operated terminal facilities.&lt;/li&gt;
-&lt;li&gt;Full or part service provider terminal facilities may be less responsive to the needs of the local community.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2&gt;Which ownership structure is best?&lt;span class=&#34;absolute -mt-20&#34; id=&#34;which-ownership-structure-is-best&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#which-ownership-structure-is-best&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The best ownership structure for a particular port will depend on a number of factors, including the country&amp;rsquo;s economic system, the port&amp;rsquo;s strategic importance, and the level of&lt;/p&gt;
 
       </description>
     </item>

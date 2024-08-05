@@ -14,5 +14,40 @@
       
     
     
+    <item>
+      <title>Section Modulus</title>
+      <link>http://localhost:1313/docs/partb/navarch/stress_and_strain/section_modulus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/stress_and_strain/section_modulus/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Section Modulus = Z = I/Y&lt;/p&gt;
+&lt;p&gt;Sigma stress , at the deck and at the keel (MxY)/I&lt;/p&gt;
+&lt;p&gt;M = Bending Moments
+I = moment of inertia.
+Y = Distance between point under consideration to the neutral axis.&lt;/p&gt;
+&lt;p&gt;SF = Shearing Forces
+BM = Bending Moments
+BS = bending Stresses&lt;/p&gt;
+&lt;p&gt;Sectional Modulus&lt;/p&gt;
+&lt;p&gt;Methods of Structural Failure&lt;/p&gt;
+&lt;p&gt;Stress, Strain&lt;/p&gt;
+&lt;p&gt;Tensile Stress&lt;/p&gt;
+&lt;p&gt;Fracture&lt;/p&gt;
+&lt;p&gt;Yield&lt;/p&gt;
+&lt;p&gt;Brittleness.&lt;/p&gt;
+&lt;p&gt;Buckling&lt;/p&gt;
+&lt;p&gt;Fatigue&lt;/p&gt;
+&lt;p&gt;Corrosion Allowances&lt;/p&gt;
+&lt;p&gt;Stress Indicators&lt;/p&gt;
+&lt;p&gt;Torsion
+Ice Class Ships/Polar Code&lt;/p&gt;
+&lt;p&gt;CSR Steel thickness and buckling&lt;/p&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>

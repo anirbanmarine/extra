@@ -1,8 +1,6 @@
 ---
 title: Ship designs
 type: docs
-sidebar:
-  open: true
 ---
 
 1. Preliminary design methods, weight and cost estimate. 

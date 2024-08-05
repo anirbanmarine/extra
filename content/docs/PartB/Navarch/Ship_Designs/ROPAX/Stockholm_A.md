@@ -1,8 +1,6 @@
 ---
 title: Stockholm Agreement 
-type :docs
-sidebar:
-open: true
+type: docs
 ---
 ## The Stockholm Agreement: Enhanced Stability for Ro-Ro Passenger Ships
 

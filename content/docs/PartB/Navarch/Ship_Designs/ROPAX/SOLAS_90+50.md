@@ -1,8 +1,6 @@
 ---
-title: SOLAS 90+50: A Shift Towards Probabilistic Safety Assessment
+title: A Shift Towards Probabilistic Safety Assessment SOLAS 90 plus 50
 type: docs
-sidebar:
-open: true
 ---
 **SOLAS 90+50** is a term often used to collectively refer to the **SOLAS 90** damage stability standards and the **Stockholm Agreement**, as well as the subsequent **SOLAS 2009** regulations, which introduced a probabilistic approach to ship safety.
 

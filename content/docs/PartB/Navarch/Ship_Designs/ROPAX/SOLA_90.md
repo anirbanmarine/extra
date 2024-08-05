@@ -1,8 +1,6 @@
 ---
 title: SOLAS 90 Requirements for Passenger Ferries
-type :docs
-sidebar:
-open: true
+type: docs
 ---
 
 
@@ -36,7 +34,7 @@ open: true
 
 Adherence to SOLAS 90 and subsequent amendments is crucial for ensuring the safety of passengers and crew on passenger ferries. Non-compliance can lead to severe consequences, including loss of life and property.
 
+**Note:** The specific requirements can be complex and vary depending on the type and size of the ferry. It is essential to consult the official SOLAS text and relevant national regulations for detailed information.
 
-
-
+**Would you like to know more about specific aspects of SOLAS 90 or its impact on passenger ferry safety?** 
 

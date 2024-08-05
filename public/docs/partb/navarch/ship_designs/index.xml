@@ -14,5 +14,619 @@
       
     
     
+    <item>
+      <title>A Shift Towards Probabilistic Safety Assessment SOLAS 90 plus 50</title>
+      <link>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;SOLAS 90+50&lt;/strong&gt; is a term often used to collectively refer to the &lt;strong&gt;SOLAS 90&lt;/strong&gt; damage stability standards and the &lt;strong&gt;Stockholm Agreement&lt;/strong&gt;, as well as the subsequent &lt;strong&gt;SOLAS 2009&lt;/strong&gt; regulations, which introduced a probabilistic approach to ship safety.&lt;/p&gt;
+&lt;h3&gt;Key Points:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-points&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-points&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;SOLAS 90:&lt;/strong&gt; Established deterministic damage stability requirements for ships, particularly focusing on passenger ferries.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stockholm Agreement:&lt;/strong&gt; Introduced additional, stricter stability standards for ro-ro passenger ships operating in specific sea areas, particularly in response to the MS Estonia tragedy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;SOLAS 2009:&lt;/strong&gt; Marked a significant shift from deterministic to probabilistic methods for assessing ship safety. This involved using statistical models to evaluate the likelihood of various damage scenarios and their consequences.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Why the Shift to Probabilistic Approach?&lt;span class=&#34;absolute -mt-20&#34; id=&#34;why-the-shift-to-probabilistic-approach&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#why-the-shift-to-probabilistic-approach&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The probabilistic approach offers several advantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;More Realistic Assessment:&lt;/strong&gt; It considers a wider range of potential damage scenarios, providing a more accurate picture of ship safety.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improved Risk Management:&lt;/strong&gt; By quantifying risks, it allows for better decision-making in ship design and operation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enhanced Safety:&lt;/strong&gt; Ultimately, it aims to improve the overall safety of ships and passengers.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Challenges and Considerations:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;challenges-and-considerations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#challenges-and-considerations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Complexity:&lt;/strong&gt; Probabilistic methods require sophisticated calculations and modeling, which can be complex and resource-intensive.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data Availability:&lt;/strong&gt; Accurate data on damage scenarios and their consequences is essential for reliable probabilistic assessments.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry Adoption:&lt;/strong&gt; The transition from deterministic to probabilistic methods requires a significant learning curve for the maritime industry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Despite these challenges, the move towards probabilistic safety assessment is a crucial step in enhancing maritime safety.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>IMO RO-RO SHIPS</title>
+      <link>http://localhost:1313/docs/partb/navarch/ship_designs/pax/imo_pax_safety/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/pax/imo_pax_safety/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.min.js&#34; integrity=&#34;sha512-i+UmpoqoJqHkpXQ3mQfaIF8UZ2RAGoyqJvMzAKTadhBVhRk883EHluxdPsMf7c5/43D5tVpwIE8KLE1kQa0uCg==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.worker.min.js&#34; integrity=&#34;sha512-NuVK4+sDE809oDhbdAABRO1nTe80t56vXda8dg1UQ+RcQ8x7WakwTzKE7LOosoNCKi7EH7FXo7mritFNWpZiLQ==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+
+&lt;style&gt;
+  #embed-pdf-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 20vh;
+     
+  }
+  
+  .pdf-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  #the-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  
+  .pdf-loadingWrapper {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 350px;
+  }
+  
+  .pdf-loading {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 3px solid #d2d0d0;;
+    border-radius: 50%;
+    border-top-color: #383838;
+    animation: spin 1s ease-in-out infinite;
+    -webkit-animation: spin 1s ease-in-out infinite;
+  }
+  
+  
+  
+  
+  
+  #overlayText {
+    word-wrap: break-word;
+    display: grid;
+    justify-content: end;
+  }
+  
+  #overlayText a {
+    position: relative;
+    top: 10px;
+    right: 4px;
+    color: #000;
+    margin: auto;
+    background-color: #eeeeee;
+    padding: 0.3em 1em;
+    border: solid 2px;
+    border-radius: 12px;
+    border-color: #00000030;
+    text-decoration: none;
+  }
+  
+  #overlayText svg {
+    height: clamp(1em, 2vw, 1.4em);
+    width:  clamp(1em, 2vw, 1.4em);
+  }
+  
+  
+  
+  @keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  @-webkit-keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  &lt;/style&gt;&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-68e17a9a&#34;&gt;
+    &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-68e17a9a&#34;&gt;
+        &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-68e17a9a&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;overlayText&#34;&gt;
+      &lt;a href=&#34;./TITANIC.pdf&#34; aria-label=&#34;Download&#34; download&gt;
+        &lt;svg aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 18 18&#34;&gt;
+            &lt;path d=&#34;M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z&#34; /&gt;
+        &lt;/svg&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;canvas class=&#34;pdf-canvas&#34; id=&#34;pdf-canvas-68e17a9a&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;pdf-paginator&#34; id=&#34;pdf-paginator-68e17a9a&#34;&gt;
+    &lt;button id=&#34;pdf-prev-68e17a9a&#34;&gt;Previous&lt;/button&gt;
+    &lt;button id=&#34;pdf-next-68e17a9a&#34;&gt;Next&lt;/button&gt; &amp;nbsp; &amp;nbsp;
+    &lt;span&gt;
+      &lt;span class=&#34;pdf-pagenum&#34; id=&#34;pdf-pagenum-68e17a9a&#34;&gt;&lt;/span&gt; / &lt;span class=&#34;pdf-pagecount&#34; id=&#34;pdf-pagecount-68e17a9a&#34;&gt;&lt;/span&gt;
+    &lt;/span&gt;
+    &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-68e17a9a&#34; href=&#34;./TITANIC.pdf&#34;&gt;[pdf]&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;noscript&gt;
+View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-68e17a9a&#34; href=&#34;./TITANIC.pdf&#34;&gt;here&lt;/a&gt;.
+&lt;/noscript&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    (function(){
+    var url = &#39;.\/TITANIC.pdf&#39;;
+
+    var hidePaginator = &#34;&#34; === &#34;true&#34;;
+    var hideLoader = &#34;&#34; === &#34;true&#34;;
+    var selectedPageNum = parseInt(&#34;&#34;) || 1;
+
+    
+    var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;http:\/\/localhost:1313\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById(&#39;pdf-canvas-68e17a9a&#39;),
+        ctx = canvas.getContext(&#39;2d&#39;),
+        paginator = document.getElementById(&#34;pdf-paginator-68e17a9a&#34;),
+        loadingWrapper = document.getElementById(&#39;pdf-loadingWrapper-68e17a9a&#39;);
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById(&#39;pdf-pagenum-68e17a9a&#39;).textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = &#39;none&#39;;
+      canvas.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = &#39;flex&#39;;
+      canvas.style.display = &#39;none&#39;;
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum &lt;= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-prev-68e17a9a&#39;).addEventListener(&#39;click&#39;, onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum &gt;= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-next-68e17a9a&#39;).addEventListener(&#39;click&#39;, onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById(&#39;pdf-pagecount-68e17a9a&#39;).textContent = numPages;
+
+      
+      if(pageNum &gt; numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+&lt;/script&gt;
+
+&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-0b6df44f&#34;&gt;
+    &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-0b6df44f&#34;&gt;
+        &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-0b6df44f&#34;&gt;&lt;/div&gt;
+    &lt;/div&gt;
+    &lt;div id=&#34;overlayText&#34;&gt;
+      &lt;a href=&#34;./PAX_Safety.pdf&#34; aria-label=&#34;Download&#34; download&gt;
+        &lt;svg aria-hidden=&#34;true&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 18 18&#34;&gt;
+            &lt;path d=&#34;M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z&#34; /&gt;
+        &lt;/svg&gt;
+      &lt;/a&gt;
+    &lt;/div&gt;
+    &lt;canvas class=&#34;pdf-canvas&#34; id=&#34;pdf-canvas-0b6df44f&#34;&gt;&lt;/canvas&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;pdf-paginator&#34; id=&#34;pdf-paginator-0b6df44f&#34;&gt;
+    &lt;button id=&#34;pdf-prev-0b6df44f&#34;&gt;Previous&lt;/button&gt;
+    &lt;button id=&#34;pdf-next-0b6df44f&#34;&gt;Next&lt;/button&gt; &amp;nbsp; &amp;nbsp;
+    &lt;span&gt;
+      &lt;span class=&#34;pdf-pagenum&#34; id=&#34;pdf-pagenum-0b6df44f&#34;&gt;&lt;/span&gt; / &lt;span class=&#34;pdf-pagecount&#34; id=&#34;pdf-pagecount-0b6df44f&#34;&gt;&lt;/span&gt;
+    &lt;/span&gt;
+    &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-0b6df44f&#34; href=&#34;./PAX_Safety.pdf&#34;&gt;[pdf]&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;noscript&gt;
+View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-0b6df44f&#34; href=&#34;./PAX_Safety.pdf&#34;&gt;here&lt;/a&gt;.
+&lt;/noscript&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    (function(){
+    var url = &#39;.\/PAX_Safety.pdf&#39;;
+
+    var hidePaginator = &#34;&#34; === &#34;true&#34;;
+    var hideLoader = &#34;&#34; === &#34;true&#34;;
+    var selectedPageNum = parseInt(&#34;&#34;) || 1;
+
+    
+    var pdfjsLib = window[&#39;pdfjs-dist/build/pdf&#39;];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;http:\/\/localhost:1313\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById(&#39;pdf-canvas-0b6df44f&#39;),
+        ctx = canvas.getContext(&#39;2d&#39;),
+        paginator = document.getElementById(&#34;pdf-paginator-0b6df44f&#34;),
+        loadingWrapper = document.getElementById(&#39;pdf-loadingWrapper-0b6df44f&#39;);
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById(&#39;pdf-pagenum-0b6df44f&#39;).textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = &#39;none&#39;;
+      canvas.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = &#39;flex&#39;;
+      canvas.style.display = &#39;none&#39;;
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = &#39;block&#39;;
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum &lt;= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-prev-0b6df44f&#39;).addEventListener(&#39;click&#39;, onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum &gt;= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById(&#39;pdf-next-0b6df44f&#39;).addEventListener(&#39;click&#39;, onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById(&#39;pdf-pagecount-0b6df44f&#39;).textContent = numPages;
+
+      
+      if(pageNum &gt; numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+&lt;/script&gt;
+&lt;/p&gt;
+&lt;h2&gt;What is a Roll on -Roll off Ship&lt;span class=&#34;absolute -mt-20&#34; id=&#34;what-is-a-roll-on--roll-off-ship&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-is-a-roll-on--roll-off-ship&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The roll-on/roll-off ship is one of the most successful types operating today. Its flexibility, ability to integrate with other transport systems and speed of operation have made it extremely popular on many shipping routes.&lt;/p&gt;
+&lt;p&gt;The roll-on/roll-off ship is defined in the November 1995 amendments to Chapter II-1 of the International Convention for the Safety of Life at Sea (SOLAS), 1974 as being &amp;ldquo;a passenger ship with ro-ro cargo spaces or special category spaces&amp;hellip;&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;One of the ro-ro ship&amp;rsquo;s most important roles is as a passenger/car ferry, particularly on short-sea routes.&lt;/p&gt;
+&lt;p&gt;The global ferry industry is similar in size to the commercial airline industry, transporting approximately 4.27 billion passengers per year, plus 373 million vehicles (including cars, buses and trailers).&lt;/p&gt;
+&lt;p&gt;But despite its commercial success, there have been disturbing accidents involving different types of ro-ro ship, the worst being the sudden and catastrophic capsizing of the passenger/car ferry Herald of Free Enterprise in March 1987 and the even more tragic loss of the Estonia in September 1994.&lt;/p&gt;
+&lt;p&gt;In response to those incidents, IMO has adopted a series of amendments to the International Convention for the Safety of Life at Sea (SOLAS) which are intended to ensure that incidents of that type would not re-occur.&lt;/p&gt;
+&lt;p&gt;More importantly, action should be taken before an incident occurs, applying the proactive policy IMO adopted in the 1990s.&lt;/p&gt;
+&lt;p&gt;The review of large passenger ship safety, initiated by the Organization in 2000, is an example of a proactive holistic approach to the consideration of safety issues pertaining to passenger ships, with particular emphasis on large cruise ships. This work culminated in the adoption of a series of amendments to SOLAS adopted in December 2006, with anticipated entry into force in July 2010. The amendments will have a profound impact on the design of future passenger ships, taking into account the guiding philosophy based on the dual premise that the regulatory framework should place more emphasis on the prevention of a casualty from occurring in the first place and that future passenger ships should be designed for improved survivability so that, in the event of a casualty, persons can stay safely on board as the ship proceeds to port.&lt;/p&gt;
+&lt;p&gt;The outcome of this proactive initiative has resulted in an entirely new regulatory philosophy for the design, construction and operation of passenger ships that will better address the future needs of the passenger ship industry. Many of the new regulations adopted will apply equally to passenger ro-ro ferries as to cruise ships.&lt;/p&gt;
+&lt;p&gt;IMO has also recognized the need to focus on those ferries which do not come under SOLAS and is working on the development of standards for &amp;ldquo;non-convention&amp;rdquo; vessels - those passenger ferries which for reasons of being operated inland or solely on domestic routes are not required to conform with SOLAS. On 20 January 2006, IMO signed a Memorandum of understanding (MoU) with Interferry formalizing the two Organizations&amp;rsquo; intent to work together towards enhancing the safety of non-Convention ferries by collaborating, through IMO&amp;rsquo;s Integrated Technical Co-operation Programme, on related capacity-building activities within developing countries.&lt;/p&gt;
+&lt;p&gt;Under the agreement, the two Organizations will work closely with interested parties such as Bangladesh, which has been selected as a pilot country for the Organizations&amp;rsquo; work, with the aim of identifying potential solutions to increasing ferry safety. The two Organizations have agreed to share certain costs and IMO will seek financial support from governments and multilateral funding organizations. Interferry will reach out to private sector ferry operators and its own members, as well as other international private sector organizations, to inform them of the initiative and seek their support, as well as seeking the assistance of private sector ferry operators in the pilot country itself.&lt;/p&gt;
+&lt;p&gt;The two Organizations will also collaborate on the preparation of materials and documentation to support the operation of a national working group in the pilot country which will seek to involve all stakeholders in improving ferry safety. Preparatory work has taken place and the pilot project will be launched later in 2007.&lt;/p&gt;
+&lt;h2&gt;The development of ro-ros&lt;span class=&#34;absolute -mt-20&#34; id=&#34;the-development-of-ro-ros&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-development-of-ro-ros&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The modern roll-on/roll-off ship can trace its origins back more than one hundred years to the early days of the steam train.&lt;/p&gt;
+&lt;p&gt;Ships were specially designed to take trains across rivers which were too wide for bridges: the ships were equipped with rails, and the trains simply rolled straight on to the ship, which sailed across the river to another rail berth where the train would roll off again. An example is the Firth of Forth ferry in Scotland which began operations in 1851.&lt;/p&gt;
+&lt;p&gt;It was not until the Second World War, however, that the idea of applying the ro-ro principle of road transport became practicable - and was used in constructing the tank landing craft used at D-Day and in other battles. The principle was applied to merchant ships in the late 1940s and early 1950s. It proved to be extremely popular, especially on short-sea ferry routes, encouraged by technical developments on land as well as sea, notably the increase in road transport.&lt;/p&gt;
+&lt;p&gt;For the shipper, the ro-ro ship offered a number of advantages over traditional ships, notably speed. As the name of the system implies, cars and lorries can drive straight on to a ro-ro ship at one port and off at the port on the other side of the sea within a few minutes of the ship docking.&lt;/p&gt;
+&lt;p&gt;Ro-ro ships also integrate well with other transport development, such as containers, and the use of Customs-sealed units (first introduced in the late 1950s) has enabled frontiers to be crossed with the minimum of delay, thereby further increasing speed and efficiency for the shipper.&lt;/p&gt;
+&lt;p&gt;Ro-ros have also proved extremely popular with holiday makers and private car owners and have significantly contributed to the growth of tourism. Until the early 1950s someone wishing to take his car from one country to another by sea had to get it loaded into the ship&amp;rsquo;s hold by crane, a time-consuming and expensive process. The development of the ro-ro car ferry changed all that and many ports boomed as a result.&lt;/p&gt;
+&lt;h2&gt;Herald of Free Enterprise&lt;span class=&#34;absolute -mt-20&#34; id=&#34;herald-of-free-enterprise&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#herald-of-free-enterprise&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In March 1987 the roll-on/roll-off passenger ferry Herald of Free Enterprise capsized and sank shortly after leaving Zeebrugge in Belgium. The accident occurred because the bow door was left open when the ship left port allowing water to enter and flood the car deck. The accident resulted in the deaths of 193 passengers and crew members.&lt;/p&gt;
+&lt;p&gt;Shortly after the Herald of Free Enterprise disaster in 1987, the United Kingdom came to IMO with a request that a series of emergency measures by considered for adoption.&lt;/p&gt;
+&lt;p&gt;The Maritime Safety Committee (MSC) adopted the first package of amendments to the International Convention for the Safety of Life at Sea (SOLAS) in April 1988, including a new regulation requiring indicators on the navigating bridge for all doors which, if left open, could lead to major flooding of a special category space or a ro-ro cargo space, as well as means such as monitoring to detect water leakage. Another new regulation required monitoring of special category and ro-ro spaces to detect undue movement of vehicles in adverse weather, fire, the presence of water or unauthorized access by passengers whilst the ship is underway.&lt;/p&gt;
+&lt;p&gt;Another amendment dealt with provision of supplementary emergency lighting for ro-ro passenger ships. The amendments entered into force on 22 October 1989, 18 months after adoption, the minimum time period allowed under SOLAS.&lt;/p&gt;
+&lt;p&gt;Further amendments were adopted in October 1988 at a special MSC session requested and paid for by the United Kingdom. The amendments adopted entered into force on 29 April 1990 and have become known as the &amp;ldquo;SOLAS 90&amp;rdquo; standard, relating to the stability of passenger ships in the damaged condition. In fact, work on developing this standard had begun following the accident involving the European Gateway, which had capsized following a collision with another ship in 1982, and ended up lying on her side in relatively shallow water with only five lives lost.&lt;/p&gt;
+&lt;p&gt;The amendment applied to ships built after 29 April 1990 and stipulated that the maximum angle of heel after flooding but before equalization shall not exceed 15 degrees.&lt;/p&gt;
+&lt;p&gt;A further amendment addressed intact stability, requiring masters to be supplied with data necessary to maintain sufficient intact stability, including information showing the influence of various trims, taking into account operational limits.&lt;/p&gt;
+&lt;p&gt;Another amendment added a new regulation requiring cargo loading doors to be locked before the ship proceeds on any voyage and to remain closed until the ship is at its next berth.&lt;/p&gt;
+&lt;p&gt;Another amendment required a a lightweight survey must be carried out to passenger ships to verify any changes in lightweight displacement and the longitudinal centre of gravity, at periods not exceeding five years.&lt;/p&gt;
+&lt;p&gt;Further amendments to SOLAS were adopted by the MSC in April 1989, also entering into force on 1 February 1992. The most important dealt with openings in watertight bulkheads in passenger ships. From 1 February 1992 new ships have had to be equipped with power-operated sliding doors, except in specific cases, which must be capable of being closed from a console on the bridge in not more than 60 seconds. All watertight doors must be kept closed except in exceptional circumstances.&lt;/p&gt;
+&lt;p&gt;In May 1990, new amendments relating to the subdivision and damage stability of cargo ships (including freight-only ro-ro ships) were adopted, applying to ships of 100 metres or more in length built after 1 February 1992. The amendments were based upon the so-called &amp;ldquo;probabilistic&amp;rdquo; concept of survival, originally developed through study of data relating to collisions collected by IMO.&lt;/p&gt;
+&lt;p&gt;A series of amendments relating to safe stowage and securing of cargoes were adopted in May 1991, with a revised SOLAS chapter VI Carriage of cargoes entering into force on 1 January 1994. The new chapter refers to the Code of Safe Practice for Cargo Stowage and Securing, which includes a number of annexes dealing with such &amp;ldquo;problem&amp;rdquo; cargoes as wheel-based cargoes and unit loads, both of which are carried on ro-ro ships.&lt;/p&gt;
+&lt;p&gt;Other amendments adopted in May 1991 improved fire safety on ships, in particular concerning large open spaces such as atriums on passenger ships built on or after 1 January 1994. Such spaces were to be provided with two means of escape, one of which gives direct access to an enclosed vertical means of escape and be .fitted with a smoke extraction system and with automatic sprinkler systems.&lt;/p&gt;
+&lt;p&gt;Under the April 1992 Amendments to SOLAS, a slightly modified SOLAS 90 standard was adopted to be phased in for existing ro-ro passenger ships between 1 October 1994 and 1 October 2005, based on the value of a ratio known as A/Amax, determined in accordance with a calculation procedure developed by the MSC to assess the survivability characteristics of existing ro-ro passenger ships. A/Amax is a simplified probabilistic approach attempting to assess the survivability standard of one ferry against another. It assumes a number of simplifications and is a rough guide used because it allowed all countries to carry out relatively quick calculations on a representative number of ferries. It is not a survivability standard as such but enables a hierarchy of vessels to be established.&lt;/p&gt;
+&lt;p&gt;Meanwhile, Denmark, Finland, Norway, Sweden and the United Kingdom in 1993 adopted the &amp;ldquo;Stockholm Agreement&amp;rdquo; concerning specific stability requirements for ro-ro passenger ships
+undertaking regular scheduled international voyages between or from designated ports in North West Europe and the Baltic Sea, which meant that existing ferries operating on most of these routes would have to meet the full SOLAS 1990 standard.&lt;/p&gt;
+&lt;p&gt;Important fire safety measures for existing passenger ships carrying more than 36 passengers were also adopted in April 1992, influenced by another accident - that involving the ro-ro passenger ferry Scandinavian Star caught fire during a voyage in 1990 from Norway to Denmark, resulting in the loss of 165 lives.&lt;/p&gt;
+&lt;p&gt;Further fire safety standards for new passenger ships, built on or after 1 October 1994, were adopted in December 1992.&lt;/p&gt;
+&lt;h2&gt;ISM Code&lt;span class=&#34;absolute -mt-20&#34; id=&#34;ism-code&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ism-code&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The Herald of Free Enterprise accident was one of a number of very serious accidents which occurred during the late 1980&amp;rsquo;s, were manifestly caused by human errors, with management faults also identified as contributing factors.&lt;/p&gt;
+&lt;p&gt;At its 16th Assembly in October 1989, IMO adopted resolution A.647(16), Guidelines on Management for the Safe Operation of Ships and for Pollution Prevention.
+The purpose of these Guidelines was to provide those responsible for the operation of ships with a framework for the proper development, implementation and assessment of safety and pollution prevention management in accordance with good practice.&lt;/p&gt;
+&lt;p&gt;The objective was to ensure safety, to prevent human injury or loss of life, and to avoid damage to the environment, in particular, the marine environment, and to property. The Guidelines were based on general principles and objectives so as to promote evolution of sound management and operating practices within the industry as a whole.
+The Guidelines recognised the importance of the existing international instruments as the most important means of preventing maritime casualties and pollution of the sea and included sections on management and the importance of a safety and environmental policy.&lt;/p&gt;
+&lt;p&gt;After some experience in the use of the Guidelines, in 1993 the International Management Code for the Safe Operation of Ships and for Pollution Prevention (the ISM Code) was adopted by the 1993 Assembly as resolution A.741(18).&lt;/p&gt;
+&lt;p&gt;In 1994, a conference adopted amendments to SOLAS to make the Code mandatory, in a new chapter IX Management for the Safe Operation of Ships.&lt;/p&gt;
+&lt;p&gt;The ISM Code establishes safety-management objectives and requires a safety management system (SMS) to be established by &amp;ldquo;the Company&amp;rdquo;, which is defined as the shipowner or any person, such as the manager or bareboat charterer, who has assumed responsibility for operating the ship.&lt;/p&gt;
+&lt;p&gt;The Company is then required to establish and implement a policy for achieving these objectives. This includes providing the necessary resources and shore-based support.
+Every company is expected &amp;ldquo;to designate a person or persons ashore having direct access to the highest level of management&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;The procedures required by the Code should be documented and compiled in a Safety Management Manual, a copy of which should be kept on board.&lt;/p&gt;
+&lt;h2&gt;Estonia accident&lt;span class=&#34;absolute -mt-20&#34; id=&#34;estonia-accident&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#estonia-accident&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;On 28 September 1994 the passenger ro-ro ship Estonia suddenly capsized in a severe storm in the north Baltic Sea and sank with the loss of more than 850 lives.&lt;/p&gt;
+&lt;p&gt;On 4 October 1994 (i.e. five days after the incident), a proposal to establish a panel of experts to look into all aspects of ro-ro safety was put forward by Mr. W.A. O&amp;rsquo;Neil leading to a SOLAS Conference, which was convened in the shortest time possible, in November 1995 and succeeded in the adoption of a series of amendments and new regulations incorporated in the Convention applicable to both new and existing ro-ro passenger ships (and to other passenger ships). Further work recommended by the same conference (e.g. on AIS, VDRs, passenger evacuation/escape routes, etc.) has now all been completed.&lt;/p&gt;
+&lt;p&gt;It is, however, important to recall that there had been a considerable amount of work with a direct bearing on ro-ro passenger ships&amp;rsquo; safety, which IMO had concluded even prior to the loss of the Estonia. For example, the &amp;ldquo;SOLAS 90&amp;rdquo; standard and the adoption of the ISM Code in 1994 had its roots in concerns over ro-ro passenger ship constructional and operational safety.&lt;/p&gt;
+&lt;p&gt;The impact of the Estonia incident was to accelerate a comprehensive review of all aspects of ro-ro ferry safety, including search and rescue requirements.&lt;/p&gt;
+&lt;p&gt;The Maritime Safety Committee (MSC), which met from 5 to 9 December 1994, established the panel of experts, which reported to the MSC in May 1995. The IMO Assembly, meeting for its 19th session in November 1995, adopted five resolutions directly relating to safety of roll on-roll off passenger ships. The Assembly was followed immediately by the SOLAS conference on ro-ro safety which adopted a series of regulations intended to ensure no repeat of the Estonia incident, including stability regulations applicable to both new and existing ro-ro passenger ships as well as operational requirements, such as that for an established working language. The conference also adopted 12 resolutions relating to future work and it is safe to say that, 10 years later, all of the work has now been completed.&lt;/p&gt;
+&lt;p&gt;The panel of experts on ro-ro safety worked under the supervision of a Steering Committee, chaired by the late Dr. Giuliano Pattofatto.&lt;/p&gt;
+&lt;p&gt;Mr Torkild Funder of Denmark, a former chairman of the MSC, was chosen to be chairman of the panel of experts, which was to consist of designated specialists and the chairmen of a number of IMO sub-committees.&lt;/p&gt;
+&lt;p&gt;The panel&amp;rsquo;s reports and recommendations were considered by a Steering Committee, which was established to co-ordinate the work of the panel of experts, in April and then by the full MSC at its 65th session in May 1995.&lt;/p&gt;
+&lt;h3&gt;19th IMO Assembly - November 1995 - adopted:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;19th-imo-assembly---november-1995---adopted&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#19th-imo-assembly---november-1995---adopted&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A.792(19) Safety culture in and around passenger ships.
+A.793(19) Strength and securing and locking arrangements of shell doors on ro-ro passenger ships.
+A.794(19) Surveys and inspections of ro-ro passenger ships.
+A.795(19) Navigational guidance and information scheme for ro-ro ferry operations.
+A.796(19) Recommendations on a decision-support system for masters on passenger ships&lt;/p&gt;
+&lt;p&gt;SOLAS Conference 1995
+The November 1995 SOLAS amendments (Conference)
+Adopted: 29 November 1995
+Entry into force: 1 July 1997&lt;/p&gt;
+&lt;p&gt;The conference adopted a series of amendments to SOLAS, based on proposals put forward by the Panel of Experts on the safety of roll on-roll off passenger ships which was established in December 1994 following the sinking of the ferry Estonia.&lt;/p&gt;
+&lt;p&gt;The most important changes relate to the stability of ro-ro passenger ships in Chapter II-1.&lt;/p&gt;
+&lt;p&gt;The SOLAS 90 damage stability standard, which had applied to all ro-ro passenger ships built since 1990, was extended to existing ships in accordance with an agreed phase-in programme. Ships that only meet 85% of the standard had to comply fully by 1 October 1998 and those meeting 97.5% or above, by 1 October 2005. (The SOLAS 90 standard refers to the damage stability standard in the 1988 (October) amendments to SOLAS adopted 28 October 1988 and entering into force on 29 April 1990.)&lt;/p&gt;
+&lt;p&gt;The conference also adopted a new regulation 8-2, containing special requirements for ro-ro passenger ships carrying 400 passengers or more. This is intended to phase out ships built to a one-compartment standard and ensure that they can survive without capsizing with two main compartments flooded following damage.&lt;/p&gt;
+&lt;p&gt;Amendments to other Chapters in the SOLAS Convention included changes to Chapter III, which deals with life saving appliances and arrangements, including the addition of a section requiring ro-ro passenger ships to be fitted with public address systems, a regulation providing improved requirements for life-saving appliances and arrangements and a requirement for all passenger ships to have full information on the details of passengers on board and requirements for the provision of a helicopter pick-up or landing area.&lt;/p&gt;
+&lt;p&gt;Other amendments were made to Chapter IV (radiocommunications); Chapter V (safety of navigation) - including a requirement that all ro-ro passenger ships should have an established working language - and Chapter VI (carriage of cargoes).&lt;/p&gt;
+&lt;p&gt;The conference also adopted a resolution which permits regional arrangements to be made on special safety requirements for ro-ro passenger ships.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>SOLAS 90 Requirements for Passenger Ferries</title>
+      <link>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/sola_90/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/sola_90/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;SOLAS 90 Requirements for Passenger Ferries&lt;span class=&#34;absolute -mt-20&#34; id=&#34;solas-90-requirements-for-passenger-ferries&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#solas-90-requirements-for-passenger-ferries&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;SOLAS 90&lt;/strong&gt; refers to the amendments to the International Convention for the Safety of Life at Sea (SOLAS) adopted in 1988 and entering into force in 1990. These amendments introduced significant changes, particularly in the area of damage stability for passenger ferries.&lt;/p&gt;
+&lt;h3&gt;Key SOLAS 90 Requirements for Passenger Ferries&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-solas-90-requirements-for-passenger-ferries&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-solas-90-requirements-for-passenger-ferries&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Damage Stability:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduced stricter damage stability standards to ensure that ferries can survive damage and remain afloat in severe sea conditions.&lt;/li&gt;
+&lt;li&gt;Required ships to meet specific criteria based on the size and passenger capacity of the vessel.&lt;/li&gt;
+&lt;li&gt;This involved calculations and assessments to determine the ship&amp;rsquo;s ability to withstand flooding and maintain stability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Watertight Doors:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Mandated power-operated sliding watertight doors, except in specific cases.&lt;/li&gt;
+&lt;li&gt;Required these doors to be capable of being closed from a central control station within 60 seconds.&lt;/li&gt;
+&lt;li&gt;Emphasized the importance of keeping watertight doors closed to prevent flooding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ro-Ro Passenger Ships:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduced specific requirements for ro-ro passenger ferries carrying 400 or more passengers.&lt;/li&gt;
+&lt;li&gt;Focused on safety measures to address the unique challenges of these types of vessels.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Additional Considerations&lt;span class=&#34;absolute -mt-20&#34; id=&#34;additional-considerations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#additional-considerations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stockholm Agreement:&lt;/strong&gt; While not part of SOLAS 90, the Stockholm Agreement further enhanced safety standards for ro-ro passenger ferries operating in specific sea areas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ongoing Amendments:&lt;/strong&gt; SOLAS is a living document, and subsequent amendments have built upon the foundation laid by SOLAS 90.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flag State Regulations:&lt;/strong&gt; Individual flag states may have additional or stricter requirements beyond SOLAS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Importance of Compliance&lt;span class=&#34;absolute -mt-20&#34; id=&#34;importance-of-compliance&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#importance-of-compliance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Adherence to SOLAS 90 and subsequent amendments is crucial for ensuring the safety of passengers and crew on passenger ferries. Non-compliance can lead to severe consequences, including loss of life and property.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; The specific requirements can be complex and vary depending on the type and size of the ferry. It is essential to consult the official SOLAS text and relevant national regulations for detailed information.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Would you like to know more about specific aspects of SOLAS 90 or its impact on passenger ferry safety?&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Stockholm Agreement</title>
+      <link>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/stockholm_a/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/stockholm_a/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;The Stockholm Agreement: Enhanced Stability for Ro-Ro Passenger Ships&lt;span class=&#34;absolute -mt-20&#34; id=&#34;the-stockholm-agreement-enhanced-stability-for-ro-ro-passenger-ships&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-stockholm-agreement-enhanced-stability-for-ro-ro-passenger-ships&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The Stockholm Agreement is a regional agreement that introduced stricter damage stability standards for ro-ro passenger ships operating in specific sea areas. It was developed in response to the tragic sinking of the MS Estonia ferry in 1994.&lt;/p&gt;
+&lt;h3&gt;Key Features of the Stockholm Agreement:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;key-features-of-the-stockholm-agreement&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-features-of-the-stockholm-agreement&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Complement to SOLAS 90:&lt;/strong&gt; The agreement builds upon the existing SOLAS 90 regulations, providing additional safety measures.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Focus on Severe Sea Conditions:&lt;/strong&gt; The Stockholm Agreement addresses the specific challenges faced by ro-ro passenger ships in sea states between 1.5 meters and 4 meters significant wave height.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Water Accumulation on Ro-Ro Decks:&lt;/strong&gt; Unlike SOLAS 90, the agreement considers the potential accumulation of water on the ro-ro decks in case of damage.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sea Area-Based Requirements:&lt;/strong&gt; The specific stability requirements vary depending on the sea area where the ship operates. This is determined by the significant wave height in the region.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Calculation Methodology:&lt;/strong&gt; A specific method is outlined in the agreement to calculate the height of water on the ro-ro deck following damage based on the ship&amp;rsquo;s residual freeboard and the significant wave height.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Impact of the Stockholm Agreement:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;impact-of-the-stockholm-agreement&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#impact-of-the-stockholm-agreement&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The Stockholm Agreement has significantly improved the safety of ro-ro passenger ships operating in its coverage area. By requiring higher stability standards, it reduces the risk of capsizing in severe sea conditions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;It&amp;rsquo;s important to note that while the Stockholm Agreement has been influential, the maritime industry continues to evolve, and newer regulations, such as SOLAS 2020, have introduced further enhancements to passenger ship safety.&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
   </channel>
 </rss>
