@@ -1694,6 +1694,69 @@ Here are some specific examples of conservation and management measures that are
     </item>
     
     <item>
+      <title>Azimuth thrusters</title>
+      <link>http://localhost:1313/docs/partb/engg/azimuth-thrusters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/engg/azimuth-thrusters/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Azimuth thrusters are becoming increasingly popular in marine propulsion systems due to their versatility and maneuverability. They are particularly useful in confined spaces, such as harbors and canals, where traditional propellers can be difficult to maneuver.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why are Azimuth Thrusters being used on some of the new buildings?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Enhanced Maneuverability:&lt;/strong&gt; Azimuth thrusters can rotate 360 degrees, allowing for precise control and easy docking or maneuvering in tight spaces.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improved Efficiency:&lt;/strong&gt; Azimuth thrusters can be more efficient than traditional propellers, especially at low speeds, as they can be directly aligned with the vessel&amp;rsquo;s direction of travel.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reduced Noise and Vibration:&lt;/strong&gt; Azimuth thrusters can generate less noise and vibration than traditional propellers, improving comfort for passengers and crew.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Increased Stability:&lt;/strong&gt; Azimuth thrusters can help to improve the stability of a vessel, especially in rough seas.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;How would they contribute to changes in the Engine Rooms of vessels?&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Simplified Control Systems:&lt;/strong&gt; Azimuth thrusters require more complex control systems than traditional propellers, but these systems can be more efficient and user-friendly.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reduced Maintenance:&lt;/strong&gt; Azimuth thrusters generally require less maintenance than traditional propellers, as there are fewer moving parts.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Increased Space:&lt;/strong&gt; Azimuth thrusters can be installed in a variety of locations on a vessel, including the stern, bow, and sides. This can free up space in the engine room for other equipment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Overall, Azimuth thrusters are a valuable addition to modern marine propulsion systems. Their versatility, efficiency, and maneuverability make them well-suited for a wide range of vessels, from small tugs to large cruise ships.
+&lt;strong&gt;Redundancy in Thruster Systems&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Redundancy in thruster systems is achieved by having multiple thrusters capable of providing the same or similar functions. This ensures that if one thruster fails, the vessel can still maintain propulsion and maneuverability.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Common Redundancy Strategies:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Multiple Thruster Configurations:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Dual-screw:&lt;/strong&gt; Two propellers located at the stern.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Quadruple-screw:&lt;/strong&gt; Four propellers located at the stern.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Azipod:&lt;/strong&gt; Two or more azimuth thrusters located at the stern or sides of the vessel.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Podded Propulsion:&lt;/strong&gt; Similar to Azipods, but with the electric motor and propeller enclosed in a pod.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Emergency Power Systems:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Backup generators:&lt;/strong&gt; To provide power to the thrusters in case of a main power failure.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Emergency batteries:&lt;/strong&gt; For short-term backup power.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Redundant Control Systems:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Multiple control stations for the thrusters.&lt;/li&gt;
+&lt;li&gt;Backup control systems in case of a failure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Benefits of Redundancy:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Enhanced safety:&lt;/strong&gt; Redundancy reduces the risk of complete propulsion loss due to a single thruster failure.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improved maneuverability:&lt;/strong&gt; Multiple thrusters provide greater control and flexibility in maneuvering.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Increased reliability:&lt;/strong&gt; Redundancy can improve the overall reliability of the propulsion system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By implementing redundancy in thruster systems, vessel operators can significantly enhance the safety and reliability of their operations, especially in critical situations such as emergencies or harsh weather conditions.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Basic techniques of Hydrographic Surveying</title>
       <link>http://localhost:1313/docs/partc/em301/hydrosurv/bashydro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3373,6 +3436,46 @@ c- A dispute arising from a commodity contract [Section 4(1) of the 1979 Act].&l
     </item>
     
     <item>
+      <title>CNG as a Marine Fuel</title>
+      <link>http://localhost:1313/docs/partb/engg/cng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/engg/cng/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The growing interest in using Compressed Natural Gas (CNG) as a fuel for marine vessels is primarily driven by the following factors&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Environmental Benefits:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Reduced Emissions:&lt;/strong&gt; CNG burns cleaner than traditional marine fuels like diesel, producing significantly lower levels of harmful pollutants such as sulfur oxides (SOx), nitrogen oxides (NOx), and particulate matter (PM). This helps to improve air quality and reduce greenhouse gas emissions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lower Carbon Footprint:&lt;/strong&gt; CNG has a lower carbon intensity compared to fossil fuels, contributing to efforts to mitigate climate change.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Economic Advantages:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost Savings:&lt;/strong&gt; CNG can often be more cost-effective than traditional marine fuels, especially in regions with abundant natural gas resources. This can lead to significant savings for vessel operators.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reduced Maintenance:&lt;/strong&gt; CNG engines generally require less maintenance compared to diesel engines, resulting in lower operating costs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. Safety Improvements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lower Flammability:&lt;/strong&gt; CNG is less flammable than gasoline and diesel, making it a safer fuel option for marine applications.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improved Safety Features:&lt;/strong&gt; Modern CNG systems incorporate advanced safety features to prevent leaks and ensure safe operation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;4. Technological Advancements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Improved Engine Design:&lt;/strong&gt; CNG engines have become more efficient and reliable in recent years, making them a viable option for marine propulsion.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Infrastructure Development:&lt;/strong&gt; The development of CNG fueling infrastructure, including refueling stations and pipelines, is supporting the adoption of CNG in the marine industry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;5. Regulatory Pressures:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Emission Standards:&lt;/strong&gt; Governments worldwide are implementing stricter emission standards for marine vessels. CNG can help to meet these standards while maintaining operational efficiency.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Incentives:&lt;/strong&gt; Governments and regulatory bodies are offering incentives and subsidies to encourage the adoption of cleaner marine fuels like CNG.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Overall, the combination of environmental benefits, economic advantages, safety improvements, technological advancements, and regulatory pressures is driving the increasing interest in using CNG as a fuel for marine vessels.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Co-Ordinate Universal Time and Time Signals</title>
       <link>http://localhost:1313/docs/partb/adnav/utc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3844,103 +3947,74 @@ Rapid intensification can be a dangerous process, as it can make it difficult fo
     </item>
     
     <item>
-      <title>Deductions from Freight</title>
-      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/deduct/</link>
+      <title>Deck Cranes</title>
+      <link>http://localhost:1313/docs/partb/engg/deck-cranes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/deduct/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/deck-cranes/</guid>
       <description>
         
         
-        &lt;p&gt;Any deductions from freight should be made only if there is &lt;strong&gt;express agreement&lt;/strong&gt; in the charterparty, for example, Address Commission or Brokerage Commission, Cash to Master etc.&lt;/p&gt;
-&lt;p&gt;Under English law there is a rule known as equitable set-off where claims may be deducted from monies being under a contract, this rule does not apply to freight and was firmly established in The Aries (1977). The Aries (1977) case covered a cargo of oil, where freight was payable on the intaken quantity on delivery of the cargo. The charterer deducted $30,000 from freight, without owners consent, in respect of a claim for damages for short delivery.&lt;/p&gt;
-&lt;p&gt;The charterers, presumably feeling that their loss had been recovered, did not actually lodge a claim for the short delivery, which would have in some measure justified the deduction. Two years after delivery the owners started proceedings to claim the balance of freight. The charterers argued that the ordinary rules of set-off should apply and that freight should not be treated as a special case. The case reached the House of Lords who found in favour of owners. Briefly the judgment stated: ‘that the rule with regard to freight was so firmly established, it would be wrong to depart from it.&lt;/p&gt;
-&lt;p&gt;In addition, since the 12 month time limit in the Hague Rules did not merely bar the remedy, but extinguished the claim, there was no claim the charterers could set-off, even where there were a set-off permissible.&lt;/p&gt;
-&lt;p&gt;The deduction made by the charterer, to which the shipowners had not agreed, had &lt;strong&gt;no legal significance&lt;/strong&gt; and did not relieve the charterer of the need to commence suit within 12 months, if he wished shipowner’s liability for the cargo damage to remain in existence.’ The simple rule for the charterer then is to pay the freight as agreed and commence proceedings against the owner to recover losses.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Demersal and Pelagic fishing</title>
-      <link>http://localhost:1313/docs/partc/em301/marineres/marfish/demerpelag/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partc/em301/marineres/marfish/demerpelag/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Demersal and pelagic fishing are two different types of fishing that target different types of fish in different habitats.&lt;/p&gt;
-&lt;h2&gt;Demersal fishing&lt;span class=&#34;absolute -mt-20&#34; id=&#34;demersal-fishing&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#demersal-fishing&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;is the fishing of fish that live on or near the bottom of the ocean. These fish are also known as groundfish. Demersal fish are typically caught using bottom trawls, gillnets, and longlines.Some examples of demersal fish include cod, haddock, flounder, sole, and shrimp.&lt;/p&gt;
-&lt;h2&gt;Pelagic fishing&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pelagic-fishing&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#pelagic-fishing&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;is the fishing of fish that live in the open ocean, away from the bottom. These fish are also known as midwater fish. Pelagic fish are typically caught using purse seines, pelagic trawls, and troll lines.Some examples of pelagic fish include tuna, mackerel, herring, and sardines.&lt;/p&gt;
-&lt;p&gt;Both demersal and pelagic fishing can have a significant impact on marine ecosystems. Overfishing is a major threat to both types of fish populations. Demersal fishing can also damage the seabed, which can impact other marine organisms. Pelagic fishing can lead to bycatch, which is the accidental capture of non-target species, such as seabirds and dolphins.&lt;/p&gt;
-&lt;p&gt;It is important to manage demersal and pelagic fisheries sustainably to ensure that these resources remain available for future generations. Some sustainable fishing practices include:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Using selective fishing gear to avoid bycatch.&lt;/li&gt;
-&lt;li&gt;Setting catch limits to prevent overfishing.&lt;/li&gt;
-&lt;li&gt;Protecting spawning grounds and other important fish habitats.&lt;/li&gt;
-&lt;li&gt;Monitoring fish populations to ensure that they are healthy and sustainable.&lt;/li&gt;
+        &lt;h2&gt;Rocking Test on Deck Cranes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;rocking-test-on-deck-cranes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#rocking-test-on-deck-cranes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Purpose:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;purpose&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#purpose&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The Rocking Test is a crucial inspection procedure for deck cranes to assess the structural integrity of the crane and its foundation. It helps to identify any potential weaknesses or damage that could compromise the crane&amp;rsquo;s safety and stability.&lt;/p&gt;
+&lt;h3&gt;Procedure:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;procedure&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#procedure&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Preparation:&lt;/strong&gt; Ensure that the crane is in a stable position and that all safety precautions are in place.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Manual rocking:&lt;/strong&gt; Manually apply a rocking motion to the crane base, either by pushing or pulling on the crane structure.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Observation:&lt;/strong&gt; Carefully observe the crane&amp;rsquo;s response to the rocking motion. Pay attention to any unusual sounds, vibrations, or excessive movement.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Inspection:&lt;/strong&gt; Inspect the crane&amp;rsquo;s foundation, bearings, and other components for signs of damage, such as cracks, corrosion, or loose bolts.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Individuals can also play a role in supporting sustainable demersal and pelagic fisheries by choosing seafood that has been caught or farmed sustainably.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Desalination processes</title>
-      <link>http://localhost:1313/docs/partc/em301/marineres/minerals/desalination/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partc/em301/marineres/minerals/desalination/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;There are two main types of desalination processes: thermal and membrane.&lt;span class=&#34;absolute -mt-20&#34; id=&#34;there-are-two-main-types-of-desalination-processes-thermal-and-membrane&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#there-are-two-main-types-of-desalination-processes-thermal-and-membrane&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Thermal desalination&lt;span class=&#34;absolute -mt-20&#34; id=&#34;thermal-desalination&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#thermal-desalination&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;processes use heat to evaporate seawater, leaving behind the salt and impurities. The most common thermal desalination processes are:&lt;/p&gt;
-&lt;h4&gt;Multi-stage flash distillation (MSF):&lt;span class=&#34;absolute -mt-20&#34; id=&#34;multi-stage-flash-distillation-msf&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#multi-stage-flash-distillation-msf&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;MSF is the most mature thermal desalination technology. In MSF, seawater is heated to a high temperature and then flashed into steam. The steam is then condensed to produce fresh water.&lt;/p&gt;
-&lt;h4&gt;Multiple-effect distillation (MED):&lt;span class=&#34;absolute -mt-20&#34; id=&#34;multiple-effect-distillation-med&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#multiple-effect-distillation-med&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;MED is similar to MSF, but it uses a series of chambers with different temperatures and pressures to improve efficiency.&lt;/p&gt;
-&lt;h4&gt;Vapor compression distillation (VCD):&lt;span class=&#34;absolute -mt-20&#34; id=&#34;vapor-compression-distillation-vcd&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#vapor-compression-distillation-vcd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;VCD uses a compressor to increase the pressure of seawater. This causes the seawater to boil at a lower temperature, which reduces the energy required for the process.&lt;/p&gt;
-&lt;h2&gt;Membrane desalination processes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;membrane-desalination-processes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#membrane-desalination-processes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;use semi-permeable membranes to filter out the salt and impurities from seawater. The most common membrane desalination process is reverse osmosis (RO).&lt;/p&gt;
-&lt;h3&gt;Reverse osmosis (RO)&lt;span class=&#34;absolute -mt-20&#34; id=&#34;reverse-osmosis-ro&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#reverse-osmosis-ro&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;works by applying pressure to seawater to force it through a semi-permeable membrane. The membrane allows water molecules to pass through, but it blocks the salt and impurities. RO is the most energy-efficient desalination process, and it is becoming increasingly popular as the cost of membranes has decreased.&lt;/p&gt;
-&lt;p&gt;Other membrane desalination processes include:&lt;/p&gt;
-&lt;h3&gt;Electrodialysis:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;electrodialysis&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#electrodialysis&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Electrodialysis uses electrical energy to move ions through a series of membranes.&lt;/p&gt;
-&lt;h3&gt;Nanofiltration:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;nanofiltration&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#nanofiltration&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Nanofiltration is similar to RO, but it uses a different type of membrane that allows some smaller ions to pass through.&lt;/p&gt;
-&lt;p&gt;The best desalination process for a particular application depends on a number of factors, including the salinity of the water, the required production capacity, the energy cost, and the environmental impact.&lt;/p&gt;
-&lt;h2&gt;Advantages and disadvantages of desalination processes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;advantages-and-disadvantages-of-desalination-processes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#advantages-and-disadvantages-of-desalination-processes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Advantages&lt;span class=&#34;absolute -mt-20&#34; id=&#34;advantages&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#advantages&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Desalination can provide a reliable source of fresh water in areas with limited freshwater resources.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Desalination can help to reduce stress on existing freshwater resources.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Desalination can create jobs and boost the economy.&lt;/p&gt;
-&lt;/li&gt;
+&lt;h3&gt;Importance:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;importance&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#importance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The Rocking Test is essential for several reasons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Structural integrity:&lt;/strong&gt; It helps to identify any structural weaknesses or damage that could lead to crane failure.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stability:&lt;/strong&gt; It ensures that the crane is stable and can withstand the forces generated during operation.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Safety:&lt;/strong&gt; A damaged or unstable crane poses a significant safety risk to both the crew and the cargo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Slewing Bearing and Inspection&lt;span class=&#34;absolute -mt-20&#34; id=&#34;slewing-bearing-and-inspection&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#slewing-bearing-and-inspection&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Slewing Bearing:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;slewing-bearing&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#slewing-bearing&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A slewing bearing is a large, circular bearing that allows the crane turret to rotate. It is typically located at the base of the turret and is a critical component for the crane&amp;rsquo;s operation.&lt;/p&gt;
+&lt;h3&gt;Inspection:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;inspection&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#inspection&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Visual inspection:&lt;/strong&gt; Inspect the slewing bearing for signs of wear, damage, or contamination.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rotation test:&lt;/strong&gt; Rotate the turret manually and listen for any unusual sounds or vibrations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grease inspection:&lt;/strong&gt; Check the condition of the grease in the bearing. A well-lubricated bearing will operate smoothly and quietly.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Disadvantages&lt;span class=&#34;absolute -mt-20&#34; id=&#34;disadvantages&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#disadvantages&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;Desalination can be expensive, especially for large-scale plants.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Desalination plants can consume a lot of energy.
-Desalination plants can produce brine, which is a concentrated wastewater that can be difficult to dispose of.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Conclusion&lt;span class=&#34;absolute -mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#conclusion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Desalination is a growing technology that has the potential to help solve the world&amp;rsquo;s water crisis. However, it is important to weigh the advantages and disadvantages of desalination before building a desalination plant.&lt;/p&gt;
+&lt;h2&gt;Preventing Crane Turret Toppling&lt;span class=&#34;absolute -mt-20&#34; id=&#34;preventing-crane-turret-toppling&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#preventing-crane-turret-toppling&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Several factors contribute to the stability of a crane turret, including:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Weight distribution:&lt;/strong&gt; Proper weight distribution within the crane helps to prevent toppling.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ballast:&lt;/strong&gt; Adding ballast to the crane can improve its stability, especially when operating in rough seas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Crane design:&lt;/strong&gt; The crane&amp;rsquo;s design, including the shape and size of the turret, plays a role in its stability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Importance of Grease Inspection&lt;span class=&#34;absolute -mt-20&#34; id=&#34;importance-of-grease-inspection&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#importance-of-grease-inspection&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Grease is essential for the proper functioning of a slewing bearing. It provides lubrication, reduces friction, and protects the bearing components from wear and damage. Regular inspection of the grease helps to ensure that the bearing is adequately lubricated and that there are no signs of contamination or deterioration.&lt;/p&gt;
+&lt;p&gt;By conducting regular Rocking Tests and inspections of the slewing bearing and its components, mariners can help to maintain the safety and reliability of deck cranes.&lt;/p&gt;
+&lt;h2&gt;Load Testing of Lifting Gear&lt;span class=&#34;absolute -mt-20&#34; id=&#34;load-testing-of-lifting-gear&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#load-testing-of-lifting-gear&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Load testing of lifting gear is a critical procedure to ensure its safety and reliability. It involves subjecting the gear to a controlled load to verify its ability to withstand the intended working load without failure. The primary objectives of load testing are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Verify SWL:&lt;/strong&gt; To confirm that the gear can safely lift and handle the specified Safe Working Load (SWL).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Identify defects:&lt;/strong&gt; To detect any defects or weaknesses in the gear that could lead to failure.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ensure safety:&lt;/strong&gt; To ensure the safety of personnel and equipment during lifting operations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Safe Working Load (SWL)&lt;span class=&#34;absolute -mt-20&#34; id=&#34;safe-working-load-swl&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#safe-working-load-swl&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The SWL is the maximum load that a piece of lifting gear is designed to safely lift under normal operating conditions. It is determined based on factors such as the gear&amp;rsquo;s material, dimensions, and design.&lt;/p&gt;
+&lt;h2&gt;Role of Water Bags&lt;span class=&#34;absolute -mt-20&#34; id=&#34;role-of-water-bags&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#role-of-water-bags&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Water bags are often used in load testing to simulate the weight of actual loads. They offer several advantages:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Controlled weight:&lt;/strong&gt; Water bags can be easily filled or emptied to achieve the desired weight.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexibility:&lt;/strong&gt; They can be shaped and positioned to simulate different types of loads.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Safety:&lt;/strong&gt; Water bags are generally safer to use than actual loads, especially when testing heavy or hazardous materials.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Pontoons for Certain Cranes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pontoons-for-certain-cranes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#pontoons-for-certain-cranes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Pontoons are used for certain cranes, such as floating cranes and some offshore cranes, to provide a stable platform for the crane to operate. They offer several benefits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stability:&lt;/strong&gt; Pontoons provide a stable base for the crane, even in rough water conditions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobility:&lt;/strong&gt; Pontoons allow the crane to be moved to different locations without requiring extensive setup or dismantling.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Capacity:&lt;/strong&gt; Pontoons can increase the crane&amp;rsquo;s lifting capacity by distributing the load over a larger area.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In conclusion, load testing is a vital procedure for ensuring the safety and reliability of lifting gear. The SWL is a key factor in determining the gear&amp;rsquo;s safe operating limits. Water bags are a valuable tool for simulating loads during testing, and pontoons are used to provide stability and mobility for certain types of cranes.&lt;/p&gt;
 
       </description>
     </item>

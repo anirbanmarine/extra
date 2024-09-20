@@ -48,6 +48,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/atl/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/azimuth-thrusters/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partb/engg/diesel_plants/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/hydrosurv/bashydro/</loc>
@@ -85,6 +87,8 @@
     <loc>http://localhost:1313/docs/partc/em302/intropm/changeinlogisticsanddistribution/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/chrtrdispute/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/cng/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/utc/</loc>
   </url><url>
@@ -124,6 +128,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/meteorology/cyclones/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/deck-cranes/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/deduct/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/marfish/demerpelag/</loc>
@@ -143,6 +149,8 @@
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/earthintro/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/tides/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/eedi_eeoi/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/meteorology/el-nino/</loc>
   </url><url>
@@ -216,6 +224,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/satmet/satmethistory/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/hydraulics/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em301/hydrosurv/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/ice/</loc>
@@ -231,6 +241,8 @@
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/indicatoroffers/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cargoinsurance/rskassmntinfo/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/eedi_innovations/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/intconv/</loc>
   </url><url>
@@ -272,6 +284,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/maritime_security_on_ships/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/annex6/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em301/tides/msl/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/meteorology/metobs/</loc>
@@ -283,6 +297,8 @@
     <loc>http://localhost:1313/docs/partc/em301/tides/gktides/moderntide/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/mohole/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/mooring-winches/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/marinsurance/mutuality/</loc>
   </url><url>
