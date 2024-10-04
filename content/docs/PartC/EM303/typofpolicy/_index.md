@@ -4,7 +4,7 @@ type: docs
 toc: true
 ---
 ## Contents
-
+{{<page_list2>}}
 
    1. Types of policies
    2. Specific policy. 

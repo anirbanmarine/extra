@@ -53,22 +53,52 @@
 ;
 // Hamburger menu for mobile navigation
 
-const menu = document.querySelector('.hamburger-menu');
-
-menu.addEventListener('click', (e) => {
-  e.preventDefault();
+document.addEventListener('DOMContentLoaded', function () {
+  const menu = document.querySelector('.hamburger-menu');
+  const overlay = document.querySelector('.mobile-menu-overlay');
   const sidebarContainer = document.querySelector('.sidebar-container');
 
-  // Toggle the hamburger menu
-  menu.querySelector('svg').classList.toggle('open');
+  // Initialize the overlay
+  const overlayClasses = ['hx-fixed', 'hx-inset-0', 'hx-z-10', 'hx-bg-black/80', 'dark:hx-bg-black/60'];
+  overlay.classList.add('hx-bg-transparent');
+  overlay.classList.remove("hx-hidden", ...overlayClasses);
 
-  // When the menu is open, we want to show the navigation sidebar
-  sidebarContainer.classList.toggle('max-md:[transform:translate3d(0,-100%,0)]');
-  sidebarContainer.classList.toggle('max-md:[transform:translate3d(0,0,0)]');
+  function toggleMenu() {
+    // Toggle the hamburger menu
+    menu.querySelector('svg').classList.toggle('open');
 
-  // When the menu is open, we want to prevent the body from scrolling
-  document.body.classList.toggle('overflow-hidden');
-  document.body.classList.toggle('md:overflow-auto');
+    // When the menu is open, we want to show the navigation sidebar
+    sidebarContainer.classList.toggle('max-md:[transform:translate3d(0,-100%,0)]');
+    sidebarContainer.classList.toggle('max-md:[transform:translate3d(0,0,0)]');
+
+    // When the menu is open, we want to prevent the body from scrolling
+    document.body.classList.toggle('hx-overflow-hidden');
+    document.body.classList.toggle('md:hx-overflow-auto');
+  }
+
+  menu.addEventListener('click', (e) => {
+    e.preventDefault();
+    toggleMenu();
+
+    if (overlay.classList.contains('hx-bg-transparent')) {
+      // Show the overlay
+      overlay.classList.add(...overlayClasses);
+      overlay.classList.remove('hx-bg-transparent');
+    } else {
+      // Hide the overlay
+      overlay.classList.remove(...overlayClasses);
+      overlay.classList.add('hx-bg-transparent');
+    }
+  });
+
+  overlay.addEventListener('click', (e) => {
+    e.preventDefault();
+    toggleMenu();
+
+    // Hide the overlay
+    overlay.classList.remove(...overlayClasses);
+    overlay.classList.add('hx-bg-transparent');
+  });
 });
 
 ;
@@ -99,7 +129,7 @@ document.addEventListener('DOMContentLoaded', function () {
     return svg;
   }
 
-  document.querySelectorAll('.code-copy-btn').forEach(function (button) {
+  document.querySelectorAll('.hextra-code-copy-btn').forEach(function (button) {
     // Add copy and success icons
     button.querySelector('.copy-icon')?.appendChild(getCopyIcon());
     button.querySelector('.success-icon')?.appendChild(getSuccessIcon());
@@ -107,8 +137,8 @@ document.addEventListener('DOMContentLoaded', function () {
     // Add click event listener for copy button
     button.addEventListener('click', function (e) {
       e.preventDefault();
-      const targetId = button.getAttribute('data-clipboard-target');
-      const target = document.querySelector(targetId);
+      // Get the code target
+      const target = button.parentElement.previousElementSibling;
       let codeElement;
       if (target.tagName === 'CODE') {
         codeElement = target;
@@ -118,14 +148,17 @@ document.addEventListener('DOMContentLoaded', function () {
         codeElement = codeElements[codeElements.length - 1];
       }
       if (codeElement) {
+        let code = codeElement.innerText;
         // Replace double newlines with single newlines in the innerText
         // as each line inside <span> has trailing newline '\n'
-        const code = codeElement.innerText.replace(/\n\n/g, '\n');
+        if ("lang" in codeElement.dataset) {
+          code = code.replace(/\n\n/g, '\n');
+        }
         navigator.clipboard.writeText(code).then(function () {
           button.classList.add('copied');
           setTimeout(function () {
             button.classList.remove('copied');
-          }, 500);
+          }, 1000);
         }).catch(function (err) {
           console.error('Failed to copy text: ', err);
         });
@@ -137,17 +170,17 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 ;
-document.querySelectorAll('.tabs-toggle').forEach(function (button) {
+document.querySelectorAll('.hextra-tabs-toggle').forEach(function (button) {
   button.addEventListener('click', function (e) {
     // set parent tabs to unselected
-    const tabs = Array.from(e.target.parentElement.querySelectorAll('.tabs-toggle'));
+    const tabs = Array.from(e.target.parentElement.querySelectorAll('.hextra-tabs-toggle'));
     tabs.map(tab => tab.dataset.state = '');
 
     // set current tab to selected
     e.target.dataset.state = 'selected';
 
     // set all panels to unselected
-    const panelsContainer = e.target.parentElement.nextElementSibling;
+    const panelsContainer = e.target.parentElement.parentElement.nextElementSibling;
     Array.from(panelsContainer.children).forEach(function (panel) {
       panel.dataset.state = '';
     });
@@ -166,7 +199,7 @@ document.querySelectorAll('.tabs-toggle').forEach(function (button) {
       e.preventDefault();
       switcher.dataset.state = switcher.dataset.state === 'open' ? 'closed' : 'open';
       const optionsElement = switcher.nextElementSibling;
-      optionsElement.classList.toggle('hidden');
+      optionsElement.classList.toggle('hx-hidden');
 
       // Calculate position of language options element
       const switcherRect = switcher.getBoundingClientRect();
@@ -182,7 +215,7 @@ document.querySelectorAll('.tabs-toggle').forEach(function (button) {
       languageSwitchers.forEach((switcher) => {
         switcher.dataset.state = 'closed';
         const optionsElement = switcher.nextElementSibling;
-        optionsElement.classList.add('hidden');
+        optionsElement.classList.add('hx-hidden');
       });
     }
   });
@@ -225,9 +258,9 @@ document.addEventListener("DOMContentLoaded", function () {
   if (backToTop) {
     document.addEventListener("scroll", (e) => {
       if (window.scrollY > 300) {
-        backToTop.classList.remove("opacity-0");
+        backToTop.classList.remove("hx-opacity-0");
       } else {
-        backToTop.classList.add("opacity-0");
+        backToTop.classList.add("hx-opacity-0");
       }
     });
   }

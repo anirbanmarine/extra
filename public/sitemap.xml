@@ -28,6 +28,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/special_navigation_problems/different_lat/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/cont/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em301/tides/typoftides/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em302/intropm/originofcargo/</loc>
@@ -47,6 +49,8 @@
     <loc>http://localhost:1313/docs/partc/em303/averageadjustment/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/atl/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/avr/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/azimuth-thrusters/</loc>
   </url><url>
@@ -117,6 +121,8 @@
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/containerops/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/hydrosurv/control/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/transformers_cu_losses/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em302/prtpln/newberthcosting/</loc>
   </url><url>
@@ -264,6 +270,10 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/magnetism/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/main-engine-maneuvering/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/me_overrides/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/managing_cybersecurity_in_ports/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em302/portops/</loc>
@@ -281,6 +291,8 @@
     <loc>http://localhost:1313/docs/partc/em301/marineres/minerals/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/power/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/robotics/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/maritime_security_on_ships/</loc>
   </url><url>
@@ -309,6 +321,8 @@
     <loc>http://localhost:1313/docs/partc/em301/oceangov/defoceangov/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/marinsurance/orgstructpandi/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/orifice_valve-refrigeration/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/marinsurance/pandi/</loc>
   </url><url>
@@ -348,11 +362,15 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/postfixactn/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/electricalpowerfactor/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em303/marinsurance/principlesmarinsur/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/negotiate/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/satmet/qestsst/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/shipboard-refrigeration/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/brokeremedy/</loc>
   </url><url>
@@ -381,6 +399,8 @@
     <loc>http://localhost:1313/docs/partb/navarch/stress_and_strain/section_modulus/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/minerals/seismicsonarprofiling/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/scf/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/ship_designs/</loc>
   </url><url>
@@ -443,6 +463,10 @@
     <loc>http://localhost:1313/docs/partb/adnav/projections/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/hydrosurv/nchart/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/q_a/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/txv/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/power/tidalpower/</loc>
   </url><url>

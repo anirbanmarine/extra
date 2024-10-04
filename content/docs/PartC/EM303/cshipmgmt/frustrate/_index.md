@@ -2,6 +2,5 @@
 title: frustration of charter
 type: docs
 ---
-{{< embed-pdf url="./frustrate1.pdf" >}}
+{{<page_list2>}}
 
-{{< embed-pdf url="./frustrate2.pdf" >}}

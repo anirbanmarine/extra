@@ -4,7 +4,7 @@ type: docs
 toc: true
 ---
 ## Contents
-
+{{<page_list2>}}
 1. Overview of modern shipping management.
 2. Ship management structures. 
 3. Measurement of strategic performance.

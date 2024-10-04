@@ -1,0 +1,34 @@
+package shortcodes
+
+import (
+        "html/template"
+        "path/filepath"
+
+        "github.com/gohugoio/hugo/helpers"
+        "github.com/gohugoio/hugo/transform"
+)
+
+func Recursivelinks(c *template.Context) template.HTML {
+        page := c.Get("page").(*helpers.Page)
+        children := page.Children()
+
+        if len(children) == 0 {
+                return ""
+        }
+
+        var links []string
+        for _, child := range children {
+                if child.IsPage() && !child.IsDraft() && !child.IsFuture() {
+                        url := child.Permalink()
+                        title := child.Title()
+                        links = append(links, `<a href="`+url+`">`+title+`</a>`)
+                } else if child.IsDir() {
+                        sublinks := Recursivelinks(c.Set("page", child))
+                        if sublinks != "" {
+                                links = append(links, `<li><a href="`+child.Permalink()+`">`+child.Title()+`</a><ul>`+sublinks+`</ul></li>`)
+                        }
+                }
+        }
+
+        return template.HTML(transform.Markdown(links))
+}

@@ -4,7 +4,7 @@ type: docs
 toc: true
 ---
 ## Contents
-
+{{<page_list2>}}
 1.  Shipbuilding contracts
 2.  Functions of sale and purchase broker
 3.  Prior-purchase inspection

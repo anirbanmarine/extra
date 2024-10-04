@@ -4,7 +4,7 @@ type: docs
 toc: true
 ---
 ## Contents
-
+{{<page_list2>}}
 1. Introduction (historical context); 
 2. Concept (Definitions of risk, safety, and hazard).
 3. Process & practice;

@@ -15,6 +15,100 @@
     
     
     <item>
+      <title></title>
+      <link>http://localhost:1313/docs/partb/engg/cont/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/engg/cont/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Commercial Engineering&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;commercial-engineering&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#commercial-engineering&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Basic Features and Operation
+&lt;ul&gt;
+&lt;li&gt;Boilers&lt;/li&gt;
+&lt;li&gt;Diesel Plants&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Pumps&lt;/li&gt;
+&lt;li&gt;Electrical systems&lt;/li&gt;
+&lt;li&gt;Shaft systems and propeller&lt;/li&gt;
+&lt;li&gt;Heating Ventilation and Air conditioning&lt;/li&gt;
+&lt;li&gt;Auxiliaries (principle, Operation, maintenance and checks)&lt;/li&gt;
+&lt;li&gt;Budgeting&lt;/li&gt;
+&lt;li&gt;Procurement of spares&lt;/li&gt;
+&lt;li&gt;Energy efficiency&lt;/li&gt;
+&lt;li&gt;Maritime Robotics including Artificial Intelligence&lt;/li&gt;
+&lt;li&gt;Emerging Technologies&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>AVR</title>
+      <link>http://localhost:1313/docs/partb/engg/avr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/engg/avr/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;strong&gt;Principle of Generation Voltage Control:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Generation voltage control, also known as voltage regulation, is crucial in power generation systems to maintain a stable and consistent voltage output. The principle involves adjusting the excitation of the generator to regulate the terminal voltage. The generator&amp;rsquo;s excitation is controlled by varying the DC current supplied to the rotor&amp;rsquo;s magnetic field.&lt;/p&gt;
+&lt;h2&gt;Objective:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;objective&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#objective&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The primary objective of generation voltage control is to maintain a constant terminal voltage, despite changes in:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Load current&lt;/li&gt;
+&lt;li&gt;Power factor&lt;/li&gt;
+&lt;li&gt;Speed&lt;/li&gt;
+&lt;li&gt;Temperature&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;HeadingAutomatic Voltage Regulator (AVR):&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;headingautomatic-voltage-regulator-avr&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#headingautomatic-voltage-regulator-avr&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;An Automatic Voltage Regulator (AVR) is a feedback control system that automatically adjusts the generator&amp;rsquo;s excitation to maintain a constant terminal voltage. The AVR&amp;rsquo;s primary function is to regulate the voltage output by controlling the exciter&amp;rsquo;s output.&lt;/p&gt;
+&lt;p&gt;Functioning of an Automatic Voltage Regulator:&lt;/p&gt;
+&lt;h3&gt;HeadingThe AVR consists of the following components:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;headingthe-avr-consists-of-the-following-components&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#headingthe-avr-consists-of-the-following-components&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Voltage Sensor: Measures the generator&amp;rsquo;s terminal voltage.&lt;/li&gt;
+&lt;li&gt;Error Detector: Compares the measured voltage with a set reference voltage.&lt;/li&gt;
+&lt;li&gt;Amplifier: Amplifies the error signal.&lt;/li&gt;
+&lt;li&gt;Exciter: Supplies DC current to the rotor&amp;rsquo;s magnetic field.&lt;/li&gt;
+&lt;li&gt;Feedback Loop: Continuously monitors the terminal voltage and adjusts the exciter output.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Operation:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;operation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#operation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;The voltage sensor measures the generator&amp;rsquo;s terminal voltage.&lt;/li&gt;
+&lt;li&gt;The error detector compares the measured voltage with the set reference voltage.&lt;/li&gt;
+&lt;li&gt;If the measured voltage deviates from the reference voltage, an error signal is generated.&lt;/li&gt;
+&lt;li&gt;The amplifier increases the error signal&amp;rsquo;s magnitude.&lt;/li&gt;
+&lt;li&gt;The amplified error signal controls the exciter&amp;rsquo;s output.&lt;/li&gt;
+&lt;li&gt;The exciter adjusts the DC current supplied to the rotor&amp;rsquo;s magnetic field.&lt;/li&gt;
+&lt;li&gt;The generator&amp;rsquo;s magnetic field strength changes, affecting the terminal voltage.&lt;/li&gt;
+&lt;li&gt;The voltage sensor measures the new terminal voltage.&lt;/li&gt;
+&lt;li&gt;The error detector compares the new voltage with the reference voltage.&lt;/li&gt;
+&lt;li&gt;Steps 3-9 repeat continuously, maintaining a stable terminal voltage.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Types of AVRs:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;types-of-avrs&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#types-of-avrs&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Electronic AVRs (using transistors or ICs)&lt;/li&gt;
+&lt;li&gt;Magnetic AVRs (using magnetic amplifiers)&lt;/li&gt;
+&lt;li&gt;Static AVRs (using power electronic devices)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Benefits:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;benefits&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#benefits&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Maintains stable voltage output&lt;/li&gt;
+&lt;li&gt;Improves power quality&lt;/li&gt;
+&lt;li&gt;Enhances generator efficiency&lt;/li&gt;
+&lt;li&gt;Reduces wear and tear on equipment&lt;/li&gt;
+&lt;li&gt;Prevents voltage-related damage&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In summary, the Automatic Voltage Regulator plays a vital role in maintaining a stable and consistent voltage output in power generation systems by continuously adjusting the generator&amp;rsquo;s excitation in response to changes in load, power factor, speed, and temperature.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Azimuth thrusters</title>
       <link>http://localhost:1313/docs/partb/engg/azimuth-thrusters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -87,7 +181,7 @@
         
         
         
-        <![CDATA[<img src="http://localhost:1313/docs/partb/engg/diesel_plants/Main-engine-article-featured-image_hu9a1dbeab29d505bc8ac2a31679b32f23_100124_640x0_resize_box_3.png" width="640" height="495"/>]]>
+        <![CDATA[<img src="http://localhost:1313/docs/partb/engg/diesel_plants/Main-engine-article-featured-image_hu15331836894218273878.png" width="640" height="495"/>]]>
         
         
       </description>
@@ -134,6 +228,81 @@
     </item>
     
     <item>
+      <title>Copper Losses in Transformers</title>
+      <link>http://localhost:1313/docs/partb/engg/transformers_cu_losses/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/engg/transformers_cu_losses/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Copper losses in transformers refer to the energy losses that occur in the transformer&amp;rsquo;s copper windings due to electrical resistance. These losses are also known as ohmic losses or I^2R losses.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Causes of Copper Losses:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Resistance of the conductor material (copper)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Length and cross-sectional area of the windings&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Operating temperature&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Frequency of the alternating current (AC)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Factors Affecting Copper Losses:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Load current: Higher load currents increase copper losses.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Conductor size and material: Thicker conductors or using materials with lower resistance reduce losses.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Winding design and configuration&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Operating temperature: Higher temperatures increase resistance and losses.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Frequency: Higher frequencies increase losses due to skin effect.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Minimizing Copper Losses:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Optimize winding design and configuration&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use larger conductors or parallel conductors&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Select low-loss conductor materials&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Improve cooling systems to reduce temperature&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use advanced magnetic core materials to reduce losses&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Calculating Copper Losses:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;I^2^  x R = (Current)^2^ x Resistance&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Use transformer nameplate data or manufacturer&amp;rsquo;s documentation&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Understanding and minimizing copper losses are crucial for efficient transformer design and operation, as they directly impact the overall energy efficiency and reliability of power systems.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Deck Cranes</title>
       <link>http://localhost:1313/docs/partb/engg/deck-cranes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -142,59 +311,59 @@
       <description>
         
         
-        &lt;h2&gt;Rocking Test on Deck Cranes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;rocking-test-on-deck-cranes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#rocking-test-on-deck-cranes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Purpose:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;purpose&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;Rocking Test on Deck Cranes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;rocking-test-on-deck-cranes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#rocking-test-on-deck-cranes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Purpose:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;purpose&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#purpose&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The Rocking Test is a crucial inspection procedure for deck cranes to assess the structural integrity of the crane and its foundation. It helps to identify any potential weaknesses or damage that could compromise the crane&amp;rsquo;s safety and stability.&lt;/p&gt;
-&lt;h3&gt;Procedure:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;procedure&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Procedure:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;procedure&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#procedure&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Preparation:&lt;/strong&gt; Ensure that the crane is in a stable position and that all safety precautions are in place.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Manual rocking:&lt;/strong&gt; Manually apply a rocking motion to the crane base, either by pushing or pulling on the crane structure.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Observation:&lt;/strong&gt; Carefully observe the crane&amp;rsquo;s response to the rocking motion. Pay attention to any unusual sounds, vibrations, or excessive movement.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Inspection:&lt;/strong&gt; Inspect the crane&amp;rsquo;s foundation, bearings, and other components for signs of damage, such as cracks, corrosion, or loose bolts.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Importance:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;importance&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Importance:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;importance&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#importance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The Rocking Test is essential for several reasons:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Structural integrity:&lt;/strong&gt; It helps to identify any structural weaknesses or damage that could lead to crane failure.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Stability:&lt;/strong&gt; It ensures that the crane is stable and can withstand the forces generated during operation.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Safety:&lt;/strong&gt; A damaged or unstable crane poses a significant safety risk to both the crew and the cargo.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Slewing Bearing and Inspection&lt;span class=&#34;absolute -mt-20&#34; id=&#34;slewing-bearing-and-inspection&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#slewing-bearing-and-inspection&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Slewing Bearing:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;slewing-bearing&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Slewing Bearing and Inspection&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;slewing-bearing-and-inspection&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#slewing-bearing-and-inspection&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Slewing Bearing:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;slewing-bearing&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#slewing-bearing&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A slewing bearing is a large, circular bearing that allows the crane turret to rotate. It is typically located at the base of the turret and is a critical component for the crane&amp;rsquo;s operation.&lt;/p&gt;
-&lt;h3&gt;Inspection:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;inspection&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Inspection:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;inspection&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#inspection&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Visual inspection:&lt;/strong&gt; Inspect the slewing bearing for signs of wear, damage, or contamination.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Rotation test:&lt;/strong&gt; Rotate the turret manually and listen for any unusual sounds or vibrations.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Grease inspection:&lt;/strong&gt; Check the condition of the grease in the bearing. A well-lubricated bearing will operate smoothly and quietly.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;Preventing Crane Turret Toppling&lt;span class=&#34;absolute -mt-20&#34; id=&#34;preventing-crane-turret-toppling&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Preventing Crane Turret Toppling&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;preventing-crane-turret-toppling&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#preventing-crane-turret-toppling&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Several factors contribute to the stability of a crane turret, including:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Weight distribution:&lt;/strong&gt; Proper weight distribution within the crane helps to prevent toppling.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Ballast:&lt;/strong&gt; Adding ballast to the crane can improve its stability, especially when operating in rough seas.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Crane design:&lt;/strong&gt; The crane&amp;rsquo;s design, including the shape and size of the turret, plays a role in its stability.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Importance of Grease Inspection&lt;span class=&#34;absolute -mt-20&#34; id=&#34;importance-of-grease-inspection&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Importance of Grease Inspection&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;importance-of-grease-inspection&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#importance-of-grease-inspection&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Grease is essential for the proper functioning of a slewing bearing. It provides lubrication, reduces friction, and protects the bearing components from wear and damage. Regular inspection of the grease helps to ensure that the bearing is adequately lubricated and that there are no signs of contamination or deterioration.&lt;/p&gt;
 &lt;p&gt;By conducting regular Rocking Tests and inspections of the slewing bearing and its components, mariners can help to maintain the safety and reliability of deck cranes.&lt;/p&gt;
-&lt;h2&gt;Load Testing of Lifting Gear&lt;span class=&#34;absolute -mt-20&#34; id=&#34;load-testing-of-lifting-gear&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Load Testing of Lifting Gear&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;load-testing-of-lifting-gear&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#load-testing-of-lifting-gear&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Load testing of lifting gear is a critical procedure to ensure its safety and reliability. It involves subjecting the gear to a controlled load to verify its ability to withstand the intended working load without failure. The primary objectives of load testing are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Verify SWL:&lt;/strong&gt; To confirm that the gear can safely lift and handle the specified Safe Working Load (SWL).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Identify defects:&lt;/strong&gt; To detect any defects or weaknesses in the gear that could lead to failure.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Ensure safety:&lt;/strong&gt; To ensure the safety of personnel and equipment during lifting operations.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Safe Working Load (SWL)&lt;span class=&#34;absolute -mt-20&#34; id=&#34;safe-working-load-swl&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Safe Working Load (SWL)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;safe-working-load-swl&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#safe-working-load-swl&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The SWL is the maximum load that a piece of lifting gear is designed to safely lift under normal operating conditions. It is determined based on factors such as the gear&amp;rsquo;s material, dimensions, and design.&lt;/p&gt;
-&lt;h2&gt;Role of Water Bags&lt;span class=&#34;absolute -mt-20&#34; id=&#34;role-of-water-bags&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Role of Water Bags&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;role-of-water-bags&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#role-of-water-bags&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Water bags are often used in load testing to simulate the weight of actual loads. They offer several advantages:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Controlled weight:&lt;/strong&gt; Water bags can be easily filled or emptied to achieve the desired weight.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Flexibility:&lt;/strong&gt; They can be shaped and positioned to simulate different types of loads.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Safety:&lt;/strong&gt; Water bags are generally safer to use than actual loads, especially when testing heavy or hazardous materials.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Pontoons for Certain Cranes&lt;span class=&#34;absolute -mt-20&#34; id=&#34;pontoons-for-certain-cranes&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Pontoons for Certain Cranes&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;pontoons-for-certain-cranes&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#pontoons-for-certain-cranes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Pontoons are used for certain cranes, such as floating cranes and some offshore cranes, to provide a stable platform for the crane to operate. They offer several benefits:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Stability:&lt;/strong&gt; Pontoons provide a stable base for the crane, even in rough water conditions.&lt;/li&gt;
@@ -216,13 +385,13 @@
         
         
         &lt;p&gt;&lt;strong&gt;EEDI (Energy Efficiency Design Index)&lt;/strong&gt; and &lt;strong&gt;EEOI (Energy Efficiency Operational Indicator)&lt;/strong&gt; are two key metrics used to assess the energy efficiency of ships, particularly in the context of international shipping regulations.&lt;/p&gt;
-&lt;h3&gt;EEDI: A Measure of Design Efficiency&lt;span class=&#34;absolute -mt-20&#34; id=&#34;eedi-a-measure-of-design-efficiency&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;EEDI: A Measure of Design Efficiency&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;eedi-a-measure-of-design-efficiency&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#eedi-a-measure-of-design-efficiency&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; EEDI is a measure of a ship&amp;rsquo;s energy efficiency during the design stage. It compares the CO2 emissions of a new ship to a baseline ship of the same type and size.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;How it Works:&lt;/strong&gt; A ship&amp;rsquo;s EEDI is calculated based on its design specifications, such as hull form, propulsion system, and engine type. A lower EEDI value indicates a more energy-efficient design.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Regulations:&lt;/strong&gt; New ships built after July 2013 are required to meet specific EEDI requirements set by the International Maritime Organization (IMO).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;EEOI: A Measure of Operational Efficiency&lt;span class=&#34;absolute -mt-20&#34; id=&#34;eeoi-a-measure-of-operational-efficiency&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;EEOI: A Measure of Operational Efficiency&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;eeoi-a-measure-of-operational-efficiency&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#eeoi-a-measure-of-operational-efficiency&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; EEOI is a measure of a ship&amp;rsquo;s energy efficiency during operation. It compares the CO2 emissions of a ship to the transport work it performs.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;How it Works:&lt;/strong&gt; EEOI is calculated based on the ship&amp;rsquo;s fuel consumption, transport work (measured in tonne-miles), and other relevant factors. A lower EEOI value indicates a more energy-efficient operation.&lt;/li&gt;
@@ -262,7 +431,7 @@
 &lt;li&gt;&lt;strong&gt;Counterbalance valve:&lt;/strong&gt; As explained earlier, a counterbalance valve is used to provide a controlled, opposing force to the weight of a load.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In summary, the counterbalance valve plays a crucial role in mooring winches, windlasses, and cranes by providing controlled and safe operation. The hydraulic and pneumatic symbols used in ISO 1219 help to understand and design hydraulic and pneumatic systems. The relief valve, sequence valve, and counterbalance valve each have specific functions in hydraulic deck machinery, ensuring the safe and efficient operation of the equipment.&lt;/p&gt;
-&lt;h2&gt;Shuttle Valve: A Hydraulic Component&lt;span class=&#34;absolute -mt-20&#34; id=&#34;shuttle-valve-a-hydraulic-component&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Shuttle Valve: A Hydraulic Component&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;shuttle-valve-a-hydraulic-component&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#shuttle-valve-a-hydraulic-component&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;A shuttle valve&lt;/strong&gt; is a type of hydraulic directional control valve that is designed to provide a quick, reliable, and fail-safe means of switching between two hydraulic circuits. It operates based on a simple principle: it allows fluid to flow from one port to another, but only in one direction.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;How it works:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -276,7 +445,7 @@
 &lt;li&gt;&lt;strong&gt;Hydraulic power units:&lt;/strong&gt; Shuttle valves can be used to switch between different hydraulic power units or to isolate specific components of a hydraulic system.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Hydraulic cylinders:&lt;/strong&gt; Shuttle valves can be used to control the direction of movement of hydraulic cylinders, allowing for precise and controlled motion.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Internal vs. External Pilot Directional Control Valves&lt;span class=&#34;absolute -mt-20&#34; id=&#34;internal-vs-external-pilot-directional-control-valves&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Internal vs. External Pilot Directional Control Valves&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;internal-vs-external-pilot-directional-control-valves&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#internal-vs-external-pilot-directional-control-valves&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Internal pilot directional control valves:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The pilot pressure is generated within the valve itself.&lt;/li&gt;
@@ -310,7 +479,7 @@
         
         
         &lt;p&gt;Ship designers have implemented a variety of innovative measures to reduce the EEDI figure for new vessels and retrofits to existing vessels. These measures focus on improving energy efficiency, reducing fuel consumption, and minimizing greenhouse gas emissions. Here are some examples:&lt;/p&gt;
-&lt;h3&gt;New Vessel Design&lt;span class=&#34;absolute -mt-20&#34; id=&#34;new-vessel-design&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;New Vessel Design&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;new-vessel-design&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#new-vessel-design&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Hull Optimization:&lt;/strong&gt;
 &lt;ul&gt;
@@ -340,7 +509,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Retrofits to Existing Vessels&lt;span class=&#34;absolute -mt-20&#34; id=&#34;retrofits-to-existing-vessels&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Retrofits to Existing Vessels&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;retrofits-to-existing-vessels&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#retrofits-to-existing-vessels&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Hull modifications:&lt;/strong&gt; Adding a bulbous bow or optimizing hull lines can improve hydrodynamic efficiency.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Engine upgrades:&lt;/strong&gt; Replacing old engines with more efficient models can reduce fuel consumption.&lt;/li&gt;
@@ -349,6 +518,383 @@
 &lt;li&gt;&lt;strong&gt;Waste heat recovery:&lt;/strong&gt; Capturing and utilizing waste heat from the engine or exhaust can reduce energy consumption.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;By implementing these innovative measures, ship designers are making significant strides in reducing the EEDI figure for new vessels and improving the energy efficiency of existing fleets. These advancements contribute to a more sustainable and environmentally friendly maritime industry.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>MAIN ENGINE MANOEUVRING CONTROL</title>
+      <link>http://localhost:1313/docs/partb/engg/main-engine-maneuvering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/engg/main-engine-maneuvering/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Introduction&lt;/h1&gt;&lt;p&gt;The Bridge Maneuvering System is a bridge maneuvering system used for the remote control of the ship’s main diesel engine which is connected to a fixed pitch propeller. The maneuvering system allows for remote engine control from the bridge or engine control room. Control may be transferred between these stations and may also be transferred to the local engine side control stand which has priority at all times; the local control stand takes control it is not given control.&lt;/p&gt;
+&lt;h2&gt;The maneuvering system is composed of five sub-systems as follows:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;the-maneuvering-system-is-composed-of-five-sub-systems-as-follows&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-maneuvering-system-is-composed-of-five-sub-systems-as-follows&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;The   Engine   Control   System   (ECS)   which   provides   full automatic control from the wheelhouse.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The  Engine  Protecting  System  (EPS)  which  monitors  the engine systems and initiates alarms, engine slowdown or engine shutdown in the event of extreme conditions which could cause engine damage.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The Engine Telegraph System (ETS) which provides communication  between  the  wheelhouse  and  engine  control room and the engine side control stand.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;The Engine Manoeuvring  System (EMS) which provides  for manual  control  of  the  main  engine  from  the  engine  control room.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Electronic Governor System (MAG) which regulates the fuel supply to the engine cylinders in order to control the engine’s speed.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Control Panels&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;control-panels&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#control-panels&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;There are control panels in the wheelhouse console and in the engine control room console. There is a local (emergency) control stand at the engine side and this location is provided with a telegraph receiver and pushbuttons for cancelling slowdowns and shutdowns and for operation of the electrically driven auxiliary blowers.&lt;/p&gt;
+&lt;h3&gt;Bridge (Wheelhouse) Panel&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;bridge-wheelhouse-panel&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bridge-wheelhouse-panel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The bridge maneuvering system panel is fitted in the main wheelhouse console and contains a telegraph transmitter unit and other devices for operating and monitoring the main engine.&lt;/p&gt;
+&lt;p&gt;The telegraph transmitter unit is switch operated with illuminated indicators for the selection of each engine speed, ahead or astern. When the telegraph switch is moved to a new position the indicator is illuminated showing which movement has been selected. When in bridge control, movement of the telegraph transmitter to a new position automatically activates the control system to operate the main engine according to the new order. When in engine control room control, the telegraph transmitter acts as a communication unit to transmit orders to the engine control room. In this case when the telegraph transmitter is moved to a new position, the illuminated indicator at that position flashes and when the engine room telegraph is moved to the position to acknowledge the new command, the indication stops flashing and becomes fully illuminated. An associated buzzer operates until the new command is acknowledged.&lt;/p&gt;
+&lt;h4&gt;Bridge Telegraph Unit&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;bridge-telegraph-unit&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#bridge-telegraph-unit&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The  sub-telegraph  has  three  illuminated  pushbuttons  located  to the left  of the main telegraph transmitter. These are S/B (Standby), R/U (Run up) and F/E (Finished with engines). When any of these pushbuttons is pressed the indicator illuminates.&lt;/p&gt;
+&lt;p&gt;The manoeuvring panel includes an emergency stop pushbutton marked MANUAL STOP, and a buzzer stop pushbutton. In addition there is a selector switch for selecting the engine manoeuvring position, either the wheelhouse (W/H) or the engine control room (C/R).&lt;/p&gt;
+&lt;p&gt;At the upper left of the maneuvering panel are a number of illuminated indicators which are illuminated when the action shown at the indicator is taking place; these indicators show the following.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Shutdown&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Slowdown&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Fuel Cam Abnormal&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Telegraph System Fail.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Shutdown Cancelled&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Slowdown Cancelled&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Critical Speed&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Impossible Start&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Speed Limit&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;System Fail&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Start Air Low Pressure&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Load Up Program&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Cancel Available&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Load Up Program Cancelled&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Wheelhouse Control&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Control Room Control.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Engine Side Control.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Below the indicators there are three illuminated pushbuttons to activate the following.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;below-the-indicators-there-are-three-illuminated-pushbuttons-to-activate-the-following&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#below-the-indicators-there-are-three-illuminated-pushbuttons-to-activate-the-following&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;•    Load Up Program Cancel&lt;/p&gt;
+&lt;p&gt;•    Shutdown Cancel&lt;/p&gt;
+&lt;p&gt;•    Slowdown Cancel.&lt;/p&gt;
+&lt;p&gt;At  the  bottom  left  of  the  wheelhouse  manoeuvring  panel  the  Telegraph Logger front panel is located. This provides a printout of all engine movement instructions on a paper roll. The panel contains a dimmer pushbutton, a lamp and buzzer test pushbutton, a selector pushbutton for Month/Day or Hour/Min and a display selector pushbutton for changing the display from engine RPM to time or vice versa. Two arrow pushbuttons allow for setting of the time when the display is showing the time. Five LEDs at the top of the telegraph logger panel show which features are selected. At the rear of the telegraph logger there are switches and pushbuttons associated with the printer unit; these are a test print pushbutton, a wind pushbutton, a reset pushbutton and a FREE/ LOCK selector switch. When LOCK is selected printing is not done but 100 lines of printing content are memorised.&lt;/p&gt;
+&lt;p&gt;The bridge manoeuvring console also contains the Oil Mist Slowdown panel. This contains two illuminated indicators for Oil Mist Slowdown and Oil Mist Slowdown  Cancel. There is a LAMP TEST pushbutton  and an OIL MIST SLOWDOWN CANCEL pushbutton which is pressed if the bridge desires to cancel the automatic oil mist slowdown. The panel also has a dimmer dial.&lt;/p&gt;
+&lt;h2&gt;Engine Control Room Panel&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;engine-control-room-panel&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#engine-control-room-panel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The engine control room maneuvering panel has two parts, the main control unit and the backup control unit.&lt;/p&gt;
+&lt;p&gt;The main control unit has a selector switch for selecting the maneuvering position, wheelhouse or engine control room. Above the selector switch are illuminated indicators which show which location has control, wheelhouse, engine control room or engine side.  Another selector switch allows for selection of the backup control system if required and indicators show whether the main control or the backup unit has control of the engine.&lt;/p&gt;
+&lt;h2&gt;Engine Telegraph System&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;engine-telegraph-system&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#engine-telegraph-system&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Below the selector switches there are the sub-telegraph indicators for Standby, Running Up and Finished with Engines, and below these are the buzzer and the buzzer stop pushbutton. At the bottom of the panel is the telegraph receiver which is used to select ahead or astern operation when maneuvering from the engine control room main panel. Associated with the main panel is the emergency engine stop pushbutton which is located under a cover.&lt;/p&gt;
+&lt;p&gt;The engine speed control dial is located near the telegraph receiver, and this is used for starting and stopping the engine from the engine control room. The dial is turned to the STOP position in order to stop the engine and is turned to the START position in order to turn the engine over on air. When the engine reaches firing speed on air the speed control dial is turned to the desired fuel setting position and when the engine is running the speed is regulated by turning the speed control dial as required.&lt;/p&gt;
+&lt;h2&gt;Backup Control System&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;backup-control-system&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#backup-control-system&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The back-up control system is located in the engine control room and provided a means of controlling the main engine from the control room should the remote control system fail. The electronic governor system must still be operating for the back-up control system to operate. Orders are transmitted from the bridge by means of the telegraph and the engineer operates the back-up control unit to start, stop and regulate the speed and direction of the main engine.&lt;/p&gt;
+&lt;h2&gt;Oil Mist Slowdown Panel&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;oil-mist-slowdown-panel&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#oil-mist-slowdown-panel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The engine control room manoeuvring console has an oil mist slowdown panel which contains  two illuminated  indicators  for Oil Mist Slowdown  and Oil Mist Slowdown Cancel. There is a LAMP TEST pushbutton and an OIL MIST SLOWDOWN  CANCEL pushbutton  which is pressed  if the duty engineer desires to cancel the automatic oil mist slowdown.&lt;/p&gt;
+&lt;p&gt;The Bridge Maneuvering System LCD panel is fitted in the control room console, and this provides information to the duty engineer and a facility for the duty engineer to communicate with the maneuvering and control systems.&lt;/p&gt;
+&lt;h2&gt;Engine side control stand&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;engine-side-control-stand&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#engine-side-control-stand&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The engine side control stand is provided with a telegraph and indicator box. This unit contains a main telegraph receiver with indicator lamps showing the ordered speed and direction of the engine. Indicator lamps show the if the engine turning gear is engaged or disengaged, if the engine fuel cam is set for ahead or astern, whether the engine is in local or remote control, and if the engine is shut down. The box also contains an emergency (manual) STOP pushbutton and an engine speed indicator.&lt;/p&gt;
+&lt;h2&gt;Engine Control System (ECS)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;engine-control-system-ecs&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#engine-control-system-ecs&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The ECS automatically controls the starting, stopping, speed regulation and reversing of the main engine under instructions from the wheelhouse via the telegraph transmitter. The following functions are provided by the ECS:&lt;/p&gt;
+&lt;h2&gt;Control Position Changeover&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;control-position-changeover&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#control-position-changeover&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The engine control position may be changed between the bridge (wheelhouse) and the engine control room, and between the engine control room and the engine local control stand.&lt;/p&gt;
+&lt;h2&gt;Fuel Cut-off&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;fuel-cut-off&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#fuel-cut-off&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;When  the  engine  is  under  certain  conditions  the  control  systems  cuts  off fuel from the engine cylinders and prepares the engine for the next starting operation. These conditions are as follows:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Engine STOP order.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Emergency shut down; when the Engine Protecting System is in emergency shut down state.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Air running; when the engine it turning over on air during a start procedure.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;When  an  Impossible  Start  situation  exists:  see  the  Starting section below.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;When the main engine rpm decreases to below the air to fuel changeover level (firing speed) for the ordered rotational direction, after the engine is put on to fuel after starting on air.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Starting&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;starting&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#starting&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Main engine starting can be automatically  carried out by moving the main telegraph  transmitter  switch  one division,  ahead or astern,  from the STOP position. The starting sequence is completed when the main engine is operating under stable conditions on fuel. In order to monitor the engine behaviour at starting a number of safety functions are provided as follows.&lt;/p&gt;
+&lt;h2&gt;Start Blocking.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;start-blocking&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#start-blocking&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The engine cannot be started when it is in one of the following states:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Stop order&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Emergency shut down&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Impossible start&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;When reversing:  the main engine rpm is higher than the speed level for operation of the braking air system&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Turning gear is engaged&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Repeat Start and Three Failed Starts&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;repeat-start-and-three-failed-starts&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#repeat-start-and-three-failed-starts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;If the engine speed is below the air to fuel changeover level (firing speed) after the engine goes to fuel running, the control system considers this to be a misfire and fuel supply to the engine cylinders is shut off. If this situation continues for 6 seconds, the control system does the following simultaneously:&lt;/p&gt;
+&lt;p&gt;•    Cancels the scavenge air fuel limiter in the governor and&lt;/p&gt;
+&lt;p&gt;•    Repeats engine starting using normal start procedure&lt;/p&gt;
+&lt;p&gt;If there are three successive engine misfires further starts are blocked and the ‘3 Failed Start’ indicator is highlighted.&lt;/p&gt;
+&lt;h2&gt;Impossible Start&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;impossible-start&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#impossible-start&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Uunder any of the following states the alarm ‘Imposs Start’ is activated.&lt;/p&gt;
+&lt;p&gt;•    Three failed starts&lt;/p&gt;
+&lt;p&gt;•    Start  too  long:  when  air  on  the  engine  continues  for  8 seconds during a normal start&lt;/p&gt;
+&lt;p&gt;•    Start circuit abnormal:  when the auxiliary blowers are stopped&lt;/p&gt;
+&lt;p&gt;•    Non fuel cut off: when stopping the fuel has not been cut off&lt;/p&gt;
+&lt;p&gt;Any of the Impossible Start conditions, except the auxiliary blowers not operating, may be reset by moving the telegraph handle to the STOP position after the cause of the impossible start has been corrected. The impossible start condition due to the auxiliary blowers not operating is automatically reset when either of the two auxiliary blowers starts to operate.&lt;/p&gt;
+&lt;h2&gt;Speed Limit&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;speed-limit&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#speed-limit&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;In order to avoid running the main engine under overload or critical conditions the following speed limiters are provided.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Critical   Speed   Avoidance.    This   automatically    prevents operation of the main engine in the critical speed zone even if the telegraph control requests such a speed operation. The rpm set point is limited to the lowest speed of the critical speed zone.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Emergency  Slowdown.  When  the  Engine  Protecting  System is activated  under emergency  slowdown  the maximum  RPM setpoint  is  limited  to  the  slowdown  speed  level  in  order  to restrict the maximum speed of the engine. This prevents sudden increase of the engine speed after resetting of the emergency slowdown.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Manual Speed Limit. When operating under bridge control the speed control dial in the engine control room console acts as a limiter for the maximum allowed speed of the main engine. When this feature is limiting the rpm set point to the engine governor the indicating lamp ‘Speed Limit’ is illuminated.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;RPM Control&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;rpm-control&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#rpm-control&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Speed regulation of the main engine is achieved by moving the telegraph lever to the desired  speed  and direction  position.  The signal  from the telegraph transmitter is converted into an rpm set point and this is used by the governor in order to regulate  the engine  speed by control  of the fuel supply  to the cylinder fuel injectors.&lt;/p&gt;
+&lt;h2&gt;Load Up Program&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;load-up-program&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#load-up-program&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;This is a feature which is designed to limit rapid variations in engine speed and thermal loading when an increase to full sea speed is requested. The engine speed is increased slowly by the load up program provided that the following conditions are satisfied.&lt;/p&gt;
+&lt;p&gt;•    The main engine is in the ahead speed increase process.&lt;/p&gt;
+&lt;p&gt;•    The rpm set point is higher than the load up program starting level.&lt;/p&gt;
+&lt;p&gt;•    The ‘Load Up Prog. Cancel’ is OFF.&lt;/p&gt;
+&lt;p&gt;•    The lamp SPEED LIMIT is not illuminated.&lt;/p&gt;
+&lt;p&gt;When the load up program is operating the lamp ‘Load Up Prog.’  is illuminated.&lt;/p&gt;
+&lt;p&gt;It is possible to bypass the load up program, if necessary, by pressing the LOAD UP PROG. CANCEL pushbutton.&lt;/p&gt;
+&lt;p&gt;Reversing&lt;/p&gt;
+&lt;p&gt;When the telegraph transmitter selects a movement in the direction opposite to the current rotational direction of the engine, the starting air distributor is changed over to the ordered position and braking air is injected into the engine cylinders and the engine is then started on air in the ordered direction. If the telegraph transmitter STOP position was selected when a new direction was ordered the braking air is not supplied unless the engine was still rotating in the old direction.&lt;/p&gt;
+&lt;p&gt;Crash Astern&lt;/p&gt;
+&lt;p&gt;A crash astern operation is carried out by selecting an astern position on the telegraph transmitter when the engine has been running in the ahead direction for more than 4 minutes at a speed above a predetermined harbor value. In order to prevent a misfire, the scavenge air fuel limiter in the governor is cancelled for about 30 seconds.&lt;/p&gt;
+&lt;p&gt;Cancelling the Fuel Limiter&lt;/p&gt;
+&lt;p&gt;The scavenge air fuel limiter in the governor is cancelled under the following conditions in order to ensure ignition:&lt;/p&gt;
+&lt;p&gt;•    Repeat start&lt;/p&gt;
+&lt;p&gt;•    Crash astern movement&lt;/p&gt;
+&lt;p&gt;When the scavenge air fuel limiter is cancelled the ‘Scav.  Limit Cut Out’ indicating lamp is illuminated.&lt;/p&gt;
+&lt;p&gt;Operation Test&lt;/p&gt;
+&lt;p&gt;The operation test checks most of the engine control system functions without affecting the state of the main engine. The systems for carrying out the operation test are provided in the LCD panel located in the engine control room console. The operation test can only be carried out when the engine is stopped.&lt;/p&gt;
+&lt;p&gt;System Malfunction&lt;/p&gt;
+&lt;p&gt;The bridge ‘System Failure’ alarm and the engine control room ‘WCS System Malfunction’ alarms are activated whenever any of the following malfunctions occur:&lt;/p&gt;
+&lt;p&gt;•    Microprocessor abnormal&lt;/p&gt;
+&lt;p&gt;•    Control room speed dial potentiometer abnormal&lt;/p&gt;
+&lt;p&gt;•    Scavenge sensor abnormal&lt;/p&gt;
+&lt;p&gt;•    Actuator abnormal&lt;/p&gt;
+&lt;p&gt;•    Control room communication failure&lt;/p&gt;
+&lt;p&gt;•    AIO source failure&lt;/p&gt;
+&lt;p&gt;•    Wheelhouse communication failure&lt;/p&gt;
+&lt;p&gt;After the cause of the malfunctions has been traced and corrected the ‘Cause Reset’ pushbutton on the LCD panel must be pressed.&lt;/p&gt;
+&lt;p&gt;Speed Block&lt;/p&gt;
+&lt;p&gt;When both RS-422 communication lines between the bridge and the control room fail the engine is maintained at the current status. If one RS-422 communication link fails the engine is controlled normally.&lt;/p&gt;
+&lt;p&gt;System Failure&lt;/p&gt;
+&lt;p&gt;The ‘System Failure’ alarm is activated in the wheelhouse when any of the following abnormalities occur.&lt;/p&gt;
+&lt;p&gt;•    Power failure of the Engine Control System&lt;/p&gt;
+&lt;p&gt;•    System malfunction in the Engine Control System&lt;/p&gt;
+&lt;p&gt;•    Power failure of the Engine Protecting System&lt;/p&gt;
+&lt;p&gt;•    System malfunction of the Engine Protecting System&lt;/p&gt;
+&lt;p&gt;Engine Telegraph System (ETS)&lt;/p&gt;
+&lt;p&gt;The engine telegraph system comprises the main telegraph system and the sub- telegraph system and these function as described below.&lt;/p&gt;
+&lt;p&gt;Main Telegraph System&lt;/p&gt;
+&lt;p&gt;This system directly or indirectly issues orders concerning the maneuvering of the main engine. Its functions differ depending upon which control location has control.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Bridge (Wheelhouse) Control. The main telegraph transmitter has a built-in  order transmitter  which  issues  stepless  control signals to the ECS thus controlling the state of the engine. The main telegraph receivers in the engine control room and at the engine side control stand indicate the state of the order issued by the main  telegraph  transmitter.  When  the main  telegraph transmitter issues a new order an audible indication is given for about 2 seconds.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Engine Control Room and Engine Side Control. The main telegraph acts as a communication unit between the wheelhouse and the control room or engine side, whichever currently has engine control. When a new order is issued at the wheelhouse unit this is audibly indicated at the control room and engine side units showing that a new engine order has been made. The new order is shown at the telegraph receivers in the control room and at the engine side. The telegraph receiver knob is moved to the new indicated position, and this silences the buzzer.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;When under engine control room control movement of the telegraph receiver knob determines the rotational direction of the next engine movement (it is part of the engine control system). When under engine side (local) control the telegraph receiver acts as a communication unit only and has no control over the engine.&lt;/p&gt;
+&lt;p&gt;Sub-Telegraph System&lt;/p&gt;
+&lt;p&gt;Communication between the wheelhouse and engine control room using the sub-telegraph system is independent of the main telegraph system. Issue of a new order at the wheelhouse unit causes a buzzer to sound in the control room unit and a lamp at the desired order position in the control room unit to be illuminated. When the reply to operation to the new order is carried out at the sub-telegraph receiver the lamp indicating the new order stops flashing and remains fully illuminated; at the same time the buzzer stops.&lt;/p&gt;
+&lt;p&gt;When under standby orders, pressing the BUZZER STOP pushbutton stops the buzzer and the buzzer then only sounds for 2 seconds when a replay operation is carried out.&lt;/p&gt;
+&lt;p&gt;T
+elegraph Logger&lt;/p&gt;
+&lt;p&gt;The telegraph logger records all movements issued by the main telegraph system and sub-telegraph system.&lt;/p&gt;
+&lt;p&gt;When under bridge control engine orders are recorded together with the date and time. When under engine control room control or engine side control, with either the main telegraph or sub-telegraph, the order and reply details are recorded together with the time in each case.&lt;/p&gt;
+&lt;p&gt;The logger clock is linked to the ship’s master clock and the time can be confirmed by pressing the time function key in the bridge panel.&lt;/p&gt;
+&lt;p&gt;Engine Maneuvering System (EMS)&lt;/p&gt;
+&lt;p&gt;The engine maneuvering system is used to manually control the operation of the main engine from the engine control room. Instructions are issued to the engine control room from the bridge by means of the main telegraph system and the duty engineer in the engine control room operates the main engine in accordance with those instructions. Control of the engine is exercised by means of the telegraph receiver knob for selection of the rotational direction of the engine (see section Main Telegraph System above) and the speed control dial is used for starting and stopping the engine together with regulation of the speed. The speed control dial is located with the main telegraph unit in the maneuvering section of the engine control room console.&lt;/p&gt;
+&lt;p&gt;Stopping&lt;/p&gt;
+&lt;p&gt;The speed control dial is turned to the STOP position and the engine maneuvering system cuts off the fuel supply to the main engine whilst a stop signal is sent to the governor.&lt;/p&gt;
+&lt;p&gt;Starting&lt;/p&gt;
+&lt;p&gt;a)     The speed control dial should be in the STOP position.&lt;/p&gt;
+&lt;p&gt;b)     In response to the order from the bridge the engine control room telegraph receiver knob is turned to the desired position; this silences the buzzer and activates the reversing system for the engine should a new rotational direction be requested. The solenoid valve for reversing is energized, the air distributor changes to the new position and the fuel cam roller guide changeover mechanism operates.&lt;/p&gt;
+&lt;p&gt;c)     Turn the speed control dial to the START position. A governor start level signal is sent to the governor, the output shaft of the governor actuator moves to the start limit position, the solenoid valve for engine starting is energized and the engine commences to turn over on starting air in the desired direction.&lt;/p&gt;
+&lt;p&gt;d)     When the engine speed reaches the air-fuel changeover level (engine firing speed), the speed control dial is turned to the desired engine speed position. The solenoid valves for engine stopping and starting are de-energised  at the same time. The engine speed is regulated to the governor start level for 6 seconds and then it is regulated to the ordered speed.&lt;/p&gt;
+&lt;p&gt;e)     When the engine is running further speed changes are made by turning the speed control dial to the appropriate position.&lt;/p&gt;
+&lt;p&gt;Start Blocking&lt;/p&gt;
+&lt;p&gt;The main engine cannot be manually started if the emergency shutdown is active or if the turning gear is engaged.&lt;/p&gt;
+&lt;p&gt;Misfire&lt;/p&gt;
+&lt;p&gt;If a misfire occurs the engine will not pick up speed on fuel and will stop. The engine can be restarted and there is no limit on the number of manual restart attempts which may be made. However, if the engine fails to start after three manual attempts it indicates that there is a fault somewhere in the maneuvering system and an investigation should be carried out and the fault rectified before further starting attempts are made.&lt;/p&gt;
+&lt;p&gt;To restart after a misfire:&lt;/p&gt;
+&lt;p&gt;a)     Turn the speed control dial to the STOP position. If necessary, press the SCAV.  LIMIT CUT OUT pushbutton on the LCD panel in order to cancel the scavenge air pressure fuel limiter in the governor.&lt;/p&gt;
+&lt;p&gt;b)     Turn the speed control dial to the START position.&lt;/p&gt;
+&lt;p&gt;c)     When the engine reaches firing speed turn the speed control dial to the desired engine speed position. If the engine fails to reach firing speed it generally indicates that there is a fault in the starting air system. If the engine reaches firing speed but fails to pick up speed when fuel is supplied, it indicates a fault in the fuel system. A check should be made to determine if any of the cylinders are firing, if so then the problem is in the individual cylinder fuel systems rather than in the general fuel or governor systems.&lt;/p&gt;
+&lt;p&gt;Longer Air Running&lt;/p&gt;
+&lt;p&gt;If the engine fails to reach firing speed within a reasonable time the speed control dial should be returned to the STOP position in order to avoid excessive consumption of starting air. The cause of the failure to reach firing speed should be investigated.&lt;/p&gt;
+&lt;p&gt;Speed Limit&lt;/p&gt;
+&lt;p&gt;The control system prevents the engine from operating in the critical speed zone even if the speed control dial is turned to a speed setting which is in the critical speed zone.&lt;/p&gt;
+&lt;p&gt;The main engine speed is regulated by the governor rpm set point which may be lower than the speed control dial setting. The load up program does not function when operating under engine room control of the main engine and so care must be taken in increasing engine speed in order to avoid thermal stressing.&lt;/p&gt;
+&lt;p&gt;Reversing&lt;/p&gt;
+&lt;p&gt;Manual reversing of the engine may be achieved as follows.&lt;/p&gt;
+&lt;p&gt;a)     Turn the telegraph knob to the desired direction of rotation, ahead or astern. The solenoid valve for engine stopping is energized, the output shaft of the governor actuator is set to zero and fuel is shut off the engine.&lt;/p&gt;
+&lt;p&gt;b)     Turn the speed control dial to the STOP position. The reversing solenoid valve for the desired rotational direction is energized, the distributor changes to the ordered position, and the changeover mechanism on the fuel cam roller is activated.&lt;/p&gt;
+&lt;p&gt;c)     When the engine speed is lower than the reversing enabled level (assuming that the engine is still running in the opposite direction from that ordered), turn the speed control dial to the START position. The starting solenoid valve is energized, the governor actuator output shaft moves to the start position, braking air reduces the engine speed to if it is still running in the opposite direction) and starting air is applied to turn the engine in the new ordered direction. Under crash astern conditions the scavenge air pressure fuel limiter in the governor is automatically cancelled for 30 seconds.&lt;/p&gt;
+&lt;p&gt;d)     When the engine is rotating at the firing speed in the new direction turn the speed control dial to the desired speed. When the engine picks up speed on firing the starting and stopping solenoids are de-energized, and the governor regulates the engine speed to the desired value after maintaining it at the governor start level for 6 seconds.&lt;/p&gt;
+&lt;p&gt;System Malfunction&lt;/p&gt;
+&lt;p&gt;If the potentiometer of the speed control dial fails, the ‘System Failure’ alarm is activated in the wheelhouse and the alarm ‘ECS System Malfunction’ is activated in the engine control room. When the cause of the malfunction is corrected the system is reset by pressing the CAUSE RESET pushbutton in the engine control room console LCD panel.&lt;/p&gt;
+&lt;p&gt;Speed Blocking&lt;/p&gt;
+&lt;p&gt;Should the speed control dial potentiometer failure whilst the engine is being maneuvered from the control room the engine is kept running at the speed and in the direction which were last set. If bridge control is available, the engine control should be changed to the bridge but if it is not the engine control should be changed to the local control station. When the cause of the malfunction is corrected the system is reset by pressing the CAUSE RESET pushbutton in the engine control room console LCD panel.&lt;/p&gt;
+&lt;p&gt;Wr
+ong Way Alarm&lt;/p&gt;
+&lt;p&gt;If the engine rotates in the direction opposite to that ordered by the main telegraph the emergency shutdown solenoid valve is energized and a signal is sent to the governor cutting off the fuel supply to the main engine. At the same time the WRONG WAY lamp starts flashing and an alarm buzzer is activated. The cause of the wrong direction of rotation should be investigated, corrected and the engine restarted.&lt;/p&gt;
+&lt;p&gt;Engine Control&lt;/p&gt;
+&lt;p&gt;The engine may be maneuvered from the engine control room, the bridge or the engine side local (emergency) stand.&lt;/p&gt;
+&lt;p&gt;Control Room Control&lt;/p&gt;
+&lt;p&gt;The valve 100 at the engine side control stand must be turned to the REMOTE position and the fuel linkage must be connected to the governor so that speed control can take place through the governor. The maneuvering switches in the wheelhouse panel and in the engine control room panel must both be in the C/R (control room) positions. The illuminated indicators in the wheelhouse and control room will show which station has control.&lt;/p&gt;
+&lt;p&gt;Instructions are relayed from the bridge to the engine control room through the telegraph system.&lt;/p&gt;
+&lt;p&gt;There are three basic control orders which can be issued to the engine, Start, Stop and Run and these are the three control modes.&lt;/p&gt;
+&lt;p&gt;Stop Mode&lt;/p&gt;
+&lt;p&gt;In stop mode the stop signal is sent to the engine and if the engine is running it will stop. Stop mode is activated by turning the speed control dial in the control console to the STOP position.&lt;/p&gt;
+&lt;p&gt;Before maneuvering takes place, the auxiliary electric blowers must be selected for automatic and must be started; they will operate when the scavenge air pressure falls below 0.7MPa falling and stop on 0.5MPa rising.&lt;/p&gt;
+&lt;p&gt;When the engine is in the stop mode it may be started and may also be reversed. Reversal of the engine is undertaken by moving the telegraph knob ahead or astern as required. The telegraph knob is moved in order to acknowledge an instruction passed to the engine control room from the bridge and turning the telegraph knob to the position indicated by the illuminated order at the telegraph, signals to the wheelhouse that the engineer at the control will undertake the requested engine movement.&lt;/p&gt;
+&lt;p&gt;If the movement requested calls for an engine reversal, turning the telegraph knob to the ahead or astern position causes the control system to reposition the fuel pump roller guides for engine running in the opposite direction and activates the starting air distributor cam for starting in the new direction. The engineer should not start the engine until the air distributor and fuel pump rollers are correctly set.&lt;/p&gt;
+&lt;p&gt;Start Mode&lt;/p&gt;
+&lt;p&gt;An engine start is made by turning the speed control dial to the START position. This activates the starting air system, and the engine will turn over on air. A start cannot be made if the telegraph receiver is in the STOP position or if the turning gear is still engaged.&lt;/p&gt;
+&lt;p&gt;Run Mode&lt;/p&gt;
+&lt;p&gt;When the engine is rotating on air at a speed above a certain minimum, the firing speed, the fuel control dial may be turned from the START position to a number which is the fuel pump index setting. The engine will fire on fuel and the engine speed will increase. The engine speed will be set to the governor start level for 6 seconds even though the speed control dial may be set to a higher level. If the engine is operating correctly after the 6 seconds have elapsed the engine speed is ramped up to the ordered speed as set on the speed control dial.&lt;/p&gt;
+&lt;p&gt;Reversal&lt;/p&gt;
+&lt;p&gt;If an engine reversal is requested whilst the engine is still running ahead the telegraph is answered by turning the telegraph knob to the ordered speed and direction and the speed control dial is turned to the STOP position. Fuel is cut off the engine by the wrong way condition which exists as soon as the telegraph knob is turned to the reverse direction.&lt;/p&gt;
+&lt;p&gt;At a predetermined engine speed for the admission of braking air 30 rpm, ++ the speed control dial is turned to the START position.  When the engine reaches the correct rotational speed in the opposite direction turn the speed control dial to a fuel run position and the engine will fire on fuel in the reverse direction.&lt;/p&gt;
+&lt;p&gt;Bridge Control&lt;/p&gt;
+&lt;p&gt;A change from engine control room control to bridge control may be made whilst the engine is stopped or when it is running. If the change is made whilst the engine is stopped the maneuvering switches in the wheelhouse panel and in the engine control room panel must both be turned to the W/H (wheelhouse) positions; the illuminated indicators in the wheelhouse and control room will show which station has control. The valve 100 at the engine side control stand must be turned to the REMOTE position and the fuel linkage must be connected to the governor so that speed control can take place through the governor.&lt;/p&gt;
+&lt;p&gt;If the change is made whilst the engine is running care must be taken to ensure that the wheelhouse telegraph position matches the engine speed as indicated by the control room speed control dial. If the settings are not the same there may be a speed jump as the control systems adjust the fuel setting. When fuel setting are matched the control station changeover switches are turned to the W/H position. During bridge control the engine room speed control dial should be set at high-speed range.&lt;/p&gt;
+&lt;p&gt;Main Engine Emergency Control Unit&lt;/p&gt;
+&lt;p&gt;The engine is stopped, reversed, started and run via the telegraph transmitter unit and control of the engine is automatic provided that no interlocks are still engaged. Although the telegraph transmitter will show the current order there is an order indicator in the control console on the bridge and this shows engine order status.&lt;/p&gt;
+&lt;p&gt;The  bridge  panel  contains  indicators  showing  the  status  of  the  engine operation with respect to safety features, such as slowdown and shutdown, system  abnormalities  and  failures,  and  operation  of  the  engine  Load  Up program. The Load Up program is activated when the ordered engine speed is above manoeuvring speed in the ahead direction. Operation of the Load Up program is automatic but it can be cancelled by pressing the LOAD UP PROG. CANCEL pushbutton. Shutdowns and slowdowns may also be cancelled from the bridge panel by pressing the appropriate pushbuttons.&lt;/p&gt;
+&lt;p&gt;Engine Side Control&lt;/p&gt;
+&lt;p&gt;The engine may be manoeuvred manually from the local control stand at the engine side. The local control stand has priority and an engineer at the local control stand may take control from the bridge or the engine control room by turning the valve 100 at the side of the stand to the ENGINE SIDE position. Indicators in the engine control room and on the bridge will show that the engine side control stand has control of the main engine.&lt;/p&gt;
+&lt;p&gt;The fuel linkage must be disconnected from the governor and connected to the control handle at the engine side control stand;&lt;/p&gt;
+&lt;p&gt;To stop the engine the STOP valve is depressed.&lt;/p&gt;
+&lt;p&gt;To reverse the direction of the engine rotation, the ahead/astern lever, valve, must be moved to the new position. Reversing the engine is only possible when the STOP valve has been activated.&lt;/p&gt;
+&lt;p&gt;When the starting air distributor has been moved to the correct position for the rotational direction required and its position visually confirmed, the fuel control regulating handwheel can be moved to a suitable position to give fuel injection and a running speed of about SLOW.&lt;/p&gt;
+&lt;p&gt;To start the engine the START valve must be depressed.&lt;/p&gt;
+&lt;p&gt;When the start level rotational speed (firing speed) has been reached the START valve is deactivated by releasing the START valve. The engine should now be running on fuel.The engine speed can be manually controlled by operating the regulating handwheel which directly regulates the fuel injection pumps by moving the fuel pump control linkage.&lt;/p&gt;
+&lt;p&gt;The auxiliary blowers must be operating before the engine is started from the local control stand and these are started from the starter unit at the local control stand. The telegraph and indicator box at the local control stand provides information on the engine condition, such as speed, turning gear engaged and fuel cam position. There are also safety system indicators for slowdown and shutdown and pushbuttons for cancelling slowdowns and shutdowns.&lt;/p&gt;
+&lt;p&gt;Finished With Engine&lt;/p&gt;
+&lt;p&gt;When the command for ‘FWE’ is issued the engine must be shut down although it will remain in a state ready for starting in a short period of time. The control system must be put in the Finished With Engine condition.&lt;/p&gt;
+&lt;p&gt;The speed control dial in the engine control room must be turned to the STOP position and the speed setting handwheel at the local engine side control stand must be set to the STOP position if it is engaged. The telegraph transmitter and receivers must be set at the STOP positions.&lt;/p&gt;
+&lt;p&gt;The control and safety airline supply valves must be closed, and the lines must be vented.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Main engine manual overrides</title>
+      <link>http://localhost:1313/docs/partb/engg/me_overrides/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/engg/me_overrides/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Main engine manual overrides are mechanisms or procedures that allow operators to bypass automatic control systems and manually control the engine&amp;rsquo;s operation. These overrides ensure safe and reliable engine operation during emergencies, maintenance, or specific operational conditions.
+Types of Main Engine Manual Overrides:
+Fuel Injection Override: Manually controls fuel injection quantity and timing.
+Governor Override: Bypasses automatic speed governors to control engine speed.
+Startup Override: Allows manual engine startup, bypassing automatic startup sequences.
+Shutdown Override: Manually shuts down the engine, overriding automatic shutdown procedures.
+Load Limiting Override: Disables load limiting features to allow full engine power.
+RPM Limiting Override: Allows exceeding standard RPM limits for brief periods.
+Emergency Stop Override: Manually stops the engine in emergency situations.
+Methods of Implementing Manual Overrides:
+Mechanical Linkages: Physical connections between control levers and engine components.
+Electrical Switches: Manual switches that bypass automatic control circuits.
+Hydraulic/Pneumatic Systems: Manual control of fluid pressure to override automatic systems.
+Software Overrides: Password-protected manual override modes in engine control software.
+Applications:
+Emergency Response: Quickly respond to engine failures or emergencies.
+Maintenance: Facilitate maintenance tasks, such as testing and calibration.
+Special Operations: Allow for unique operational modes, like slow-speed maneuvering.
+Troubleshooting: Isolate and diagnose issues within automatic control systems.
+Safety Considerations:
+Training: Ensure operators understand override procedures and risks.
+Authorization: Restrict access to authorized personnel.
+Monitoring: Continuously monitor engine performance during override operations.
+Documentation: Record override events and maintenance activities.
+Important Regulations:
+Classification Society Rules: Compliance with societies like ABS, DNV, or LR.
+Flag State Regulations: Adherence to national maritime regulations.
+IMO Resolutions: Compliance with International Maritime Organization guidelines.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Marine Robotics</title>
+      <link>http://localhost:1313/docs/partb/engg/robotics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/engg/robotics/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Three Types of Autonomy in Marine Robotics&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;three-types-of-autonomy-in-marine-robotics&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#three-types-of-autonomy-in-marine-robotics&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Marine robotics, especially in the context of autonomous underwater vehicles (AUVs) and unmanned surface vehicles (USVs), have seen significant advancements in recent years. These advancements are largely due to the development of more sophisticated autonomy systems. Here are three primary types of autonomy in marine robotics:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Operational Autonomy:&lt;/strong&gt; This level of autonomy allows the marine robot to execute pre-programmed tasks without direct human intervention. The robot can navigate, sense its environment, and make simple decisions based on predefined rules. For instance, an AUV might be programmed to follow a specific underwater route, collect data, and return to its starting point.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tactical Autonomy:&lt;/strong&gt; At this level, the marine robot can adapt its behavior in response to changing environmental conditions or unforeseen obstacles. It can make more complex decisions, such as rerouting to avoid an obstruction or adjusting its depth to optimize sensor performance. This level of autonomy requires more sophisticated algorithms and sensors.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Strategic Autonomy:&lt;/strong&gt; This is the highest level of autonomy, where the marine robot can independently plan and execute missions based on broader objectives. It can analyze data, identify targets, and make decisions that align with overall goals. This level of autonomy is often associated with artificial intelligence and machine learning, allowing the robot to learn from experience and improve its decision-making abilities over time.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;In practice, many marine robots operate at a combination of these levels, depending on their specific application and the desired degree of human oversight. As technology continues to advance, we can expect to see even more sophisticated levels of autonomy in marine robotics, enabling them to perform increasingly complex and valuable tasks.&lt;/p&gt;
 
       </description>
     </item>
@@ -394,27 +940,27 @@
       <description>
         
         
-        &lt;h2&gt;Preventing Parting of Moorings&lt;span class=&#34;absolute -mt-20&#34; id=&#34;preventing-parting-of-moorings&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;Preventing Parting of Moorings&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;preventing-parting-of-moorings&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#preventing-parting-of-moorings&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The parting of moorings is a serious safety concern in maritime operations. Here are some strategies to prevent this:&lt;/p&gt;
-&lt;h3&gt;1. Proper Mooring Practices:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;1-proper-mooring-practices&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;1. Proper Mooring Practices:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-proper-mooring-practices&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-proper-mooring-practices&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Adequate number of lines:&lt;/strong&gt; Ensure that the vessel is secured with a sufficient number of mooring lines, taking into account the vessel&amp;rsquo;s size, the strength of the moorings, and the prevailing weather conditions.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Correct line handling:&lt;/strong&gt; Proper handling, stowage, and inspection of mooring lines are essential to prevent damage and premature failure.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Regular inspections:&lt;/strong&gt; Conduct regular inspections of mooring lines to identify any signs of wear, damage, or deterioration.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Emergency preparedness:&lt;/strong&gt; Develop and implement emergency procedures for handling mooring line failures or unexpected weather conditions.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;2. Winch Maintenance:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;2-winch-maintenance&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;2. Winch Maintenance:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-winch-maintenance&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-winch-maintenance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Regular inspections:&lt;/strong&gt; Regularly inspect and maintain mooring winches to ensure their proper functioning.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Brake testing:&lt;/strong&gt; Conduct periodic brake tests to verify the winch&amp;rsquo;s ability to hold the maximum load under various conditions.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Lubrication:&lt;/strong&gt; Proper lubrication of winch components is essential for smooth operation and to prevent premature wear.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;3. Mooring Line Selection:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;3-mooring-line-selection&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;3. Mooring Line Selection:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-mooring-line-selection&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-mooring-line-selection&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;MBL:&lt;/strong&gt; Choose mooring lines with a minimum breaking load (MBL) that is significantly higher than the expected maximum load on the line.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Material selection:&lt;/strong&gt; Consider the suitability of the mooring line material (e.g., synthetic fiber, wire rope) for the specific application and environmental conditions.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Brake Test for Mooring Winch&lt;span class=&#34;absolute -mt-20&#34; id=&#34;brake-test-for-mooring-winch&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Brake Test for Mooring Winch&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;brake-test-for-mooring-winch&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#brake-test-for-mooring-winch&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A brake test is a critical procedure to ensure that a mooring winch&amp;rsquo;s brake is capable of holding the maximum load it is designed to handle. Here&amp;rsquo;s how the test is typically carried out:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Load the winch:&lt;/strong&gt; Attach a test load to the mooring line, gradually increasing the load until it reaches the MBL of the new mooring rope or wire.&lt;/li&gt;
@@ -423,24 +969,24 @@
 &lt;li&gt;&lt;strong&gt;Release the load:&lt;/strong&gt; Carefully release the load and inspect the winch for any signs of wear or damage.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;&lt;strong&gt;Role of MBL:&lt;/strong&gt; The MBL of a new mooring rope or wire is the maximum load that the line can withstand before breaking. The winch brake is designed to render at a load that is significantly lower than the MBL to provide a safety margin and prevent the line from parting under normal operating conditions.&lt;/p&gt;
-&lt;h2&gt;Safety Precautions:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;safety-precautions&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Safety Precautions:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;safety-precautions&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#safety-precautions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Clear area:&lt;/strong&gt; Ensure that the area around the winch is clear of personnel and obstacles before conducting the test.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Personal protective equipment (PPE):&lt;/strong&gt; Wear appropriate PPE, such as safety glasses and gloves, to protect yourself from potential hazards.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Emergency procedures:&lt;/strong&gt; Have emergency procedures in place to respond to unexpected situations, such as a sudden increase in load or a brake failure.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Supervision:&lt;/strong&gt; Conduct the test under the supervision of qualified personnel who are familiar with the operation of the winch and the safety procedures involved.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Brake Band Support Adjusting Screw on a Windlass Brake&lt;span class=&#34;absolute -mt-20&#34; id=&#34;brake-band-support-adjusting-screw-on-a-windlass-brake&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Brake Band Support Adjusting Screw on a Windlass Brake&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;brake-band-support-adjusting-screw-on-a-windlass-brake&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#brake-band-support-adjusting-screw-on-a-windlass-brake&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The brake band support adjusting screw plays a crucial role in controlling the tension and effectiveness of the brake band on a windlass brake. This adjustment screw is used to alter the distance between the brake band and the drum, which directly affects the braking force.&lt;/p&gt;
-&lt;h3&gt;Increased Clearance:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;increased-clearance&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Increased Clearance:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;increased-clearance&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#increased-clearance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Reduced braking force:&lt;/strong&gt; If the clearance between the brake band and the drum is increased, the brake band will have less contact area with the drum. This results in a reduced braking force, making it more difficult to stop or hold the anchor.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Decreased Clearance:&lt;span class=&#34;absolute -mt-20&#34; id=&#34;decreased-clearance&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Decreased Clearance:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;decreased-clearance&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#decreased-clearance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Increased braking force:&lt;/strong&gt; Conversely, if the clearance is decreased, the brake band will have more contact area with the drum. This leads to an increased braking force, making it easier to stop or hold the anchor. However, excessive pressure can cause premature wear on the brake band and drum, as well as overheating and potential damage.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Role of Pivot Points&lt;span class=&#34;absolute -mt-20&#34; id=&#34;role-of-pivot-points&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Role of Pivot Points&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;role-of-pivot-points&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#role-of-pivot-points&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Pivot points are essential components of a windlass brake. They provide a fixed point around which the brake band can pivot, allowing it to wrap around the drum and apply a braking force. The position and design of these pivot points significantly influence the operation of the brake:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Braking force distribution:&lt;/strong&gt; The pivot points determine the distribution of braking force along the length of the brake band. A well-designed pivot point arrangement ensures that the braking force is applied evenly, preventing excessive wear on the brake band and drum.&lt;/li&gt;
@@ -448,6 +994,313 @@
 &lt;li&gt;&lt;strong&gt;Stability:&lt;/strong&gt; The pivot points contribute to the stability and reliability of the brake. A poorly designed or damaged pivot point can cause the brake band to shift or bind, leading to inconsistent braking performance.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In summary, the brake band support adjusting screw and pivot points work together to control the braking force and ensure the proper operation of a windlass brake. By understanding the role of these components, mariners can effectively adjust and maintain the brake to ensure the safe and efficient operation of the windlass.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Orifice Valve Refrigeration</title>
+      <link>http://localhost:1313/docs/partb/engg/orifice_valve-refrigeration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/engg/orifice_valve-refrigeration/</guid>
+      <description>
+        
+        
+        &lt;p&gt;An orifice valve in refrigeration systems on ships controls the flow of refrigerant, regulating the system&amp;rsquo;s cooling capacity. Here&amp;rsquo;s a detailed overview:&lt;/p&gt;
+&lt;h2&gt;Orifice Valve Functions:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;orifice-valve-functions&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#orifice-valve-functions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Flow control: Regulates refrigerant flow to optimize cooling.&lt;/li&gt;
+&lt;li&gt;Pressure control: Maintains optimal pressure levels.&lt;/li&gt;
+&lt;li&gt;Capacity control: Adjusts system capacity for changing cooling demands.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Refrigeration Systems on Ships:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;refrigeration-systems-on-ships&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#refrigeration-systems-on-ships&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Vapor compression cycle&lt;/li&gt;
+&lt;li&gt;Absorption cycle&lt;/li&gt;
+&lt;li&gt;Evaporative cooling&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Shipboard Applications:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;shipboard-applications&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#shipboard-applications&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Cargo refrigeration (e.g., container ships)&lt;/li&gt;
+&lt;li&gt;Air conditioning (e.g., passenger ships)&lt;/li&gt;
+&lt;li&gt;Provision cooling (e.g., food storage)&lt;/li&gt;
+&lt;li&gt;Freeze protection (e.g., piping and machinery)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Types of Orifice Valves:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;types-of-orifice-valves&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#types-of-orifice-valves&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Fixed orifice&lt;/li&gt;
+&lt;li&gt;Adjustable orifice&lt;/li&gt;
+&lt;li&gt;Needle valve&lt;/li&gt;
+&lt;li&gt;Capillary tube&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Key Considerations:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;key-considerations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-considerations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Size and capacity&lt;/li&gt;
+&lt;li&gt;Material compatibility (e.g., copper, steel)&lt;/li&gt;
+&lt;li&gt;Pressure drop and energy efficiency&lt;/li&gt;
+&lt;li&gt;Maintenance accessibility&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Regulations and Standards:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;regulations-and-standards&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#regulations-and-standards&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;International Maritime Organization (IMO)&lt;/li&gt;
+&lt;li&gt;American Society of Mechanical Engineers (ASME)&lt;/li&gt;
+&lt;li&gt;American Society of Heating, Refrigerating, and Air-Conditioning Engineers (ASHRAE)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Best Practices:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Regular maintenance&lt;/li&gt;
+&lt;li&gt;Proper sizing and installation&lt;/li&gt;
+&lt;li&gt;Leak detection and repair&lt;/li&gt;
+&lt;li&gt;Energy efficiency monitoring&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Power Factor- Electrical</title>
+      <link>http://localhost:1313/docs/partb/engg/electricalpowerfactor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/engg/electricalpowerfactor/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Power factor (PF) is a crucial concept in electrical engineering, particularly in generators. Here&amp;rsquo;s a comprehensive overview:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;What is Power Factor?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Power factor is the ratio of the real power (active power) to the apparent power in an electrical power system. It&amp;rsquo;s a measure of how effectively the current drawn from the generator is converted into useful work.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Mathematical Representation:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Power Factor (PF) = Real Power (P) / Apparent Power (S)&lt;/p&gt;
+&lt;p&gt;PF = P *  (√(P^2^+ Q^2^))^-1^&lt;/p&gt;
+&lt;p&gt;where:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;P = Real Power (active power) in watts (W)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Q = Reactive Power in vars (var)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;S = Apparent Power in volt-amperes (VA)&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Types of Power Factor:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Unity Power Factor (PF = 1)&lt;/strong&gt;: When the current and voltage are in phase, the power factor is unity. This is the ideal condition.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Leading Power Factor (PF &amp;gt; 1)&lt;/strong&gt;: When the current leads the voltage, the power factor is leading.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Lagging Power Factor (PF &amp;lt; 1)&lt;/strong&gt;: When the current lags the voltage, the power factor is lagging.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Importance of Power Factor in Generators:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Efficiency&lt;/strong&gt;: A low power factor indicates that the generator is not operating efficiently, resulting in increased energy losses.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Voltage Drop&lt;/strong&gt;: A low power factor can cause voltage drops in the system, affecting the performance of connected equipment.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Overheating&lt;/strong&gt;: Low power factor can lead to overheating of generator windings, reducing its lifespan.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Capacity&lt;/strong&gt;: A low power factor reduces the generator&amp;rsquo;s capacity to supply real power.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Factors Affecting Power Factor in Generators:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Load Power Factor&lt;/strong&gt;: The power factor of the connected load affects the overall power factor.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Generator Design&lt;/strong&gt;: The design of the generator, including the winding configuration and magnetic circuit, influences the power factor.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Excitation&lt;/strong&gt;: The excitation current and voltage affect the power factor.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Operating Conditions&lt;/strong&gt;: Voltage, frequency, and temperature affect the power factor.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Improving Power Factor in Generators:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Power Factor Correction (PFC) Devices&lt;/strong&gt;: Install PFC devices, such as capacitors or synchronous condensers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Generator Design Optimization&lt;/strong&gt;: Optimize generator design for improved power factor.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Excitation Control&lt;/strong&gt;: Implement excitation control systems to adjust excitation current.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Load Management&lt;/strong&gt;: Manage connected loads to maintain a high power factor.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Key Considerations:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Generator Sizing&lt;/strong&gt;: Ensure the generator is sized correctly for the connected load.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Power Factor Monitoring&lt;/strong&gt;: Regularly monitor power factor to identify potential issues.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Maintenance&lt;/strong&gt;: Regular maintenance helps maintain optimal power factor.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;By understanding and managing power factor in generators, you can optimize efficiency, reduce energy losses, and extend the lifespan of your equipment.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Refrigeration Components</title>
+      <link>http://localhost:1313/docs/partb/engg/shipboard-refrigeration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/engg/shipboard-refrigeration/</guid>
+      <description>
+        
+        
+        &lt;p&gt;A shipboard refrigeration system consists of the following main components:&lt;/p&gt;
+&lt;h2&gt;Primary Components:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;primary-components&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#primary-components&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Compressor: Compresses refrigerant, raising its temperature and pressure.&lt;/li&gt;
+&lt;li&gt;Condenser: Cools the hot refrigerant gas, converting it into a liquid.&lt;/li&gt;
+&lt;li&gt;Evaporator (or Coil): Absorbs heat from the cargo or space, causing refrigerant to evaporate.&lt;/li&gt;
+&lt;li&gt;Expansion Valve (or Orifice): Reduces refrigerant pressure, allowing expansion.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Auxiliary Components:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;auxiliary-components&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#auxiliary-components&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Refrigerant: Transfers heat from evaporator to condenser (e.g., R-404A, R-134a).&lt;/li&gt;
+&lt;li&gt;Controls and Sensors:
+&lt;ul&gt;
+&lt;li&gt;Thermostats&lt;/li&gt;
+&lt;li&gt;Pressure switches&lt;/li&gt;
+&lt;li&gt;Temperature sensors&lt;/li&gt;
+&lt;li&gt;Flow meters&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Pumps and Motors:
+&lt;ul&gt;
+&lt;li&gt;Compressor motor&lt;/li&gt;
+&lt;li&gt;Condenser water pump&lt;/li&gt;
+&lt;li&gt;Evaporator fan motor&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Valves:
+&lt;ul&gt;
+&lt;li&gt;Suction valve&lt;/li&gt;
+&lt;li&gt;Discharge valve&lt;/li&gt;
+&lt;li&gt;Defrost valve&lt;/li&gt;
+&lt;li&gt;Drain valve&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Pipework and Fittings: Connects components, ensuring refrigerant flow.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Additional Components (dependent on system type):&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;additional-components-dependent-on-system-type&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#additional-components-dependent-on-system-type&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Accumulator (for flooded systems)&lt;/li&gt;
+&lt;li&gt;Receiver (for direct expansion systems)&lt;/li&gt;
+&lt;li&gt;Defrost System (electric or hot gas)&lt;/li&gt;
+&lt;li&gt;Air-cooled or Water-cooled Heat Exchangers&lt;/li&gt;
+&lt;li&gt;Oil Separator (for compressors)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3&gt;Refrigeration System Types:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;refrigeration-system-types&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#refrigeration-system-types&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Vapor Compression Cycle (VCC)&lt;/li&gt;
+&lt;li&gt;Absorption Cycle&lt;/li&gt;
+&lt;li&gt;Evaporative Cooling&lt;/li&gt;
+&lt;li&gt;Direct Expansion (DX) System&lt;/li&gt;
+&lt;li&gt;Flooded System&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4&gt;Shipboard Refrigeration Applications:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;shipboard-refrigeration-applications&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#shipboard-refrigeration-applications&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;Cargo Refrigeration (e.g., containers, bulk cargo)&lt;/li&gt;
+&lt;li&gt;Provision Cooling (e.g., food storage)&lt;/li&gt;
+&lt;li&gt;Air Conditioning (e.g., passenger areas)&lt;/li&gt;
+&lt;li&gt;Freeze Protection (e.g., piping, machinery)&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Thermostatic Expansion Valve</title>
+      <link>http://localhost:1313/docs/partb/engg/txv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/engg/txv/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;A Thermostatic Expansion Valve (TXV) is a crucial component in shipboard refrigeration systems:&lt;/h1&gt;&lt;h2&gt;Function:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;function&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#function&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The TXV regulates refrigerant flow, controlling the superheat and pressure drop between the condenser and evaporator.&lt;/p&gt;
+&lt;h2&gt;Principle:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;principle&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#principle&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The TXV uses a temperature-sensing bulb to monitor evaporator coil temperature. This bulb is filled with a fluid that expands or contracts in response to temperature changes.&lt;/p&gt;
+&lt;h2&gt;Components:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;components&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#components&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Valve body&lt;/li&gt;
+&lt;li&gt;Valve stem&lt;/li&gt;
+&lt;li&gt;Orifice&lt;/li&gt;
+&lt;li&gt;Sensing bulb&lt;/li&gt;
+&lt;li&gt;Spring&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Operation:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;operation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#operation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Refrigerant enters the TXV from the condenser.&lt;/li&gt;
+&lt;li&gt;The sensing bulb monitors evaporator coil temperature.&lt;/li&gt;
+&lt;li&gt;As the coil temperature changes, the bulb fluid expands or contracts.&lt;/li&gt;
+&lt;li&gt;The valve stem moves, adjusting the orifice opening.&lt;/li&gt;
+&lt;li&gt;Refrigerant flow increases or decreases, maintaining optimal superheat (typically 5-10°C).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Types:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;types&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#types&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Internally Equalized TXV (IE-TXV)&lt;/li&gt;
+&lt;li&gt;Externally Equalized TXV (EE-TXV)&lt;/li&gt;
+&lt;li&gt;Balancing TXV&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Advantages:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;advantages&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#advantages&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Precise temperature control&lt;/li&gt;
+&lt;li&gt;Energy efficiency&lt;/li&gt;
+&lt;li&gt;Reduced refrigerant leakage&lt;/li&gt;
+&lt;li&gt;Improved system stability&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Applications in Shipboard Refrigeration:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;applications-in-shipboard-refrigeration&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#applications-in-shipboard-refrigeration&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Cargo refrigeration systems&lt;/li&gt;
+&lt;li&gt;Provision cooling systems&lt;/li&gt;
+&lt;li&gt;Air conditioning systems&lt;/li&gt;
+&lt;li&gt;Freeze protection systems&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Key Considerations:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;key-considerations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-considerations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Correct sizing and selection&lt;/li&gt;
+&lt;li&gt;Proper installation and maintenance&lt;/li&gt;
+&lt;li&gt;Bulb placement and insulation&lt;/li&gt;
+&lt;li&gt;Superheat setting and adjustment&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Standards and Regulations:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;standards-and-regulations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#standards-and-regulations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;ASHRAE (American Society of Heating, Refrigerating, and Air-Conditioning Engineers)&lt;/li&gt;
+&lt;li&gt;ASME (American Society of Mechanical Engineers)&lt;/li&gt;
+&lt;li&gt;IMO (International Maritime Organization)&lt;/li&gt;
+&lt;li&gt;Classification Societies (e.g., ABS, DNV)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;Troubleshooting Common Issues:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;troubleshooting-common-issues&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#troubleshooting-common-issues&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Insufficient refrigerant flow&lt;/li&gt;
+&lt;li&gt;Incorrect superheat setting&lt;/li&gt;
+&lt;li&gt;Clogged or frozen valve&lt;/li&gt;
+&lt;li&gt;Faulty sensing bulb&lt;/li&gt;
+&lt;/ol&gt;
 
       </description>
     </item>
