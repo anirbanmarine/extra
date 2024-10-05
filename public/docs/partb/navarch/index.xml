@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – EM202 Advanced Naval Architecture</title>
-    <link>https://www.anirbanmarine.in/docs/partb/navarch/</link>
+    <link>http://localhost:1313/docs/partb/navarch/</link>
     <description>Recent content in EM202 Advanced Naval Architecture on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://www.anirbanmarine.in/docs/partb/navarch/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/partb/navarch/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Manoeuvring trials</title>
-      <link>https://www.anirbanmarine.in/docs/partb/navarch/manoeuvring_trials/</link>
+      <link>http://localhost:1313/docs/partb/navarch/manoeuvring_trials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/navarch/manoeuvring_trials/</guid>
+      <guid>http://localhost:1313/docs/partb/navarch/manoeuvring_trials/</guid>
       <description>
         
         
@@ -44,10 +44,10 @@ design of hull &amp;amp; rudder.&lt;/li&gt;
     
     <item>
       <title>Resistance and Propulsion</title>
-      <link>https://www.anirbanmarine.in/docs/partb/navarch/resistance_and_propulsion/</link>
+      <link>http://localhost:1313/docs/partb/navarch/resistance_and_propulsion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/navarch/resistance_and_propulsion/</guid>
+      <guid>http://localhost:1313/docs/partb/navarch/resistance_and_propulsion/</guid>
       <description>
         
         
@@ -77,10 +77,10 @@ design of hull &amp;amp; rudder.&lt;/li&gt;
     
     <item>
       <title>Revision of Fundamentals of  Naval Architecture</title>
-      <link>https://www.anirbanmarine.in/docs/partb/navarch/revision_of_fundamentals/</link>
+      <link>http://localhost:1313/docs/partb/navarch/revision_of_fundamentals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/navarch/revision_of_fundamentals/</guid>
+      <guid>http://localhost:1313/docs/partb/navarch/revision_of_fundamentals/</guid>
       <description>
         
         
@@ -106,10 +106,10 @@ design of hull &amp;amp; rudder.&lt;/li&gt;
     
     <item>
       <title>Ship Construction Files</title>
-      <link>https://www.anirbanmarine.in/docs/partb/navarch/scf/</link>
+      <link>http://localhost:1313/docs/partb/navarch/scf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/navarch/scf/</guid>
+      <guid>http://localhost:1313/docs/partb/navarch/scf/</guid>
       <description>
         
         
@@ -223,14 +223,24 @@ design of hull &amp;amp; rudder.&lt;/li&gt;
     
     <item>
       <title>Ship designs</title>
-      <link>https://www.anirbanmarine.in/docs/partb/navarch/ship_designs/</link>
+      <link>http://localhost:1313/docs/partb/navarch/ship_designs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/navarch/ship_designs/</guid>
+      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/</guid>
       <description>
         
         
-        &lt;ol&gt;
+        
+  &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/navarch/ship_designs/ropax/solas_90&amp;#43;50/&#34;&gt;A Shift Towards Probabilistic Safety Assessment SOLAS 90 plus 50&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/navarch/ship_designs/pax/imo_pax_safety/&#34;&gt;IMO RO-RO SHIPS&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/navarch/ship_designs/ropax/sola_90/&#34;&gt;SOLAS 90 Requirements for Passenger Ferries&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/navarch/ship_designs/ropax/stockholm_a/&#34;&gt;Stockholm Agreement&lt;/a&gt;&lt;/h2&gt;
+
+
+&lt;ol&gt;
 &lt;li&gt;Preliminary design methods, weight and cost estimate.&lt;/li&gt;
 &lt;li&gt;General principles of powering.&lt;/li&gt;
 &lt;li&gt;Power requirement estimation.&lt;/li&gt;
@@ -246,14 +256,16 @@ ferries, tankers, bulk carriers, OBOs, chemical tankers, LNG/LPG carriers, conta
     
     <item>
       <title>Ship Motion</title>
-      <link>https://www.anirbanmarine.in/docs/partb/navarch/ship_motion/</link>
+      <link>http://localhost:1313/docs/partb/navarch/ship_motion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/navarch/ship_motion/</guid>
+      <guid>http://localhost:1313/docs/partb/navarch/ship_motion/</guid>
       <description>
         
         
-        &lt;ol&gt;
+        
+
+&lt;ol&gt;
 &lt;li&gt;General concept of waves experienced in a seaway,&lt;/li&gt;
 &lt;li&gt;Six degrees of freedom,&lt;/li&gt;
 &lt;li&gt;Wave spectral density,&lt;/li&gt;
@@ -272,14 +284,18 @@ ferries, tankers, bulk carriers, OBOs, chemical tankers, LNG/LPG carriers, conta
     
     <item>
       <title>Stress and Strain</title>
-      <link>https://www.anirbanmarine.in/docs/partb/navarch/stress_and_strain/</link>
+      <link>http://localhost:1313/docs/partb/navarch/stress_and_strain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/navarch/stress_and_strain/</guid>
+      <guid>http://localhost:1313/docs/partb/navarch/stress_and_strain/</guid>
       <description>
         
         
-        &lt;ol&gt;
+        
+  &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/navarch/stress_and_strain/section_modulus/&#34;&gt;Section Modulus&lt;/a&gt;&lt;/h2&gt;
+
+
+&lt;ol&gt;
 &lt;li&gt;Review of basics of stress and strain;&lt;/li&gt;
 &lt;li&gt;Simple bending theory, sectional modulus, their application to beams and ships.&lt;/li&gt;
 &lt;li&gt;Stresses in still water and in a seaway.&lt;/li&gt;
@@ -295,10 +311,10 @@ ferries, tankers, bulk carriers, OBOs, chemical tankers, LNG/LPG carriers, conta
     
     <item>
       <title>Theory Questions</title>
-      <link>https://www.anirbanmarine.in/docs/partb/navarch/q_a/</link>
+      <link>http://localhost:1313/docs/partb/navarch/q_a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/navarch/q_a/</guid>
+      <guid>http://localhost:1313/docs/partb/navarch/q_a/</guid>
       <description>
         
         

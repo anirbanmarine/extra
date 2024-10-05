@@ -5,7 +5,7 @@ sidebar:
   open: true
 ---
 
-{{ partial "page-list.html" }}
+{{<page_list2>}}
 
 
 

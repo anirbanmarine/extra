@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – Geology and Oceanography</title>
-    <link>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/</link>
+    <link>http://localhost:1313/docs/partc/em301/oceanogeo/</link>
     <description>Recent content in Geology and Oceanography on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/partc/em301/oceanogeo/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Active geological processes</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/actgeo/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceanogeo/actgeo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/actgeo/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/actgeo/</guid>
       <description>
         
         
@@ -41,10 +41,10 @@
     
     <item>
       <title>Bathymetric Studies</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/bathy/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceanogeo/bathy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/bathy/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/bathy/</guid>
       <description>
         
         
@@ -81,10 +81,10 @@
     
     <item>
       <title>Distribution of Salinity, Temperature and Density of Water</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/watermass/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceanogeo/watermass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/watermass/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/watermass/</guid>
       <description>
         
         
@@ -123,10 +123,10 @@
     
     <item>
       <title>Earth&#39;s status and Earth&#39;s interior age</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/earthintro/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceanogeo/earthintro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/earthintro/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/earthintro/</guid>
       <description>
         
         
@@ -167,10 +167,10 @@ These methods have all given similar ages for Earth&amp;rsquo;s interior, sugges
     
     <item>
       <title>General characteristics of the seas</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/seas/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceanogeo/seas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/seas/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/seas/</guid>
       <description>
         
         
@@ -207,10 +207,10 @@ Coastline and beaches&lt;/p&gt;
     
     <item>
       <title>Genesis of rocks, types of rocks,distribution of rocks in the continents and oceans</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/rocks/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceanogeo/rocks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/rocks/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/rocks/</guid>
       <description>
         
         
@@ -274,10 +274,10 @@ Coastline and beaches&lt;/p&gt;
     
     <item>
       <title>Heat Budget of the Oceans</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/heatbudget/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceanogeo/heatbudget/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/heatbudget/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/heatbudget/</guid>
       <description>
         
         
@@ -305,10 +305,10 @@ Coastline and beaches&lt;/p&gt;
     
     <item>
       <title>Ice</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/ice/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceanogeo/ice/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/ice/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/ice/</guid>
       <description>
         
         
@@ -342,10 +342,10 @@ Coastline and beaches&lt;/p&gt;
     
     <item>
       <title>Mohole Project</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/mohole/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceanogeo/mohole/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/mohole/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/mohole/</guid>
       <description>
         
         
@@ -376,10 +376,10 @@ Coastline and beaches&lt;/p&gt;
     
     <item>
       <title>Physical properties of seawater, light penetration and colour of the sea</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/seawater/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceanogeo/seawater/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/seawater/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/seawater/</guid>
       <description>
         
         
@@ -405,10 +405,10 @@ Light penetration and color of the sea&lt;/p&gt;
     
     <item>
       <title>Submarine Atlas</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/satlas/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceanogeo/satlas/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/satlas/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/satlas/</guid>
       <description>
         
         
@@ -465,10 +465,10 @@ Light penetration and color of the sea&lt;/p&gt;
     
     <item>
       <title>Surface Ocean Currents</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/oceancurr/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceanogeo/oceancurr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/oceancurr/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/oceancurr/</guid>
       <description>
         
         
@@ -501,10 +501,10 @@ Light penetration and color of the sea&lt;/p&gt;
     
     <item>
       <title>The plate tectonic model</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/tectonics/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceanogeo/tectonics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/tectonics/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/tectonics/</guid>
       <description>
         
         

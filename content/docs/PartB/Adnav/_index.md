@@ -4,6 +4,7 @@ type: docs
 ---
 
 ## Contents
+{{<page_list2>}}
 
 * Limitations of various formulae
 * Laws of planetary motion

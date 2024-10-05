@@ -4,6 +4,7 @@ type: docs
 sidebar:
   open: true
 ---
+{{<page_list2>}}
 1. General concept of waves experienced in a seaway, 
 2. Six degrees of freedom, 
 3. Wave spectral density, 

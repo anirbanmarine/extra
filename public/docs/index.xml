@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – Parts-Syllabus</title>
-    <link>https://www.anirbanmarine.in/docs/</link>
+    <link>http://localhost:1313/docs/</link>
     <description>Recent content in Parts-Syllabus on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://www.anirbanmarine.in/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Agenda 21 UNFCCC </title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/intconv/agenda_21/</link>
+      <link>http://localhost:1313/docs/partc/em301/intconv/agenda_21/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/intconv/agenda_21/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/intconv/agenda_21/</guid>
       <description>
         
         
@@ -53,10 +53,10 @@ The UNFCCC Agenda 21 has been influential in shaping the international response 
     
     <item>
       <title>Kyoto Protocol-UNFCCC (UNFCCC,Kyoto,1997)</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/intconv/kyotoproto/</link>
+      <link>http://localhost:1313/docs/partc/em301/intconv/kyotoproto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/intconv/kyotoproto/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/intconv/kyotoproto/</guid>
       <description>
         
         
@@ -83,10 +83,10 @@ The UNFCCC Agenda 21 has been influential in shaping the international response 
     
     <item>
       <title>Regional Seas Programme (RSP,Paris,2015)</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/intconv/rsparis2015/</link>
+      <link>http://localhost:1313/docs/partc/em301/intconv/rsparis2015/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/intconv/rsparis2015/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/intconv/rsparis2015/</guid>
       <description>
         
         
@@ -110,10 +110,10 @@ The RSP is committed to working with all stakeholders to implement the SDGs and 
     
     <item>
       <title>The 2002 World Summit on Sustainable Development-Rio&#43;10 (WSSD,Johannesburg,2002)The 2012 United Nations Conference on Sustainable Development-Rio&#43;20 (UNCSD,Rio,2012)</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/intconv/rio&#43;10_20/</link>
+      <link>http://localhost:1313/docs/partc/em301/intconv/rio&#43;10_20/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/intconv/rio&#43;10_20/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/intconv/rio&#43;10_20/</guid>
       <description>
         
         
@@ -157,10 +157,10 @@ Despite these challenges, there is also a growing awareness of the importance of
     
     <item>
       <title>The Commission on Sustainable Development (CSD,Rio,1992)</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/intconv/csd1992/</link>
+      <link>http://localhost:1313/docs/partc/em301/intconv/csd1992/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/intconv/csd1992/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/intconv/csd1992/</guid>
       <description>
         
         
@@ -193,10 +193,10 @@ Despite these challenges, there is also a growing awareness of the importance of
     
     <item>
       <title>The Intergovernmental Conference on biological diversity beyond national jurisdiction (BBNJ,2023)</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/intconv/bbnj/</link>
+      <link>http://localhost:1313/docs/partc/em301/intconv/bbnj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/intconv/bbnj/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/intconv/bbnj/</guid>
       <description>
         
         
@@ -344,7 +344,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/www.anirbanmarine.in\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;http:\/\/localhost:1313\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
 
     
     var pdfDoc = null,
@@ -474,10 +474,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
     
     <item>
       <title>The London Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter (LC 1972)</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/intconv/londondump1972/</link>
+      <link>http://localhost:1313/docs/partc/em301/intconv/londondump1972/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/intconv/londondump1972/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/intconv/londondump1972/</guid>
       <description>
         
         
@@ -503,10 +503,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
     
     <item>
       <title>The United Nations Conference on Environment and Development (UNCED),1992</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/intconv/unced/</link>
+      <link>http://localhost:1313/docs/partc/em301/intconv/unced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/intconv/unced/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/intconv/unced/</guid>
       <description>
         
         
@@ -525,10 +525,10 @@ The Earth Summit was a major step forward in international environmental coopera
     
     <item>
       <title>The United Nations Convention on Biological Diversity (CBD,Rio,1992) </title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/intconv/unconvbiodiversity/</link>
+      <link>http://localhost:1313/docs/partc/em301/intconv/unconvbiodiversity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/intconv/unconvbiodiversity/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/intconv/unconvbiodiversity/</guid>
       <description>
         
         
@@ -564,10 +564,10 @@ The CBD is a comprehensive treaty that covers all aspects of biological diversit
     
     <item>
       <title>The United Nations Framework Convention on Climate Change (UNFCCC,Rio,1992)</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/intconv/unfccc/</link>
+      <link>http://localhost:1313/docs/partc/em301/intconv/unfccc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/intconv/unfccc/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/intconv/unfccc/</guid>
       <description>
         
         
@@ -720,7 +720,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-6
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/www.anirbanmarine.in\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;http:\/\/localhost:1313\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
 
     
     var pdfDoc = null,
@@ -850,10 +850,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-6
     
     <item>
       <title>United Nations Convention on Human Environment,1972</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/intconv/unhe/</link>
+      <link>http://localhost:1313/docs/partc/em301/intconv/unhe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/intconv/unhe/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/intconv/unhe/</guid>
       <description>
         
         
@@ -878,10 +878,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-6
     
     <item>
       <title>United Nations Environment Programme</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/intconv/unepcont/</link>
+      <link>http://localhost:1313/docs/partc/em301/intconv/unepcont/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/intconv/unepcont/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/intconv/unepcont/</guid>
       <description>
         
         
@@ -1010,7 +1010,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/www.anirbanmarine.in\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;http:\/\/localhost:1313\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
 
     
     var pdfDoc = null,
@@ -1140,10 +1140,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b
     
     <item>
       <title></title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/special_navigation_problems/different_lat/</link>
+      <link>http://localhost:1313/docs/partb/adnav/special_navigation_problems/different_lat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/special_navigation_problems/different_lat/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/special_navigation_problems/different_lat/</guid>
       <description>
         
         
@@ -1345,10 +1345,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b
     
     <item>
       <title></title>
-      <link>https://www.anirbanmarine.in/docs/partb/engg/cont/</link>
+      <link>http://localhost:1313/docs/partb/engg/cont/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/engg/cont/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/cont/</guid>
       <description>
         
         
@@ -1377,10 +1377,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b
     
     <item>
       <title></title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/tides/typoftides/</link>
+      <link>http://localhost:1313/docs/partc/em301/tides/typoftides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/tides/typoftides/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/tides/typoftides/</guid>
       <description>
         
         
@@ -1426,10 +1426,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b
     
     <item>
       <title></title>
-      <link>https://www.anirbanmarine.in/docs/partc/em302/intropm/originofcargo/</link>
+      <link>http://localhost:1313/docs/partc/em302/intropm/originofcargo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em302/intropm/originofcargo/</guid>
+      <guid>http://localhost:1313/docs/partc/em302/intropm/originofcargo/</guid>
       <description>
         
         
@@ -1503,10 +1503,10 @@ Seasonal variations&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/averageadjustment/addback/</link>
+      <link>http://localhost:1313/docs/partc/em303/averageadjustment/addback/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/averageadjustment/addback/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/averageadjustment/addback/</guid>
       <description>
         
         
@@ -1553,10 +1553,10 @@ Seasonal variations&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/sueandlabourclause/</link>
+      <link>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/sueandlabourclause/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/sueandlabourclause/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/sueandlabourclause/</guid>
       <description>
         
         
@@ -1625,10 +1625,10 @@ Seasonal variations&lt;/p&gt;
     
     <item>
       <title>A Shift Towards Probabilistic Safety Assessment SOLAS 90 plus 50</title>
-      <link>https://www.anirbanmarine.in/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</link>
+      <link>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</guid>
+      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</guid>
       <description>
         
         
@@ -1659,10 +1659,10 @@ Seasonal variations&lt;/p&gt;
     
     <item>
       <title>Active geological processes</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/actgeo/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceanogeo/actgeo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/actgeo/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/actgeo/</guid>
       <description>
         
         
@@ -1684,10 +1684,10 @@ Seasonal variations&lt;/p&gt;
     
     <item>
       <title>Areas Beyond National Jurisdiction</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/oceangov/abnj/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceangov/abnj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/oceangov/abnj/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceangov/abnj/</guid>
       <description>
         
         
@@ -1729,10 +1729,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Average total Loss (ATL)</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/atl/</link>
+      <link>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/atl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/atl/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/atl/</guid>
       <description>
         
         
@@ -1763,10 +1763,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>AVR</title>
-      <link>https://www.anirbanmarine.in/docs/partb/engg/avr/</link>
+      <link>http://localhost:1313/docs/partb/engg/avr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/engg/avr/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/avr/</guid>
       <description>
         
         
@@ -1825,10 +1825,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Azimuth thrusters</title>
-      <link>https://www.anirbanmarine.in/docs/partb/engg/azimuth-thrusters/</link>
+      <link>http://localhost:1313/docs/partb/engg/azimuth-thrusters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/engg/azimuth-thrusters/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/azimuth-thrusters/</guid>
       <description>
         
         
@@ -1888,10 +1888,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Basic techniques of Hydrographic Surveying</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/hydrosurv/bashydro/</link>
+      <link>http://localhost:1313/docs/partc/em301/hydrosurv/bashydro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/hydrosurv/bashydro/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/hydrosurv/bashydro/</guid>
       <description>
         
         
@@ -1930,10 +1930,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Bathymetric Studies</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/bathy/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceanogeo/bathy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/oceanogeo/bathy/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/bathy/</guid>
       <description>
         
         
@@ -1970,10 +1970,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Bill of Lading</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/billoflading/</link>
+      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/billoflading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/billoflading/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/billoflading/</guid>
       <description>
         
         
@@ -2251,10 +2251,10 @@ b- Shipment from a port within the United Kingdom&lt;/p&gt;
     
     <item>
       <title>Broker&#39;s responsibility to the principal</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/brokerespons/</link>
+      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/brokerespons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/brokerespons/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/brokerespons/</guid>
       <description>
         
         
@@ -2281,10 +2281,10 @@ b- Shipment from a port within the United Kingdom&lt;/p&gt;
     
     <item>
       <title>Calculation of Demurrage</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/demurrcalc/</link>
+      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/demurrcalc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/demurrcalc/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/demurrcalc/</guid>
       <description>
         
         
@@ -2559,10 +2559,10 @@ b- Shipment from a port within the United Kingdom&lt;/p&gt;
     
     <item>
       <title>Cargo Circulars for Commercial shipping</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/cargocirc/</link>
+      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/cargocirc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/cargocirc/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/cargocirc/</guid>
       <description>
         
         
@@ -2597,10 +2597,10 @@ b- Shipment from a port within the United Kingdom&lt;/p&gt;
     
     <item>
       <title>Cargo claims procedure</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/cgoclaimsproc/</link>
+      <link>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/cgoclaimsproc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/cgoclaimsproc/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/cgoclaimsproc/</guid>
       <description>
         
         
@@ -2652,10 +2652,10 @@ b- Shipment from a port within the United Kingdom&lt;/p&gt;
     
     <item>
       <title>Cargo Handling Machineries Required for a Port.</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em302/portops/cargohandlingequipments/</link>
+      <link>http://localhost:1313/docs/partc/em302/portops/cargohandlingequipments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em302/portops/cargohandlingequipments/</guid>
+      <guid>http://localhost:1313/docs/partc/em302/portops/cargohandlingequipments/</guid>
       <description>
         
         
@@ -2701,10 +2701,10 @@ SBM Tender,&lt;/p&gt;
     
     <item>
       <title>Cargo insurance rating</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/cargoinsurance/insurancerating/</link>
+      <link>http://localhost:1313/docs/partc/em303/cargoinsurance/insurancerating/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/cargoinsurance/insurancerating/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/cargoinsurance/insurancerating/</guid>
       <description>
         
         
@@ -2735,10 +2735,10 @@ SBM Tender,&lt;/p&gt;
     
     <item>
       <title>Cargo insurance underwriting factors</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/cargoinsurance/underwritingfact/</link>
+      <link>http://localhost:1313/docs/partc/em303/cargoinsurance/underwritingfact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/cargoinsurance/underwritingfact/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/cargoinsurance/underwritingfact/</guid>
       <description>
         
         
@@ -2780,10 +2780,10 @@ SBM Tender,&lt;/p&gt;
     
     <item>
       <title>cargo risk factors</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/cargoinsurance/cgorskfac/</link>
+      <link>http://localhost:1313/docs/partc/em303/cargoinsurance/cgorskfac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/cargoinsurance/cgorskfac/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/cargoinsurance/cgorskfac/</guid>
       <description>
         
         
@@ -2811,10 +2811,10 @@ The desired average (loss) clauses: The assured may choose average clauses rangi
     
     <item>
       <title>Case Studies and Incidence response procedures</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/cyber_security_case_studies/</link>
+      <link>http://localhost:1313/docs/partb/adnav/cyber_security_case_studies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/cyber_security_case_studies/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/cyber_security_case_studies/</guid>
       <description>
         
         
@@ -2824,10 +2824,10 @@ The desired average (loss) clauses: The assured may choose average clauses rangi
     
     <item>
       <title>Changes in Logistics and Distribution Patterns Influence the Development or Decline of Ports</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em302/intropm/changeinlogisticsanddistribution/</link>
+      <link>http://localhost:1313/docs/partc/em302/intropm/changeinlogisticsanddistribution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em302/intropm/changeinlogisticsanddistribution/</guid>
+      <guid>http://localhost:1313/docs/partc/em302/intropm/changeinlogisticsanddistribution/</guid>
       <description>
         
         
@@ -2870,10 +2870,10 @@ The desired average (loss) clauses: The assured may choose average clauses rangi
     
     <item>
       <title>Charter party disputes</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/chrtrdispute/</link>
+      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/chrtrdispute/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/chrtrdispute/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/chrtrdispute/</guid>
       <description>
         
         
@@ -3567,10 +3567,10 @@ c- A dispute arising from a commodity contract [Section 4(1) of the 1979 Act].&l
     
     <item>
       <title>CNG as a Marine Fuel</title>
-      <link>https://www.anirbanmarine.in/docs/partb/engg/cng/</link>
+      <link>http://localhost:1313/docs/partb/engg/cng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/engg/cng/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/cng/</guid>
       <description>
         
         
@@ -3607,10 +3607,10 @@ c- A dispute arising from a commodity contract [Section 4(1) of the 1979 Act].&l
     
     <item>
       <title>Co-Ordinate Universal Time and Time Signals</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/utc/</link>
+      <link>http://localhost:1313/docs/partb/adnav/utc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/utc/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/utc/</guid>
       <description>
         
         
@@ -3620,10 +3620,10 @@ c- A dispute arising from a commodity contract [Section 4(1) of the 1979 Act].&l
     
     <item>
       <title>Co-Tidal Charts</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/tides/cotidal/</link>
+      <link>http://localhost:1313/docs/partc/em301/tides/cotidal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/tides/cotidal/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/tides/cotidal/</guid>
       <description>
         
         
@@ -3651,10 +3651,10 @@ c- A dispute arising from a commodity contract [Section 4(1) of the 1979 Act].&l
     
     <item>
       <title>Commission on Limits of the Continental Shelf</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/oceangov/clcs/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceangov/clcs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/oceangov/clcs/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceangov/clcs/</guid>
       <description>
         
         
@@ -3678,10 +3678,10 @@ c- A dispute arising from a commodity contract [Section 4(1) of the 1979 Act].&l
     
     <item>
       <title>COMMISSIONING OF A NON-MAJOR PORT</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em302/prtpln/nonmajorprtcommissioning/</link>
+      <link>http://localhost:1313/docs/partc/em302/prtpln/nonmajorprtcommissioning/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em302/prtpln/nonmajorprtcommissioning/</guid>
+      <guid>http://localhost:1313/docs/partc/em302/prtpln/nonmajorprtcommissioning/</guid>
       <description>
         
         
@@ -3756,10 +3756,10 @@ Commissioning procedure.&lt;/p&gt;
     
     <item>
       <title>concept of cabotage</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/cabotage/cabotageconcept/</link>
+      <link>http://localhost:1313/docs/partc/em303/cabotage/cabotageconcept/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/cabotage/cabotageconcept/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/cabotage/cabotageconcept/</guid>
       <description>
         
         
@@ -3785,10 +3785,10 @@ Commissioning procedure.&lt;/p&gt;
     
     <item>
       <title>Conservation of resources</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/marineres/marfish/conserv/</link>
+      <link>http://localhost:1313/docs/partc/em301/marineres/marfish/conserv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/marineres/marfish/conserv/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/marineres/marfish/conserv/</guid>
       <description>
         
         
@@ -3826,10 +3826,10 @@ Commissioning procedure.&lt;/p&gt;
     
     <item>
       <title>Constructive Total Loss</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/ctl/</link>
+      <link>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/ctl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/ctl/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/ctl/</guid>
       <description>
         
         
@@ -3847,10 +3847,10 @@ Commissioning procedure.&lt;/p&gt;
     
     <item>
       <title>container ship operations</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/containerops/</link>
+      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/containerops/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/containerops/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/containerops/</guid>
       <description>
         
         
@@ -3905,10 +3905,10 @@ Commissioning procedure.&lt;/p&gt;
     
     <item>
       <title>Control in hydrographic surveying</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/hydrosurv/control/</link>
+      <link>http://localhost:1313/docs/partc/em301/hydrosurv/control/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/hydrosurv/control/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/hydrosurv/control/</guid>
       <description>
         
         
@@ -3951,10 +3951,10 @@ Commissioning procedure.&lt;/p&gt;
     
     <item>
       <title>Copper Losses in Transformers</title>
-      <link>https://www.anirbanmarine.in/docs/partb/engg/transformers_cu_losses/</link>
+      <link>http://localhost:1313/docs/partb/engg/transformers_cu_losses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/engg/transformers_cu_losses/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/transformers_cu_losses/</guid>
       <description>
         
         
@@ -4026,10 +4026,10 @@ Commissioning procedure.&lt;/p&gt;
     
     <item>
       <title>Costing of New Berth</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em302/prtpln/newberthcosting/</link>
+      <link>http://localhost:1313/docs/partc/em302/prtpln/newberthcosting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em302/prtpln/newberthcosting/</guid>
+      <guid>http://localhost:1313/docs/partc/em302/prtpln/newberthcosting/</guid>
       <description>
         
         

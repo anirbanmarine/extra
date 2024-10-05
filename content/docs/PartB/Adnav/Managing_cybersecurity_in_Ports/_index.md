@@ -3,6 +3,7 @@ title: Managing Cyber Security
 type: docs
 toc: true
 ---
+{{<page_list2>}}
 
 1. Role of the CSO; 
 2. Port cyber-security committee; 

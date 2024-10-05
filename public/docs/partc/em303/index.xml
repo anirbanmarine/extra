@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – Commercial Shipping Management</title>
-    <link>https://www.anirbanmarine.in/docs/partc/em303/</link>
+    <link>http://localhost:1313/docs/partc/em303/</link>
     <description>Recent content in Commercial Shipping Management on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://www.anirbanmarine.in/docs/partc/em303/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/partc/em303/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Average Adjustment</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/averageadjustment/</link>
+      <link>http://localhost:1313/docs/partc/em303/averageadjustment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/averageadjustment/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/averageadjustment/</guid>
       <description>
         
         
@@ -38,10 +38,10 @@
     
     <item>
       <title>Cabotage</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/cabotage/</link>
+      <link>http://localhost:1313/docs/partc/em303/cabotage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/cabotage/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/cabotage/</guid>
       <description>
         
         
@@ -58,10 +58,10 @@
     
     <item>
       <title>Cargo Insurance</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/cargoinsurance/</link>
+      <link>http://localhost:1313/docs/partc/em303/cargoinsurance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/cargoinsurance/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/cargoinsurance/</guid>
       <description>
         
         
@@ -88,10 +88,10 @@
     
     <item>
       <title>Cargo Insurance Claims</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/</link>
+      <link>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/</guid>
       <description>
         
         
@@ -122,10 +122,10 @@
     
     <item>
       <title>Commercial Shipping</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/</link>
+      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/cshipmgmt/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/</guid>
       <description>
         
         
@@ -188,10 +188,10 @@
     
     <item>
       <title>Consequence limiting RCOs</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/conseqlimitrcos/</link>
+      <link>http://localhost:1313/docs/partc/em303/conseqlimitrcos/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/conseqlimitrcos/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/conseqlimitrcos/</guid>
       <description>
         
         
@@ -211,10 +211,10 @@
     
     <item>
       <title>Indian Insurance</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/indianinsurance/</link>
+      <link>http://localhost:1313/docs/partc/em303/indianinsurance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/indianinsurance/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/indianinsurance/</guid>
       <description>
         
         
@@ -237,10 +237,10 @@
     
     <item>
       <title>Liner agency</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/lineragency/</link>
+      <link>http://localhost:1313/docs/partc/em303/lineragency/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/lineragency/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/lineragency/</guid>
       <description>
         
         
@@ -253,10 +253,10 @@
     
     <item>
       <title>Marine Insurance</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/marinsurance/</link>
+      <link>http://localhost:1313/docs/partc/em303/marinsurance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/marinsurance/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/marinsurance/</guid>
       <description>
         
         
@@ -283,10 +283,10 @@
     
     <item>
       <title>Port agency</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/portagency/</link>
+      <link>http://localhost:1313/docs/partc/em303/portagency/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/portagency/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/portagency/</guid>
       <description>
         
         
@@ -299,10 +299,10 @@
     
     <item>
       <title>Risk Assessment Fundamentals</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/riskassessmnt/</link>
+      <link>http://localhost:1313/docs/partc/em303/riskassessmnt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/riskassessmnt/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/riskassessmnt/</guid>
       <description>
         
         
@@ -350,10 +350,10 @@
     
     <item>
       <title>Risk Control Options (RCOs)</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/riskcontrol/</link>
+      <link>http://localhost:1313/docs/partc/em303/riskcontrol/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/riskcontrol/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/riskcontrol/</guid>
       <description>
         
         
@@ -379,10 +379,10 @@
     
     <item>
       <title>Risk Management</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/riskmgmnt/</link>
+      <link>http://localhost:1313/docs/partc/em303/riskmgmnt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/riskmgmnt/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/riskmgmnt/</guid>
       <description>
         
         
@@ -403,10 +403,10 @@
     
     <item>
       <title>Sale and Purchase of Ships</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/salepurchase/</link>
+      <link>http://localhost:1313/docs/partc/em303/salepurchase/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/salepurchase/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/salepurchase/</guid>
       <description>
         
         
@@ -432,10 +432,10 @@
     
     <item>
       <title>Shipping Management</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/shippingmgmnt/</link>
+      <link>http://localhost:1313/docs/partc/em303/shippingmgmnt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/shippingmgmnt/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/shippingmgmnt/</guid>
       <description>
         
         
@@ -455,10 +455,10 @@
     
     <item>
       <title>Types of Policies</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em303/typofpolicy/</link>
+      <link>http://localhost:1313/docs/partc/em303/typofpolicy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em303/typofpolicy/</guid>
+      <guid>http://localhost:1313/docs/partc/em303/typofpolicy/</guid>
       <description>
         
         

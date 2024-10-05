@@ -3,6 +3,8 @@ title: Terrestrial and Ship's Magnetism
 type: docs
 toc: true
 ---
+{{<page_list2>}}
+
 1. Variation, Dip,TotalForce,Horizontal force,Vertical Force,Local Attarction.
 2. Geographical variation and its effect on deviation.
 3. Effects of permanent and induced magnetism.

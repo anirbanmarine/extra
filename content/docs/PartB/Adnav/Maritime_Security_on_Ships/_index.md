@@ -3,6 +3,7 @@ title: Maritime Cyber Security On Ships
 type: docs
 toc: true
 ---
+{{<page_list2>}}
 
 1. Cyber sccurity and safety management: 
 2. Malware,viruses and spyware:  

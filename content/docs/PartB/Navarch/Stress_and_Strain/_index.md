@@ -4,7 +4,7 @@ type: docs
 sidebar:
   open: true
 ---
-
+{{<page_list2>}}
 1. Review of basics of stress and strain; 
 2. Simple bending theory, sectional modulus, their application to beams and ships. 
 3. Stresses in still water and in a seaway. 

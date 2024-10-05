@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – EM201 Advanced Navigation and Maritime Cyber Security</title>
-    <link>https://www.anirbanmarine.in/docs/partb/adnav/</link>
+    <link>http://localhost:1313/docs/partb/adnav/</link>
     <description>Recent content in EM201 Advanced Navigation and Maritime Cyber Security on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://www.anirbanmarine.in/docs/partb/adnav/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/partb/adnav/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Case Studies and Incidence response procedures</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/cyber_security_case_studies/</link>
+      <link>http://localhost:1313/docs/partb/adnav/cyber_security_case_studies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/cyber_security_case_studies/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/cyber_security_case_studies/</guid>
       <description>
         
         
@@ -29,10 +29,10 @@
     
     <item>
       <title>Co-Ordinate Universal Time and Time Signals</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/utc/</link>
+      <link>http://localhost:1313/docs/partb/adnav/utc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/utc/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/utc/</guid>
       <description>
         
         
@@ -42,10 +42,10 @@
     
     <item>
       <title>Compass Adjustment</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/compass-adjustment/</link>
+      <link>http://localhost:1313/docs/partb/adnav/compass-adjustment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/compass-adjustment/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/compass-adjustment/</guid>
       <description>
         
         
@@ -71,10 +71,10 @@ and k to the various coefficients and to heeling error;&lt;/li&gt;
     
     <item>
       <title>Compass construction and siting</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/compass_construction_and-siting/</link>
+      <link>http://localhost:1313/docs/partb/adnav/compass_construction_and-siting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/compass_construction_and-siting/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/compass_construction_and-siting/</guid>
       <description>
         
         
@@ -89,10 +89,10 @@ and k to the various coefficients and to heeling error;&lt;/li&gt;
     
     <item>
       <title>Cyber Security</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/cyber_security/</link>
+      <link>http://localhost:1313/docs/partb/adnav/cyber_security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/cyber_security/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/cyber_security/</guid>
       <description>
         
         
@@ -110,10 +110,10 @@ and k to the various coefficients and to heeling error;&lt;/li&gt;
     
     <item>
       <title>Cyber Security in Ports</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/cyber_security_in_ports/</link>
+      <link>http://localhost:1313/docs/partb/adnav/cyber_security_in_ports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/cyber_security_in_ports/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/cyber_security_in_ports/</guid>
       <description>
         
         
@@ -131,10 +131,10 @@ and k to the various coefficients and to heeling error;&lt;/li&gt;
     
     <item>
       <title>Latest Advancements in Aids to Navigation.</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/latest_nav_aids/</link>
+      <link>http://localhost:1313/docs/partb/adnav/latest_nav_aids/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/latest_nav_aids/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/latest_nav_aids/</guid>
       <description>
         
         
@@ -148,10 +148,10 @@ and k to the various coefficients and to heeling error;&lt;/li&gt;
     
     <item>
       <title>Latest Advancements in Navigation Equipments</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/latest_nav_equipments/</link>
+      <link>http://localhost:1313/docs/partb/adnav/latest_nav_equipments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/latest_nav_equipments/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/latest_nav_equipments/</guid>
       <description>
         
         
@@ -171,10 +171,10 @@ and k to the various coefficients and to heeling error;&lt;/li&gt;
     
     <item>
       <title>Laws of Planetary motion</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/laws_of_palentary_motion/</link>
+      <link>http://localhost:1313/docs/partb/adnav/laws_of_palentary_motion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/laws_of_palentary_motion/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/laws_of_palentary_motion/</guid>
       <description>
         
         
@@ -190,14 +190,16 @@ and k to the various coefficients and to heeling error;&lt;/li&gt;
     
     <item>
       <title>Magnetism.</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/magnetism/</link>
+      <link>http://localhost:1313/docs/partb/adnav/magnetism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/magnetism/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/magnetism/</guid>
       <description>
         
         
-        &lt;ol&gt;
+        
+
+&lt;ol&gt;
 &lt;li&gt;Magnetic compass and magnetism:&lt;/li&gt;
 &lt;li&gt;Properties of magnets.&lt;/li&gt;
 &lt;li&gt;&amp;ldquo;hard&amp;rdquo; and &amp;ldquo;soft&amp;rdquo; iron.&lt;/li&gt;
@@ -217,14 +219,16 @@ and k to the various coefficients and to heeling error;&lt;/li&gt;
     
     <item>
       <title>Managing Cyber Security</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/managing_cybersecurity_in_ports/</link>
+      <link>http://localhost:1313/docs/partb/adnav/managing_cybersecurity_in_ports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/managing_cybersecurity_in_ports/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/managing_cybersecurity_in_ports/</guid>
       <description>
         
         
-        &lt;ol&gt;
+        
+
+&lt;ol&gt;
 &lt;li&gt;Role of the CSO;&lt;/li&gt;
 &lt;li&gt;Port cyber-security committee;&lt;/li&gt;
 &lt;li&gt;Security operations ccntre (SOC):&lt;/li&gt;
@@ -237,14 +241,16 @@ and k to the various coefficients and to heeling error;&lt;/li&gt;
     
     <item>
       <title>Maritime Cyber Security On Ships</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/maritime_security_on_ships/</link>
+      <link>http://localhost:1313/docs/partb/adnav/maritime_security_on_ships/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/maritime_security_on_ships/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/maritime_security_on_ships/</guid>
       <description>
         
         
-        &lt;ol&gt;
+        
+
+&lt;ol&gt;
 &lt;li&gt;Cyber sccurity and safety management:&lt;/li&gt;
 &lt;li&gt;Malware,viruses and spyware:&lt;/li&gt;
 &lt;li&gt;Identification of theft and compromise of classified data.&lt;/li&gt;
@@ -264,14 +270,16 @@ and k to the various coefficients and to heeling error;&lt;/li&gt;
     
     <item>
       <title>Positional errors in fixes</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/positional_errors_in_fixes/</link>
+      <link>http://localhost:1313/docs/partb/adnav/positional_errors_in_fixes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/positional_errors_in_fixes/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/positional_errors_in_fixes/</guid>
       <description>
         
         
-        &lt;ol&gt;
+        
+
+&lt;ol&gt;
 &lt;li&gt;Errors in terrestrial observations. position line and in fixes.&lt;/li&gt;
 &lt;li&gt;the theory of the cocked hat and the three bearing formula and their applications.&lt;/li&gt;
 &lt;li&gt;Errors in astronomical observations.position line and in flxes.&lt;/li&gt;
@@ -283,14 +291,16 @@ and k to the various coefficients and to heeling error;&lt;/li&gt;
     
     <item>
       <title>Research and Development .</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/r_d/</link>
+      <link>http://localhost:1313/docs/partb/adnav/r_d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/r_d/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/r_d/</guid>
       <description>
         
         
-        &lt;ol&gt;
+        
+
+&lt;ol&gt;
 &lt;li&gt;Marine Autonomous Surface Ships.&lt;/li&gt;
 &lt;li&gt;Future Challenges.&lt;/li&gt;
 &lt;/ol&gt;
@@ -300,14 +310,16 @@ and k to the various coefficients and to heeling error;&lt;/li&gt;
     
     <item>
       <title>Special Navigation Systems.</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/special_navigation_systems/</link>
+      <link>http://localhost:1313/docs/partb/adnav/special_navigation_systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/special_navigation_systems/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/special_navigation_systems/</guid>
       <description>
         
         
-        &lt;ol&gt;
+        
+
+&lt;ol&gt;
 &lt;li&gt;Integrated Navigation System.&lt;/li&gt;
 &lt;li&gt;Dynamic Positioning System.&lt;/li&gt;
 &lt;li&gt;Inertial Navigation System.&lt;/li&gt;
@@ -318,14 +330,18 @@ and k to the various coefficients and to heeling error;&lt;/li&gt;
     
     <item>
       <title>Special problems in navigation</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/special_navigation_problems/</link>
+      <link>http://localhost:1313/docs/partb/adnav/special_navigation_problems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/special_navigation_problems/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/special_navigation_problems/</guid>
       <description>
         
         
-        &lt;ol&gt;
+        
+  &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/adnav/special_navigation_problems/different_lat/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
+&lt;ol&gt;
 &lt;li&gt;High Latitude Navigation&lt;/li&gt;
 &lt;li&gt;High speed surface craft&lt;/li&gt;
 &lt;li&gt;Sub-surface craft&lt;/li&gt;
@@ -336,14 +352,16 @@ and k to the various coefficients and to heeling error;&lt;/li&gt;
     
     <item>
       <title>Stellar Magnitudes and Distances</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/stellar_magnitudes_and_distances/</link>
+      <link>http://localhost:1313/docs/partb/adnav/stellar_magnitudes_and_distances/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/stellar_magnitudes_and_distances/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/stellar_magnitudes_and_distances/</guid>
       <description>
         
         
-        &lt;ol&gt;
+        
+
+&lt;ol&gt;
 &lt;li&gt;Variable stars &amp;amp; binary systems;&lt;/li&gt;
 &lt;li&gt;Annual parallax&lt;/li&gt;
 &lt;li&gt;Aberration&lt;/li&gt;
@@ -355,14 +373,16 @@ and k to the various coefficients and to heeling error;&lt;/li&gt;
     
     <item>
       <title>Steps for Maritime Cyber Security</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/steps_for_maritime_security/</link>
+      <link>http://localhost:1313/docs/partb/adnav/steps_for_maritime_security/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/steps_for_maritime_security/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/steps_for_maritime_security/</guid>
       <description>
         
         
-        &lt;ol&gt;
+        
+
+&lt;ol&gt;
 &lt;li&gt;Network security;&lt;/li&gt;
 &lt;li&gt;Malware prevention;&lt;/li&gt;
 &lt;li&gt;Risk management regime;&lt;/li&gt;
@@ -394,14 +414,16 @@ response: recoverv plan:&lt;/li&gt;
     
     <item>
       <title>Terrestrial and Ship&#39;s Magnetism</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/terrestrial_and_ships_magnetism/</link>
+      <link>http://localhost:1313/docs/partb/adnav/terrestrial_and_ships_magnetism/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/terrestrial_and_ships_magnetism/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/terrestrial_and_ships_magnetism/</guid>
       <description>
         
         
-        &lt;ol&gt;
+        
+
+&lt;ol&gt;
 &lt;li&gt;Variation, Dip,TotalForce,Horizontal force,Vertical Force,Local Attarction.&lt;/li&gt;
 &lt;li&gt;Geographical variation and its effect on deviation.&lt;/li&gt;
 &lt;li&gt;Effects of permanent and induced magnetism.&lt;/li&gt;
@@ -415,14 +437,16 @@ response: recoverv plan:&lt;/li&gt;
     
     <item>
       <title>Theory and general appreciation of projections</title>
-      <link>https://www.anirbanmarine.in/docs/partb/adnav/projections/</link>
+      <link>http://localhost:1313/docs/partb/adnav/projections/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partb/adnav/projections/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/projections/</guid>
       <description>
         
         
-        &lt;ol&gt;
+        
+
+&lt;ol&gt;
 &lt;li&gt;Mercator&lt;/li&gt;
 &lt;li&gt;Transverse Mercator:&lt;/li&gt;
 &lt;li&gt;Gnomonic&lt;/li&gt;

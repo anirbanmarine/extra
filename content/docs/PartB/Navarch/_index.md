@@ -4,6 +4,7 @@ type: docs
 ---
 
 ## Contents
+{{<page_list2>}}
 
 * Revision of Fundamentals of naval architecture
 * Resistance and propulsion

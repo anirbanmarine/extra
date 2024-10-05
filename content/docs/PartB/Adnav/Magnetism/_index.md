@@ -3,6 +3,7 @@ title: Magnetism.
 type: docs
 toc: true
 ---
+{{<page_list2>}}
 1. Magnetic compass and magnetism: 
 2. Properties of magnets.
 3. "hard" and "soft" iron.

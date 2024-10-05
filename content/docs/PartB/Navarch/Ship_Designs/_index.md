@@ -2,6 +2,7 @@
 title: Ship designs
 type: docs
 ---
+{{<page_list2>}}
 
 1. Preliminary design methods, weight and cost estimate. 
 2. General principles of powering. 

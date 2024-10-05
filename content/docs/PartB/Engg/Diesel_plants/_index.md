@@ -4,3 +4,4 @@ type: docs
 sidebar:
   open: true
 ---
+{{<page_list2>}}

@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – Marine Resources- Minerals</title>
-    <link>https://www.anirbanmarine.in/docs/partc/em301/marineres/minerals/</link>
+    <link>http://localhost:1313/docs/partc/em301/marineres/minerals/</link>
     <description>Recent content in Marine Resources- Minerals on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://www.anirbanmarine.in/docs/partc/em301/marineres/minerals/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/partc/em301/marineres/minerals/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Desalination processes</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/marineres/minerals/desalination/</link>
+      <link>http://localhost:1313/docs/partc/em301/marineres/minerals/desalination/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/marineres/minerals/desalination/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/marineres/minerals/desalination/</guid>
       <description>
         
         
@@ -73,10 +73,10 @@ Desalination plants can produce brine, which is a concentrated wastewater that c
     
     <item>
       <title>Extraction of Minerals from seabed</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/marineres/minerals/mineralextraction/</link>
+      <link>http://localhost:1313/docs/partc/em301/marineres/minerals/mineralextraction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/marineres/minerals/mineralextraction/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/marineres/minerals/mineralextraction/</guid>
       <description>
         
         
@@ -123,10 +123,10 @@ Desalination plants can produce brine, which is a concentrated wastewater that c
     
     <item>
       <title>Methods of extracting minerals from seawater</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/marineres/minerals/mineralsextract/</link>
+      <link>http://localhost:1313/docs/partc/em301/marineres/minerals/mineralsextract/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/marineres/minerals/mineralsextract/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/marineres/minerals/mineralsextract/</guid>
       <description>
         
         
@@ -164,10 +164,10 @@ Desalination plants can produce brine, which is a concentrated wastewater that c
     
     <item>
       <title>Sand and Gravel Dredging</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/marineres/minerals/sandgrvldredge/</link>
+      <link>http://localhost:1313/docs/partc/em301/marineres/minerals/sandgrvldredge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/marineres/minerals/sandgrvldredge/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/marineres/minerals/sandgrvldredge/</guid>
       <description>
         
         
@@ -214,10 +214,10 @@ Sand and gravel dredging can have a number of environmental impacts, including:&
     
     <item>
       <title>Seabed Sampling</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/marineres/minerals/seabedsample/</link>
+      <link>http://localhost:1313/docs/partc/em301/marineres/minerals/seabedsample/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/marineres/minerals/seabedsample/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/marineres/minerals/seabedsample/</guid>
       <description>
         
         
@@ -251,10 +251,10 @@ Sand and gravel dredging can have a number of environmental impacts, including:&
     
     <item>
       <title>Seismic and Sonar Profiling</title>
-      <link>https://www.anirbanmarine.in/docs/partc/em301/marineres/minerals/seismicsonarprofiling/</link>
+      <link>http://localhost:1313/docs/partc/em301/marineres/minerals/seismicsonarprofiling/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://www.anirbanmarine.in/docs/partc/em301/marineres/minerals/seismicsonarprofiling/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/marineres/minerals/seismicsonarprofiling/</guid>
       <description>
         
         
