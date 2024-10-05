@@ -30,8 +30,6 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/cont/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/partb/engg/q_a/</loc>
-  </url><url>
     <loc>http://localhost:1313/docs/partc/em301/tides/typoftides/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em302/intropm/originofcargo/</loc>
@@ -379,6 +377,8 @@
     <loc>http://localhost:1313/docs/partb/q_a/q_a_2/qa2-/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/q_a/q_a_3/qa3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/q_a/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/shipboard-refrigeration/</loc>
   </url><url>

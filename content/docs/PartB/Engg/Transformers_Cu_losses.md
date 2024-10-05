@@ -2,8 +2,7 @@
 title: Copper Losses in Transformers
 toc: true
 type: docs
-sidebar:
-  open: true
+
 ---
 Copper losses in transformers refer to the energy losses that occur in the transformer's copper windings due to electrical resistance. These losses are also known as ohmic losses or I^2R losses.
 
