@@ -2,8 +2,8 @@
 title: Questions and Answers
 toc: true
 type: docs
-
 ---
+
 ## Q1(a) : A centrifugal pump cannot handle air, hence it has to be “primed” with the
 handling liquid, but an IG blower also a centrifugal “pump” can easily handle air- justify
 the truth of the above statement.
@@ -1353,7 +1353,7 @@ can help prevent this.
 ## Q9(b): In a STP (sewage treatment plant) what is the function of a flow -control disc? Make a simple sketch of a
 STP to show and label all its compartments and what treatment occurs in each.
 ## Ans :
-![sketch of Sewage treatment plant](/swt-at-ship.png)
+![sketch of Sewage treatment plant](swt-at-ship.png)
  ### **Function of a Flow-Control Disc in a Sewage Treatment Plant (STP)**
 In a **Sewage Treatment Plant (STP)** on board ships, the **flow-control disc** is used to regulate the flow of
 sewage through the treatment system. It ensures that the sewage passes through the treatment chambers at an optimal
@@ -1425,7 +1425,7 @@ flow regulation is essential for producing clean, safe effluent that meets legal
 ## Q10(a): Explain the principle of generation voltage control and describe the functioning of an automatic voltage
 regulator.
 ## Ans :
-![sketch of automatic Voltage generator](/AVR-1.png)
+![sketch of automatic Voltage generator](AVR-1.png)
  ### **Principle of Voltage Generation and Control in Marine Generators**
 In a marine generator, the **voltage generation** is based on **Faraday’s Law of Electromagnetic Induction**.
 According to this law, when a conductor moves through a magnetic field, a voltage (or electromotive force, EMF) is

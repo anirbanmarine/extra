@@ -1073,9 +1073,10 @@ IMO Resolutions: Compliance with International Maritime Organization guidelines.
 &lt;p&gt;&lt;strong&gt;What is Power Factor?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Power factor is the ratio of the real power (active power) to the apparent power in an electrical power system. It&amp;rsquo;s a measure of how effectively the current drawn from the generator is converted into useful work.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Mathematical Representation:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Power Factor (PF) = Real Power (P) / Apparent Power (S)&lt;/p&gt;
-&lt;p&gt;PF = P *  (√(P^2^+ Q^2^))^-1^&lt;/p&gt;
-&lt;p&gt;where:&lt;/p&gt;
+&lt;p&gt;Power Factor (PF) = Real Power (P) / Apparent Power
+PF = P *  (√(P^2^+ Q^2^))^-1^)&lt;/p&gt;
+\[PF =\frac{ P } {\sqrt{(P^2+ Q^2)}}\]&lt;p&gt;
+where:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;P = Real Power (active power) in watts (W)&lt;/p&gt;
@@ -3127,7 +3128,8 @@ can help prevent this.&lt;/li&gt;
 &lt;h2&gt;Q9(b): In a STP (sewage treatment plant) what is the function of a flow -control disc? Make a simple sketch of a&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;q9b-in-a-stp-sewage-treatment-plant-what-is-the-function-of-a-flow--control-disc-make-a-simple-sketch-of-a&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#q9b-in-a-stp-sewage-treatment-plant-what-is-the-function-of-a-flow--control-disc-make-a-simple-sketch-of-a&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;STP to show and label all its compartments and what treatment occurs in each.&lt;/p&gt;
 &lt;h2&gt;Ans :&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ans--20&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#ans--20&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;../../../swt-at-ship.png&#34; alt=&#34;sketch of Sewage treatment plant&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;a href=&#34;#ans--20&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;
+    &lt;img src=&#34;../swt-at-ship.png&#34; alt=&#34;sketch of Sewage treatment plant&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;strong&gt;Function of a Flow-Control Disc in a Sewage Treatment Plant (STP)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;function-of-a-flow-control-disc-in-a-sewage-treatment-plant-stp&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#function-of-a-flow-control-disc-in-a-sewage-treatment-plant-stp&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;In a &lt;strong&gt;Sewage Treatment Plant (STP)&lt;/strong&gt; on board ships, the &lt;strong&gt;flow-control disc&lt;/strong&gt; is used to regulate the flow of
 sewage through the treatment system. It ensures that the sewage passes through the treatment chambers at an optimal
@@ -3259,7 +3261,8 @@ flow regulation is essential for producing clean, safe effluent that meets legal
 &lt;h2&gt;Q10(a): Explain the principle of generation voltage control and describe the functioning of an automatic voltage&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;q10a-explain-the-principle-of-generation-voltage-control-and-describe-the-functioning-of-an-automatic-voltage&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#q10a-explain-the-principle-of-generation-voltage-control-and-describe-the-functioning-of-an-automatic-voltage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;regulator.&lt;/p&gt;
 &lt;h2&gt;Ans :&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ans--21&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#ans--21&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;img src=&#34;../../../AVR-1.png&#34; alt=&#34;sketch of automatic Voltage generator&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;a href=&#34;#ans--21&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;
+    &lt;img src=&#34;../AVR-1.png&#34; alt=&#34;sketch of automatic Voltage generator&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;h3&gt;&lt;strong&gt;Principle of Voltage Generation and Control in Marine Generators&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;principle-of-voltage-generation-and-control-in-marine-generators&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#principle-of-voltage-generation-and-control-in-marine-generators&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;In a marine generator, the &lt;strong&gt;voltage generation&lt;/strong&gt; is based on &lt;strong&gt;Faraday’s Law of Electromagnetic Induction&lt;/strong&gt;.
 According to this law, when a conductor moves through a magnetic field, a voltage (or electromotive force, EMF) is

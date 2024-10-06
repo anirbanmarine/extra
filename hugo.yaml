@@ -1,13 +1,25 @@
 baseURL: https://www.anirbanmarine.in
 languageCode: en-us
 title: Study Extra Master
-
 relativeUrls: true
-
-
-    
+ 
 theme: hextra-main
 
-
-
 enableInlineShortcodes : true    
+
+markup:
+  goldmark:
+    extensions:
+      passthrough:
+        delimiters:
+          block:
+          - - \[
+            - \]
+          - - $$
+            - $$
+          inline:
+          - - \(
+            - \)
+        enable: true
+params:
+  math: true

@@ -2,8 +2,7 @@
 title: Power Factor- Electrical
 toc: true
 type: docs
-sidebar:
-  open: true
+math: true
 ---
 Power factor (PF) is a crucial concept in electrical engineering, particularly in generators. Here's a comprehensive overview:
 
@@ -13,10 +12,10 @@ Power factor is the ratio of the real power (active power) to the apparent power
 
 **Mathematical Representation:**
 
-Power Factor (PF) = Real Power (P) / Apparent Power (S)
+Power Factor (PF) = Real Power (P) / Apparent Power 
+PF = P *  (√(P^2^+ Q^2^))^-1^)
 
-PF = P *  (√(P^2^+ Q^2^))^-1^
-
+\[PF =\frac{ P } {\sqrt{(P^2+ Q^2)}}\]
 where:
 
 -   P = Real Power (active power) in watts (W)
