@@ -2004,3 +2004,102 @@ Thrust bearings are critical in marine propulsion systems, as they handle the ax
 ensure efficient power transmission to the ship’s hull. They prevent axial shaft movement, improving system stability
 and efficiency. However, they require careful alignment, regular lubrication, and effective heat management to avoid
 wear and ensure long service life.
+
+## For marine boiler flue gas based Inert gas system ,how the Oxygen level is maintained?
+## Ans:
+
+In a marine boiler flue gas-based Inert Gas (IG) system, oxygen levels are maintained through careful control of the flue gas composition and flow rates. Here's a simplified overview:
+
+Principle:
+
+1. Flue gas from the boiler is used as the source of inert gas.
+2. The flue gas is treated to remove excess oxygen and other impurities.
+3. The treated gas is then supplied to the cargo tanks or other areas requiring inerting.
+
+Oxygen Control:
+
+1. Flue gas recirculation: A portion of the flue gas is recirculated back to the boiler to reduce excess oxygen.
+2. Air intake control: Air intake is regulated to maintain optimal combustion and minimize excess oxygen.
+3. Fuel-to-air ratio: The fuel-to-air ratio is adjusted to ensure complete combustion, reducing oxygen levels.
+4. Oxygen sensors: Continuous monitoring of oxygen levels using sensors, typically zirconia or electrochemical types.
+5. Control valves: Automatic control valves adjust flue gas flow rates to maintain desired oxygen levels.
+
+Inert Gas System Components:
+
+1. Inert Gas Generator (IGG): Produces inert gas from flue gas.
+2. Inert Gas Blower: Boosts inert gas pressure for distribution.
+3. Oxygen Analyzer: Monitors oxygen levels in the inert gas.
+4. Control Unit: Regulates inert gas flow, pressure, and oxygen levels.
+
+Setpoints and Alarms:
+
+1. Oxygen levels: Typically maintained between 5% and 8%.
+2. Inert gas pressure: Monitored to ensure adequate supply.
+3. Temperature: Monitored to prevent overheating.
+
+Advantages:
+
+1. Reduced oxygen levels minimize cargo oxidation and explosion risks.
+2. Energy-efficient, using waste flue gas as inert gas source.
+3. Compact design, suitable for marine applications.
+
+Challenges and Considerations:
+
+1. Maintaining optimal flue gas composition.
+2. Ensuring reliable oxygen sensing and control.
+3. Managing potential for corrosion and fouling.
+4. Compliance with regulations (e.g., SOLAS, IMO).
+
+By carefully controlling oxygen levels and flue gas composition, marine boiler flue gas-based Inert Gas systems provide a safe and efficient solution for cargo tank inerting.
+## What could be the reasons for increase of oxygen content in Inert Gas?
+
+## Ans:
+Here are potential reasons for increased oxygen content in Inert Gas (IG) systems:
+
+Operational Issues:
+
+1. Insufficient flue gas recirculation.
+2. Incorrect fuel-to-air ratio.
+3. Inadequate combustion control.
+4. Poor boiler maintenance (e.g., fouled burners).
+5. Inert gas blower malfunction.
+
+System Design/Configuration:
+
+1. Inadequate IG generator design.
+2. Insufficient gas/gas heat exchanger capacity.
+3. Improperly sized or designed scrubber.
+4. Inadequate gas cooling system.
+
+Maintenance-Related:
+
+1. Faulty or clogged oxygen sensors.
+2. Incorrect calibration of oxygen analyzers.
+3. Worn or damaged valves/seals.
+4. Inadequate filter maintenance.
+
+External Factors:
+
+1. Changes in fuel type/quality.
+2. Ambient temperature/humidity fluctuations.
+3. Air leaks in IG system.
+4. Cargo tank pressure/vacuum fluctuations.
+
+Other Possible Causes:
+
+1. Inert gas system startup/shutdown issues.
+2. Incorrect IG system operating parameters.
+3. Lack of regular system checks/maintenance.
+4. Insufficient training for operators.
+
+To mitigate increased oxygen content, consider:
+
+1. Regular maintenance and inspections.
+2. Monitoring oxygen levels and system performance.
+3. Adjusting operational parameters.
+4. Upgrading system design/configuration.
+5. Training operators on IG system operation.
+
+International Maritime Organization (IMO) and classification society regulations (e.g., SOLAS, ABS) provide guidelines for IG system design, operation, and maintenance.
+
+
