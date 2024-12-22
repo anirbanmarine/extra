@@ -6,7 +6,7 @@ sidebar:
   open: true
 ---
 ## Content
-
+{{<page_list2>}}
 ### Leadership
 
 * Introduction to Leadership

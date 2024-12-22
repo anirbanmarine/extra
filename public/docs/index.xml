@@ -1437,54 +1437,54 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b
 &lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Cargo&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Main places of origin&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Trade routes&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Seasonal variations&lt;/th&gt;
+          &lt;th&gt;Cargo&lt;/th&gt;
+          &lt;th&gt;Main places of origin&lt;/th&gt;
+          &lt;th&gt;Trade routes&lt;/th&gt;
+          &lt;th&gt;Seasonal variations&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Crude oil&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Middle East, Russia, United States, Canada, Saudi Arabia, Iraq, Iran, Kuwait, Venezuela,   Nigeria&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Asia, Europe, North America, South America&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Demand for crude oil is relatively constant throughout the year, but there can be fluctuations due to factors such as economic growth, weather events, and geopolitical tensions.&lt;/td&gt;
+          &lt;td&gt;Crude oil&lt;/td&gt;
+          &lt;td&gt;Middle East, Russia, United States, Canada, Saudi Arabia, Iraq, Iran, Kuwait, Venezuela,   Nigeria&lt;/td&gt;
+          &lt;td&gt;Asia, Europe, North America, South America&lt;/td&gt;
+          &lt;td&gt;Demand for crude oil is relatively constant throughout the year, but there can be fluctuations due to factors such as economic growth, weather events, and geopolitical tensions.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Iron ore&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Australia, Brazil, China, India, Russia	China, Japan, South Korea, Europe&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Demand for iron ore is seasonal, with higher demand in the second half of the year as steel mills prepare for the winter construction season.&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;Iron ore&lt;/td&gt;
+          &lt;td&gt;Australia, Brazil, China, India, Russia	China, Japan, South Korea, Europe&lt;/td&gt;
+          &lt;td&gt;Demand for iron ore is seasonal, with higher demand in the second half of the year as steel mills prepare for the winter construction season.&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Coal&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Australia, Indonesia, Russia, United States, China&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;China, Japan, South Korea, India, Europe&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Demand for coal is seasonal, with higher demand in the winter months for heating and power generation.&lt;/td&gt;
+          &lt;td&gt;Coal&lt;/td&gt;
+          &lt;td&gt;Australia, Indonesia, Russia, United States, China&lt;/td&gt;
+          &lt;td&gt;China, Japan, South Korea, India, Europe&lt;/td&gt;
+          &lt;td&gt;Demand for coal is seasonal, with higher demand in the winter months for heating and power generation.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Grain&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;United States, Argentina, Brazil, Russia, Ukraine, Canada, Australia&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;China, Japan, South Korea, Europe, Middle East, Africa&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Demand for grain is relatively constant throughout the year, but there can be fluctuations due to factors such as weather events and crop yields.&lt;/td&gt;
+          &lt;td&gt;Grain&lt;/td&gt;
+          &lt;td&gt;United States, Argentina, Brazil, Russia, Ukraine, Canada, Australia&lt;/td&gt;
+          &lt;td&gt;China, Japan, South Korea, Europe, Middle East, Africa&lt;/td&gt;
+          &lt;td&gt;Demand for grain is relatively constant throughout the year, but there can be fluctuations due to factors such as weather events and crop yields.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Fertilizer&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;China, Russia, United States, Canada, Saudi Arabia, Qatar, Morocco&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;India, Brazil, Indonesia, United States, China&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Demand for fertilizer is seasonal, with higher demand in the spring and fall planting seasons.&lt;/td&gt;
+          &lt;td&gt;Fertilizer&lt;/td&gt;
+          &lt;td&gt;China, Russia, United States, Canada, Saudi Arabia, Qatar, Morocco&lt;/td&gt;
+          &lt;td&gt;India, Brazil, Indonesia, United States, China&lt;/td&gt;
+          &lt;td&gt;Demand for fertilizer is seasonal, with higher demand in the spring and fall planting seasons.&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Other important cargoes&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;Other important cargoes&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
@@ -3107,7 +3107,6 @@ Shipowner: Islamic Solidarity Shipping Company Jordan Inc&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;33. DESPATCH ON ALL TIME SAVED&lt;/strong&gt; this is unchanged. &lt;/p&gt;
 &lt;h3&gt;&lt;strong&gt;Incorporation of VOYLAY Rules:&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;incorporation-of-voylay-rules&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#incorporation-of-voylay-rules&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;VOYLAY Rules’ provisions have been developed for incorporation into Charterparties. There are several possible means of achieving this objective depending on the type of contractual arrangements (for example single or consecutive voyage charters or a contract of affreightment) and whether the intention is to apply the provisions in full or only those selected by the parties. While other methods might be equally effective, the following alternatives are suggested: &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1- Clause for incorporation by reference:&lt;/strong&gt; “The Laytime Definitions for Charter Parties 2013 (Laytime Definitions) are incorporated into this contract in full. In the event of any conflict between this contract and the Laytime Definitions, the provisions of the Laytime Definitions shall prevail to the extent of such conflict.” If it is agreed to incorporate only certain of the Definitions, the text can be modified to read: “Definition Numbers &lt;/p&gt;
 \[identify selected provisions\]&lt;p&gt; in the Laytime Definitions for Charter Parties 2013 (Laytime Definitions) are incorporated into this contract. In the event of any conflict between this contract and the Laytime Definitions, the provisions of the Laytime Definitions shall prevail to the extent of such conflict.” &lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2- Incorporation using a cut and paste addendum&lt;/strong&gt; setting out the full text of all or of those selected Definitions which the parties have agreed to apply. The incorporation clause should clearly state that the agreed Laytime Definitions prevail in the event of any conflict with the underlying charter party provisions. &lt;/p&gt;
 &lt;p&gt;**3- Application to individual words or phrases in the body of the Charterparty **where the intention is to remove any doubt about the parties’ intended interpretation of one or more specific terms. In such an event, the text of the relevant Laytime Definition(s) can be inserted as the agreed meaning. &lt;/p&gt;
@@ -3304,15 +3303,9 @@ C. Special Category arbitrations&lt;/p&gt;
 &lt;li&gt;It does not explicitly or implicitly provide for arbitration in a state other than the United Kingdom, and&lt;/li&gt;
 &lt;li&gt;All parties to the arbitration agreement are:&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;2a- Citizens of the United Kingdom or natural persons who habitually reside in the United Kingdom, or &lt;br&gt;
-2b- Corporations incorporated in the United Kingdom or having their central management and control exercised in the United Kingdom &lt;/p&gt;
 \[Section 1(4) of the Arbitration Act 1975\]&lt;p&gt;.&lt;/p&gt;
-&lt;p&gt;It is essential to note that this definition of a domestic arbitration agreement is relevant for several issues in the arbitration procedure. However, for the purposes of judicial review, the above requirement must be satisfied when the arbitration agreement is entered into, not at the commencement of the arbitration proceedings &lt;/p&gt;
 \[Section 3(7) of the 1979 Act\]&lt;p&gt;.&lt;/p&gt;
 &lt;p&gt;Special category proceedings refer to:&lt;/p&gt;
-&lt;p&gt;a- A question or claim falling within the Admiralty jurisdiction of the High Court; or, &lt;br&gt;
-b- A dispute arising from a contract of insurance; or, &lt;br&gt;
-c- A dispute arising from a commodity contract &lt;/p&gt;
 \[Section 4(1) of the 1979 Act\]&lt;p&gt;.&lt;/p&gt;
 &lt;h2&gt;&lt;strong&gt;Civil Jurisdiction and Judgements Act 1982 and Ship Chartering Disputes&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;civil-jurisdiction-and-judgements-act-1982-and-ship-chartering-disputes&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#civil-jurisdiction-and-judgements-act-1982-and-ship-chartering-disputes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The rules for serving legal documents to individuals outside the jurisdiction are determined by whether the defendant is a member of a Contracting State under the 1968 Brussels Convention (also known as The Convention on Jurisdiction and Enforcement of Judgments in Civil and Commercial Matters). This Convention is made legally binding in England by the Civil Jurisdiction and Judgments Act 1982.&lt;/p&gt;
@@ -3908,6 +3901,54 @@ Commissioning procedure.&lt;/p&gt;
     </item>
     
     <item>
+      <title>Contemporary Leadership</title>
+      <link>http://localhost:1313/docs/parta/marlead/approches_to_define_leadership/contemporary_leadership/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/parta/marlead/approches_to_define_leadership/contemporary_leadership/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Contemporary leadership refers to the leadership approaches and styles that are relevant and effective in today&amp;rsquo;s rapidly changing world. It moves beyond traditional, hierarchical models and emphasizes adaptability, collaboration, and ethical decision-making.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Meaning of Contemporary Leadership:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Contemporary leadership is characterized by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Adaptability:&lt;/strong&gt; Leaders must be able to navigate ambiguity and change, responding effectively to new challenges and opportunities.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Collaboration:&lt;/strong&gt; Leaders foster teamwork, empower others, and value diverse perspectives.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ethical Decision-Making:&lt;/strong&gt; Leaders prioritize integrity, transparency, and social responsibility.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Emotional Intelligence:&lt;/strong&gt; Leaders understand and manage their own emotions and empathize with others.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Systems Thinking:&lt;/strong&gt; Leaders consider the interconnectedness of various factors and understand how decisions impact the larger system.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Focus on Innovation and Learning:&lt;/strong&gt; Leaders encourage creativity, experimentation, and continuous improvement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Significance of Contemporary Leadership:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In today&amp;rsquo;s complex and dynamic environment, contemporary leadership is crucial for several reasons:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Globalization:&lt;/strong&gt; Leaders must be able to work effectively across cultures and understand global markets.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technological Advancements:&lt;/strong&gt; Leaders need to embrace technology and adapt to rapid technological change.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Increased Competition:&lt;/strong&gt; Leaders must foster innovation and agility to stay ahead of the competition.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Changing Workforce:&lt;/strong&gt; Leaders need to understand and motivate a diverse workforce with varying needs and expectations.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social and Environmental Challenges:&lt;/strong&gt; Leaders must address social and environmental issues and contribute to a sustainable future.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key Aspects of Contemporary Leadership:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Shared Leadership:&lt;/strong&gt; Distributing leadership responsibilities among team members.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Servant Leadership:&lt;/strong&gt; Prioritizing the needs of followers and empowering them to develop and perform at their best.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Authentic Leadership:&lt;/strong&gt; Leading with integrity and genuineness, based on personal values and beliefs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transformational Leadership:&lt;/strong&gt; Inspiring and motivating followers to achieve extraordinary outcomes by transforming their values, beliefs, and attitudes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;By embracing contemporary leadership principles, organizations can:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Improve Performance:&lt;/strong&gt; By fostering innovation, collaboration, and adaptability.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Increase Employee Engagement:&lt;/strong&gt; By empowering employees and creating a positive work environment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enhance Organizational Culture:&lt;/strong&gt; By promoting ethical behavior, transparency, and trust.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Achieve Sustainable Growth:&lt;/strong&gt; By considering the needs of all stakeholders and the broader context.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In conclusion, contemporary leadership is essential for navigating the complexities of the 21st century. By embracing adaptability, collaboration, ethical decision-making, and a focus on innovation, leaders can create positive change and drive sustainable success.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Control in hydrographic surveying</title>
       <link>http://localhost:1313/docs/partc/em301/hydrosurv/control/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -4024,29 +4065,6 @@ Commissioning procedure.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Understanding and minimizing copper losses are crucial for efficient transformer design and operation, as they directly impact the overall energy efficiency and reliability of power systems.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Costing of New Berth</title>
-      <link>http://localhost:1313/docs/partc/em302/prtpln/newberthcosting/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partc/em302/prtpln/newberthcosting/</guid>
-      <description>
-        
-        
-        &lt;p&gt;The costing given below is actual construction cost of all infrastructure to be put up by the port and it does not include nor refer to any other cost of any other items to be put up by the clients.
-SL. No|Item|Cost|Remark|
-1|This amount excludes the following in red but includes only actual construction cost payable to the contractor
-This civil works cost that will be borne by the port has been estimated in consultation with port engineer as well as with out source expert who is involved in constructing the berth in Mumbai port.
-This cost does not include mob/ demob associated with such projects, engineering designs, approvals, site surveys, test seabores, soil tests and other requirements of civil engineering prior to commencement of such construction projects.|27.0 Crores|Cost of Fenders on 2 Berthing Dolphins + Bollards on each of 4 Mooring Dolphins and 2 Berthing Dolphins + Quick Release Hooks on each Berthing Dolphin|&lt;/p&gt;
-&lt;p&gt;2|4 Mooring Dolphins, 2 Berthing Dolphins along with service platform 75m x 30 m single deck with fire monitor towers each 15 m height built on each Berthing Dolphin The cost reflects use of all piles of 24m length and 1400 mm dia throughout all structures.
-These items are exclusive of the above mentioned civil cost and they are designed as per loads for largest vessel in DWT to use the berth.|3.5 Crores|
-3|Fire fighting requirements at the berth only which are under OISD 156 rules if applicable|
-5.0 Crores|
-Foam tanks, fire water curtain of 15 m height for the entire length of 75 m of the service platform, hydrants and nozzles on the service platform as well as approach trestle, fire service lines from main pump house etc. Additional pump required in the present pump house and some extra fire water lines with valves. The pipeline route within the port area along the|&lt;/p&gt;
 
       </description>
     </item>

@@ -44,6 +44,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/actgeo/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/approches_to_define_leadership/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceangov/abnj/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/averageadjustment/</loc>
@@ -120,11 +122,15 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/containerops/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/approches_to_define_leadership/contemporary_leadership/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em301/hydrosurv/control/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/transformers_cu_losses/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em302/prtpln/newberthcosting/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/misc_aspects_of_leadership/crisis_preparation_mitigation/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/indianinsurance/currentexclusions/</loc>
   </url><url>
@@ -147,6 +153,8 @@
     <loc>http://localhost:1313/docs/partc/em302/intropm/portown/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em302/intropm/portfunc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/intro/distinguishingleadershipfunc/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/watermass/</loc>
   </url><url>
@@ -176,7 +184,11 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em302/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/misc_aspects_of_leadership/emerging_trends/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em301/tides/datums/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/misc_aspects_of_leadership/ethical_and_darksides/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/excperiods/</loc>
   </url><url>
@@ -197,6 +209,8 @@
     <loc>http://localhost:1313/docs/partc/em301/marineres/marfish/fishfactory/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/marinsurance/fixedprem/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/formula-_index/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/forwardchrges/</loc>
   </url><url>
@@ -230,6 +244,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/satmet/satmethistory/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/approches_to_define_leadership/valus_affecting_others/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partb/engg/hydraulics/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/hydrosurv/</loc>
@@ -246,15 +262,31 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/indicatoroffers/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/approches_to_define_leadership/leadership_attrib/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/engg/induction_motor/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cargoinsurance/rskassmntinfo/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/eedi_innovations/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/approches_to_define_leadership/integral_leadership/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/intconv/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceangov/isa/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/intro/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em302/intropm/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/types_of_shipping_organization/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/approches_to_define_leadership/key_leadership_behaviours/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/intro/kleadermodel/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/intro/keyleadershiptheories/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/latest_nav_aids/</loc>
   </url><url>
@@ -263,6 +295,8 @@
     <loc>http://localhost:1313/docs/partb/adnav/laws_of_palentary_motion/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/laytimecalc/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/approches_to_define_leadership/leadership_style/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/legalclaimscarrier/</loc>
   </url><url>
@@ -275,6 +309,12 @@
     <loc>http://localhost:1313/docs/partb/engg/main-engine-maneuvering/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/me_overrides/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/management_function_in_organization/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/intro/managementsubsetofleadership/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/managing_cybersecurity_in_ports/</loc>
   </url><url>
@@ -308,6 +348,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/minerals/mineralsextract/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/misc_aspects_of_leadership/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em301/tides/gktides/moderntide/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/mohole/</loc>
@@ -316,11 +358,17 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/marinsurance/mutuality/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/navigationfomulae/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/navigationformulae/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em302/prtpln/newprtapprovalchklist/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceangov/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceangov/defoceangov/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/organization_intro/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/marinsurance/orgstructpandi/</loc>
   </url><url>

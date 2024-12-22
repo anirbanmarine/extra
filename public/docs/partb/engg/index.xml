@@ -472,6 +472,23 @@
     </item>
     
     <item>
+      <title>Induction Motor</title>
+      <link>http://localhost:1313/docs/partb/engg/induction_motor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/engg/induction_motor/</guid>
+      <description>
+        
+        
+        &lt;p&gt;synchronous speed of motor&lt;/p&gt;
+\[ N_{s} = \frac{120\times f} {P_{n}} \]&lt;p&gt;where 	Ns = speed in (rpm)
+f  = frequecy of current supplied.
+P  = number of poles&lt;/p&gt;
+\[ N_{slip} = N_{sync}- N_{mech} \]
+      </description>
+    </item>
+    
+    <item>
       <title>Innovative Measures to Reduce EEDI</title>
       <link>http://localhost:1313/docs/partb/engg/eedi_innovations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2452,71 +2469,71 @@ stream by injecting urea.&lt;/li&gt;
     &lt;a href=&#34;#summary-of-differences&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Factor&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Compression Ignition Engine&lt;/strong&gt;&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;&lt;strong&gt;High-Pressure Boiler&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Factor&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Compression Ignition Engine&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;High-Pressure Boiler&lt;/strong&gt;&lt;/th&gt;
       &lt;/tr&gt;
   &lt;/thead&gt;
   &lt;tbody&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Combustion Process&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Rapid, localized combustion&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Uniform, steady combustion&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Combustion Process&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Rapid, localized combustion&lt;/td&gt;
+          &lt;td&gt;Uniform, steady combustion&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Peak Temperature&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Higher (up to 2,500°C)&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Lower (1,300-1,600°C)&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Peak Temperature&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Higher (up to 2,500°C)&lt;/td&gt;
+          &lt;td&gt;Lower (1,300-1,600°C)&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Air-to-Fuel Ratio&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Variable, often lean&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Controlled, constant&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Air-to-Fuel Ratio&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Variable, often lean&lt;/td&gt;
+          &lt;td&gt;Controlled, constant&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Fuel Characteristics&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Distillates or LSHFO&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Heavy Fuel Oil (HFO)&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Fuel Characteristics&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Distillates or LSHFO&lt;/td&gt;
+          &lt;td&gt;Heavy Fuel Oil (HFO)&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;NOx Formation&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Mainly thermal NOx&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Thermal and fuel NOx&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;NOx Formation&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Mainly thermal NOx&lt;/td&gt;
+          &lt;td&gt;Thermal and fuel NOx&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Residence Time&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Short&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Long&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Residence Time&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Short&lt;/td&gt;
+          &lt;td&gt;Long&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;NOx Reduction Strategies&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;EGR, SCR&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Low-NOx burners, FGR, SCR&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;NOx Reduction Strategies&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;EGR, SCR&lt;/td&gt;
+          &lt;td&gt;Low-NOx burners, FGR, SCR&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;In summary, compression ignition engines tend to generate more &lt;strong&gt;thermal NOx&lt;/strong&gt; due to their higher peak combustion&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;In summary, compression ignition engines tend to generate more &lt;strong&gt;thermal NOx&lt;/strong&gt; due to their higher peak combustion&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;temperatures and shorter combustion durations, while high-pressure boilers burning HFO can generate both **thermal&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;temperatures and shorter combustion durations, while high-pressure boilers burning HFO can generate both **thermal&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;and fuel NOx** over a longer, more uniform combustion process.&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;and fuel NOx** over a longer, more uniform combustion process.&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;Q5(c ): Introduction of water into the combustion area reduces Nox - justify this statement and discuss various&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;Q5(c ): Introduction of water into the combustion area reduces Nox - justify this statement and discuss various&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;methods that use this principle of Nox reduction.&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;/td&gt;
+          &lt;td&gt;methods that use this principle of Nox reduction.&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
