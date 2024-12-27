@@ -176,104 +176,39 @@ The origin of the name “El Niño” dates to the 1800’s, when fishermen on t
 &lt;h2&gt;Synoptic representation of pressure field, contour and thickness charts&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;synoptic-representation-of-pressure-field-contour-and-thickness-charts&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#synoptic-representation-of-pressure-field-contour-and-thickness-charts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;What are Synoptic Charts?&lt;/strong&gt;
 Synoptic representation of pressure field, contour and thickness charts are a way to represent the current state of the atmosphere on a map.&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;ℹ️&lt;/div&gt;&lt;/div&gt;
 
   &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
-    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
-      &lt;p&gt;&lt;strong&gt;Pressure field chart:&lt;/strong&gt; A pressure field chart shows the distribution of atmospheric pressure at a given time. Pressure field charts are typically used to identify and track weather systems, such as fronts, cyclones, and anticyclones.&lt;/p&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;&lt;p&gt;&lt;strong&gt;Pressure field chart:&lt;/strong&gt; A pressure field chart shows the distribution of atmospheric pressure at a given time. Pressure field charts are typically used to identify and track weather systems, such as fronts, cyclones, and anticyclones.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Contour chart:&lt;/strong&gt; A contour chart shows the height of a given pressure surface above sea level. Contour charts are typically used to identify and track upper-level weather systems, such as jet streams and troughs.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Thickness chart:&lt;/strong&gt; A thickness chart shows the difference in height between two pressure surfaces. Thickness charts are typically used to identify and track areas of warm and cold air, which can lead to precipitation and other weather events.&lt;/p&gt;
-
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;strong&gt;What are synoptic charts used for?&lt;/strong&gt;
 Synoptic charts are used by meteorologists to create weather forecasts and to study the atmosphere. They are also used by pilots and other aviation professionals to plan flights.&lt;/p&gt;
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
 &lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;ℹ️&lt;/div&gt;&lt;/div&gt;
 
   &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
-    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
-      &lt;p&gt;&lt;strong&gt;How to interpret synoptic charts?&lt;/strong&gt;&lt;/p&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;&lt;p&gt;&lt;strong&gt;How to interpret synoptic charts?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Here is a brief description of how to interpret synoptic charts:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Pressure field chart:&lt;/strong&gt; The higher the pressure, the closer the air molecules are together and the heavier the air is. This makes high-pressure areas more stable and less likely to produce precipitation. Low-pressure areas are the opposite, with lower pressure and less stable air. Low-pressure areas are more likely to produce precipitation and other weather events, such as thunderstorms and tornadoes.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Contour chart:&lt;/strong&gt; The closer the contour lines are together, the steeper the slope of the pressure surface. This means that the wind will be stronger in areas where the contour lines are closer together.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Thickness chart:&lt;/strong&gt; Areas of warm air have a higher thickness than areas of cold air. This is because warm air expands and takes up more space than cold air. Thickness charts can be used to identify areas where there is a strong temperature gradient, which can lead to precipitation and other weather events.&lt;/p&gt;
-
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Synoptic charts can be complex and difficult to interpret, but they are a valuable tool for meteorologists and other professionals who need to understand the current state of the atmosphere.&lt;/p&gt;
 &lt;h2&gt;Streamline and isotach analysis&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;streamline-and-isotach-analysis&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#streamline-and-isotach-analysis&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
+    &lt;a href=&#34;#streamline-and-isotach-analysis&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;ℹ️&lt;/div&gt;&lt;/div&gt;
 
   &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
-    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
-      &lt;p&gt;&lt;strong&gt;What is Streamline and isotach analysis?&lt;/strong&gt;&lt;/p&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;&lt;p&gt;&lt;strong&gt;What is Streamline and isotach analysis?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Streamline and isotach analysis is a method of representing the wind field at a given level in the atmosphere. Streamlines are lines that are tangent to the wind at every point. Isotachs are lines of equal wind speed.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What is Streamline and isotach analysis used for?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Streamline and isotach analysis is useful for identifying a variety of weather features, including:&lt;/p&gt;
@@ -295,38 +230,16 @@ Synoptic charts are used by meteorologists to create weather forecasts and to st
 &lt;p&gt;Once the streamlines and isotachs have been drawn, meteorologists can begin to analyze the wind field. For example, they can look for areas where the streamlines are converging or diverging. Convergence of streamlines indicates an area where air is accumulating, which can lead to precipitation. Divergence of streamlines indicates an area where air is spreading out, which can lead to clear skies.&lt;/p&gt;
 &lt;p&gt;Meteorologists can also look for areas where the isotachs are close together. This indicates an area where the wind is strong. Areas where the isotachs are far apart indicate an area where the wind is weak.&lt;/p&gt;
 &lt;p&gt;Streamline and isotach analysis is a powerful tool for understanding and forecasting the weather. It is used by meteorologists around the world to create weather maps and forecasts.&lt;/p&gt;
-
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
 &lt;h2&gt;Meteorological stability&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;meteorological-stability&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#meteorological-stability&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
-  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;
-        ℹ️
-      &lt;/div&gt;&lt;/div&gt;
+    &lt;a href=&#34;#meteorological-stability&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;hx-overflow-x-auto hx-mt-6 hx-flex hx-rounded-lg hx-border hx-py-2 ltr:hx-pr-4 rtl:hx-pl-4 contrast-more:hx-border-current contrast-more:dark:hx-border-current hx-border-blue-200 hx-bg-blue-100 hx-text-blue-900 dark:hx-border-blue-200/30 dark:hx-bg-blue-900/30 dark:hx-text-blue-200&#34;&gt;
+  &lt;div class=&#34;ltr:hx-pl-3 ltr:hx-pr-2 rtl:hx-pr-3 rtl:hx-pl-2&#34;&gt;&lt;div class=&#34;hx-select-none hx-text-xl&#34; style=&#34;font-family: &#39;Apple Color Emoji&#39;, &#39;Segoe UI Emoji&#39;, &#39;Segoe UI Symbol&#39;;&#34;&gt;ℹ️&lt;/div&gt;&lt;/div&gt;
 
   &lt;div class=&#34;hx-w-full hx-min-w-0 hx-leading-7&#34;&gt;
-    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;
-      &lt;p&gt;&lt;strong&gt;What is Meteorological Stability?&lt;/strong&gt;&lt;/p&gt;
+    &lt;div class=&#34;hx-mt-6 hx-leading-7 first:hx-mt-0&#34;&gt;&lt;p&gt;&lt;strong&gt;What is Meteorological Stability?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Meteorological stability is a measure of the atmosphere&amp;rsquo;s tendency to resist vertical motion. A stable atmosphere is one in which vertical motion is suppressed, while an unstable atmosphere is one in which vertical motion is enhanced.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;What does Meteorological Stability depend upon?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;The stability of the atmosphere is determined by a number of factors, including:&lt;/p&gt;
@@ -356,8 +269,7 @@ Synoptic charts are used by meteorologists to create weather forecasts and to st
 &lt;li&gt;Satellite imagery: Satellite imagery can be used to identify cloud patterns and other features that can be indicative of stability or instability.
 Meteorologists use information about meteorological stability to create weather forecasts and to issue warnings about hazardous weather conditions.&lt;/li&gt;
 &lt;/ol&gt;
-
-    &lt;/div&gt;
+&lt;/div&gt;
   &lt;/div&gt;
 &lt;/div&gt;
 
@@ -478,8 +390,9 @@ Here are some specific examples of weather events that can be caused by wind con
 &lt;span class=&#34;hx-inline-block hx-align-text-bottom icon&#34;&gt;&lt;svg height=1em xmlns=&#34;http://www.w3.org/2000/svg&#34; fill=&#34;none&#34; viewBox=&#34;0 0 24 24&#34; stroke-width=&#34;2&#34; stroke=&#34;currentColor&#34; aria-hidden=&#34;true&#34;&gt;&lt;path stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; d=&#34;M11.049 2.927c.3-.921 1.603-.921 1.902 0l1.519 4.674a1 1 0 00.95.69h4.915c.969 0 1.371 1.24.588 1.81l-3.976 2.888a1 1 0 00-.363 1.118l1.518 4.674c.3.922-.755 1.688-1.538 1.118l-3.976-2.888a1 1 0 00-1.176 0l-3.976 2.888c-.783.57-1.838-.197-1.538-1.118l1.518-4.674a1 1 0 00-.363-1.118l-3.976-2.888c-.784-.57-.38-1.81.588-1.81h4.914a1 1 0 00.951-.69l1.519-4.674z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;
 &lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Vorticity is a vector quantity, meaning that it has both magnitude and direction. The magnitude of vorticity represents the strength of the rotation, while the direction of vorticity represents the axis around which the rotation is occurring.
+  &lt;p&gt;Vorticity is a vector quantity, meaning that it has both magnitude and direction. The magnitude of vorticity represents the strength of the rotation, while the direction of vorticity represents the axis around which the rotation is occurring.
 Wind vorticity can be either positive or negative. Positive vorticity indicates that the wind is rotating counterclockwise, while negative vorticity indicates that the wind is rotating clockwise.&lt;/p&gt;
+
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Explain the effects of Wind Vorticity.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Wind vorticity is an important quantity in meteorology because it is associated with a number of different weather phenomena, including:&lt;/p&gt;
@@ -531,23 +444,28 @@ Wind vorticity can be either positive or negative. Positive vorticity indicates 
 &lt;p&gt;Example:&lt;/p&gt;
 &lt;p&gt;Consider a high pressure system in the Northern Hemisphere. The pressure gradient force will cause the wind to blow from the high pressure system towards the surrounding low pressure systems. However, the Coriolis effect will deflect the wind to the right. This will cause the wind to flow in a circular path around the high pressure system.&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The centrifugal force will act on the wind because the wind is flowing in a circular path. The centrifugal force is directed away from the center of the high pressure system, so it will tend to push the wind outward.&lt;/p&gt;
+  &lt;p&gt;The centrifugal force will act on the wind because the wind is flowing in a circular path. The centrifugal force is directed away from the center of the high pressure system, so it will tend to push the wind outward.&lt;/p&gt;
+
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;The balance between the pressure gradient force, the Coriolis effect, and the centrifugal force will determine the direction and speed of the wind. This balance is called gradient wind balance.&lt;/p&gt;
+  &lt;p&gt;The balance between the pressure gradient force, the Coriolis effect, and the centrifugal force will determine the direction and speed of the wind. This balance is called gradient wind balance.&lt;/p&gt;
+
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Gradient wind will blow parallel to the isobars, but it will not be directly perpendicular to the pressure gradient force. The angle between the wind and the pressure gradient force will depend on the strength of the Coriolis effect and the centrifugal force.&lt;/p&gt;
+  &lt;p&gt;Gradient wind will blow parallel to the isobars, but it will not be directly perpendicular to the pressure gradient force. The angle between the wind and the pressure gradient force will depend on the strength of the Coriolis effect and the centrifugal force.&lt;/p&gt;
+
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;The Coriolis effect&lt;/strong&gt; is strongest at the poles and weakest at the equator, so the angle between the wind and the pressure gradient force will be greatest at the poles and smallest at the equator.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;The centrifugal force&lt;/strong&gt; is proportional to the wind speed squared, so the angle between the wind and the pressure gradient force will also increase with wind speed.&lt;/p&gt;
 &lt;p&gt;Gradient wind is an important concept in meteorology because it helps us to understand the global circulation of the atmosphere and the formation of weather patterns.&lt;/p&gt;
 &lt;h2&gt;Cyclostrophic Wind&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;cyclostrophic-wind&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#cyclostrophic-wind&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;blockquote&gt;
-&lt;p&gt;Cyclostrophic wind is a type of wind that is driven by a balance between the pressure gradient force and the centrifugal force. It is similar to gradient wind, but it does not take into account the Coriolis effect.&lt;/p&gt;
+  &lt;p&gt;Cyclostrophic wind is a type of wind that is driven by a balance between the pressure gradient force and the centrifugal force. It is similar to gradient wind, but it does not take into account the Coriolis effect.&lt;/p&gt;
+
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Cyclostrophic wind is most common in small-scale, short-lived weather systems, such as tornadoes, dust devils, and waterspouts. In these systems, the radius of curvature of the airflow is relatively small, and the Coriolis force has not had time to become significant.&lt;/p&gt;
+  &lt;p&gt;Cyclostrophic wind is most common in small-scale, short-lived weather systems, such as tornadoes, dust devils, and waterspouts. In these systems, the radius of curvature of the airflow is relatively small, and the Coriolis force has not had time to become significant.&lt;/p&gt;
+
 &lt;/blockquote&gt;
 &lt;p&gt;Cyclostrophic wind can also be found near the equator, where the Coriolis force is weak.&lt;/p&gt;
 &lt;p&gt;Cyclostrophic wind is usually much faster than gradient wind because it does not have to balance the Coriolis effect. For example, the wind speeds in a tornado can reach hundreds of miles per hour.&lt;/p&gt;

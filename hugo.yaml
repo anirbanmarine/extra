@@ -3,7 +3,9 @@ languageCode: en-us
 title: Study Extra Master
 relativeUrls: true
  
-theme: hextra-main
+module:
+  imports:
+    - path: github.com/imfing/hextra
 
 enableInlineShortcodes : true    
 

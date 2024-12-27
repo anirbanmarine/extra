@@ -108,6 +108,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em302/prtpln/nonmajorprtcommissioning/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/communication_management/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/compass-adjustment/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/compass_construction_and-siting/</loc>
@@ -143,6 +145,10 @@
     <loc>http://localhost:1313/docs/partb/engg/deck-cranes/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/deduct/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/mangerial_functions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/delegation_resource_management/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/marfish/demerpelag/</loc>
   </url><url>
@@ -356,6 +362,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/mooring-winches/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/motivation/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em303/marinsurance/mutuality/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/navigationfomulae/</loc>
@@ -417,6 +425,8 @@
     <loc>http://localhost:1313/docs/partc/em303/marinsurance/principlesmarinsur/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/negotiate/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/project_program_portfolio/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/satmet/qestsst/</loc>
   </url><url>
@@ -502,6 +512,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/tankercharter/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/team_management/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/terrestrial_and_ships_magnetism/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/baltic/</loc>
@@ -536,6 +548,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/timecls/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/time_management/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em301/satmet/sattropic/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/oilngas/typesofships/</loc>
@@ -549,6 +563,8 @@
     <loc>http://localhost:1313/docs/partc/em301/oceangov/unfsa/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/intconv/unclos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/vendor_management/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/satmet/vertprof/</loc>
   </url><url>
