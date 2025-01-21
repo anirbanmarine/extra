@@ -56,6 +56,10 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/azimuth-thrusters/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/bailment/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/banking_and_negotiable_instruments/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partb/engg/diesel_plants/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/hydrosurv/bashydro/</loc>
@@ -94,6 +98,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/chrtrdispute/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/civil-law-and-civil-procedure-code/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partb/engg/cng/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/utc/</loc>
@@ -116,9 +122,13 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cabotage/cabotageconcept/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/pl/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em303/conseqlimitrcos/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/marfish/conserv/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/constitution-and-legal-systems/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/ctl/</loc>
   </url><url>
@@ -126,9 +136,17 @@
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/approches_to_define_leadership/contemporary_leadership/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/law-of-contract-1872/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/contract-of-guarantee/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/contract-of-indemnity/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em301/hydrosurv/control/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/transformers_cu_losses/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/cost_management/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em302/prtpln/newberthcosting/</loc>
   </url><url>
@@ -208,6 +226,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/finelements/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/financial_management/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/marfish/fishtyp/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/marfish/</loc>
@@ -221,6 +241,8 @@
     <loc>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/forwardchrges/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/frustrate/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/funds/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/averageadjustment/ga/</loc>
   </url><url>
@@ -260,6 +282,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/ship_designs/pax/imo_pax_safety/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/cogsabl/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em303/indianinsurance/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/indianinsurance/indinsur/</loc>
@@ -298,6 +322,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/latest_nav_equipments/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/law-of-agency/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/laws_of_palentary_motion/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/laytimecalc/</loc>
@@ -308,6 +334,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/lineragency/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/liquidity_management/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/magnetism/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/me_controls/</loc>
@@ -317,6 +345,8 @@
     <loc>http://localhost:1313/docs/partb/engg/me_overrides/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/management/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/management_contracts/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/management/management_function_in_organization/</loc>
   </url><url>
@@ -404,6 +434,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/oilngas/pipelay/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/pledge/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em303/portagency/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em302/prtreg/portfinance/</loc>
@@ -425,6 +457,8 @@
     <loc>http://localhost:1313/docs/partc/em303/marinsurance/principlesmarinsur/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/negotiate/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/process_management/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/management/project_program_portfolio/</loc>
   </url><url>
@@ -452,6 +486,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/revision_of_fundamentals/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/risk_issue_management/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em303/riskassessmnt/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/riskcontrol/</loc>
@@ -465,6 +501,8 @@
     <loc>http://localhost:1313/docs/partc/em301/satmet/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/minerals/seabedsample/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/sea/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/stress_and_strain/section_modulus/</loc>
   </url><url>
@@ -501,6 +539,8 @@
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/satlas/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/surety/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/oceancurr/</loc>
   </url><url>
@@ -552,7 +592,11 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/satmet/sattropic/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/contracts_types_in_maritime_sector/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/oilngas/typesofships/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/types_of_estimation_techniques/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/cgoclimtypes/</loc>
   </url><url>

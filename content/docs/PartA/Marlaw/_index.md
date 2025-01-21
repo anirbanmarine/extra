@@ -5,7 +5,7 @@ toc: true
 sidebar:
   open: true
 ---
-
+{{<page_list2>}}
 ## Overview of different types of Constitutions and Legal systems of the world : common law jurisdictions ,civil law jurisdictions.
 
 ## Overview of civil law and commercial law and civil procedures code.
