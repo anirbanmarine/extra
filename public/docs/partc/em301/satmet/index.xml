@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – Satellite Meteorology</title>
-    <link>http://localhost:1313/docs/partc/em301/satmet/</link>
+    <link>https://anirbanmarine.in/docs/partc/em301/satmet/</link>
     <description>Recent content in Satellite Meteorology on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:1313/docs/partc/em301/satmet/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://anirbanmarine.in/docs/partc/em301/satmet/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>History of Satellite Meteorology</title>
-      <link>http://localhost:1313/docs/partc/em301/satmet/satmethistory/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/satmet/satmethistory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/satmet/satmethistory/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/satmet/satmethistory/</guid>
       <description>
         
         
@@ -51,10 +51,10 @@
     
     <item>
       <title>Indian Satellite Meteorology Programme (ISMP)</title>
-      <link>http://localhost:1313/docs/partc/em301/satmet/ismp/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/satmet/ismp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/satmet/ismp/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/satmet/ismp/</guid>
       <description>
         
         
@@ -84,10 +84,10 @@ The ISMP is a major success story, and it has played a vital role in the develop
     
     <item>
       <title>Quantitative estimation of sea surface temperature (SST)</title>
-      <link>http://localhost:1313/docs/partc/em301/satmet/qestsst/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/satmet/qestsst/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/satmet/qestsst/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/satmet/qestsst/</guid>
       <description>
         
         
@@ -124,10 +124,10 @@ The ISMP is a major success story, and it has played a vital role in the develop
     
     <item>
       <title>Remote sensing techniques</title>
-      <link>http://localhost:1313/docs/partc/em301/satmet/rsense/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/satmet/rsense/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/satmet/rsense/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/satmet/rsense/</guid>
       <description>
         
         
@@ -181,10 +181,10 @@ Remote sensing techniques are used in meteorology for a variety of purposes, inc
     
     <item>
       <title>Synoptic cloud patterns and their interpretation.</title>
-      <link>http://localhost:1313/docs/partc/em301/satmet/synclouds/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/satmet/synclouds/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/satmet/synclouds/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/satmet/synclouds/</guid>
       <description>
         
         
@@ -243,16 +243,15 @@ Remote sensing techniques are used in meteorology for a variety of purposes, inc
     
     <item>
       <title>Tropical Storm Analysis using Satellite Data</title>
-      <link>http://localhost:1313/docs/partc/em301/satmet/sattropic/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/satmet/sattropic/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/satmet/sattropic/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/satmet/sattropic/</guid>
       <description>
         
         
         &lt;blockquote&gt;
   &lt;p&gt;Satellite data is essential for tropical storm analysis. It provides meteorologists with a global view of tropical storms, allowing them to track their movement, intensity, and structure. Satellite data is also used to assess the potential for tropical storms to produce hazardous weather conditions, such as heavy rain, strong winds, and storm surge.&lt;/p&gt;
-
 &lt;/blockquote&gt;
 &lt;h2&gt;Here are some specific examples of how satellite data is used for tropical storm analysis:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;here-are-some-specific-examples-of-how-satellite-data-is-used-for-tropical-storm-analysis&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#here-are-some-specific-examples-of-how-satellite-data-is-used-for-tropical-storm-analysis&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
@@ -280,10 +279,10 @@ Remote sensing techniques are used in meteorology for a variety of purposes, inc
     
     <item>
       <title>Vertical profiles of temperature and humidity</title>
-      <link>http://localhost:1313/docs/partc/em301/satmet/vertprof/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/satmet/vertprof/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/satmet/vertprof/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/satmet/vertprof/</guid>
       <description>
         
         
@@ -331,10 +330,10 @@ Remote sensing techniques are used in meteorology for a variety of purposes, inc
     
     <item>
       <title>Visual and Infra red Channels</title>
-      <link>http://localhost:1313/docs/partc/em301/satmet/vandirchannels/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/satmet/vandirchannels/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/satmet/vandirchannels/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/satmet/vandirchannels/</guid>
       <description>
         
         
@@ -350,7 +349,6 @@ Remote sensing techniques are used in meteorology for a variety of purposes, inc
 &lt;/ol&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Meteorologists use visual and infrared channels in combination to get a more complete picture of atmospheric conditions. For example, visible channels can be used to identify the type of clouds present in a weather system, while infrared channels can be used to measure the cloud top temperature. This information can then be used to infer the altitude of the clouds and to assess the potential for precipitation.&lt;/p&gt;
-
 &lt;/blockquote&gt;
 &lt;h2&gt;Here are some specific examples of how meteorological visual and infrared channels are used:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;here-are-some-specific-examples-of-how-meteorological-visual-and-infrared-channels-are-used&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#here-are-some-specific-examples-of-how-meteorological-visual-and-infrared-channels-are-used&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;

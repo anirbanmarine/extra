@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – Meteorology</title>
-    <link>http://localhost:1313/docs/partc/em301/meteorology/</link>
+    <link>https://anirbanmarine.in/docs/partc/em301/meteorology/</link>
     <description>Recent content in Meteorology on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:1313/docs/partc/em301/meteorology/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://anirbanmarine.in/docs/partc/em301/meteorology/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Cyclonic Storms</title>
-      <link>http://localhost:1313/docs/partc/em301/meteorology/cyclones/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/meteorology/cyclones/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/meteorology/cyclones/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/meteorology/cyclones/</guid>
       <description>
         
         
@@ -92,10 +92,10 @@ Rapid intensification can be a dangerous process, as it can make it difficult fo
     
     <item>
       <title>El Nino and La Nina</title>
-      <link>http://localhost:1313/docs/partc/em301/meteorology/el-nino/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/meteorology/el-nino/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/meteorology/el-nino/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/meteorology/el-nino/</guid>
       <description>
         
         
@@ -126,17 +126,17 @@ The origin of the name “El Niño” dates to the 1800’s, when fishermen on t
 &lt;li&gt;It is the atmospheric component of a single large-scale coupled interaction called the El Niño-Southern Oscillation (ENSO)&lt;/li&gt;
 &lt;li&gt;The Southern Oscillation describes changes in air pressure patterns in the Southern Pacific Ocean between Tahiti, in the middle of the southern Pacific Ocean, and Darwin, Australia, to the west 2. Normally, lower pressure over Darwin and higher pressure over Tahiti encourages air movement from east to west 2. The Southern Oscillation Index (SOI) tracks the atmospheric part of the ENSO pattern 3.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;&lt;a href=&#34;https://www.pmel.noaa.gov/elnino/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Further reading&lt;/a&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;further-readinghttpswwwpmelnoaagovelnino&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#further-readinghttpswwwpmelnoaagovelnino&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href=&#34;https://www.pmel.noaa.gov/elnino/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Further reading&lt;/a&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;further-reading&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#further-reading&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
       </description>
     </item>
     
     <item>
       <title>Meteorological Observation Systems</title>
-      <link>http://localhost:1313/docs/partc/em301/meteorology/metobs/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/meteorology/metobs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/meteorology/metobs/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/meteorology/metobs/</guid>
       <description>
         
         
@@ -302,10 +302,10 @@ NWP is a powerful tool for forecasting the weather and for making informed decis
     
     <item>
       <title>Wind Effects</title>
-      <link>http://localhost:1313/docs/partc/em301/meteorology/wind_effects/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/meteorology/wind_effects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/meteorology/wind_effects/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/meteorology/wind_effects/</guid>
       <description>
         
         
@@ -392,7 +392,6 @@ Here are some specific examples of weather events that can be caused by wind con
 &lt;blockquote&gt;
   &lt;p&gt;Vorticity is a vector quantity, meaning that it has both magnitude and direction. The magnitude of vorticity represents the strength of the rotation, while the direction of vorticity represents the axis around which the rotation is occurring.
 Wind vorticity can be either positive or negative. Positive vorticity indicates that the wind is rotating counterclockwise, while negative vorticity indicates that the wind is rotating clockwise.&lt;/p&gt;
-
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;Explain the effects of Wind Vorticity.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Wind vorticity is an important quantity in meteorology because it is associated with a number of different weather phenomena, including:&lt;/p&gt;
@@ -445,15 +444,12 @@ Wind vorticity can be either positive or negative. Positive vorticity indicates 
 &lt;p&gt;Consider a high pressure system in the Northern Hemisphere. The pressure gradient force will cause the wind to blow from the high pressure system towards the surrounding low pressure systems. However, the Coriolis effect will deflect the wind to the right. This will cause the wind to flow in a circular path around the high pressure system.&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;The centrifugal force will act on the wind because the wind is flowing in a circular path. The centrifugal force is directed away from the center of the high pressure system, so it will tend to push the wind outward.&lt;/p&gt;
-
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
   &lt;p&gt;The balance between the pressure gradient force, the Coriolis effect, and the centrifugal force will determine the direction and speed of the wind. This balance is called gradient wind balance.&lt;/p&gt;
-
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Gradient wind will blow parallel to the isobars, but it will not be directly perpendicular to the pressure gradient force. The angle between the wind and the pressure gradient force will depend on the strength of the Coriolis effect and the centrifugal force.&lt;/p&gt;
-
 &lt;/blockquote&gt;
 &lt;p&gt;&lt;strong&gt;The Coriolis effect&lt;/strong&gt; is strongest at the poles and weakest at the equator, so the angle between the wind and the pressure gradient force will be greatest at the poles and smallest at the equator.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;The centrifugal force&lt;/strong&gt; is proportional to the wind speed squared, so the angle between the wind and the pressure gradient force will also increase with wind speed.&lt;/p&gt;
@@ -461,11 +457,9 @@ Wind vorticity can be either positive or negative. Positive vorticity indicates 
 &lt;h2&gt;Cyclostrophic Wind&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;cyclostrophic-wind&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#cyclostrophic-wind&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;blockquote&gt;
   &lt;p&gt;Cyclostrophic wind is a type of wind that is driven by a balance between the pressure gradient force and the centrifugal force. It is similar to gradient wind, but it does not take into account the Coriolis effect.&lt;/p&gt;
-
 &lt;/blockquote&gt;
 &lt;blockquote&gt;
   &lt;p&gt;Cyclostrophic wind is most common in small-scale, short-lived weather systems, such as tornadoes, dust devils, and waterspouts. In these systems, the radius of curvature of the airflow is relatively small, and the Coriolis force has not had time to become significant.&lt;/p&gt;
-
 &lt;/blockquote&gt;
 &lt;p&gt;Cyclostrophic wind can also be found near the equator, where the Coriolis force is weak.&lt;/p&gt;
 &lt;p&gt;Cyclostrophic wind is usually much faster than gradient wind because it does not have to balance the Coriolis effect. For example, the wind speeds in a tornado can reach hundreds of miles per hour.&lt;/p&gt;

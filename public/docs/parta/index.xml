@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – Part A</title>
-    <link>http://localhost:1313/docs/parta/</link>
+    <link>https://anirbanmarine.in/docs/parta/</link>
     <description>Recent content in Part A on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:1313/docs/parta/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://anirbanmarine.in/docs/parta/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>EM101 Leadership, Management and Human Resources</title>
-      <link>http://localhost:1313/docs/parta/marlead/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlead/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlead/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlead/</guid>
       <description>
         
         
@@ -71,10 +71,10 @@
     
     <item>
       <title>EM102 Maritime Economics and Finance</title>
-      <link>http://localhost:1313/docs/parta/marecofin/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/</guid>
       <description>
         
         
@@ -106,14 +106,16 @@
     
     <item>
       <title>EM103 Maritime Law</title>
-      <link>http://localhost:1313/docs/parta/marlaw/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/</guid>
       <description>
         
         
         
+  &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/arbitration_and_dispute_resolution/&#34;&gt;Arbitration and Dispute Resolution&lt;/a&gt;&lt;/h2&gt;
+
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/bailment/&#34;&gt;Bailment&lt;/a&gt;&lt;/h2&gt;
 
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/banking_and_negotiable_instruments/&#34;&gt;Banking Law and Negotiable Instruments Law&lt;/a&gt;&lt;/h2&gt;
@@ -130,15 +132,23 @@
 
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/cogsabl/&#34;&gt;Indian Bill of Lading Act 1856 and Carriage od Goods by Sea Act 1925&lt;/a&gt;&lt;/h2&gt;
 
+  &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/international_national_arbitration_bodies/&#34;&gt;International and National Arbitration bodies&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/piracy-and-other-crimes/&#34;&gt;International_piracy_crimes&lt;/a&gt;&lt;/h2&gt;
+
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/law-of-agency/&#34;&gt;Law of Agency&lt;/a&gt;&lt;/h2&gt;
 
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/management_contracts/&#34;&gt;Management Contracts&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/overview_of_criminal_law/&#34;&gt;Overview of Criminal Law with respect to Actus reus,Mens Rea, etc&lt;/a&gt;&lt;/h2&gt;
 
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/pledge/&#34;&gt;Pledge&lt;/a&gt;&lt;/h2&gt;
 
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/sea/&#34;&gt;Seafarers Articles of Agreement&lt;/a&gt;&lt;/h2&gt;
 
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/surety/&#34;&gt;Surety&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/vclt/&#34;&gt;The Vienna Convention on the Law of Treaties (VCLT)&lt;/a&gt;&lt;/h2&gt;
 
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/contracts_types_in_maritime_sector/&#34;&gt;Types of Contracts in Maritime Sector&lt;/a&gt;&lt;/h2&gt;
 
