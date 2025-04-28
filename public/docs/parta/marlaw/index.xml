@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – EM103 Maritime Law</title>
-    <link>https://anirbanmarine.in/docs/parta/marlaw/</link>
+    <link>http://localhost:1313/docs/parta/marlaw/</link>
     <description>Recent content in EM103 Maritime Law on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://anirbanmarine.in/docs/parta/marlaw/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/parta/marlaw/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Arbitration and Dispute Resolution</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/arbitration_and_dispute_resolution/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/arbitration_and_dispute_resolution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/arbitration_and_dispute_resolution/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/arbitration_and_dispute_resolution/</guid>
       <description>
         
         
@@ -106,10 +106,10 @@
     
     <item>
       <title>Bailment</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/bailment/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/bailment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/bailment/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/bailment/</guid>
       <description>
         
         
@@ -190,10 +190,10 @@
     
     <item>
       <title>Banking Law and Negotiable Instruments Law</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/banking_and_negotiable_instruments/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/banking_and_negotiable_instruments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/banking_and_negotiable_instruments/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/banking_and_negotiable_instruments/</guid>
       <description>
         
         
@@ -282,10 +282,10 @@
     
     <item>
       <title>Civil Law and Civil Procedure Code</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/civil-law-and-civil-procedure-code/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/civil-law-and-civil-procedure-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/civil-law-and-civil-procedure-code/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/civil-law-and-civil-procedure-code/</guid>
       <description>
         
         
@@ -355,11 +355,115 @@
     </item>
     
     <item>
-      <title>Constitution and Legal Systems</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/constitution-and-legal-systems/</link>
+      <title>Comparison Beween Hague,Hague-Visby,Hamburgh and Rotterdam Rules</title>
+      <link>http://localhost:1313/docs/parta/marlaw/comparison-between-rules-/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/constitution-and-legal-systems/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/comparison-between-rules-/</guid>
+      <description>
+        
+        
+        &lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;Feature&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Hague Rules (1924)&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Hague-Visby Rules (1968/1979)&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Hamburg Rules (1978)&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Rotterdam Rules (2008)&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Scope of Application&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Only &amp;ldquo;bill of lading&amp;rdquo; for international shipments.&lt;/td&gt;
+          &lt;td&gt;Covers &amp;ldquo;bills of lading&amp;rdquo; and similar transport documents.&lt;/td&gt;
+          &lt;td&gt;Applies to all contracts of carriage (including non-BoL docs).&lt;/td&gt;
+          &lt;td&gt;Broadest scope: covers all contracts, electronic records, and multimodal transport (if maritime leg is dominant).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Carrier’s Liability Basis&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Fault-based (carrier liable only if negligent).&lt;/td&gt;
+          &lt;td&gt;Similar to Hague Rules with minor adjustments.&lt;/td&gt;
+          &lt;td&gt;Strict liability (carrier liable unless proving all reasonable measures taken).&lt;/td&gt;
+          &lt;td&gt;Modified fault-based system (carrier liable unless proving no fault).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Period of Responsibility&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&amp;ldquo;Tackle to Tackle&amp;rdquo; (loading to discharge).&lt;/td&gt;
+          &lt;td&gt;Same as Hague Rules.&lt;/td&gt;
+          &lt;td&gt;&amp;ldquo;Port to Port&amp;rdquo; (receipt to delivery at port).&lt;/td&gt;
+          &lt;td&gt;&amp;ldquo;Door-to-Door&amp;rdquo; (entire transport period, including land legs if part of contract).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Limitation of Liability&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;£100 per package or unit.&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;666.67 SDR per package&lt;/strong&gt; or &lt;strong&gt;2 SDR per kg&lt;/strong&gt;, whichever is higher.&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;835 SDR per package&lt;/strong&gt; or &lt;strong&gt;2.5 SDR per kg&lt;/strong&gt;, whichever is higher.&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;875 SDR per package&lt;/strong&gt; or &lt;strong&gt;3 SDR per kg&lt;/strong&gt;, whichever is higher.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Defenses for Carrier&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Broad (nautical fault, fire exemption).&lt;/td&gt;
+          &lt;td&gt;Similar to Hague Rules.&lt;/td&gt;
+          &lt;td&gt;Fewer defenses (no nautical fault exemption).&lt;/td&gt;
+          &lt;td&gt;More balanced defenses, but excludes &amp;ldquo;nautical fault&amp;rdquo; exemption.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Time Bar for Claims&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;1 year from delivery.&lt;/td&gt;
+          &lt;td&gt;1 year (same as Hague).&lt;/td&gt;
+          &lt;td&gt;2 years from delivery.&lt;/td&gt;
+          &lt;td&gt;2 years (extendable by agreement).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Notice of Loss/Damage&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;3 days (apparent damage).&lt;/td&gt;
+          &lt;td&gt;Same as Hague.&lt;/td&gt;
+          &lt;td&gt;15 days (non-apparent damage).&lt;/td&gt;
+          &lt;td&gt;7 days (apparent), 21 days (non-apparent).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Effect on Third Parties&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Only shipper-carrier relationship.&lt;/td&gt;
+          &lt;td&gt;Extends to some third parties (e.g., actual carriers).&lt;/td&gt;
+          &lt;td&gt;Broader third-party application.&lt;/td&gt;
+          &lt;td&gt;Explicitly covers performing parties (subcontractors).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Electronic Documentation&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;No provision.&lt;/td&gt;
+          &lt;td&gt;No provision.&lt;/td&gt;
+          &lt;td&gt;No provision.&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Explicitly recognizes e-documents&lt;/strong&gt; (e-BoLs).&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Adoption &amp;amp; Popularity&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Outdated but historically significant.&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Most widely adopted&lt;/strong&gt; (amended Hague Rules).&lt;/td&gt;
+          &lt;td&gt;Limited (mostly developing nations).&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;Not widely ratified yet&lt;/strong&gt; (only a few countries).&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;&lt;strong&gt;Key Observations:&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;key-observations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-observations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Hague-Visby Rules&lt;/strong&gt; remain the most widely used, balancing carrier and shipper interests.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hamburg Rules&lt;/strong&gt; favor cargo owners but lack global acceptance.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rotterdam Rules&lt;/strong&gt; are the most modern, covering e-docs and multimodal transport, but adoption is slow.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Liability limits increase progressively&lt;/strong&gt; from Hague → Hague-Visby → Hamburg → Rotterdam.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Would you like further details on any specific rule or a comparison with national laws (e.g., U.S. COGSA)?&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Constitution and Legal Systems</title>
+      <link>http://localhost:1313/docs/parta/marlaw/constitution-and-legal-systems/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/parta/marlaw/constitution-and-legal-systems/</guid>
       <description>
         
         
@@ -445,10 +549,10 @@
     
     <item>
       <title>Contract Law 1872</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/law-of-contract-1872/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/law-of-contract-1872/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/law-of-contract-1872/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/law-of-contract-1872/</guid>
       <description>
         
         
@@ -541,10 +645,10 @@
     
     <item>
       <title>Contract of Guarantee</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/contract-of-guarantee/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/contract-of-guarantee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/contract-of-guarantee/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/contract-of-guarantee/</guid>
       <description>
         
         
@@ -638,10 +742,10 @@
     
     <item>
       <title>Contract of Indemnity</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/contract-of-indemnity/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/contract-of-indemnity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/contract-of-indemnity/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/contract-of-indemnity/</guid>
       <description>
         
         
@@ -694,10 +798,10 @@
     
     <item>
       <title>Indian Bill of Lading Act 1856 and Carriage od Goods by Sea Act 1925</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/cogsabl/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/cogsabl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/cogsabl/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/cogsabl/</guid>
       <description>
         
         
@@ -771,10 +875,10 @@
     
     <item>
       <title>International and National Arbitration bodies</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/international_national_arbitration_bodies/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/international_national_arbitration_bodies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/international_national_arbitration_bodies/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/international_national_arbitration_bodies/</guid>
       <description>
         
         
@@ -873,10 +977,10 @@
     
     <item>
       <title>International_piracy_crimes</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/piracy-and-other-crimes/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/piracy-and-other-crimes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/piracy-and-other-crimes/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/piracy-and-other-crimes/</guid>
       <description>
         
         
@@ -952,10 +1056,10 @@
     
     <item>
       <title>Law of Agency</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/law-of-agency/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/law-of-agency/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/law-of-agency/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/law-of-agency/</guid>
       <description>
         
         
@@ -1053,10 +1157,10 @@
     
     <item>
       <title>Management Contracts</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/management_contracts/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/management_contracts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/management_contracts/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/management_contracts/</guid>
       <description>
         
         
@@ -1152,10 +1256,10 @@
     
     <item>
       <title>Overview of Criminal Law with respect to Actus reus,Mens Rea, etc</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/overview_of_criminal_law/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/overview_of_criminal_law/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/overview_of_criminal_law/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/overview_of_criminal_law/</guid>
       <description>
         
         
@@ -1176,10 +1280,10 @@
     
     <item>
       <title>Pledge</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/pledge/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/pledge/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/pledge/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/pledge/</guid>
       <description>
         
         
@@ -1288,10 +1392,10 @@
     
     <item>
       <title>Seafarers Articles of Agreement</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/sea/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/sea/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/sea/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/sea/</guid>
       <description>
         
         
@@ -1336,10 +1440,10 @@
     
     <item>
       <title>Surety</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/surety/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/surety/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/surety/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/surety/</guid>
       <description>
         
         
@@ -1398,10 +1502,10 @@
     
     <item>
       <title>The Vienna Convention on the Law of Treaties (VCLT)</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/vclt/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/vclt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/vclt/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/vclt/</guid>
       <description>
         
         
@@ -1534,10 +1638,10 @@
     
     <item>
       <title>Types of Contracts in Maritime Sector</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/contracts_types_in_maritime_sector/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/contracts_types_in_maritime_sector/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/contracts_types_in_maritime_sector/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/contracts_types_in_maritime_sector/</guid>
       <description>
         
         
