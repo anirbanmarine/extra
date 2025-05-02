@@ -219,92 +219,7 @@ Despite these challenges, there is also a growing awareness of the importance of
     &lt;a href=&#34;#next-steps&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The next step for the BBNJ agreement is for countries to ratify it. Once 30 countries have ratified the agreement, it will enter into force.&lt;/p&gt;
 &lt;p&gt;Countries are encouraged to ratify the BBNJ agreement as soon as possible to ensure that its benefits can be realized as soon as possible.&lt;/p&gt;
 &lt;h2&gt;The text of the agreement.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;the-text-of-the-agreement&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#the-text-of-the-agreement&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.min.js&#34; integrity=&#34;sha512-i+UmpoqoJqHkpXQ3mQfaIF8UZ2RAGoyqJvMzAKTadhBVhRk883EHluxdPsMf7c5/43D5tVpwIE8KLE1kQa0uCg==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.worker.min.js&#34; integrity=&#34;sha512-NuVK4+sDE809oDhbdAABRO1nTe80t56vXda8dg1UQ+RcQ8x7WakwTzKE7LOosoNCKi7EH7FXo7mritFNWpZiLQ==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
-
-&lt;style&gt;
-  #embed-pdf-container {
-    position: relative;
-    width: 100%;
-    height: auto;
-    min-height: 20vh;
-     
-  }
-  
-  .pdf-canvas {
-    border: 1px solid black;
-    direction: ltr;
-    width: 100%;
-    height: auto;
-    display: none;
-  }
-  
-  #the-canvas {
-    border: 1px solid black;
-    direction: ltr;
-    width: 100%;
-    height: auto;
-    display: none;
-  }
-  
-  
-  .pdf-loadingWrapper {
-    display: none;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 350px;
-  }
-  
-  .pdf-loading {
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    border: 3px solid #d2d0d0;;
-    border-radius: 50%;
-    border-top-color: #383838;
-    animation: spin 1s ease-in-out infinite;
-    -webkit-animation: spin 1s ease-in-out infinite;
-  }
-  
-  
-  
-  
-  
-  #overlayText {
-    word-wrap: break-word;
-    display: grid;
-    justify-content: end;
-  }
-  
-  #overlayText a {
-    position: relative;
-    top: 10px;
-    right: 4px;
-    color: #000;
-    margin: auto;
-    background-color: #eeeeee;
-    padding: 0.3em 1em;
-    border: solid 2px;
-    border-radius: 12px;
-    border-color: #00000030;
-    text-decoration: none;
-  }
-  
-  #overlayText svg {
-    height: clamp(1em, 2vw, 1.4em);
-    width:  clamp(1em, 2vw, 1.4em);
-  }
-  
-  
-  
-  @keyframes spin {
-    to { -webkit-transform: rotate(360deg); }
-  }
-  @-webkit-keyframes spin {
-    to { -webkit-transform: rotate(360deg); }
-  }
-  &lt;/style&gt;&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-8c97d141&#34;&gt;
+    &lt;a href=&#34;#the-text-of-the-agreement&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-8c97d141&#34;&gt;
     &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-8c97d141&#34;&gt;
         &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-8c97d141&#34;&gt;&lt;/div&gt;
     &lt;/div&gt;
@@ -595,92 +510,7 @@ The CBD is a comprehensive treaty that covers all aspects of biological diversit
 &lt;li&gt;The UNFCCC is an important tool for addressing climate change. It is essential that all parties continue to work together to implement the Convention effectively.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2&gt;Text of Convention.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;text-of-convention&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#text-of-convention&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.min.js&#34; integrity=&#34;sha512-i+UmpoqoJqHkpXQ3mQfaIF8UZ2RAGoyqJvMzAKTadhBVhRk883EHluxdPsMf7c5/43D5tVpwIE8KLE1kQa0uCg==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.worker.min.js&#34; integrity=&#34;sha512-NuVK4+sDE809oDhbdAABRO1nTe80t56vXda8dg1UQ+RcQ8x7WakwTzKE7LOosoNCKi7EH7FXo7mritFNWpZiLQ==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
-
-&lt;style&gt;
-  #embed-pdf-container {
-    position: relative;
-    width: 100%;
-    height: auto;
-    min-height: 20vh;
-     
-  }
-  
-  .pdf-canvas {
-    border: 1px solid black;
-    direction: ltr;
-    width: 100%;
-    height: auto;
-    display: none;
-  }
-  
-  #the-canvas {
-    border: 1px solid black;
-    direction: ltr;
-    width: 100%;
-    height: auto;
-    display: none;
-  }
-  
-  
-  .pdf-loadingWrapper {
-    display: none;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 350px;
-  }
-  
-  .pdf-loading {
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    border: 3px solid #d2d0d0;;
-    border-radius: 50%;
-    border-top-color: #383838;
-    animation: spin 1s ease-in-out infinite;
-    -webkit-animation: spin 1s ease-in-out infinite;
-  }
-  
-  
-  
-  
-  
-  #overlayText {
-    word-wrap: break-word;
-    display: grid;
-    justify-content: end;
-  }
-  
-  #overlayText a {
-    position: relative;
-    top: 10px;
-    right: 4px;
-    color: #000;
-    margin: auto;
-    background-color: #eeeeee;
-    padding: 0.3em 1em;
-    border: solid 2px;
-    border-radius: 12px;
-    border-color: #00000030;
-    text-decoration: none;
-  }
-  
-  #overlayText svg {
-    height: clamp(1em, 2vw, 1.4em);
-    width:  clamp(1em, 2vw, 1.4em);
-  }
-  
-  
-  
-  @keyframes spin {
-    to { -webkit-transform: rotate(360deg); }
-  }
-  @-webkit-keyframes spin {
-    to { -webkit-transform: rotate(360deg); }
-  }
-  &lt;/style&gt;&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-61f7ae8d&#34;&gt;
+    &lt;a href=&#34;#text-of-convention&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-61f7ae8d&#34;&gt;
     &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-61f7ae8d&#34;&gt;
         &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-61f7ae8d&#34;&gt;&lt;/div&gt;
     &lt;/div&gt;
@@ -885,92 +715,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-6
       <description>
         
         
-        &lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.min.js&#34; integrity=&#34;sha512-i+UmpoqoJqHkpXQ3mQfaIF8UZ2RAGoyqJvMzAKTadhBVhRk883EHluxdPsMf7c5/43D5tVpwIE8KLE1kQa0uCg==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
-&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.worker.min.js&#34; integrity=&#34;sha512-NuVK4+sDE809oDhbdAABRO1nTe80t56vXda8dg1UQ+RcQ8x7WakwTzKE7LOosoNCKi7EH7FXo7mritFNWpZiLQ==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
-
-&lt;style&gt;
-  #embed-pdf-container {
-    position: relative;
-    width: 100%;
-    height: auto;
-    min-height: 20vh;
-     
-  }
-  
-  .pdf-canvas {
-    border: 1px solid black;
-    direction: ltr;
-    width: 100%;
-    height: auto;
-    display: none;
-  }
-  
-  #the-canvas {
-    border: 1px solid black;
-    direction: ltr;
-    width: 100%;
-    height: auto;
-    display: none;
-  }
-  
-  
-  .pdf-loadingWrapper {
-    display: none;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 350px;
-  }
-  
-  .pdf-loading {
-    display: inline-block;
-    width: 50px;
-    height: 50px;
-    border: 3px solid #d2d0d0;;
-    border-radius: 50%;
-    border-top-color: #383838;
-    animation: spin 1s ease-in-out infinite;
-    -webkit-animation: spin 1s ease-in-out infinite;
-  }
-  
-  
-  
-  
-  
-  #overlayText {
-    word-wrap: break-word;
-    display: grid;
-    justify-content: end;
-  }
-  
-  #overlayText a {
-    position: relative;
-    top: 10px;
-    right: 4px;
-    color: #000;
-    margin: auto;
-    background-color: #eeeeee;
-    padding: 0.3em 1em;
-    border: solid 2px;
-    border-radius: 12px;
-    border-color: #00000030;
-    text-decoration: none;
-  }
-  
-  #overlayText svg {
-    height: clamp(1em, 2vw, 1.4em);
-    width:  clamp(1em, 2vw, 1.4em);
-  }
-  
-  
-  
-  @keyframes spin {
-    to { -webkit-transform: rotate(360deg); }
-  }
-  @-webkit-keyframes spin {
-    to { -webkit-transform: rotate(360deg); }
-  }
-  &lt;/style&gt;&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-bec841be&#34;&gt;
+        &lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-bec841be&#34;&gt;
     &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-bec841be&#34;&gt;
         &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-bec841be&#34;&gt;&lt;/div&gt;
     &lt;/div&gt;
@@ -1406,6 +1151,77 @@ open: false&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;open-false&#34
 &lt;hr&gt;
 &lt;h3&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Organizations have a wide range of long-term financing options, each with its own advantages and trade-offs. For ship financing, specialized options like ship mortgages, export credit agencies, and leasing are commonly used due to the unique nature of maritime assets. The choice of financing depends on factors such as cost, risk, ownership preferences, and the specific needs of the organization or project.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/docs/parta/marecofin/shipping-finance-derivatives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/parta/marecofin/shipping-finance-derivatives/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;itle: Shipping Derivatives
+type: docs
+toc: true
+sidebar:
+open: false&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;open-false&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#open-false&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Shipping finance derivatives are financial instruments whose value is derived from the underlying shipping market. These derivatives allow various participants in the shipping industry and financial institutions to manage their exposure to the risks associated with the volatility of freight rates, bunker (fuel) prices, interest rates, and currency exchange rates.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a breakdown of key aspects of shipping finance derivatives:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Types of Shipping Derivatives:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Forward Freight Agreements (FFAs):&lt;/strong&gt; These are the most common type of shipping derivative. An FFA is a contract where two parties agree to exchange the difference between a contracted freight rate and the actual freight rate on a specific route and for a specified future period. FFAs are typically cash-settled.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bunker Swaps:&lt;/strong&gt; These contracts allow ship owners and charterers to hedge against the price volatility of bunker fuel. A bunker swap involves exchanging a fixed price for a floating market price of fuel over a specific period.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interest Rate Swaps (IRS):&lt;/strong&gt; Shipping companies often have significant borrowing for vessel financing. IRS are used to manage the risk of fluctuating interest rates by exchanging a floating interest rate obligation for a fixed one, or vice versa, on a notional principal amount.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Currency Swaps:&lt;/strong&gt; Given the international nature of shipping, companies often deal with multiple currencies. Currency swaps help hedge against exchange rate fluctuations by agreeing to exchange principal and/or interest payments in one currency for equivalent payments in another currency.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Freight Options:&lt;/strong&gt; These give the buyer the right, but not the obligation, to trade freight at a specific price on or before a certain date. Options can be used for hedging or speculation. Types include call options (the right to buy) and put options (the right to sell).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Container Freight Derivatives:&lt;/strong&gt; These are specifically designed for the container shipping market and allow participants to manage the risks associated with container freight rates on specific trade lanes. These can include container freight swap agreements and container freight futures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Participants in the Shipping Derivatives Market:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ship Owners:&lt;/strong&gt; Use derivatives to hedge against potential declines in freight rates or increases in bunker costs, thereby stabilizing their revenue and expenses.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Charterers:&lt;/strong&gt; Employ derivatives to protect themselves from rising freight rates or increased bunker costs, ensuring predictable transportation expenses.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Commodity Traders:&lt;/strong&gt; Utilize freight derivatives to manage the shipping costs associated with the physical commodities they trade.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oil Companies:&lt;/strong&gt; Use bunker swaps to hedge their fuel expenses for their fleets.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Financial Institutions (Banks, Hedge Funds, etc.):&lt;/strong&gt; Participate for trading and speculation purposes, providing liquidity to the market.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Freight Forwarders and Logistics Companies:&lt;/strong&gt; May use derivatives to offer more stable pricing to their clients.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Functions of Shipping Derivatives:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Risk Management (Hedging):&lt;/strong&gt; The primary purpose is to mitigate the financial risks associated with volatile shipping market variables.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Discovery:&lt;/strong&gt; The trading activity in the derivatives market can provide insights into the expected future levels of freight rates, bunker prices, etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Speculation:&lt;/strong&gt; Traders aim to profit from correctly predicting the future direction of the underlying shipping market prices.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Portfolio Diversification:&lt;/strong&gt; Financial institutions can use shipping derivatives to diversify their investment portfolios and gain exposure to the shipping industry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Trading and Settlement:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Shipping derivatives are traded both &lt;strong&gt;Over-the-Counter (OTC)&lt;/strong&gt;, directly between two parties, and on &lt;strong&gt;exchanges&lt;/strong&gt;, which offer standardized contracts and clearing services.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Settlement&lt;/strong&gt; is typically done in cash, based on the difference between the contract price and the prevailing market price at the settlement date. Some less common derivatives might involve physical delivery.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key Underlying Benchmarks:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Baltic Exchange Indices:&lt;/strong&gt; A crucial source of benchmarks for many freight derivatives, including the Baltic Dry Index (BDI) for dry bulk shipping and various tanker route indices.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shanghai Shipping Exchange (SSE) Indices:&lt;/strong&gt; Increasingly important, especially for container freight and some dry bulk routes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Platts Assessments:&lt;/strong&gt; Used for some wet freight (tanker) contracts, particularly in Asian markets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Benefits of Using Shipping Derivatives:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hedging Price Volatility:&lt;/strong&gt; Protects against adverse movements in freight rates, bunker prices, interest rates, and currencies.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Budgeting and Planning:&lt;/strong&gt; Provides more certainty in future costs and revenues, facilitating better financial planning.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enhanced Liquidity:&lt;/strong&gt; Derivatives markets can offer more liquidity than physical markets, allowing for easier entry and exit.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexibility:&lt;/strong&gt; Derivatives can be tailored to specific needs and risk profiles.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Risks Associated with Shipping Derivatives:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Counterparty Risk:&lt;/strong&gt; The risk that the other party to the contract may default on their obligations. This is mitigated through clearinghouses for exchange-traded derivatives.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Basis Risk:&lt;/strong&gt; The risk that the price of the derivative does not move exactly in line with the underlying physical market price.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Market Risk:&lt;/strong&gt; The risk of losses due to unfavorable price movements in the underlying market.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Complexity:&lt;/strong&gt; Some derivatives can be complex and require a thorough understanding of the market and the specific instruments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In conclusion, shipping finance derivatives are vital tools for managing financial risks in the shipping industry, contributing to greater stability and allowing participants to focus on their core operations. The market has evolved significantly since the introduction of FFAs in the early 1990s and continues to adapt to the changing needs of the global maritime sector.&lt;/p&gt;
 
       </description>
     </item>
@@ -1925,6 +1741,21 @@ Seasonal variations&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Industry Adoption:&lt;/strong&gt; The transition from deterministic to probabilistic methods requires a significant learning curve for the maritime industry.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Despite these challenges, the move towards probabilistic safety assessment is a crucial step in enhancing maritime safety.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Accounts and Finance</title>
+      <link>http://localhost:1313/docs/parta/marecofin/accounts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/parta/marecofin/accounts/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Accounts|Finance
+Record, classify&lt;/p&gt;
 
       </description>
     </item>
@@ -4359,153 +4190,6 @@ Commissioning procedure.&lt;/p&gt;
     &lt;a href=&#34;#readiness-of-terminal-and-the-jetty-to-receive-the-first-ship&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The terminal manager and Jetty-in-charge are provided with all the technical iformation of the ship and deatisl of the cargo to be handled. The main cargo gear and all the ancillary handling and support equipment is kept ready to start the work immediately after the ship is cleared inward by PHO,Customs and Immigration.&lt;/p&gt;
 &lt;h3&gt;Support Services.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;support-services&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#support-services&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;All the supporting services offered by the port in its inaugural manifesto are geared up to serve the ship as per Master&amp;rsquo;s request in the ETA message.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Communication Management</title>
-      <link>http://localhost:1313/docs/parta/marlead/management/communication_management/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/parta/marlead/management/communication_management/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Communication management is the systematic planning, implementing, monitoring, and revision of all the channels of communication within an organization, and between organizations. It also includes the organization and dissemination of new communication directives connected with an organization, network, or communications technology.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Key aspects of communication management:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Planning:&lt;/strong&gt; Defining communication objectives, target audiences, key messages, communication channels, and timelines.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Implementation:&lt;/strong&gt; Executing the communication plan, which includes creating and delivering messages through various channels.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Monitoring:&lt;/strong&gt; Tracking the effectiveness of communication efforts and gathering feedback.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Revision:&lt;/strong&gt; Making adjustments to the communication plan based on feedback and changing circumstances.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Importance of communication management:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Ensures clarity and consistency of messages:&lt;/strong&gt; This helps to avoid confusion and misinterpretations.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Improves stakeholder engagement:&lt;/strong&gt; Effective communication can help to build trust and rapport with stakeholders.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Facilitates collaboration and coordination:&lt;/strong&gt; Clear communication can help to ensure that everyone is on the same page and working towards the same goals.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Enhances organizational effectiveness:&lt;/strong&gt; Good communication can help to improve decision-making, problem-solving, and overall performance.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Communication management in project management:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;In project management, communication management is especially important. It involves:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Identifying stakeholders:&lt;/strong&gt; Determining who needs to be kept informed about the project.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Planning communication:&lt;/strong&gt; Deciding what information needs to be communicated, when, and how.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Distributing information:&lt;/strong&gt; Sharing project information with stakeholders in a timely and effective manner.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Managing stakeholder expectations:&lt;/strong&gt; Ensuring that stakeholders have a clear understanding of the project&amp;rsquo;s goals, progress, and potential challenges.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Tools and techniques for communication management:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Communication plans:&lt;/strong&gt; Documents that outline the communication strategy for a project or organization.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Communication channels:&lt;/strong&gt; Various methods for delivering messages, such as email, meetings, presentations, and social media.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Communication tools:&lt;/strong&gt; Software and applications that can help to manage communication, such as project management software, email marketing platforms, and social media management tools.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Overall, communication management is a critical function for any organization or project. By effectively managing communication, organizations can improve their performance, build stronger relationships with stakeholders, and achieve their goals.&lt;/strong&gt;&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Comparison Beween Hague,Hague-Visby,Hamburgh and Rotterdam Rules</title>
-      <link>http://localhost:1313/docs/parta/marlaw/comparison-between-rules-/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/parta/marlaw/comparison-between-rules-/</guid>
-      <description>
-        
-        
-        &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;&lt;strong&gt;Feature&lt;/strong&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;strong&gt;Hague Rules (1924)&lt;/strong&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;strong&gt;Hague-Visby Rules (1968/1979)&lt;/strong&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;strong&gt;Hamburg Rules (1978)&lt;/strong&gt;&lt;/th&gt;
-          &lt;th&gt;&lt;strong&gt;Rotterdam Rules (2008)&lt;/strong&gt;&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Scope of Application&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Only &amp;ldquo;bill of lading&amp;rdquo; for international shipments.&lt;/td&gt;
-          &lt;td&gt;Covers &amp;ldquo;bills of lading&amp;rdquo; and similar transport documents.&lt;/td&gt;
-          &lt;td&gt;Applies to all contracts of carriage (including non-BoL docs).&lt;/td&gt;
-          &lt;td&gt;Broadest scope: covers all contracts, electronic records, and multimodal transport (if maritime leg is dominant).&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Carrier’s Liability Basis&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Fault-based (carrier liable only if negligent).&lt;/td&gt;
-          &lt;td&gt;Similar to Hague Rules with minor adjustments.&lt;/td&gt;
-          &lt;td&gt;Strict liability (carrier liable unless proving all reasonable measures taken).&lt;/td&gt;
-          &lt;td&gt;Modified fault-based system (carrier liable unless proving no fault).&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Period of Responsibility&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;&amp;ldquo;Tackle to Tackle&amp;rdquo; (loading to discharge).&lt;/td&gt;
-          &lt;td&gt;Same as Hague Rules.&lt;/td&gt;
-          &lt;td&gt;&amp;ldquo;Port to Port&amp;rdquo; (receipt to delivery at port).&lt;/td&gt;
-          &lt;td&gt;&amp;ldquo;Door-to-Door&amp;rdquo; (entire transport period, including land legs if part of contract).&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Limitation of Liability&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;£100 per package or unit.&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;666.67 SDR per package&lt;/strong&gt; or &lt;strong&gt;2 SDR per kg&lt;/strong&gt;, whichever is higher.&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;835 SDR per package&lt;/strong&gt; or &lt;strong&gt;2.5 SDR per kg&lt;/strong&gt;, whichever is higher.&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;875 SDR per package&lt;/strong&gt; or &lt;strong&gt;3 SDR per kg&lt;/strong&gt;, whichever is higher.&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Defenses for Carrier&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Broad (nautical fault, fire exemption).&lt;/td&gt;
-          &lt;td&gt;Similar to Hague Rules.&lt;/td&gt;
-          &lt;td&gt;Fewer defenses (no nautical fault exemption).&lt;/td&gt;
-          &lt;td&gt;More balanced defenses, but excludes &amp;ldquo;nautical fault&amp;rdquo; exemption.&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Time Bar for Claims&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;1 year from delivery.&lt;/td&gt;
-          &lt;td&gt;1 year (same as Hague).&lt;/td&gt;
-          &lt;td&gt;2 years from delivery.&lt;/td&gt;
-          &lt;td&gt;2 years (extendable by agreement).&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Notice of Loss/Damage&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;3 days (apparent damage).&lt;/td&gt;
-          &lt;td&gt;Same as Hague.&lt;/td&gt;
-          &lt;td&gt;15 days (non-apparent damage).&lt;/td&gt;
-          &lt;td&gt;7 days (apparent), 21 days (non-apparent).&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Effect on Third Parties&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Only shipper-carrier relationship.&lt;/td&gt;
-          &lt;td&gt;Extends to some third parties (e.g., actual carriers).&lt;/td&gt;
-          &lt;td&gt;Broader third-party application.&lt;/td&gt;
-          &lt;td&gt;Explicitly covers performing parties (subcontractors).&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Electronic Documentation&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;No provision.&lt;/td&gt;
-          &lt;td&gt;No provision.&lt;/td&gt;
-          &lt;td&gt;No provision.&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;Explicitly recognizes e-documents&lt;/strong&gt; (e-BoLs).&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;&lt;strong&gt;Adoption &amp;amp; Popularity&lt;/strong&gt;&lt;/td&gt;
-          &lt;td&gt;Outdated but historically significant.&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;Most widely adopted&lt;/strong&gt; (amended Hague Rules).&lt;/td&gt;
-          &lt;td&gt;Limited (mostly developing nations).&lt;/td&gt;
-          &lt;td&gt;&lt;strong&gt;Not widely ratified yet&lt;/strong&gt; (only a few countries).&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3&gt;&lt;strong&gt;Key Observations:&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;key-observations&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#key-observations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Hague-Visby Rules&lt;/strong&gt; remain the most widely used, balancing carrier and shipper interests.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Hamburg Rules&lt;/strong&gt; favor cargo owners but lack global acceptance.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Rotterdam Rules&lt;/strong&gt; are the most modern, covering e-docs and multimodal transport, but adoption is slow.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Liability limits increase progressively&lt;/strong&gt; from Hague → Hague-Visby → Hamburg → Rotterdam.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Would you like further details on any specific rule or a comparison with national laws (e.g., U.S. COGSA)?&lt;/p&gt;
 
       </description>
     </item>
