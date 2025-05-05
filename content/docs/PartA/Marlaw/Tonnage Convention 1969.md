@@ -3,7 +3,7 @@ title: Tonnage Convention 1969 and trainee Accommodation
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 The International Convention on Tonnage Measurement of Ships, 1969, links a vessel's gross tonnage (GT) to various fees and regulations, including port dues. This linkage has, unfortunately, created a **disincentive for shipowners to provide more than the minimum required accommodation space** for crew and, consequently, for trainees.
 

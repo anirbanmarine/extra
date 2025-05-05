@@ -3,7 +3,7 @@ title: Seafarers Articles of Agreement
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 Seafarer employment contracts, often referred to as **Articles of Agreement** or **Seafarer Employment Agreements (SEAs)**, are legally binding documents that outline the terms and conditions of employment between a seafarer and a shipowner or shipping company. These contracts are crucial for protecting the rights and ensuring fair working conditions for seafarers.
 

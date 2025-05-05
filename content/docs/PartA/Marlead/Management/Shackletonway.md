@@ -3,7 +3,7 @@ title: Ernest Shackleton and Ship Management
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 Ernest Shackleton, the renowned Antarctic explorer, was indeed a merchant seaman before his famous expeditions. His experience at sea, particularly in harsh conditions, would have given him a strong foundation in seamanship, navigation, and survival skills. However, the transition from the sailing ships and early steamships of his time to a modern liner or container vessel would present some challenges and require adaptation.
 

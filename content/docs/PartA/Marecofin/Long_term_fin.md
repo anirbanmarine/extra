@@ -4,7 +4,7 @@ title: Long Term Sources of finance in an Organization specially shipping Organi
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 These sources are typically used for long-term projects, such as purchasing assets, expanding operations, or financing large-scale initiatives. Below is an explanation of the key long-term sources of finance, along with examples and distinctive features. Additionally, I will discuss the specific options available for **financing ships**, which is a specialized area of finance.
 

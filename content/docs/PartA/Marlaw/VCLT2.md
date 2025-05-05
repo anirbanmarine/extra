@@ -3,7 +3,7 @@ title: Vienna Convention on the Law of Treaties (VCLT) 1969
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 ## Salient Features of the Vienna Convention on the Law of Treaties (VCLT) 1969
 

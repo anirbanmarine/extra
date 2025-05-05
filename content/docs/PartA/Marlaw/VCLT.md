@@ -3,7 +3,7 @@ title: The Vienna Convention on the Law of Treaties (VCLT)
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 The Vienna Convention on the Law of Treaties (VCLT) is a foundational international treaty that establishes the rules and procedures for how treaties between states are to be concluded, interpreted, and terminated. Adopted in 1969 and entering into force in 1980, it is considered a cornerstone of international law. Below are its salient features:
 

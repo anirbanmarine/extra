@@ -3,7 +3,7 @@ title: Pledge
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 A **pledge** (also known as a pawn) is a special kind of bailment where goods are delivered by one person (the **pledgor** or **pawnor**) to another person (the **pledgee** or **pawnee**) as security for the payment of a debt or the performance of a promise.
 

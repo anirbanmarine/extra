@@ -3,7 +3,7 @@ title: Exchange Rate Dynamics and how the Master influences it
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 
 **The Free Market Determination of Exchange Rates**

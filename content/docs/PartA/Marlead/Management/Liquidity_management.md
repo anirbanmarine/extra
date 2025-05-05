@@ -3,7 +3,7 @@ title: liquidity management,types of reserve.
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 
 ## Management Practices, Types of Reserves, Management of Liquidity, Financial Control Methods and Tools

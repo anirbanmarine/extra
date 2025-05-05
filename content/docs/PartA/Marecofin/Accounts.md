@@ -3,7 +3,7 @@ title: Accounts and Finance
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 --- 
 
 Accounts|Finance

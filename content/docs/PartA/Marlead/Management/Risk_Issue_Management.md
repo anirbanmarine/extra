@@ -3,7 +3,7 @@ title: Risk and Issue Management
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 Risk and issue management are two distinct but related processes in project management. They both aim to minimize negative impacts on a project, but they differ in their focus and timing.
 

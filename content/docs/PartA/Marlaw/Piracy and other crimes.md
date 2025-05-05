@@ -3,7 +3,7 @@ title: International_piracy_crimes
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 International criminal law addresses some of the most serious violations of international law. Here's a breakdown of the crimes you mentioned:
 

@@ -4,7 +4,7 @@ title: Law of Agency
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 **Law of Agency**
 

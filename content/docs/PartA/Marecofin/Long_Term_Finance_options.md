@@ -3,7 +3,7 @@ title: Long-Term Sources of Finance for Organizations
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 ## Long-Term Sources of Finance for Organizations (with Examples)
 

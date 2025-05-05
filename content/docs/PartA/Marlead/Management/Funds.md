@@ -3,7 +3,7 @@ title: Funds-Allotment,Source,Procurement and utilization of Funds.
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 
 **1. Allotment of Funds**

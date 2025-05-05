@@ -3,7 +3,7 @@ title: Freight pricing in Shipping Markets
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 --- 
 
 ### 1. Fundamental Principle: Supply and Demand

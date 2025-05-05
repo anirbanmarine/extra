@@ -3,7 +3,7 @@ title: Indian Bill of Lading Act 1856 and Carriage od Goods by Sea Act 1925
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 
 **Charter Parties**

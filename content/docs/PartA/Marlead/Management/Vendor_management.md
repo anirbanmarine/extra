@@ -3,7 +3,7 @@ title: Vendor Management
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 Vendor management is the process of overseeing and controlling an organization's relationships with its vendors (suppliers or service providers). It encompasses all activities involved in identifying, selecting, contracting with, and managing vendors to ensure they meet the organization's needs and expectations.
 

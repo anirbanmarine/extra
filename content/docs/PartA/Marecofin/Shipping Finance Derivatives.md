@@ -2,7 +2,7 @@ itle: Shipping Derivatives
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 Shipping finance derivatives are financial instruments whose value is derived from the underlying shipping market. These derivatives allow various participants in the shipping industry and financial institutions to manage their exposure to the risks associated with the volatility of freight rates, bunker (fuel) prices, interest rates, and currency exchange rates.
 

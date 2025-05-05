@@ -3,7 +3,7 @@ title: Bailment
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 A **bailment** is a legal relationship that arises when one person (the **bailor**) delivers goods to another person (the **bailee**) for a specific purpose, with the understanding that the goods will be returned to the bailor or disposed of according to their directions once the purpose is accomplished.
 

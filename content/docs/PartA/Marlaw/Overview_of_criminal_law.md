@@ -3,7 +3,7 @@ title: Overview of Criminal Law with respect to Actus reus,Mens Rea, etc
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 
 In criminal law, both actus reus and mens rea are essential to prove that a crime has been committed. Actus reus refers to the physical act of committing a crime, while mens rea refers to the mental state of the person committing the crime. 

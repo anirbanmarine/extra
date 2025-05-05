@@ -162,6 +162,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em302/prtpln/newberthcosting/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marecofin/costs-and-cash-flow/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/misc_aspects_of_leadership/crisis_preparation_mitigation/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/indianinsurance/currentexclusions/</loc>
@@ -279,6 +281,8 @@
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/indianinsurance/wrimhscheme/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/questions-and-answers/group-dynamics/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/power/energyfmsea/</loc>
   </url><url>
@@ -436,6 +440,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/management/organization_intro/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/questions-and-answers/organizational-structures/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em303/marinsurance/orgstructpandi/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/orifice_valve-refrigeration/</loc>
@@ -506,6 +512,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/q_a/q_a_3/qa3/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/questions-and-answers/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partb/engg/q_a/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/readbalance-sheets/</loc>
@@ -550,9 +558,13 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/ship_motion/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marecofin/shipsize-and-economies-of-sale/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em303/salepurchase/shipbuildcontract/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/shippingmgmnt/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/questions-and-answers/shortnotes/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/approches_to_define_leadership/situational-leadership/</loc>
   </url><url>
@@ -569,6 +581,8 @@
     <loc>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/stockholm_a/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/oilngas/storage/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/questions-and-answers/trainingplan-for-autonomous-ships/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/stress_and_strain/</loc>
   </url><url>

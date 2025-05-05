@@ -3,7 +3,7 @@ title: Situational Leadership Model
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 The **Situational Leadership Model** (also known as the **Contingency Model of Leadership**) is a leadership theory developed by Paul Hersey and Ken Blanchard. It emphasizes that effective leadership depends on the situation and the readiness level of followers. Leaders must adapt their style based on the specific context and the needs of their team. Below are the key elements of the Situational/Contingency Model of Leadership:
 

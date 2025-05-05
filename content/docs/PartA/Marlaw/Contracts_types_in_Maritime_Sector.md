@@ -3,7 +3,7 @@ title: Types of Contracts in Maritime Sector
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 The maritime sector relies on a complex web of agreements and contracts to facilitate its operations. These contracts govern various aspects of shipping, navigation, and commerce on the sea. Here are some of the most common types:
 

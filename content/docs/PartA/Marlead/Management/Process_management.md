@@ -3,7 +3,7 @@ title: Process Management
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 Process management is a crucial aspect of management that involves planning, organizing, leading, and controlling activities to achieve specific objectives. It focuses on how work is done within an organization, aiming to improve efficiency, effectiveness, and quality. 
 

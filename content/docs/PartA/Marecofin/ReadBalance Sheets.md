@@ -3,7 +3,7 @@ title: Read Balance sheets
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 --- 
 please make me practice to predict type of company from balance sheet
 

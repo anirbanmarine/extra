@@ -3,7 +3,7 @@ title: Civil Law and Civil Procedure Code
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 ## Civil Law
 

@@ -3,7 +3,7 @@ title: Contract of Guarantee
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 A **contract of guarantee**, as defined in Section 126 of the Indian Contract Act, 1872, is a contract to perform the promise or discharge the liability of a third person in case of their default.
 

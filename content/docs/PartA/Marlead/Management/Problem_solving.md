@@ -3,7 +3,7 @@ title: Modern successors to the fishbone diagram method of problem solving
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 The **Fishbone Diagram** (also known as the **Ishikawa Diagram** or **Cause-and-Effect Diagram**) is a classic problem-solving tool used to identify and analyze the root causes of a problem. While it remains widely used, modern problem-solving methodologies and tools have evolved to address more complex and dynamic challenges. Below are some **modern successors** and complementary tools to the Fishbone Diagram:
 

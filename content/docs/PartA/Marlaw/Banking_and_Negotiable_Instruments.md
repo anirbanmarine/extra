@@ -3,7 +3,7 @@ title: Banking Law and Negotiable Instruments Law
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 
 **Banking Law**

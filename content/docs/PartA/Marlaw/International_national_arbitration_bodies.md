@@ -3,7 +3,7 @@ title: International and National Arbitration bodies
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 The **LMAA (London Maritime Arbitrators Association)**, **ICA (Indian Council of Arbitration)**, and similar arbitration bodies play a significant role in facilitating dispute resolution, particularly in specialized industries like maritime, trade, and commerce. These organizations provide frameworks, rules, and administrative support to ensure efficient and fair arbitration processes. Below is an overview of their relevance and functions:
 

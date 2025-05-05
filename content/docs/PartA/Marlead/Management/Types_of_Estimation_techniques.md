@@ -3,7 +3,7 @@ title: Types of Estimation Technique
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 
 **1. PERT (Program Evaluation and Review Technique)**

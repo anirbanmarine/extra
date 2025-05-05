@@ -3,7 +3,7 @@ title: Contract of Indemnity
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 A **contract of indemnity** is a legally binding agreement where one party (the **indemnifier**) promises to compensate another party (the **indemnity-holder** or **indemnified**) for any loss or damage they may suffer due to a specific event or cause. It's essentially a form of protection against potential financial loss.
 

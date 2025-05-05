@@ -3,7 +3,7 @@ title: Cost Management and earned value management
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 Cost management and Earned Value Management (EVM) are both crucial for project success, but they have distinct focuses:
 

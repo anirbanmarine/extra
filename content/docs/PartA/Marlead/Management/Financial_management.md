@@ -3,7 +3,7 @@ title: Financial Management
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 Financial management is the strategic planning, organizing, directing, and controlling of financial activities in an organization. It involves applying general management principles to financial resources to ensure the organization's financial health and achieve its objectives.
 

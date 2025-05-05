@@ -3,7 +3,7 @@ title: Contract Law 1872
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 Let's break down the Indian Contract Act of 1872 and its key components:
 

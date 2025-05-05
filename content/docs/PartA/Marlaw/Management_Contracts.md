@@ -3,7 +3,7 @@ title: Management Contracts
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 Ship management contracts are agreements between a shipowner and a ship management company, where the latter agrees to provide various services related to the operation and maintenance of a vessel. These contracts can be broadly categorized into:
 

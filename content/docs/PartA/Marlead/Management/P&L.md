@@ -3,7 +3,7 @@ title: Concepts of profit and Loss
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 
 **1. Revenue Recognition Principle**

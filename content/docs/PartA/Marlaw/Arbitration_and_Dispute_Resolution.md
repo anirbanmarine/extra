@@ -4,7 +4,7 @@ title: Arbitration and Dispute Resolution
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 Arbitration and dispute resolution are processes used to resolve conflicts outside of traditional court litigation. They are often preferred for their efficiency, confidentiality, and flexibility. Here's an overview of both:
 

@@ -3,7 +3,7 @@ title: Consequences of Short Delivery
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 a short-delivery by a vessel *can* be an offence under the Indian Customs Act, 1962, leading to potential penalties for the person-in-charge of the vessel (typically the Master or agent).
 

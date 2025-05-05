@@ -3,7 +3,7 @@ title: Comparison Beween Hague,Hague-Visby,Hamburgh and Rotterdam Rules
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 --- 
 
 | **Feature**               | **Hague Rules (1924)** | **Hague-Visby Rules (1968/1979)** | **Hamburg Rules (1978)** | **Rotterdam Rules (2008)** |

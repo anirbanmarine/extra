@@ -3,7 +3,7 @@ title: The German KG System
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 The **German KG System** (Kommanditgesellschaft) is a unique and historically significant model of shipping organization and financing that was widely used in Germany, particularly from the 1950s to the early 2000s. It played a crucial role in rebuilding and expanding the German shipping fleet after World War II. Below is a detailed explanation of the KG system, its structure, and how it functioned in the shipping industry.
 

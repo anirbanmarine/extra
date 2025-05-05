@@ -3,7 +3,7 @@ title: What Factors affect success of entreprneurship
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 Success in entrepreneurship is influenced by a combination of personal traits, strategic actions, and external factors. Here are the key factors and activities that contribute to entrepreneurial success:
 

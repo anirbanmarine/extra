@@ -3,7 +3,7 @@ title: Surety
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 A **surety** is a person who gives a guarantee to perform the promise or discharge the liability of a third person (the principal debtor) in case of their default. Let's explore the rights, liability, and discharge of a surety under the Indian Contract Act, 1872:
 

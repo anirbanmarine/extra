@@ -3,7 +3,7 @@ title: Constitution and Legal Systems
 type: docs
 toc: true
 sidebar:
-  open: false
+  open: close
 ---
 constitutions can be classified based on various factors, such as their form, origin, and the way they allocate power. Here's a breakdown of some key types:
 
