@@ -156,6 +156,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/hydrosurv/control/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/sua1988-2005/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partb/engg/transformers_cu_losses/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/management/cost_management/</loc>
@@ -285,6 +287,8 @@
     <loc>http://localhost:1313/docs/parta/marlead/questions-and-answers/group-dynamics/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/power/energyfmsea/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/admiralty-act/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/heatbudget/</loc>
   </url><url>
@@ -608,6 +612,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/terrestrial_and_ships_magnetism/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlead/management/universe25/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/baltic/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/intconv/baselconv/</loc>
@@ -687,6 +693,8 @@
     <loc>http://localhost:1313/docs/partc/em303/cabotage/jones/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/meteorology/wind_effects/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/legal-systems/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/averageadjustment/yar2016/</loc>
   </url>
