@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – Parts-Syllabus</title>
-    <link>http://localhost:1313/docs/</link>
+    <link>https://anirbanmarine.in/docs/</link>
     <description>Recent content in Parts-Syllabus on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://anirbanmarine.in/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Agenda 21 UNFCCC </title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/agenda_21/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/agenda_21/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/agenda_21/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/agenda_21/</guid>
       <description>
         
         
@@ -53,10 +53,10 @@ The UNFCCC Agenda 21 has been influential in shaping the international response 
     
     <item>
       <title>Kyoto Protocol-UNFCCC (UNFCCC,Kyoto,1997)</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/kyotoproto/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/kyotoproto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/kyotoproto/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/kyotoproto/</guid>
       <description>
         
         
@@ -83,10 +83,10 @@ The UNFCCC Agenda 21 has been influential in shaping the international response 
     
     <item>
       <title>Regional Seas Programme (RSP,Paris,2015)</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/rsparis2015/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/rsparis2015/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/rsparis2015/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/rsparis2015/</guid>
       <description>
         
         
@@ -110,10 +110,10 @@ The RSP is committed to working with all stakeholders to implement the SDGs and 
     
     <item>
       <title>The 2002 World Summit on Sustainable Development-Rio&#43;10 (WSSD,Johannesburg,2002)The 2012 United Nations Conference on Sustainable Development-Rio&#43;20 (UNCSD,Rio,2012)</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/rio&#43;10_20/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/rio&#43;10_20/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/rio&#43;10_20/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/rio&#43;10_20/</guid>
       <description>
         
         
@@ -157,10 +157,10 @@ Despite these challenges, there is also a growing awareness of the importance of
     
     <item>
       <title>The Commission on Sustainable Development (CSD,Rio,1992)</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/csd1992/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/csd1992/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/csd1992/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/csd1992/</guid>
       <description>
         
         
@@ -193,10 +193,10 @@ Despite these challenges, there is also a growing awareness of the importance of
     
     <item>
       <title>The Intergovernmental Conference on biological diversity beyond national jurisdiction (BBNJ,2023)</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/bbnj/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/bbnj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/bbnj/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/bbnj/</guid>
       <description>
         
         
@@ -344,7 +344,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;http:\/\/localhost:1313\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.in\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
 
     
     var pdfDoc = null,
@@ -474,10 +474,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
     
     <item>
       <title>The London Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter (LC 1972)</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/londondump1972/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/londondump1972/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/londondump1972/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/londondump1972/</guid>
       <description>
         
         
@@ -503,10 +503,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
     
     <item>
       <title>The United Nations Conference on Environment and Development (UNCED),1992</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/unced/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/unced/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unced/</guid>
       <description>
         
         
@@ -525,10 +525,10 @@ The Earth Summit was a major step forward in international environmental coopera
     
     <item>
       <title>The United Nations Convention on Biological Diversity (CBD,Rio,1992) </title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/unconvbiodiversity/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unconvbiodiversity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/unconvbiodiversity/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unconvbiodiversity/</guid>
       <description>
         
         
@@ -564,10 +564,10 @@ The CBD is a comprehensive treaty that covers all aspects of biological diversit
     
     <item>
       <title>The United Nations Framework Convention on Climate Change (UNFCCC,Rio,1992)</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/unfccc/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unfccc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/unfccc/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unfccc/</guid>
       <description>
         
         
@@ -720,7 +720,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-6
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;http:\/\/localhost:1313\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.in\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
 
     
     var pdfDoc = null,
@@ -850,10 +850,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-6
     
     <item>
       <title>United Nations Convention on Human Environment,1972</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/unhe/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unhe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/unhe/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unhe/</guid>
       <description>
         
         
@@ -878,10 +878,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-6
     
     <item>
       <title>United Nations Environment Programme</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/unepcont/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unepcont/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/unepcont/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unepcont/</guid>
       <description>
         
         
@@ -1010,7 +1010,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;http:\/\/localhost:1313\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.in\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
 
     
     var pdfDoc = null,
@@ -1140,10 +1140,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/parta/marecofin/long_term_fin/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/long_term_fin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/long_term_fin/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/long_term_fin/</guid>
       <description>
         
         
@@ -1412,10 +1412,10 @@ open: close&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;open-close&#34
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/parta/marecofin/shipping-finance-derivatives/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/shipping-finance-derivatives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/shipping-finance-derivatives/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/shipping-finance-derivatives/</guid>
       <description>
         
         
@@ -1483,10 +1483,10 @@ open: close&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;open-close&#34
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/partb/adnav/special_navigation_problems/different_lat/</link>
+      <link>https://anirbanmarine.in/docs/partb/adnav/special_navigation_problems/different_lat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/adnav/special_navigation_problems/different_lat/</guid>
+      <guid>https://anirbanmarine.in/docs/partb/adnav/special_navigation_problems/different_lat/</guid>
       <description>
         
         
@@ -1688,10 +1688,10 @@ open: close&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;open-close&#34
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/partb/engg/cont/</link>
+      <link>https://anirbanmarine.in/docs/partb/engg/cont/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/engg/cont/</guid>
+      <guid>https://anirbanmarine.in/docs/partb/engg/cont/</guid>
       <description>
         
         
@@ -1720,10 +1720,10 @@ open: close&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;open-close&#34
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/partc/em301/tides/typoftides/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/tides/typoftides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/tides/typoftides/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/tides/typoftides/</guid>
       <description>
         
         
@@ -1769,10 +1769,10 @@ open: close&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;open-close&#34
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/partc/em302/intropm/originofcargo/</link>
+      <link>https://anirbanmarine.in/docs/partc/em302/intropm/originofcargo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em302/intropm/originofcargo/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em302/intropm/originofcargo/</guid>
       <description>
         
         
@@ -1846,10 +1846,10 @@ Seasonal variations&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/partc/em303/averageadjustment/addback/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/averageadjustment/addback/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/averageadjustment/addback/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/averageadjustment/addback/</guid>
       <description>
         
         
@@ -1896,10 +1896,10 @@ Seasonal variations&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/sueandlabourclause/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/sueandlabourclause/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/sueandlabourclause/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/sueandlabourclause/</guid>
       <description>
         
         
@@ -1968,10 +1968,10 @@ Seasonal variations&lt;/p&gt;
     
     <item>
       <title>A Shift Towards Probabilistic Safety Assessment SOLAS 90 plus 50</title>
-      <link>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</link>
+      <link>https://anirbanmarine.in/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</guid>
+      <guid>https://anirbanmarine.in/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</guid>
       <description>
         
         
@@ -2002,10 +2002,10 @@ Seasonal variations&lt;/p&gt;
     
     <item>
       <title>Accounts and Finance</title>
-      <link>http://localhost:1313/docs/parta/marecofin/accounts/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/accounts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/accounts/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/accounts/</guid>
       <description>
         
         
@@ -2017,10 +2017,10 @@ Record, classify&lt;/p&gt;
     
     <item>
       <title>Active geological processes</title>
-      <link>http://localhost:1313/docs/partc/em301/oceanogeo/actgeo/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceanogeo/actgeo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/actgeo/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceanogeo/actgeo/</guid>
       <description>
         
         
@@ -2041,11 +2041,86 @@ Record, classify&lt;/p&gt;
     </item>
     
     <item>
-      <title>Arbitration and Dispute Resolution</title>
-      <link>http://localhost:1313/docs/parta/marlaw/arbitration_and_dispute_resolution/</link>
+      <title>Arbitration</title>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/arbitration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/arbitration_and_dispute_resolution/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/arbitration/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Here are the key &lt;strong&gt;international conventions for arbitration&lt;/strong&gt;, along with their salient features and relevance:&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;&lt;strong&gt;1. New York Convention (1958)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-new-york-convention-1958&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-new-york-convention-1958&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Full Name&lt;/strong&gt;: &lt;em&gt;United Nations Convention on the Recognition and Enforcement of Foreign Arbitral Awards&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scope&lt;/strong&gt;: Ensures uniform enforcement of foreign arbitral awards across 172+ contracting states. Applies to awards made outside the enforcing state or deemed &amp;ldquo;non-domestic&amp;rdquo; under local law .&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Key Provisions&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Article II&lt;/strong&gt;: Requires courts to refer parties to arbitration if a valid written agreement exists.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Article V&lt;/strong&gt;: Lists limited grounds for refusing enforcement (e.g., invalid arbitration agreement, procedural unfairness, or public policy violations) .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact&lt;/strong&gt;: Replaced the Geneva Protocol (1923) and Geneva Convention (1927), becoming the cornerstone of international arbitration .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;&lt;strong&gt;2. ICSID Convention (1966)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-icsid-convention-1966&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-icsid-convention-1966&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Full Name&lt;/strong&gt;: &lt;em&gt;Convention on the Settlement of Investment Disputes Between States and Nationals of Other States&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scope&lt;/strong&gt;: Governs investor-state arbitration under the World Bank’s ICSID. Ratified by 158 states .&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Key Features&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Establishes procedural rules for arbitration and conciliation.&lt;/li&gt;
+&lt;li&gt;Awards are enforceable like domestic court judgments in member states (no recourse to national courts) .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;&lt;strong&gt;3. European Convention on International Commercial Arbitration (1961)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-european-convention-on-international-commercial-arbitration-1961&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-european-convention-on-international-commercial-arbitration-1961&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Scope&lt;/strong&gt;: Streamlines arbitration procedures in Europe, focusing on arbitration agreements and procedural flexibility .&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Distinction&lt;/strong&gt;: Complements the New York Convention but is less widely adopted.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;&lt;strong&gt;4. Panama Convention (1975)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-panama-convention-1975&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-panama-convention-1975&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Full Name&lt;/strong&gt;: &lt;em&gt;Inter-American Convention on International Commercial Arbitration&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scope&lt;/strong&gt;: Covers commercial arbitration in the Americas, similar to the New York Convention but with regional focus .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;&lt;strong&gt;5. UNCITRAL Model Law (1985, amended 2006)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-uncitral-model-law-1985-amended-2006&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#5-uncitral-model-law-1985-amended-2006&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Status&lt;/strong&gt;: Not a treaty but a framework adopted by 80+ countries to harmonize arbitration laws (e.g., Canada, Australia, India) .&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Key Aspects&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Defines arbitration procedures, interim measures, and award enforcement.&lt;/li&gt;
+&lt;li&gt;Integrates with the New York Convention for enforcement .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;&lt;strong&gt;Other Notable Instruments&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;other-notable-instruments&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#other-notable-instruments&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mauritius Convention (2014)&lt;/strong&gt;: Extends transparency rules in investor-state arbitration.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Singapore Convention (2020)&lt;/strong&gt;: Enforces mediated settlement agreements (distinct from arbitration) .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;&lt;strong&gt;Upcoming Arbitration Events (2025)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;upcoming-arbitration-events-2025&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#upcoming-arbitration-events-2025&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ICC New York Conference&lt;/strong&gt; (Sep 18–19): Focus on interim measures and trends .&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;New York Arbitration Week&lt;/strong&gt; (Nov 17–21): Networking and case law updates .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For ratification status or specific provisions, refer to the UN Treaty Collection or ICSID’s database . Would you like details on a specific convention’s application?&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Arbitration and Dispute Resolution</title>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/arbitration_and_dispute_resolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/arbitration_and_dispute_resolution/</guid>
       <description>
         
         
@@ -2132,10 +2207,10 @@ Record, classify&lt;/p&gt;
     
     <item>
       <title>Areas Beyond National Jurisdiction</title>
-      <link>http://localhost:1313/docs/partc/em301/oceangov/abnj/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceangov/abnj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/oceangov/abnj/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceangov/abnj/</guid>
       <description>
         
         
@@ -2176,11 +2251,96 @@ Here are some specific examples of conservation and management measures that are
     </item>
     
     <item>
-      <title>Average total Loss (ATL)</title>
-      <link>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/atl/</link>
+      <title>Athens Convention 1974</title>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/athensconv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/atl/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/athensconv/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The &lt;strong&gt;Athens Convention relating to the Carriage of Passengers and their Luggage by Sea (1974)&lt;/strong&gt; is an international maritime treaty that establishes liability rules for passenger injuries, deaths, and luggage loss or damage during sea travel. Here are its &lt;strong&gt;salient features&lt;/strong&gt;:&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;1. Scope of Application&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-scope-of-application&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-scope-of-application&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Applies to &lt;strong&gt;international carriage&lt;/strong&gt; of passengers by sea on ships registered in a contracting state or under a contracting state’s law.&lt;/li&gt;
+&lt;li&gt;Covers &lt;strong&gt;commercial voyages&lt;/strong&gt;, including cruises and ferries, but may exclude domestic transport under national laws.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;2. Liability for Passenger Death/Injury&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-liability-for-passenger-deathinjury&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-liability-for-passenger-deathinjury&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Strict Liability (Presumed Fault)&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;The carrier is &lt;strong&gt;automatically liable&lt;/strong&gt; for passenger injury or death up to a &lt;strong&gt;financial limit&lt;/strong&gt;, unless they prove the incident resulted from:
+&lt;ul&gt;
+&lt;li&gt;An act of war/natural disaster (&lt;em&gt;force majeure&lt;/em&gt;),&lt;/li&gt;
+&lt;li&gt;The passenger’s own negligence, or&lt;/li&gt;
+&lt;li&gt;A third party’s intentional act.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Higher Liability for Negligence&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;If the carrier is proven &lt;strong&gt;negligent&lt;/strong&gt;, liability limits may be exceeded.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;3. Compensation Limits (as amended by the 2002 Protocol)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-compensation-limits-as-amended-by-the-2002-protocol&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-compensation-limits-as-amended-by-the-2002-protocol&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Death or Injury&lt;/strong&gt;: &lt;strong&gt;250,000 SDR&lt;/strong&gt; (Special Drawing Rights, ~USD 330,000) per passenger.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Luggage Loss/Damage&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cabin Luggage&lt;/strong&gt;: 2,250 SDR (~USD 3,000)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vehicles &amp;amp; Contents&lt;/strong&gt;: 12,700 SDR (~USD 17,000)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Other Luggage&lt;/strong&gt;: 3,375 SDR (~USD 4,500)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;4. Mandatory Insurance Requirement (2002 Protocol)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-mandatory-insurance-requirement-2002-protocol&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-mandatory-insurance-requirement-2002-protocol&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Carriers must maintain &lt;strong&gt;insurance or financial security&lt;/strong&gt; (e.g., P&amp;amp;I Club coverage) to cover claims.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Direct Action&lt;/strong&gt;: Passengers can sue insurers directly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;5. Time Limits for Claims&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-time-limits-for-claims&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#5-time-limits-for-claims&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Injury/Death&lt;/strong&gt;: &lt;strong&gt;2 years&lt;/strong&gt; from disembarkation or incident (whichever is later).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Luggage Claims&lt;/strong&gt;: &lt;strong&gt;15 days&lt;/strong&gt; for apparent damage; &lt;strong&gt;60 days&lt;/strong&gt; for non-apparent damage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;6. Defenses Available to Carriers&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;6-defenses-available-to-carriers&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#6-defenses-available-to-carriers&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Contributory Negligence&lt;/strong&gt;: Compensation may be reduced if the passenger’s actions contributed to the harm.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Force Majeure&lt;/strong&gt;: No liability for unforeseeable events like wars or natural disasters.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;7. Jurisdiction &amp;amp; Enforcement&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;7-jurisdiction--enforcement&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#7-jurisdiction--enforcement&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Claims can be filed in:
+&lt;ul&gt;
+&lt;li&gt;The carrier’s principal place of business,&lt;/li&gt;
+&lt;li&gt;The place of departure/destination, or&lt;/li&gt;
+&lt;li&gt;The passenger’s habitual residence (if the carrier operates there).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;8. 2002 Protocol (Athens Convention 2002)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;8-2002-protocol-athens-convention-2002&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#8-2002-protocol-athens-convention-2002&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Introduced &lt;strong&gt;stricter liability&lt;/strong&gt;, &lt;strong&gt;higher compensation limits&lt;/strong&gt;, and &lt;strong&gt;mandatory insurance&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Adopted after the &lt;strong&gt;MS Estonia sinking (1994)&lt;/strong&gt; to enhance passenger protection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;significance&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#significance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Provides &lt;strong&gt;uniform liability rules&lt;/strong&gt; for passenger claims, balancing carrier responsibilities and passenger rights.&lt;/li&gt;
+&lt;li&gt;Many countries (including EU members) have ratified the &lt;strong&gt;2002 Protocol&lt;/strong&gt;, while others follow the original 1974 version.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Would you like details on a specific country’s implementation or case law?&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Average total Loss (ATL)</title>
+      <link>https://anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/atl/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/atl/</guid>
       <description>
         
         
@@ -2211,10 +2371,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>AVR</title>
-      <link>http://localhost:1313/docs/partb/engg/avr/</link>
+      <link>https://anirbanmarine.in/docs/partb/engg/avr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/engg/avr/</guid>
+      <guid>https://anirbanmarine.in/docs/partb/engg/avr/</guid>
       <description>
         
         
@@ -2273,10 +2433,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Azimuth thrusters</title>
-      <link>http://localhost:1313/docs/partb/engg/azimuth-thrusters/</link>
+      <link>https://anirbanmarine.in/docs/partb/engg/azimuth-thrusters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/engg/azimuth-thrusters/</guid>
+      <guid>https://anirbanmarine.in/docs/partb/engg/azimuth-thrusters/</guid>
       <description>
         
         
@@ -2336,10 +2496,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Bailment</title>
-      <link>http://localhost:1313/docs/parta/marlaw/bailment/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/bailment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/bailment/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/bailment/</guid>
       <description>
         
         
@@ -2420,10 +2580,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Banking Law and Negotiable Instruments Law</title>
-      <link>http://localhost:1313/docs/parta/marlaw/banking_and_negotiable_instruments/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/banking_and_negotiable_instruments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/banking_and_negotiable_instruments/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/banking_and_negotiable_instruments/</guid>
       <description>
         
         
@@ -2512,10 +2672,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Basic techniques of Hydrographic Surveying</title>
-      <link>http://localhost:1313/docs/partc/em301/hydrosurv/bashydro/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/hydrosurv/bashydro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/hydrosurv/bashydro/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/hydrosurv/bashydro/</guid>
       <description>
         
         
@@ -2554,10 +2714,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Bathymetric Studies</title>
-      <link>http://localhost:1313/docs/partc/em301/oceanogeo/bathy/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceanogeo/bathy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/bathy/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceanogeo/bathy/</guid>
       <description>
         
         
@@ -2594,10 +2754,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Bill of Lading</title>
-      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/billoflading/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/billoflading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/billoflading/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/billoflading/</guid>
       <description>
         
         
@@ -2875,10 +3035,10 @@ b- Shipment from a port within the United Kingdom&lt;/p&gt;
     
     <item>
       <title>Broker&#39;s responsibility to the principal</title>
-      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/brokerespons/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/brokerespons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/brokerespons/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/brokerespons/</guid>
       <description>
         
         
@@ -2905,10 +3065,10 @@ b- Shipment from a port within the United Kingdom&lt;/p&gt;
     
     <item>
       <title>Calculation of Demurrage</title>
-      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/demurrcalc/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/demurrcalc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/demurrcalc/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/demurrcalc/</guid>
       <description>
         
         
@@ -3183,10 +3343,10 @@ b- Shipment from a port within the United Kingdom&lt;/p&gt;
     
     <item>
       <title>Cargo Circulars for Commercial shipping</title>
-      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/cargocirc/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/cargocirc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/cargocirc/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/cargocirc/</guid>
       <description>
         
         
@@ -3221,10 +3381,10 @@ b- Shipment from a port within the United Kingdom&lt;/p&gt;
     
     <item>
       <title>Cargo claims procedure</title>
-      <link>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/cgoclaimsproc/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/cgoclaimsproc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/cgoclaimsproc/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/cgoclaimsproc/</guid>
       <description>
         
         
@@ -3276,10 +3436,10 @@ b- Shipment from a port within the United Kingdom&lt;/p&gt;
     
     <item>
       <title>Cargo Handling Machineries Required for a Port.</title>
-      <link>http://localhost:1313/docs/partc/em302/portops/cargohandlingequipments/</link>
+      <link>https://anirbanmarine.in/docs/partc/em302/portops/cargohandlingequipments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em302/portops/cargohandlingequipments/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em302/portops/cargohandlingequipments/</guid>
       <description>
         
         
@@ -3325,10 +3485,10 @@ SBM Tender,&lt;/p&gt;
     
     <item>
       <title>Cargo insurance rating</title>
-      <link>http://localhost:1313/docs/partc/em303/cargoinsurance/insurancerating/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cargoinsurance/insurancerating/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cargoinsurance/insurancerating/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cargoinsurance/insurancerating/</guid>
       <description>
         
         
@@ -3359,10 +3519,10 @@ SBM Tender,&lt;/p&gt;
     
     <item>
       <title>Cargo insurance underwriting factors</title>
-      <link>http://localhost:1313/docs/partc/em303/cargoinsurance/underwritingfact/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cargoinsurance/underwritingfact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cargoinsurance/underwritingfact/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cargoinsurance/underwritingfact/</guid>
       <description>
         
         
@@ -3404,10 +3564,10 @@ SBM Tender,&lt;/p&gt;
     
     <item>
       <title>cargo risk factors</title>
-      <link>http://localhost:1313/docs/partc/em303/cargoinsurance/cgorskfac/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cargoinsurance/cgorskfac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cargoinsurance/cgorskfac/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cargoinsurance/cgorskfac/</guid>
       <description>
         
         
@@ -3435,10 +3595,10 @@ The desired average (loss) clauses: The assured may choose average clauses rangi
     
     <item>
       <title>Case Studies and Incidence response procedures</title>
-      <link>http://localhost:1313/docs/partb/adnav/cyber_security_case_studies/</link>
+      <link>https://anirbanmarine.in/docs/partb/adnav/cyber_security_case_studies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/adnav/cyber_security_case_studies/</guid>
+      <guid>https://anirbanmarine.in/docs/partb/adnav/cyber_security_case_studies/</guid>
       <description>
         
         
@@ -3448,10 +3608,10 @@ The desired average (loss) clauses: The assured may choose average clauses rangi
     
     <item>
       <title>Changes in Logistics and Distribution Patterns Influence the Development or Decline of Ports</title>
-      <link>http://localhost:1313/docs/partc/em302/intropm/changeinlogisticsanddistribution/</link>
+      <link>https://anirbanmarine.in/docs/partc/em302/intropm/changeinlogisticsanddistribution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em302/intropm/changeinlogisticsanddistribution/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em302/intropm/changeinlogisticsanddistribution/</guid>
       <description>
         
         
@@ -3494,10 +3654,10 @@ The desired average (loss) clauses: The assured may choose average clauses rangi
     
     <item>
       <title>Charter party disputes</title>
-      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/chrtrdispute/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/chrtrdispute/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/chrtrdispute/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/chrtrdispute/</guid>
       <description>
         
         
@@ -4188,10 +4348,10 @@ C. Special Category arbitrations&lt;/p&gt;
     
     <item>
       <title>Civil Law and Civil Procedure Code</title>
-      <link>http://localhost:1313/docs/parta/marlaw/civil-law-and-civil-procedure-code/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/civil-law-and-civil-procedure-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/civil-law-and-civil-procedure-code/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/civil-law-and-civil-procedure-code/</guid>
       <description>
         
         
@@ -4262,10 +4422,10 @@ C. Special Category arbitrations&lt;/p&gt;
     
     <item>
       <title>CNG as a Marine Fuel</title>
-      <link>http://localhost:1313/docs/partb/engg/cng/</link>
+      <link>https://anirbanmarine.in/docs/partb/engg/cng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/engg/cng/</guid>
+      <guid>https://anirbanmarine.in/docs/partb/engg/cng/</guid>
       <description>
         
         
@@ -4302,10 +4462,10 @@ C. Special Category arbitrations&lt;/p&gt;
     
     <item>
       <title>Co-Ordinate Universal Time and Time Signals</title>
-      <link>http://localhost:1313/docs/partb/adnav/utc/</link>
+      <link>https://anirbanmarine.in/docs/partb/adnav/utc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/adnav/utc/</guid>
+      <guid>https://anirbanmarine.in/docs/partb/adnav/utc/</guid>
       <description>
         
         
@@ -4315,10 +4475,10 @@ C. Special Category arbitrations&lt;/p&gt;
     
     <item>
       <title>Co-Tidal Charts</title>
-      <link>http://localhost:1313/docs/partc/em301/tides/cotidal/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/tides/cotidal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/tides/cotidal/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/tides/cotidal/</guid>
       <description>
         
         
@@ -4340,111 +4500,6 @@ C. Special Category arbitrations&lt;/p&gt;
 &lt;li&gt;A scientist uses a co-tidal chart to study the effects of climate change on the tides. The chart shows the scientist how the tides have changed over time. This information allows the scientist to study the effects of climate change on the tides and to predict how the tides will change in the future.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Co-tidal charts are an essential tool for a variety of people and organizations. They provide valuable information about the tidal wave propagation, which can be used to predict the tides, plan voyages, find the best places to fish, design coastal structures, and study the effects of climate change on the tides.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Commission on Limits of the Continental Shelf</title>
-      <link>http://localhost:1313/docs/partc/em301/oceangov/clcs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partc/em301/oceangov/clcs/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;What is CLCS and describe it&amp;rsquo;s functions.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;what-is-clcs-and-describe-its-functions&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#what-is-clcs-and-describe-its-functions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The Commission on the Limits of the Continental Shelf (CLCS) is a 21-member body of experts established under the United Nations Convention on the Law of the Sea (UNCLOS) to consider submissions from coastal states on the outer limits of their continental shelf beyond 200 nautical miles from their baselines.&lt;/p&gt;
-&lt;p&gt;The CLCS&amp;rsquo;s work is important because the continental shelf is a valuable resource that can contain oil, gas, and other minerals. The CLCS&amp;rsquo;s recommendations help coastal states to determine the extent of their continental shelf and to exploit its resources sustainably.&lt;/p&gt;
-&lt;p&gt;The CLCS&amp;rsquo;s work is also important because it helps to resolve disputes between states over the delimitation of their maritime boundaries. The CLCS&amp;rsquo;s recommendations are not binding, but they are generally respected by coastal states.&lt;/p&gt;
-&lt;p&gt;The CLCS is a highly technical body. Its members are experts in geology, geophysics, oceanography, and international law. The CLCS&amp;rsquo;s work is also highly political, as coastal states have a strong interest in the outcome of the CLCS&amp;rsquo;s recommendations.&lt;/p&gt;
-&lt;p&gt;The CLCS plays a vital role in the sustainable management of the oceans. Its work helps to ensure that coastal states can benefit from the resources of their continental shelf in a way that is compatible with the protection of the marine environment.&lt;/p&gt;
-&lt;h2&gt;Here are some additional details about the CLCS&amp;rsquo;s work:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;here-are-some-additional-details-about-the-clcss-work&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#here-are-some-additional-details-about-the-clcss-work&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;The CLCS&amp;rsquo;s recommendations are based on scientific and technical evidence, including data on the geomorphology of the seabed, the thickness of the sedimentary column, and the natural prolongation of the landmass.&lt;/li&gt;
-&lt;li&gt;The CLCS&amp;rsquo;s recommendations are also based on the principles of international law, including the principle of equity.&lt;/li&gt;
-&lt;li&gt;The CLCS&amp;rsquo;s work is transparent and inclusive. Coastal states are encouraged to participate in the CLCS&amp;rsquo;s proceedings and to submit their own scientific and technical data.&lt;/li&gt;
-&lt;li&gt;The CLCS&amp;rsquo;s recommendations have been instrumental in helping coastal states to resolve disputes over the delimitation of their maritime boundaries. For example, the CLCS&amp;rsquo;s recommendations helped to resolve disputes between Bangladesh and India, between Argentina and the United Kingdom, and between Mauritius and the Seychelles.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;The CLCS is an important institution for the sustainable management of the oceans. Its work helps to ensure that coastal states can benefit from the resources of their continental shelf in a way that is fair and equitable, and that the marine environment is protected.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>COMMISSIONING OF A NON-MAJOR PORT</title>
-      <link>http://localhost:1313/docs/partc/em302/prtpln/nonmajorprtcommissioning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partc/em302/prtpln/nonmajorprtcommissioning/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Preamble,&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;preamble&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#preamble&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Commissioning is the last and final step in a port project. It is the end of the PERT chart of the project. After receiving the approval of the pre-commission check list from the State maritime board inspection team the process for commissioning of the port is set in motion. The port is thrown open to navigation, sea trade and commerce only after the commissioning process is over with every approval is obtained from concerned and relevant authorities.
-Following ITEMS are required to be complete in all respects for commissioning&lt;/p&gt;
-&lt;h2&gt;Land Estate based Infrastructures.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;land-estate-based-infrastructures&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#land-estate-based-infrastructures&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;State Government Gazette declaration of Land ward limits under port jurisdiction. (Marking of co-ordinates on land map of the area)&lt;/li&gt;
-&lt;li&gt;Completion of ISPS security wall and all the relevant ancillary structures and manning requirements as per ISPS code.&lt;/li&gt;
-&lt;li&gt;Registration of the PORT with Immigration and Port Health Authority (PHO) as per Central Government regulations.&lt;/li&gt;
-&lt;li&gt;Dealation of Notification of opening of the Port by Central Customs Board in the National Gazette as public information.&lt;/li&gt;
-&lt;li&gt;IMO -Notification of opening of port for sea trade and commerce by DGS through NA&amp;rsquo;s office.&lt;/li&gt;
-&lt;li&gt;Port infrastructure with approved and certified Fire Fighting Equipment ready for use for cargo handling and stowage.&lt;/li&gt;
-&lt;li&gt;Readiness of external Road and Rail connectivity of the port.&lt;/li&gt;
-&lt;li&gt;Internal port-road and rail traffic management system in place.&lt;/li&gt;
-&lt;li&gt;Organization officials in place as per Organization Chart submitted to State Maritime Board.&lt;/li&gt;
-&lt;li&gt;Appointment of Conservators with all contact details.&lt;/li&gt;
-&lt;li&gt;Appointment of Harbour Master and qualified pilots with license&lt;/li&gt;
-&lt;li&gt;Function Cargo gear and equipment with technical and manning details.&lt;/li&gt;
-&lt;li&gt;Safety and Security Signage in all places as required for port operations.&lt;/li&gt;
-&lt;li&gt;List of cargoes that port handles to be made public.
-15.Handy Information for port users with Details of all Cargo Terminals and cargo berths&lt;/li&gt;
-&lt;li&gt;Details of all port documentation related to Inward/ Outward movements of ships calling at the port.&lt;/li&gt;
-&lt;li&gt;Complied information available for public use on Port Data Base MIS of port users, ship agents, stevedores, shipping companies, Freight forwarders, ship repairers, ship chandlers and other related providers.&lt;/li&gt;
-&lt;li&gt;Valid ISPS &amp;amp; NSPC, COE certifications.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Water front limits assets&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;water-front-limits-assets&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#water-front-limits-assets&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;Details of Maximum size of ship permissible to enter the port.&lt;/li&gt;
-&lt;li&gt;Details of all berths that are available for various types of vessels visiting the port for port users.&lt;/li&gt;
-&lt;li&gt;Daily Meteorological forecast for port users and shipmasters. . Daily Tidal information for shipping agents and shipmasters. 4&lt;/li&gt;
-&lt;li&gt;PORT chart by NHO available for ships. With all port entry information on it.&lt;/li&gt;
-&lt;li&gt;Availability of facilities for maintenance of CD depth in the port main channel.&lt;/li&gt;
-&lt;li&gt;Adequate Port Flotilla crafts to carryout pilotage, towages, tug support, mooring and berthing operations at all times.&lt;/li&gt;
-&lt;li&gt;Day &amp;amp; Night Navigation facilities to carry out ship entry/Exit operations in least transit time.&lt;/li&gt;
-&lt;li&gt;Services of trained PFSO to carry out all security obligations under ISPS code in the port limits.&lt;/li&gt;
-&lt;li&gt;Copies of DMP, OIL-Spill Containment Plan available at all operational sits as identified.
-11.VTMS and Port signal station in full operational state.&lt;/li&gt;
-&lt;li&gt;Details of all services offered by the port for ships and port users to be available on port data base in MIS.&lt;/li&gt;
-&lt;li&gt;Easy availability of Port chart produced by NHO for any port user&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Ship&amp;rsquo;s Arrival/ Departure&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ships-arrival-departure&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#ships-arrival-departure&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;Every ship to be provided with Passge plan for entry into the port.&lt;/li&gt;
-&lt;li&gt;Fairway buoy with Racon to be placed at Pick Up pilotage grounds,&lt;/li&gt;
-&lt;li&gt;Pilot-Waiting anchorages to be marked. For day/night use.&lt;/li&gt;
-&lt;li&gt;Arrival formalities papers are to be as per FAL convention. (Read note)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;INFORMATION TO PORT USERS VIA PRESS/MEDIA&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;information-to-port-users-via-pressmedia&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#information-to-port-users-via-pressmedia&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A port is commissioned in a public function held in the presence of all potential port users, stake holders, ship owners, Hinterland industrialists, port related industries service providers, shipping agents, press and leading government officials from shipping ministry, Immigration, Customs, PHO organizations and press/media to give wide publicity to being commissioned for public use and benefit.
-Commissioning procedure.&lt;/p&gt;
-&lt;h3&gt;Port House Flag.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;port-house-flag&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#port-house-flag&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Every port has its own unique house flag. It is unveiled on the commissioning day and thereafter flown on the port Administrative office on daily basis along with the National Flag.&lt;/p&gt;
-&lt;h3&gt;Main Entry gate of the port.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;main-entry-gate-of-the-port&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#main-entry-gate-of-the-port&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Every non-major port main entry gate must be manned as per ISPS code standards. The passes are issued on a designated colour code basis approved by the port authority for every type of port user.&lt;/p&gt;
-&lt;h3&gt;Signage.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;signage&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#signage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;On the commissioning day all the safety and security signage must be in their designated spaces and spots. The internal port traffic area should have all the traffic related signage to guide the heavy truck traffic of the port. Parking areas for different usage should be well accessible for day/night use.&lt;/p&gt;
-&lt;h3&gt;Drainage&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;drainage&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#drainage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The port drainage should be tried out so that accidental flooding by rain or liquid cargo etc is well avoided. The drainage spots should be properly covered by strong iron manhole protection covers. The affeulent discharge from port drainage should be discharged in the port waters with poillution norms (at 5ppm)without any traces of oil or mercury substances.&lt;/p&gt;
-&lt;h3&gt;Testing of FFE and apparatus.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;testing-of-ffe-and-apparatus&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#testing-of-ffe-and-apparatus&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;On the day of commissioning all the FFE and apparatus must be in place and in absolute condition of readiness to fight fire within port limits as well as in immediate neighbourhood under mutual aid scheme.&lt;/p&gt;
-&lt;h3&gt;Arrival and entry of first Ship&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;arrival-and-entry-of-first-ship&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#arrival-and-entry-of-first-ship&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The agents of the identified and designated ship is called to the Harbour master&amp;rsquo;s office 48 hrs before the arrival of the ahip at the pilotage grounds. A detailed passage plan is provided to the agent to forward the same to the Master of the ship o guide him to the port entry point off the Fairway buoy. For safety and ease of entry a day time berthing is arranged. The passage plan includes all the navigational and port entry information so that Master can prepare all the documents under FAL convention. The pilotage, berthing and mooring procedures are explained in details to the Master for safety and security purposes. ISPS level of security prevailing is conveyed to the Master so that the ship and the port are at same level. The designated pilot carries the port entry chart by NHO and hands it over to the Master of the ship. The ship is requested to hoist the International codes of signals as required for port entry.&lt;/p&gt;
-&lt;h3&gt;Readiness of Terminal and the Jetty to receive the first Ship&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;readiness-of-terminal-and-the-jetty-to-receive-the-first-ship&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#readiness-of-terminal-and-the-jetty-to-receive-the-first-ship&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The terminal manager and Jetty-in-charge are provided with all the technical iformation of the ship and deatisl of the cargo to be handled. The main cargo gear and all the ancillary handling and support equipment is kept ready to start the work immediately after the ship is cleared inward by PHO,Customs and Immigration.&lt;/p&gt;
-&lt;h3&gt;Support Services.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;support-services&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#support-services&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;All the supporting services offered by the port in its inaugural manifesto are geared up to serve the ship as per Master&amp;rsquo;s request in the ETA message.&lt;/p&gt;
 
       </description>
     </item>

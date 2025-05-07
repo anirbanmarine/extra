@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – EM103 Maritime Law</title>
-    <link>http://localhost:1313/docs/parta/marlaw/</link>
+    <link>https://anirbanmarine.in/docs/parta/marlaw/</link>
     <description>Recent content in EM103 Maritime Law on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:1313/docs/parta/marlaw/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://anirbanmarine.in/docs/parta/marlaw/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,11 +15,86 @@
     
     
     <item>
-      <title>Arbitration and Dispute Resolution</title>
-      <link>http://localhost:1313/docs/parta/marlaw/arbitration_and_dispute_resolution/</link>
+      <title>Arbitration</title>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/arbitration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/arbitration_and_dispute_resolution/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/arbitration/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Here are the key &lt;strong&gt;international conventions for arbitration&lt;/strong&gt;, along with their salient features and relevance:&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;&lt;strong&gt;1. New York Convention (1958)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-new-york-convention-1958&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-new-york-convention-1958&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Full Name&lt;/strong&gt;: &lt;em&gt;United Nations Convention on the Recognition and Enforcement of Foreign Arbitral Awards&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scope&lt;/strong&gt;: Ensures uniform enforcement of foreign arbitral awards across 172+ contracting states. Applies to awards made outside the enforcing state or deemed &amp;ldquo;non-domestic&amp;rdquo; under local law .&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Key Provisions&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Article II&lt;/strong&gt;: Requires courts to refer parties to arbitration if a valid written agreement exists.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Article V&lt;/strong&gt;: Lists limited grounds for refusing enforcement (e.g., invalid arbitration agreement, procedural unfairness, or public policy violations) .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Impact&lt;/strong&gt;: Replaced the Geneva Protocol (1923) and Geneva Convention (1927), becoming the cornerstone of international arbitration .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;&lt;strong&gt;2. ICSID Convention (1966)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-icsid-convention-1966&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-icsid-convention-1966&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Full Name&lt;/strong&gt;: &lt;em&gt;Convention on the Settlement of Investment Disputes Between States and Nationals of Other States&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scope&lt;/strong&gt;: Governs investor-state arbitration under the World Bank’s ICSID. Ratified by 158 states .&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Key Features&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Establishes procedural rules for arbitration and conciliation.&lt;/li&gt;
+&lt;li&gt;Awards are enforceable like domestic court judgments in member states (no recourse to national courts) .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;&lt;strong&gt;3. European Convention on International Commercial Arbitration (1961)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-european-convention-on-international-commercial-arbitration-1961&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-european-convention-on-international-commercial-arbitration-1961&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Scope&lt;/strong&gt;: Streamlines arbitration procedures in Europe, focusing on arbitration agreements and procedural flexibility .&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Distinction&lt;/strong&gt;: Complements the New York Convention but is less widely adopted.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;&lt;strong&gt;4. Panama Convention (1975)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-panama-convention-1975&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-panama-convention-1975&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Full Name&lt;/strong&gt;: &lt;em&gt;Inter-American Convention on International Commercial Arbitration&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Scope&lt;/strong&gt;: Covers commercial arbitration in the Americas, similar to the New York Convention but with regional focus .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;&lt;strong&gt;5. UNCITRAL Model Law (1985, amended 2006)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-uncitral-model-law-1985-amended-2006&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#5-uncitral-model-law-1985-amended-2006&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Status&lt;/strong&gt;: Not a treaty but a framework adopted by 80+ countries to harmonize arbitration laws (e.g., Canada, Australia, India) .&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Key Aspects&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Defines arbitration procedures, interim measures, and award enforcement.&lt;/li&gt;
+&lt;li&gt;Integrates with the New York Convention for enforcement .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;&lt;strong&gt;Other Notable Instruments&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;other-notable-instruments&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#other-notable-instruments&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Mauritius Convention (2014)&lt;/strong&gt;: Extends transparency rules in investor-state arbitration.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Singapore Convention (2020)&lt;/strong&gt;: Enforces mediated settlement agreements (distinct from arbitration) .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;&lt;strong&gt;Upcoming Arbitration Events (2025)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;upcoming-arbitration-events-2025&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#upcoming-arbitration-events-2025&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;ICC New York Conference&lt;/strong&gt; (Sep 18–19): Focus on interim measures and trends .&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;New York Arbitration Week&lt;/strong&gt; (Nov 17–21): Networking and case law updates .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For ratification status or specific provisions, refer to the UN Treaty Collection or ICSID’s database . Would you like details on a specific convention’s application?&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Arbitration and Dispute Resolution</title>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/arbitration_and_dispute_resolution/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/arbitration_and_dispute_resolution/</guid>
       <description>
         
         
@@ -105,11 +180,96 @@
     </item>
     
     <item>
-      <title>Bailment</title>
-      <link>http://localhost:1313/docs/parta/marlaw/bailment/</link>
+      <title>Athens Convention 1974</title>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/athensconv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/bailment/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/athensconv/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The &lt;strong&gt;Athens Convention relating to the Carriage of Passengers and their Luggage by Sea (1974)&lt;/strong&gt; is an international maritime treaty that establishes liability rules for passenger injuries, deaths, and luggage loss or damage during sea travel. Here are its &lt;strong&gt;salient features&lt;/strong&gt;:&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;1. Scope of Application&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-scope-of-application&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-scope-of-application&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Applies to &lt;strong&gt;international carriage&lt;/strong&gt; of passengers by sea on ships registered in a contracting state or under a contracting state’s law.&lt;/li&gt;
+&lt;li&gt;Covers &lt;strong&gt;commercial voyages&lt;/strong&gt;, including cruises and ferries, but may exclude domestic transport under national laws.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;2. Liability for Passenger Death/Injury&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-liability-for-passenger-deathinjury&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-liability-for-passenger-deathinjury&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Strict Liability (Presumed Fault)&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;The carrier is &lt;strong&gt;automatically liable&lt;/strong&gt; for passenger injury or death up to a &lt;strong&gt;financial limit&lt;/strong&gt;, unless they prove the incident resulted from:
+&lt;ul&gt;
+&lt;li&gt;An act of war/natural disaster (&lt;em&gt;force majeure&lt;/em&gt;),&lt;/li&gt;
+&lt;li&gt;The passenger’s own negligence, or&lt;/li&gt;
+&lt;li&gt;A third party’s intentional act.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Higher Liability for Negligence&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;If the carrier is proven &lt;strong&gt;negligent&lt;/strong&gt;, liability limits may be exceeded.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;3. Compensation Limits (as amended by the 2002 Protocol)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-compensation-limits-as-amended-by-the-2002-protocol&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-compensation-limits-as-amended-by-the-2002-protocol&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Death or Injury&lt;/strong&gt;: &lt;strong&gt;250,000 SDR&lt;/strong&gt; (Special Drawing Rights, ~USD 330,000) per passenger.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Luggage Loss/Damage&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cabin Luggage&lt;/strong&gt;: 2,250 SDR (~USD 3,000)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vehicles &amp;amp; Contents&lt;/strong&gt;: 12,700 SDR (~USD 17,000)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Other Luggage&lt;/strong&gt;: 3,375 SDR (~USD 4,500)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;4. Mandatory Insurance Requirement (2002 Protocol)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-mandatory-insurance-requirement-2002-protocol&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-mandatory-insurance-requirement-2002-protocol&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Carriers must maintain &lt;strong&gt;insurance or financial security&lt;/strong&gt; (e.g., P&amp;amp;I Club coverage) to cover claims.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Direct Action&lt;/strong&gt;: Passengers can sue insurers directly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;5. Time Limits for Claims&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-time-limits-for-claims&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#5-time-limits-for-claims&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Injury/Death&lt;/strong&gt;: &lt;strong&gt;2 years&lt;/strong&gt; from disembarkation or incident (whichever is later).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Luggage Claims&lt;/strong&gt;: &lt;strong&gt;15 days&lt;/strong&gt; for apparent damage; &lt;strong&gt;60 days&lt;/strong&gt; for non-apparent damage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;6. Defenses Available to Carriers&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;6-defenses-available-to-carriers&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#6-defenses-available-to-carriers&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Contributory Negligence&lt;/strong&gt;: Compensation may be reduced if the passenger’s actions contributed to the harm.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Force Majeure&lt;/strong&gt;: No liability for unforeseeable events like wars or natural disasters.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;7. Jurisdiction &amp;amp; Enforcement&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;7-jurisdiction--enforcement&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#7-jurisdiction--enforcement&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Claims can be filed in:
+&lt;ul&gt;
+&lt;li&gt;The carrier’s principal place of business,&lt;/li&gt;
+&lt;li&gt;The place of departure/destination, or&lt;/li&gt;
+&lt;li&gt;The passenger’s habitual residence (if the carrier operates there).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;8. 2002 Protocol (Athens Convention 2002)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;8-2002-protocol-athens-convention-2002&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#8-2002-protocol-athens-convention-2002&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Introduced &lt;strong&gt;stricter liability&lt;/strong&gt;, &lt;strong&gt;higher compensation limits&lt;/strong&gt;, and &lt;strong&gt;mandatory insurance&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Adopted after the &lt;strong&gt;MS Estonia sinking (1994)&lt;/strong&gt; to enhance passenger protection.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Significance&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;significance&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#significance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Provides &lt;strong&gt;uniform liability rules&lt;/strong&gt; for passenger claims, balancing carrier responsibilities and passenger rights.&lt;/li&gt;
+&lt;li&gt;Many countries (including EU members) have ratified the &lt;strong&gt;2002 Protocol&lt;/strong&gt;, while others follow the original 1974 version.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Would you like details on a specific country’s implementation or case law?&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Bailment</title>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/bailment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/bailment/</guid>
       <description>
         
         
@@ -190,10 +350,10 @@
     
     <item>
       <title>Banking Law and Negotiable Instruments Law</title>
-      <link>http://localhost:1313/docs/parta/marlaw/banking_and_negotiable_instruments/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/banking_and_negotiable_instruments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/banking_and_negotiable_instruments/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/banking_and_negotiable_instruments/</guid>
       <description>
         
         
@@ -282,10 +442,10 @@
     
     <item>
       <title>Civil Law and Civil Procedure Code</title>
-      <link>http://localhost:1313/docs/parta/marlaw/civil-law-and-civil-procedure-code/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/civil-law-and-civil-procedure-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/civil-law-and-civil-procedure-code/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/civil-law-and-civil-procedure-code/</guid>
       <description>
         
         
@@ -356,10 +516,10 @@
     
     <item>
       <title>Comparison Beween Hague,Hague-Visby,Hamburgh and Rotterdam Rules</title>
-      <link>http://localhost:1313/docs/parta/marlaw/comparison-between-rules-/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/comparison-between-rules-/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/comparison-between-rules-/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/comparison-between-rules-/</guid>
       <description>
         
         
@@ -460,10 +620,10 @@
     
     <item>
       <title>Consequences of Short Delivery</title>
-      <link>http://localhost:1313/docs/parta/marlaw/short-delivery-of-cargo/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/short-delivery-of-cargo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/short-delivery-of-cargo/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/short-delivery-of-cargo/</guid>
       <description>
         
         
@@ -540,10 +700,10 @@
     
     <item>
       <title>Constitution and Legal Systems</title>
-      <link>http://localhost:1313/docs/parta/marlaw/constitution-and-legal-systems/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/constitution-and-legal-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/constitution-and-legal-systems/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/constitution-and-legal-systems/</guid>
       <description>
         
         
@@ -629,10 +789,10 @@
     
     <item>
       <title>Contract Law 1872</title>
-      <link>http://localhost:1313/docs/parta/marlaw/law-of-contract-1872/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/law-of-contract-1872/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/law-of-contract-1872/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/law-of-contract-1872/</guid>
       <description>
         
         
@@ -725,10 +885,10 @@
     
     <item>
       <title>Contract of Guarantee</title>
-      <link>http://localhost:1313/docs/parta/marlaw/contract-of-guarantee/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/contract-of-guarantee/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/contract-of-guarantee/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/contract-of-guarantee/</guid>
       <description>
         
         
@@ -822,10 +982,10 @@
     
     <item>
       <title>Contract of Indemnity</title>
-      <link>http://localhost:1313/docs/parta/marlaw/contract-of-indemnity/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/contract-of-indemnity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/contract-of-indemnity/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/contract-of-indemnity/</guid>
       <description>
         
         
@@ -878,10 +1038,10 @@
     
     <item>
       <title>Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation (SUA Convention)-1988/2005 (protocol)</title>
-      <link>http://localhost:1313/docs/parta/marlaw/sua1988-2005/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/sua1988-2005/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/sua1988-2005/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/sua1988-2005/</guid>
       <description>
         
         
@@ -942,10 +1102,10 @@
     
     <item>
       <title>he Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017</title>
-      <link>http://localhost:1313/docs/parta/marlaw/admiralty-act/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/admiralty-act/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/admiralty-act/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/admiralty-act/</guid>
       <description>
         
         
@@ -1024,10 +1184,10 @@
     
     <item>
       <title>Indian Bill of Lading Act 1856 and Carriage od Goods by Sea Act 1925</title>
-      <link>http://localhost:1313/docs/parta/marlaw/cogsabl/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/cogsabl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/cogsabl/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/cogsabl/</guid>
       <description>
         
         
@@ -1101,10 +1261,10 @@
     
     <item>
       <title>International and National Arbitration bodies</title>
-      <link>http://localhost:1313/docs/parta/marlaw/international_national_arbitration_bodies/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/international_national_arbitration_bodies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/international_national_arbitration_bodies/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/international_national_arbitration_bodies/</guid>
       <description>
         
         
@@ -1203,10 +1363,10 @@
     
     <item>
       <title>International_piracy_crimes</title>
-      <link>http://localhost:1313/docs/parta/marlaw/piracy-and-other-crimes/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/piracy-and-other-crimes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/piracy-and-other-crimes/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/piracy-and-other-crimes/</guid>
       <description>
         
         
@@ -1282,10 +1442,10 @@
     
     <item>
       <title>Law of Agency</title>
-      <link>http://localhost:1313/docs/parta/marlaw/law-of-agency/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/law-of-agency/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/law-of-agency/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/law-of-agency/</guid>
       <description>
         
         
@@ -1383,10 +1543,10 @@
     
     <item>
       <title>Management Contracts</title>
-      <link>http://localhost:1313/docs/parta/marlaw/management_contracts/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/management_contracts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/management_contracts/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/management_contracts/</guid>
       <description>
         
         
@@ -1481,11 +1641,170 @@
     </item>
     
     <item>
-      <title>Overview of Criminal Law with respect to Actus reus,Mens Rea, etc</title>
-      <link>http://localhost:1313/docs/parta/marlaw/overview_of_criminal_law/</link>
+      <title>Maritime fraud</title>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/maritime-fraud/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/overview_of_criminal_law/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/maritime-fraud/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Maritime fraud encompasses a wide range of deceptive and illegal activities within the shipping and international trade industries. These fraudulent acts aim to unjustly obtain money, goods, or other benefits. Here are some common types of maritime fraud with examples:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Documentary Fraud:&lt;/strong&gt; This involves the forgery, alteration, or misuse of shipping documents to deceive parties involved in a transaction.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fake Bills of Lading:&lt;/strong&gt; Creating counterfeit bills of lading to misrepresent cargo details, ownership, or receipt of goods.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; Fraudsters forge a bill of lading indicating a shipment of valuable electronics when the container is empty or contains low-value items. They use this fake document to secure financing or payment.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fraudulent Letters of Credit:&lt;/strong&gt; Manipulating or creating fake letters of credit to obtain payment for goods that were never shipped or are different from what was agreed upon.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; A seller presents a bank with a letter of credit and fabricated shipping documents, receiving payment even though they never loaded the goods onto the vessel.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Charter Party Fraud:&lt;/strong&gt; Dishonest practices related to charter agreements, such as misrepresenting a vessel&amp;rsquo;s availability, capacity, or condition.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; A fraudster offers a ship for charter that they do not own or that is already under another contract, collecting an advance payment and then disappearing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Marine Insurance Fraud:&lt;/strong&gt; Filing false or exaggerated insurance claims for lost or damaged cargo or vessels.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; A shipowner intentionally damages their over-insured vessel and claims a total loss from the insurance company.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Cargo Fraud:&lt;/strong&gt; This involves deception related to the cargo being shipped.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Non-existent Cargo:&lt;/strong&gt; Selling or insuring goods that do not exist.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; Fraudsters obtain financing by claiming to ship a large quantity of a valuable commodity, providing fake documentation, but no such cargo is ever loaded.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Short Landing or Substitution:&lt;/strong&gt; Delivering less cargo than what was stated in the shipping documents or replacing it with inferior or worthless goods.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; A receiver finds that a shipment of high-grade textiles has been partially replaced with cheaper fabric upon arrival.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Theft of Cargo:&lt;/strong&gt; Illegally taking possession of cargo during transit. This can involve piracy, hijacking, or collusion with crew members or port officials.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; Pirates attack a vessel and steal valuable electronics or commodities from the cargo holds.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&amp;ldquo;Trojan Horse&amp;rdquo; Container Fraud:&lt;/strong&gt; Concealing illegal or undeclared goods within legitimate cargo.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; Smugglers hide illegal drugs within a container declared as carrying textiles.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. Ship Fraud:&lt;/strong&gt; This category involves fraudulent activities related to the vessel itself.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Scuttling:&lt;/strong&gt; Intentionally sinking a ship, often to fraudulently claim insurance money.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; An owner of an old, over-insured vessel arranges for it to be sunk in a remote location and then files an insurance claim for its loss.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Barratry:&lt;/strong&gt; Fraudulent or grossly negligent conduct by the ship&amp;rsquo;s master or crew that results in loss or damage to the vessel or cargo.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; A captain colludes with thieves to intentionally deviate from the agreed route and sell the cargo for personal gain.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;False Flagging or Registration:&lt;/strong&gt; Registering a vessel under a false flag or providing misleading information about its ownership or specifications.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; Owners register a vessel in a country with lax regulations to avoid safety standards or hide their true identities for illicit activities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;4. Bunker Fraud:&lt;/strong&gt; Deceptive practices related to the supply of fuel (bunkers) to ships.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Short Delivery:&lt;/strong&gt; Receiving less fuel than what was paid for.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; A bunker supplier manipulates meters or pumping procedures to deliver a smaller quantity of fuel than invoiced.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Adulteration of Fuel:&lt;/strong&gt; Mixing low-quality or contaminated fuel with high-quality fuel.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; A supplier delivers fuel that has been mixed with cheaper substances, causing damage to the ship&amp;rsquo;s engines.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;5. Cyber Fraud:&lt;/strong&gt; Utilizing technology to commit maritime fraud.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Phishing and Hacking:&lt;/strong&gt; Gaining unauthorized access to shipping companies&amp;rsquo; or other stakeholders&amp;rsquo; systems to steal information, divert payments, or manipulate cargo information.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; Cybercriminals hack into a shipping company&amp;rsquo;s email system to intercept payment instructions and redirect funds to their own accounts.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Data Manipulation:&lt;/strong&gt; Altering electronic shipping documents or tracking information for fraudulent purposes.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; Fraudsters change the destination details of a cargo shipment in the online tracking system to divert it to an unauthorized location.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;6. Employment and Crew Fraud:&lt;/strong&gt; Deceptive practices targeting seafarers or involving fraudulent recruitment.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fake Job Offers:&lt;/strong&gt; Offering non-existent jobs on ships to extract fees or personal information from job seekers.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; A fake manning agency advertises lucrative positions at sea, requiring applicants to pay upfront for training or documentation, and then disappears with the money.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wage and Contract Fraud:&lt;/strong&gt; Withholding wages, providing substandard working conditions, or breaching employment contracts.
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; Seafarers are promised certain wages and conditions but are paid significantly less or forced to work in unsafe environments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These are just some of the many ways maritime fraud can be perpetrated. The complexity of international shipping, the involvement of numerous parties, and the large sums of money involved make the industry vulnerable to such illicit activities. Vigilance, due diligence, and robust security measures are crucial to mitigating the risks of maritime fraud.&lt;/p&gt;
+&lt;p&gt;Here are key examples of &lt;strong&gt;maritime barratry&lt;/strong&gt;, drawn from legal cases and maritime law contexts:&lt;/p&gt;
+&lt;h3&gt;1. &lt;strong&gt;Intentional Sinking or Scuttling of a Vessel&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-intentional-sinking-or-scuttling-of-a-vessel&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-intentional-sinking-or-scuttling-of-a-vessel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;A crew member or master deliberately sinks the ship (e.g., to claim insurance money) without the owner&amp;rsquo;s knowledge. This was historically common during economic downturns to exploit over-insured vessels .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;2. &lt;strong&gt;Theft or Misappropriation of Cargo/Ship Equipment&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-theft-or-misappropriation-of-cargoship-equipment&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-theft-or-misappropriation-of-cargoship-equipment&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Crew members steal cargo or ship supplies for personal gain, violating their duty to the owner. For example, hijacking cargo or selling ship equipment fraudulently .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;3. &lt;strong&gt;Unauthorized Deviation from Voyage&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-unauthorized-deviation-from-voyage&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-unauthorized-deviation-from-voyage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;The master or crew alters the ship’s route for unlawful purposes (e.g., smuggling or engaging in piracy), causing financial loss to the owner .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;4. &lt;strong&gt;Fraudulent Acts Leading to Seizure&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-fraudulent-acts-leading-to-seizure&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-fraudulent-acts-leading-to-seizure&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Smuggling contraband or falsifying documents, resulting in the ship’s confiscation by authorities. This qualifies as barratry if done without the owner’s consent .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;5. &lt;strong&gt;Gross Negligence with Fraudulent Intent&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-gross-negligence-with-fraudulent-intent&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#5-gross-negligence-with-fraudulent-intent&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Deliberate negligence (e.g., ignoring safety protocols) that damages the vessel or cargo, motivated by personal benefit .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;6. &lt;strong&gt;Mutiny or Unlawful Crew Actions&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;6-mutiny-or-unlawful-crew-actions&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#6-mutiny-or-unlawful-crew-actions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Crew members forcibly take control of the ship (mutiny) or engage in insurrection, harming the owner’s interests .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;7. &lt;strong&gt;Deliberate Violation of Insurance Terms&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;7-deliberate-violation-of-insurance-terms&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#7-deliberate-violation-of-insurance-terms&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Example: A charterer intentionally operates a vessel beyond navigational limits specified in the insurance policy, causing a loss (as seen in &lt;em&gt;U.S. Fire Ins. Co. v. Cavanaugh&lt;/em&gt;) .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;8. &lt;strong&gt;Arson or Sabotage by Crew&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;8-arson-or-sabotage-by-crew&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#8-arson-or-sabotage-by-crew&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;In &lt;em&gt;The LADY M&lt;/em&gt; case, the Chief Engineer set fire to the ship without the owner’s knowledge, which was analyzed under barratry principles .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Key Legal Elements:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;key-legal-elements&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-legal-elements&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;For an act to be barratrous, it must involve:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A &lt;strong&gt;wrongful act&lt;/strong&gt; by the master/crew (fraudulent, criminal, or grossly negligent).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Prejudice to the owner’s interests&lt;/strong&gt; (financial or operational harm).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lack of owner’s knowledge/privity&lt;/strong&gt; .&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;For further details on specific cases or legal thresholds, refer to the cited sources.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Overview of Criminal Law with respect to Actus reus,Mens Rea, etc</title>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/overview_of_criminal_law/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/overview_of_criminal_law/</guid>
       <description>
         
         
@@ -1505,11 +1824,96 @@
     </item>
     
     <item>
-      <title>Pledge</title>
-      <link>http://localhost:1313/docs/parta/marlaw/pledge/</link>
+      <title>passive personality jurisdiction</title>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/passivepersonalityurisdiction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/pledge/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/passivepersonalityurisdiction/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The principle of &lt;strong&gt;passive personality jurisdiction&lt;/strong&gt; in international law allows a state to assert criminal jurisdiction over individuals who commit crimes abroad when the victim of the crime is a national of that state.&lt;/p&gt;
+&lt;p&gt;In simpler terms, it means that if a citizen of State A is a victim of a crime committed by a national of State B in State C, State A can, in certain circumstances, claim the right to prosecute the national of State B.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a breakdown of the key aspects of this principle:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Focus on the Victim&amp;rsquo;s Nationality:&lt;/strong&gt; Unlike other bases of jurisdiction like territoriality (where the crime occurs within the state&amp;rsquo;s borders) or active personality (where the perpetrator is a national of the prosecuting state), passive personality jurisdiction hinges on the &lt;strong&gt;nationality of the victim&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Extraterritorial Application:&lt;/strong&gt; This principle allows a state to extend its legal reach beyond its physical borders to address harm caused to its citizens abroad.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Controversial Basis of Jurisdiction:&lt;/strong&gt; Passive personality jurisdiction is one of the more debated bases for asserting jurisdiction. Historically, common law countries were often wary of it, viewing it as a potential overreach of state power that could infringe upon the sovereignty of the state where the crime occurred.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Growing Acceptance:&lt;/strong&gt; Despite the historical reservations, the principle has gained increasing acceptance in modern international law, particularly in the context of certain serious crimes such as:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Terrorism:&lt;/strong&gt; States often invoke this principle when their nationals are victims of terrorist acts committed overseas (e.g., &lt;em&gt;United States v. Yunis&lt;/em&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cybercrime:&lt;/strong&gt; Given the borderless nature of cyber offenses, states may assert jurisdiction when their citizens are targeted by cybercriminals operating from other countries.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Crimes Against Humanity:&lt;/strong&gt; In some instances, this principle is being applied to cases involving grave international crimes where the victims are nationals of the prosecuting state.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Human Trafficking and Sexual Exploitation:&lt;/strong&gt; States are increasingly using this principle to protect their nationals who are victims of these crimes abroad.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Limitations and Concerns:&lt;/strong&gt; Several limitations and concerns are associated with the passive personality principle:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sovereignty of Other States:&lt;/strong&gt; Its application must respect the sovereignty of the state where the crime took place.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;International Comity:&lt;/strong&gt; States should exercise this jurisdiction with restraint to avoid diplomatic friction and conflicts with other potentially interested jurisdictions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Due Process:&lt;/strong&gt; Concerns exist regarding fairness to the accused, especially if the laws and legal procedures in the prosecuting state differ significantly from those in the state where the crime was committed.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Double Criminality:&lt;/strong&gt; Often, states require that the act be considered a crime in both the prosecuting state and the state where it occurred.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Examples of Application:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;United States&lt;/strong&gt; asserted passive personality jurisdiction in the case of &lt;em&gt;United States v. Yunis&lt;/em&gt; (1988) against a Lebanese national who hijacked a Jordanian airliner with U.S. citizens on board.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;France&lt;/strong&gt; has a broader application of this principle in its penal code, allowing jurisdiction over crimes committed abroad by foreigners when the victim is French.&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;Philippines&lt;/strong&gt; asserts a form of passive personality jurisdiction under its Revised Penal Code for offenses committed outside its territory where Filipino citizens are victims.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In conclusion, while the principle of passive personality jurisdiction remains somewhat controversial, it is an evolving basis for asserting extraterritorial criminal jurisdiction, particularly in response to transnational crimes that harm a state&amp;rsquo;s nationals. Its application, however, is often subject to limitations and considerations of international law and comity.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Passive Personality Jurisdiction</title>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/passivepersonality/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/passivepersonality/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The principle of &lt;strong&gt;Passive Personality Jurisdiction&lt;/strong&gt; in international law allows a state to assert criminal jurisdiction over individuals who commit crimes against its nationals, even if those crimes occur outside the state&amp;rsquo;s territory. In essence, the jurisdiction is based on the &lt;strong&gt;nationality of the victim&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a breakdown of the key aspects of this principle:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Focus on the Victim&amp;rsquo;s Nationality:&lt;/strong&gt; Unlike territorial jurisdiction (where the crime occurs) or active personality jurisdiction (where the perpetrator is a national of the prosecuting state), passive personality jurisdiction centers on the nationality of the person harmed by the crime.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Extraterritorial Application:&lt;/strong&gt; This principle allows a state to reach beyond its borders to prosecute offenses committed elsewhere, provided the victim is one of its nationals.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Controversial Basis of Jurisdiction:&lt;/strong&gt; Passive personality jurisdiction is one of the more controversial bases of extraterritorial jurisdiction. Concerns often raised include:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Infringement on Sovereignty:&lt;/strong&gt; Critics argue that it unduly extends a state&amp;rsquo;s legal reach into the territory of other sovereign states.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lack of Foreseeability:&lt;/strong&gt; Individuals might be subject to the laws of a foreign state based solely on the victim&amp;rsquo;s nationality, which they may not be aware of.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Potential for Abuse:&lt;/strong&gt; There&amp;rsquo;s a risk that states might use this principle to assert jurisdiction over matters with tenuous links to their national interests.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Increasing Acceptance in Specific Contexts:&lt;/strong&gt; Despite the criticisms, the principle has gained increasing, though not universal, acceptance in certain areas, particularly concerning:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Terrorism:&lt;/strong&gt; States often invoke this principle when their nationals are victims of terrorist acts committed abroad.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cybercrime:&lt;/strong&gt; With the borderless nature of cyber offenses, some states use it when their citizens are targeted by cybercriminals operating from other countries.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Crimes Against Nationals Abroad:&lt;/strong&gt; In cases where a state feels the local jurisdiction is inadequate or unwilling to prosecute crimes against its citizens, it might resort to passive personality jurisdiction.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Limitations and Safeguards:&lt;/strong&gt; States that employ this principle often do so with certain limitations, such as requiring the crime to be serious under their own laws and sometimes under the laws of the state where it occurred (the principle of double criminality). International comity and the sovereignty of other states are also considerations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Examples:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;United States v. Yunis (1988):&lt;/strong&gt; The US asserted jurisdiction over a Lebanese national who hijacked a Jordanian airliner with US citizens on board, based on the passive personality principle.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;France&amp;rsquo;s Prosecution of the Murder of Sophie Toscan du Plantier:&lt;/strong&gt; France pursued the prosecution of a British national in an Irish court for the murder of a French citizen in Ireland, relying on passive personality jurisdiction (though extradition was ultimately denied).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cybercrime Legislation:&lt;/strong&gt; Some countries have laws that allow them to prosecute individuals in other countries who commit cybercrimes targeting their citizens.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In conclusion, the principle of passive personality jurisdiction is a basis for asserting extraterritorial criminal jurisdiction based on the victim&amp;rsquo;s nationality. While controversial, it is increasingly invoked in specific transnational crime contexts, particularly where a state seeks to protect its citizens from harm abroad. Its application remains subject to debates about state sovereignty and the need for limitations to prevent abuse.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Pledge</title>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/pledge/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/pledge/</guid>
       <description>
         
         
@@ -1618,10 +2022,10 @@
     
     <item>
       <title>Seafarers Articles of Agreement</title>
-      <link>http://localhost:1313/docs/parta/marlaw/sea/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/sea/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/sea/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/sea/</guid>
       <description>
         
         
@@ -1666,10 +2070,10 @@
     
     <item>
       <title>Surety</title>
-      <link>http://localhost:1313/docs/parta/marlaw/surety/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/surety/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/surety/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/surety/</guid>
       <description>
         
         
@@ -1727,11 +2131,120 @@
     </item>
     
     <item>
-      <title>The Vienna Convention on the Law of Treaties (VCLT)</title>
-      <link>http://localhost:1313/docs/parta/marlaw/vclt/</link>
+      <title>The Convention on Limitation of Liability for Maritime Claims (LLMC) 1976, along with its amendments in 1996 and 2012</title>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/llmc76-98-2012/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/vclt/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/llmc76-98-2012/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The Convention on Limitation of Liability for Maritime Claims (LLMC) 1976, along with its amendments in 1996 and 2012, establishes a legal framework that allows shipowners and salvors to limit their liability for certain maritime claims. Here are the salient features of this convention as amended:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Core Principles:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Right to Limit Liability:&lt;/strong&gt; Shipowners, charterers, managers, operators, and salvors can limit their liability for claims arising from maritime incidents. This encourages investment in shipping by providing a degree of financial protection.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Claims Subject to Limitation:&lt;/strong&gt; The Convention applies to a wide range of claims, including:
+&lt;ul&gt;
+&lt;li&gt;Loss of life or personal injury.&lt;/li&gt;
+&lt;li&gt;Loss of or damage to property (including damage to harbor works, basins, and waterways).&lt;/li&gt;
+&lt;li&gt;Consequential loss resulting from the above.&lt;/li&gt;
+&lt;li&gt;Claims for expenses incurred in raising, removing, destroying, or rendering harmless a wrecked, sunken, stranded, or abandoned ship and its cargo.&lt;/li&gt;
+&lt;li&gt;Claims in respect of measures taken to avert or minimize loss for which the person liable may limit liability.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Unbreakable System of Limitation:&lt;/strong&gt; The right to limit liability is virtually unbreakable. A person liable cannot limit their liability only if it is proven that the loss resulted from their personal act or omission, committed with the intent to cause such loss, or recklessly and with knowledge that such loss would probably result (Article 4).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tonnage-Based Limitation:&lt;/strong&gt; The limits of liability are generally calculated based on the tonnage of the ship. Separate limits are established for claims involving loss of life or personal injury and other claims (property damage, etc.).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Special Drawing Rights (SDR):&lt;/strong&gt; The unit of account used for setting the limits of liability is the Special Drawing Right, as defined by the International Monetary Fund. This provides a stable international currency for the limits.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Constitution of a Limitation Fund:&lt;/strong&gt; A person entitled to limit liability can constitute a fund in a court of a contracting state where the claim is brought. The amount of the fund is calculated according to the limits set by the Convention.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key Amendments:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;1996 Protocol:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Increased Limits:&lt;/strong&gt; The 1996 Protocol significantly increased the limits of liability compared to the original 1976 Convention, providing greater compensation for claimants. For example, the limit for loss of life or personal injury for ships not exceeding 2,000 gross tonnage was raised to 2 million SDR.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tacit Acceptance Procedure:&lt;/strong&gt; This protocol introduced a &amp;ldquo;tacit acceptance&amp;rdquo; procedure for updating the limitation amounts. This simplified the process for future amendments.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Extension of Scope:&lt;/strong&gt; The definition of &amp;ldquo;shipowner&amp;rdquo; was broadened to include managers and operators.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2012 Amendments:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Further Increased Limits:&lt;/strong&gt; Prompted by significant pollution incidents, the 2012 amendments further increased the limitation amounts set in the 1996 Protocol. For instance, the limit of liability for claims for loss of life or personal injury on ships not exceeding 2,000 gross tonnage rose to 3.02 million SDR. The additional amounts for larger ships were also increased proportionally.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Entry into Force:&lt;/strong&gt; These amendments entered into force on June 8, 2015, following the tacit acceptance procedure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Impact of Amendments:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The amendments, particularly those in 1996 and 2012, have significantly enhanced the compensation available to victims of maritime accidents while maintaining a system that allows shipowners and salvors to manage their potential liabilities. The tacit acceptance procedure ensures that the limits can be updated more efficiently in the future to reflect changes in economic conditions and the cost of claims.&lt;/p&gt;
+&lt;p&gt;In essence, the LLMC 1976, as amended, strikes a balance between protecting the interests of potential claimants by providing adequate compensation and ensuring the financial viability of the shipping and salvage industries by allowing for the limitation of liability.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>The International Convention on Arrest of Ships, 1999</title>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/arrest_1999/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/arrest_1999/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The International Convention on Arrest of Ships, 1999 (the &amp;ldquo;Arrest Convention&amp;rdquo;) provides a standardized international framework for the judicial arrest of ships for maritime claims. It aims to balance the interests of claimants seeking security for their claims with the interests of shipowners who may face significant disruption due to arrest. Here are the salient features of this convention:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Core Principles:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Right of Arrest:&lt;/strong&gt; The Convention establishes the circumstances under which a ship can be judicially arrested in a contracting state to secure a maritime claim against the shipowner or other responsible party.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Maritime Claims:&lt;/strong&gt; Article 1 exhaustively lists the categories of &amp;ldquo;maritime claims&amp;rdquo; for which a ship can be arrested. These include claims relating to:
+&lt;ul&gt;
+&lt;li&gt;Loss of life or personal injury occurring in connection with the operation of the ship.&lt;/li&gt;
+&lt;li&gt;Loss of or damage to property occurring in connection with the operation of the ship.&lt;/li&gt;
+&lt;li&gt;Salvage operations.&lt;/li&gt;
+&lt;li&gt;Pollution damage.&lt;/li&gt;
+&lt;li&gt;Towage.&lt;/li&gt;
+&lt;li&gt;Pilotage.&lt;/li&gt;
+&lt;li&gt;Goods, materials, provisions, bunkers, equipment supplied or services rendered to the ship for its operation, management, preservation, or maintenance.&lt;/li&gt;
+&lt;li&gt;Construction, reconstruction, repair, converting, or equipping of the ship.&lt;/li&gt;
+&lt;li&gt;Port, canal, dock, harbor, and other waterway dues and charges.&lt;/li&gt;
+&lt;li&gt;Wages and other sums due to the master, officers, and crew.&lt;/li&gt;
+&lt;li&gt;Disbursements made on account of the ship by or on behalf of the master, owner, or charterer.&lt;/li&gt;
+&lt;li&gt;Insurance premiums (including mutual insurance calls) in respect of the ship.&lt;/li&gt;
+&lt;li&gt;Commissions, brokerages, or agency fees in respect of the ship.&lt;/li&gt;
+&lt;li&gt;Disputes as to the ownership or possession of the ship.&lt;/li&gt;
+&lt;li&gt;Disputes between co-owners of the ship as to its employment or earnings.&lt;/li&gt;
+&lt;li&gt;A mortgage or a &amp;ldquo;hypothèque&amp;rdquo; or a charge of the same nature on the ship.&lt;/li&gt;
+&lt;li&gt;Disputes arising out of a contract for the sale of the ship.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conditions for Arrest:&lt;/strong&gt; Article 3 outlines the conditions under which a ship may be arrested:
+&lt;ul&gt;
+&lt;li&gt;The claimant must have a maritime claim against the owner of the ship.&lt;/li&gt;
+&lt;li&gt;In certain circumstances, a ship other than the one in respect of which the claim arose can be arrested (sister ship arrest), provided the owner of the ship at the time the claim arose was the owner of the other ship when the arrest is made.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Release from Arrest:&lt;/strong&gt; Article 5 specifies the conditions under which an arrested ship must be released. This generally occurs when sufficient security (e.g., a bank guarantee or other acceptable form of security) is provided to the court.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wrongful Arrest:&lt;/strong&gt; Article 6 provides safeguards against wrongful or unjustified arrest. If a ship is arrested without reasonable cause or excessive security is demanded, the arresting party may be liable for any loss or damage suffered as a consequence.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Jurisdiction:&lt;/strong&gt; The Convention does not confer jurisdiction on the courts of a contracting state to adjudicate the underlying maritime claim. It solely deals with the procedure for arresting a ship to provide security for a claim that may be pursued in a competent jurisdiction.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Application to State-Owned Vessels:&lt;/strong&gt; The Convention generally applies to state-owned vessels engaged in commercial activities.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key Objectives:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Harmonization:&lt;/strong&gt; To standardize the rules governing the arrest of ships internationally, reducing inconsistencies and uncertainties.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Claimant Protection:&lt;/strong&gt; To provide claimants with an effective means of securing their legitimate maritime claims.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shipowner Protection:&lt;/strong&gt; To prevent the arbitrary or unjustified arrest of ships and to ensure their prompt release upon provision of adequate security.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Efficiency:&lt;/strong&gt; To streamline the process of arrest and release, minimizing disruption to maritime trade.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Significance:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The Arrest Convention is a crucial legal instrument in international maritime law. It provides a predictable and balanced framework for dealing with ship arrests, which are often necessary to ensure that maritime claims can be effectively pursued and satisfied. By harmonizing the rules, the Convention contributes to legal certainty and facilitates international trade and shipping.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s important to note that while the 1999 Convention is the current international standard, some states are still party to the earlier 1952 Arrest Convention, which has some differences in scope and detail. However, the 1999 Convention is generally considered to be more modern and comprehensive.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>The Vienna Convention on the Law of Treaties (VCLT)</title>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/vclt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/vclt/</guid>
       <description>
         
         
@@ -1864,10 +2377,10 @@
     
     <item>
       <title>Tonnage Convention 1969 and trainee Accommodation</title>
-      <link>http://localhost:1313/docs/parta/marlaw/tonnage-convention-1969/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/tonnage-convention-1969/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/tonnage-convention-1969/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/tonnage-convention-1969/</guid>
       <description>
         
         
@@ -1936,11 +2449,40 @@
     </item>
     
     <item>
-      <title>Types of Contracts in Maritime Sector</title>
-      <link>http://localhost:1313/docs/parta/marlaw/contracts_types_in_maritime_sector/</link>
+      <title>Tort</title>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/tort/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/contracts_types_in_maritime_sector/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/tort/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Definition&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;definition&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#definition&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;a &lt;strong&gt;tort&lt;/strong&gt; is indeed a &lt;strong&gt;civil wrong&lt;/strong&gt; that results in &lt;strong&gt;harm or injury&lt;/strong&gt; to another person, and this gives the injured party the right to seek legal remedies, typically in the form of &lt;strong&gt;damages&lt;/strong&gt; (monetary compensation) from the person or entity responsible.&lt;/p&gt;
+&lt;p&gt;To expand slightly, here are a few key aspects to keep in mind about torts:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Civil vs. Criminal:&lt;/strong&gt; Torts fall under civil law, meaning the injured party (plaintiff) brings a lawsuit against the wrongdoer (defendant). This is different from criminal law, where the state prosecutes an individual for violating a law. Sometimes, the same action can be both a tort and a crime.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Variety of Wrongs:&lt;/strong&gt; The realm of tort law is broad and encompasses many different types of wrongful acts, including:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Negligence:&lt;/strong&gt; This is the most common type of tort and occurs when someone fails to exercise the reasonable care that a prudent person would under similar circumstances, leading to injury (e.g., car accidents, slip-and-fall cases).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Intentional Torts:&lt;/strong&gt; These involve deliberate actions that cause harm (e.g., assault, battery, defamation, trespass).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Strict Liability Torts:&lt;/strong&gt; In certain situations, a person or entity can be held liable for harm caused by their actions regardless of fault or intent (e.g., abnormally dangerous activities, defective products).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Focus on Compensation:&lt;/strong&gt; The primary goal of tort law is to compensate the injured party for their losses, which can include medical expenses, lost income, pain and suffering, and property damage. In some cases, punitive damages may also be awarded to punish the defendant for particularly egregious conduct.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Legal Duty:&lt;/strong&gt; Often, a tort arises when one person or entity has a legal duty to another and breaches that duty, causing harm. For example, drivers have a duty to operate their vehicles safely.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Understanding the basic principle of tort law is fundamental to grasping a significant area of the legal system that affects individuals and businesses daily.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Types of Contracts in Maritime Sector</title>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/contracts_types_in_maritime_sector/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/contracts_types_in_maritime_sector/</guid>
       <description>
         
         
@@ -2004,10 +2546,10 @@
     
     <item>
       <title>Vienna Convention on the Law of Treaties (VCLT) 1969</title>
-      <link>http://localhost:1313/docs/parta/marlaw/vclt2/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/vclt2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/vclt2/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/vclt2/</guid>
       <description>
         
         
@@ -2112,10 +2654,10 @@
     
     <item>
       <title>World Legal Systems</title>
-      <link>http://localhost:1313/docs/parta/marlaw/legal-systems/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/legal-systems/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/legal-systems/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/legal-systems/</guid>
       <description>
         
         
