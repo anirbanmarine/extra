@@ -8,6 +8,17 @@ module:
     - path: github.com/imfing/hextra
 
 enableInlineShortcodes : true    
+ignoreLogs : warning-goldmark-raw-html
+
+
+menu:
+  main:
+    - name: Search
+      weight: 1
+      params:
+        type: search
+
+
 
 markup:
   goldmark:
@@ -23,5 +34,20 @@ markup:
           - - \(
             - \)
         enable: true
+
 params:
   math: true
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: wide
+  # Search
+  search:
+    enable: true
+    type: flexsearch
+
+    flexsearch:
+      # index page by: content | summary | heading | title
+      index: content  
+  sidebar:
+     open:false
+     

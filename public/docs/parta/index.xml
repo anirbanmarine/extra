@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – Part A</title>
-    <link>https://anirbanmarine.in/docs/parta/</link>
+    <link>http://localhost:1313/docs/parta/</link>
     <description>Recent content in Part A on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://anirbanmarine.in/docs/parta/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/parta/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>EM101 Leadership, Management and Human Resources</title>
-      <link>https://anirbanmarine.in/docs/parta/marlead/</link>
+      <link>http://localhost:1313/docs/parta/marlead/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlead/</guid>
+      <guid>http://localhost:1313/docs/parta/marlead/</guid>
       <description>
         
         
@@ -73,10 +73,10 @@
     
     <item>
       <title>EM102 Maritime Economics and Finance</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/</guid>
       <description>
         
         
@@ -108,10 +108,10 @@
     
     <item>
       <title>EM103 Maritime Law</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/</guid>
       <description>
         
         
@@ -155,6 +155,10 @@
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/management_contracts/&#34;&gt;Management Contracts&lt;/a&gt;&lt;/h2&gt;
 
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/maritime-fraud/&#34;&gt;Maritime fraud&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/mlc2006/&#34;&gt;MLC2006&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/msact1958/&#34;&gt;MSAct1958&lt;/a&gt;&lt;/h2&gt;
 
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/overview_of_criminal_law/&#34;&gt;Overview of Criminal Law with respect to Actus reus,Mens Rea, etc&lt;/a&gt;&lt;/h2&gt;
 
@@ -232,10 +236,10 @@
     
     <item>
       <title>Question and Answers</title>
-      <link>https://anirbanmarine.in/docs/parta/q-and-a/</link>
+      <link>http://localhost:1313/docs/parta/q-and-a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/q-and-a/</guid>
+      <guid>http://localhost:1313/docs/parta/q-and-a/</guid>
       <description>
         
         

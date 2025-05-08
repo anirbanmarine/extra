@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – EM203 Commercial Engineering , Robotics and Alternative Energy</title>
-    <link>https://anirbanmarine.in/docs/partb/engg/</link>
+    <link>http://localhost:1313/docs/partb/engg/</link>
     <description>Recent content in EM203 Commercial Engineering , Robotics and Alternative Energy on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://anirbanmarine.in/docs/partb/engg/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/partb/engg/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title></title>
-      <link>https://anirbanmarine.in/docs/partb/engg/cont/</link>
+      <link>http://localhost:1313/docs/partb/engg/cont/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/cont/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/cont/</guid>
       <description>
         
         
@@ -48,10 +48,10 @@
     
     <item>
       <title>AVR</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/avr/</link>
+      <link>http://localhost:1313/docs/partb/engg/avr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/avr/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/avr/</guid>
       <description>
         
         
@@ -110,10 +110,10 @@
     
     <item>
       <title>Azimuth thrusters</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/azimuth-thrusters/</link>
+      <link>http://localhost:1313/docs/partb/engg/azimuth-thrusters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/azimuth-thrusters/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/azimuth-thrusters/</guid>
       <description>
         
         
@@ -173,15 +173,15 @@
     
     <item>
       <title>Basic Features and Operation of Diesel Plants</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/diesel_plants/</link>
+      <link>http://localhost:1313/docs/partb/engg/diesel_plants/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/diesel_plants/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/diesel_plants/</guid>
       <description>
         
         
         
-        <![CDATA[<img src="https://anirbanmarine.in/docs/partb/engg/diesel_plants/Main-engine-article-featured-image_hu_a7a6aa398d6ee9dc.png" width="640" height="495"/>]]>
+        <![CDATA[<img src="http://localhost:1313/docs/partb/engg/diesel_plants/Main-engine-article-featured-image_hu_a7a6aa398d6ee9dc.png" width="640" height="495"/>]]>
         
         
 
@@ -191,10 +191,10 @@
     
     <item>
       <title>CNG as a Marine Fuel</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/cng/</link>
+      <link>http://localhost:1313/docs/partb/engg/cng/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/cng/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/cng/</guid>
       <description>
         
         
@@ -231,10 +231,10 @@
     
     <item>
       <title>Copper Losses in Transformers</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/transformers_cu_losses/</link>
+      <link>http://localhost:1313/docs/partb/engg/transformers_cu_losses/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/transformers_cu_losses/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/transformers_cu_losses/</guid>
       <description>
         
         
@@ -306,10 +306,10 @@
     
     <item>
       <title>Deck Cranes</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/deck-cranes/</link>
+      <link>http://localhost:1313/docs/partb/engg/deck-cranes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/deck-cranes/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/deck-cranes/</guid>
       <description>
         
         
@@ -379,10 +379,10 @@
     
     <item>
       <title>EEDI and EEOI-Measuring Ship Energy Efficiency</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/eedi_eeoi/</link>
+      <link>http://localhost:1313/docs/partb/engg/eedi_eeoi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/eedi_eeoi/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/eedi_eeoi/</guid>
       <description>
         
         
@@ -406,10 +406,10 @@
     
     <item>
       <title>Hydraulics</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/hydraulics/</link>
+      <link>http://localhost:1313/docs/partb/engg/hydraulics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/hydraulics/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/hydraulics/</guid>
       <description>
         
         
@@ -473,10 +473,10 @@
     
     <item>
       <title>Induction Motor</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/induction_motor/</link>
+      <link>http://localhost:1313/docs/partb/engg/induction_motor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/induction_motor/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/induction_motor/</guid>
       <description>
         
         
@@ -490,10 +490,10 @@ P  = number of poles&lt;/p&gt;
     
     <item>
       <title>Innovative Measures to Reduce EEDI</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/eedi_innovations/</link>
+      <link>http://localhost:1313/docs/partb/engg/eedi_innovations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/eedi_innovations/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/eedi_innovations/</guid>
       <description>
         
         
@@ -543,10 +543,10 @@ P  = number of poles&lt;/p&gt;
     
     <item>
       <title>Main Engine Maneuvring System</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/me_controls/</link>
+      <link>http://localhost:1313/docs/partb/engg/me_controls/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/me_controls/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/me_controls/</guid>
       <description>
         
         
@@ -758,10 +758,10 @@ P  = number of poles&lt;/p&gt;
     
     <item>
       <title>MAIN ENGINE MANOEUVRING CONTROL</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/main-engine-maneuvering/</link>
+      <link>http://localhost:1313/docs/partb/engg/main-engine-maneuvering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/main-engine-maneuvering/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/main-engine-maneuvering/</guid>
       <description>
         
         
@@ -1073,10 +1073,10 @@ ong Way Alarm&lt;/p&gt;
     
     <item>
       <title>Main engine manual overrides</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/me_overrides/</link>
+      <link>http://localhost:1313/docs/partb/engg/me_overrides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/me_overrides/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/me_overrides/</guid>
       <description>
         
         
@@ -1114,10 +1114,10 @@ IMO Resolutions: Compliance with International Maritime Organization guidelines.
     
     <item>
       <title>Marine Robotics</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/robotics/</link>
+      <link>http://localhost:1313/docs/partb/engg/robotics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/robotics/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/robotics/</guid>
       <description>
         
         
@@ -1135,10 +1135,10 @@ IMO Resolutions: Compliance with International Maritime Organization guidelines.
     
     <item>
       <title>MARPOL Annex VI – Resolution MEPC.203(62)</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/annex6/</link>
+      <link>http://localhost:1313/docs/partb/engg/annex6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/annex6/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/annex6/</guid>
       <description>
         
         
@@ -1167,10 +1167,10 @@ IMO Resolutions: Compliance with International Maritime Organization guidelines.
     
     <item>
       <title>Mooring Winches</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/mooring-winches/</link>
+      <link>http://localhost:1313/docs/partb/engg/mooring-winches/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/mooring-winches/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/mooring-winches/</guid>
       <description>
         
         
@@ -1234,10 +1234,10 @@ IMO Resolutions: Compliance with International Maritime Organization guidelines.
     
     <item>
       <title>Orifice Valve Refrigeration</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/orifice_valve-refrigeration/</link>
+      <link>http://localhost:1313/docs/partb/engg/orifice_valve-refrigeration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/orifice_valve-refrigeration/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/orifice_valve-refrigeration/</guid>
       <description>
         
         
@@ -1294,10 +1294,10 @@ IMO Resolutions: Compliance with International Maritime Organization guidelines.
     
     <item>
       <title>Power Factor- Electrical</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/electricalpowerfactor/</link>
+      <link>http://localhost:1313/docs/partb/engg/electricalpowerfactor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/electricalpowerfactor/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/electricalpowerfactor/</guid>
       <description>
         
         
@@ -1396,10 +1396,10 @@ where:&lt;/p&gt;
     
     <item>
       <title>Questions and Answers</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/q_a/</link>
+      <link>http://localhost:1313/docs/partb/engg/q_a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/q_a/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/q_a/</guid>
       <description>
         
         
@@ -4586,10 +4586,10 @@ wear and ensure long service life.&lt;/p&gt;
     
     <item>
       <title>Refrigeration Components</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/shipboard-refrigeration/</link>
+      <link>http://localhost:1313/docs/partb/engg/shipboard-refrigeration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/shipboard-refrigeration/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/shipboard-refrigeration/</guid>
       <description>
         
         
@@ -4658,10 +4658,10 @@ wear and ensure long service life.&lt;/p&gt;
     
     <item>
       <title>Thermostatic Expansion Valve</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/txv/</link>
+      <link>http://localhost:1313/docs/partb/engg/txv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partb/engg/txv/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/txv/</guid>
       <description>
         
         
