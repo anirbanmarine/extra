@@ -16,8 +16,10 @@ menu:
     - name: Search
       weight: 1
       params:
-        type: search
-
+      type: search
+    - name: POLAR
+      weight: 2
+      url: '/polar_mcq.html'
 
 
 markup:

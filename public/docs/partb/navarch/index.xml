@@ -24,7 +24,14 @@
         
         
         &lt;h2&gt;Form Coefficients&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;form-coefficients&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#form-coefficients&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;\[C_w\]\[C_m\]&lt;p&gt; = coefficient of midship area&lt;/p&gt;
+    &lt;a href=&#34;#form-coefficients&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;WPA = Waterplane area
+L = Length overall
+B = maximum breadth
+d = maximum depth
+&lt;/p&gt;
+\[C_w\]&lt;p&gt; = coefficient of waterplane area
+&lt;/p&gt;
+\[C_m\]&lt;p&gt; = coefficient of midship area&lt;/p&gt;
 \[ WPA = L\times B \times C_w \]\[ Area Amidships = B \times d\times C_m \]
       </description>
     </item>
