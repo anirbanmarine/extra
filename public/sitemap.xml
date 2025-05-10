@@ -86,6 +86,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/demurrcalc/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marecofin/capital_budgeting/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/cargocirc/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/cgoclaimsproc/</loc>
@@ -169,6 +171,8 @@
     <loc>http://localhost:1313/docs/partc/em302/prtpln/newberthcosting/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/costs-and-cash-flow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marecofin/credit-risk-analysis/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/misc_aspects_of_leadership/crisis_preparation_mitigation/</loc>
   </url><url>
@@ -632,6 +636,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/intconv/baselconv/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/clc/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/parta/marlaw/llmc76-98-2012/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/tides/gktides/equitide/</loc>
@@ -639,6 +645,8 @@
     <loc>http://localhost:1313/docs/partc/em302/intropm/portlocate/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/deutsch_kg/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/indian-limitation-act-1963/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/chartermkt/</loc>
   </url><url>
@@ -670,9 +678,13 @@
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/management/time_management/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marecofin/time_value_of_money/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/parta/marlaw/tonnage-convention-1969/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlaw/tort/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marecofin/trading-finance/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/management/entrepreneureship-traits-and-actions/</loc>
   </url><url>
