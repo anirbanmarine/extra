@@ -2,6 +2,7 @@
 title: Capital budgeting
 type: docs
 toc: true
+math: true
 sidebar:
   open: close
 ---

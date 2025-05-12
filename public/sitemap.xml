@@ -46,9 +46,13 @@
   </url><url>
     <loc>http://localhost:1313/about/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marecofin/acc_ratios/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/accounts/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/actgeo/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marecofin/cabotage_effect/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/approches_to_define_leadership/</loc>
   </url><url>
@@ -166,11 +170,15 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/transformers_cu_losses/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/parta/marecofin/cost-as-dominant-factor/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/management/cost_management/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em302/prtpln/newberthcosting/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/costs-and-cash-flow/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marecofin/annual-budget/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/credit-risk-analysis/</loc>
   </url><url>
@@ -585,6 +593,8 @@
     <loc>http://localhost:1313/docs/partc/em303/salepurchase/shipbuildcontract/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/shippingmgmnt/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marecofin/short-notes/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/questions-and-answers/shortnotes/</loc>
   </url><url>
