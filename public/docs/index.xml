@@ -3148,6 +3148,206 @@ b- Shipment from a port within the United Kingdom&lt;/p&gt;
     </item>
     
     <item>
+      <title>Break Even Point</title>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/breakeven/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/breakeven/</guid>
+      <description>
+        
+        
+        &lt;p&gt;A firm reaches the &lt;strong&gt;break-even point (BEP)&lt;/strong&gt; when its &lt;strong&gt;total revenues equal total costs&lt;/strong&gt;, meaning it is neither making a profit nor incurring a loss.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;🎯 &lt;strong&gt;Definition: Break-Even Point (BEP)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-definition-break-even-point-bep&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-definition-break-even-point-bep&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;blockquote&gt;
+  &lt;p&gt;The &lt;strong&gt;break-even point&lt;/strong&gt; is the level of output or sales at which a business&amp;rsquo;s &lt;strong&gt;total revenue equals total costs&lt;/strong&gt; (fixed + variable). At this point, the firm covers all its expenses but earns &lt;strong&gt;zero profit&lt;/strong&gt;.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;h2&gt;📈 When Does a Firm Reach Break-Even Point?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-when-does-a-firm-reach-break-even-point&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-when-does-a-firm-reach-break-even-point&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A firm reaches break-even when:&lt;/p&gt;
+$$
+\textbf{Total Revenue} = \textbf{Total Costs}
+$$&lt;p&gt;Where:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Total Revenue&lt;/strong&gt; = Selling price per unit × Number of units sold&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Total Costs&lt;/strong&gt; = Fixed Costs + Variable Costs&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;🔢 How to Calculate Break-Even Point&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-how-to-calculate-break-even-point&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-how-to-calculate-break-even-point&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;There are two common ways to calculate the break-even point:&lt;/p&gt;
+&lt;h3&gt;1. &lt;strong&gt;Break-Even Quantity (Units)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-break-even-quantity-units&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-break-even-quantity-units&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;$$
+\text{Break-Even Quantity} = \frac{\text{Fixed Costs}}{\text{Selling Price per Unit} - \text{Variable Cost per Unit}}
+$$&lt;p&gt;This tells you how many units must be sold to cover all costs.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;2. &lt;strong&gt;Break-Even Sales (Monetary Value)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-break-even-sales-monetary-value&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-break-even-sales-monetary-value&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;$$
+\text{Break-Even Sales} = \frac{\text{Fixed Costs}}{\text{Contribution Margin Ratio}}
+$$&lt;p&gt;
+Where:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Contribution Margin Ratio = $\frac{\text{Contribution per Unit}}{\text{Selling Price per Unit}}$&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This gives the amount of revenue needed to reach break-even.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;🧮 Example:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-example&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-example&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Let’s say:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Costs = ₹50,000/month&lt;/li&gt;
+&lt;li&gt;Variable Cost per Unit = ₹10&lt;/li&gt;
+&lt;li&gt;Selling Price per Unit = ₹25&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;Step 1: Contribution per Unit&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;step-1-contribution-per-unit&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-1-contribution-per-unit&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;$$
+₹25 - ₹10 = ₹15
+$$&lt;h3&gt;Step 2: Break-Even Quantity&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;step-2-break-even-quantity&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#step-2-break-even-quantity&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;$$
+\frac{₹50,000}{₹15} ≈ 3,333 \text{ units}
+$$&lt;p&gt;So, the firm must sell &lt;strong&gt;3,333 units&lt;/strong&gt; per month to &lt;strong&gt;break even&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;📊 Graphical Representation (Break-Even Chart)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-graphical-representation-break-even-chart&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-graphical-representation-break-even-chart&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You can visualize the break-even point on a graph where:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;X-axis = Units Sold&lt;/li&gt;
+&lt;li&gt;Y-axis = Amount (Revenue / Cost)&lt;/li&gt;
+&lt;li&gt;Two lines intersect:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Total Revenue Line&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Total Cost Line&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The &lt;strong&gt;point of intersection&lt;/strong&gt; is the &lt;strong&gt;break-even point&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;🧩 Components Involved in Break-Even Analysis:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-components-involved-in-break-even-analysis&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-components-involved-in-break-even-analysis&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Term&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Fixed Costs&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Costs that do not change with output (e.g., rent, salaries)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Variable Costs&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Costs that vary directly with output (e.g., raw materials)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Selling Price&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Price per unit charged to customers&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Contribution Margin&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Selling price per unit minus variable cost per unit&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2&gt;✅ Importance of Break-Even Point&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-importance-of-break-even-point&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-importance-of-break-even-point&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Use&lt;/th&gt;
+          &lt;th&gt;Explanation&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Pricing Decisions&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Helps determine optimal selling price&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Profit Planning&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Shows how many units need to be sold to start earning profit&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Cost Control&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Highlights impact of fixed and variable costs&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Risk Assessment&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Indicates how much sales can fall before losses occur&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Investment Decisions&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Useful for evaluating new products or projects&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2&gt;⚠️ Limitations of Break-Even Analysis&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-limitations-of-break-even-analysis&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-limitations-of-break-even-analysis&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Assumes fixed and variable costs remain constant (not always true)&lt;/li&gt;
+&lt;li&gt;Only applicable to one product or a constant mix of products&lt;/li&gt;
+&lt;li&gt;Ignores changes in market demand and external factors&lt;/li&gt;
+&lt;li&gt;Based on estimates, so may not reflect real-world complexity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;📌 Summary&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-summary&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-summary&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Factor&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;What is BEP?&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Point where Total Revenue = Total Cost&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Why important?&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Determines minimum sales to avoid losses&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;How calculated?&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Using fixed costs, variable costs, and selling price&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Used in&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Pricing, budgeting, decision-making&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;pre class=&#34;mermaid hx-mt-6&#34;&gt;graph LR
+    A[Fixed Costs] --&gt; D[Total Costs]
+    B[Variable Costs] --&gt; D
+    C[Selling Price per Unit] --&gt; E[Total Revenue]
+    
+    D --&gt; F[BREAK-EVEN POINT]
+    E --&gt; F
+    
+    F --&gt; G[Profit Zone]
+    F --&gt; H[Loss Zone]
+
+    style A fill:#f9c74f,stroke:#333
+    style B fill:#f9c74f,stroke:#333
+    style C fill:#577590,stroke:#333
+    style D fill:#f8961e,stroke:#333
+    style E fill:#90be6d,stroke:#333
+    style F fill:#ff6f61,stroke:#fff,color:#fff
+    style G fill:#90be6d,stroke:#333
+    style H fill:#ffa23a,stroke:#333
+
+    classDef cost fill:#f9c74f,stroke:#333,fill-opacity:1;
+    classDef revenue fill:#90be6d,stroke:#333,fill-opacity:1;
+    classDef result fill:#ff6f61,stroke:#fff,fill-opacity:1,color:#fff;
+    classDef zone fill:#ffa23a,stroke:#333,fill-opacity:0.8;
+
+    class A,B,D cost
+    class C,E revenue
+    class F result
+    class G,H zone&lt;/pre&gt;
+      </description>
+    </item>
+    
+    <item>
       <title>Broker&#39;s responsibility to the principal</title>
       <link>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/brokerespons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -3824,6 +4024,131 @@ The desired average (loss) clauses: The assured may choose average clauses rangi
         
         
         
+      </description>
+    </item>
+    
+    <item>
+      <title>Cash Book</title>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/cashbook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/cashbook/</guid>
+      <description>
+        
+        
+        &lt;p&gt;A &lt;strong&gt;Cash Book&lt;/strong&gt; is a fundamental accounting record, and its importance in the accounting system cannot be overstated. Here are the key reasons why it is &lt;strong&gt;necessary to have a Cash Book&lt;/strong&gt;:&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;✅ 1. &lt;strong&gt;Records All Cash Transactions&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-1-records-all-cash-transactions&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-1-records-all-cash-transactions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;The Cash Book serves as a &lt;strong&gt;primary record&lt;/strong&gt; for all &lt;strong&gt;cash receipts and payments&lt;/strong&gt;, including both physical cash and bank transactions.&lt;/li&gt;
+&lt;li&gt;It ensures that every inflow and outflow of cash is systematically recorded.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;✅ 2. &lt;strong&gt;Acts as Both a Journal and a Ledger&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-2-acts-as-both-a-journal-and-a-ledger&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-2-acts-as-both-a-journal-and-a-ledger&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Unlike other books of account, the Cash Book functions as:
+&lt;ul&gt;
+&lt;li&gt;A &lt;strong&gt;journal&lt;/strong&gt; – because entries are made in chronological order.&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;ledger account&lt;/strong&gt; – because it shows balances just like a ledger (e.g., cash or bank balance).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;This dual function reduces the need for separate entries in the journal and ledger for cash-related transactions.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;✅ 3. &lt;strong&gt;Provides Up-to-Date Cash Position&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-3-provides-up-to-date-cash-position&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-3-provides-up-to-date-cash-position&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;The Cash Book gives a &lt;strong&gt;real-time view&lt;/strong&gt; of how much cash is available with the business.&lt;/li&gt;
+&lt;li&gt;Helps in managing day-to-day expenses and prevents cash shortages or mismanagement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;✅ 4. &lt;strong&gt;Helps in Bank Reconciliation&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-4-helps-in-bank-reconciliation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-4-helps-in-bank-reconciliation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Since most businesses use bank accounts for transactions, the Cash Book often includes a &lt;strong&gt;bank column&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;This makes it easier to compare with the &lt;strong&gt;bank statement&lt;/strong&gt; and perform &lt;strong&gt;bank reconciliation&lt;/strong&gt; to detect discrepancies or errors.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;✅ 5. &lt;strong&gt;Supports Internal Control and Fraud Prevention&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-5-supports-internal-control-and-fraud-prevention&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-5-supports-internal-control-and-fraud-prevention&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Recording all cash transactions in one place improves &lt;strong&gt;transparency&lt;/strong&gt; and accountability.&lt;/li&gt;
+&lt;li&gt;Makes it easier to trace unauthorized or incorrect payments, thus helping in &lt;strong&gt;fraud detection and prevention&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;✅ 6. &lt;strong&gt;Facilitates Quick Reference&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-6-facilitates-quick-reference&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-6-facilitates-quick-reference&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Because cash transactions are frequent, having them in a dedicated book allows for &lt;strong&gt;quick access&lt;/strong&gt; and reference without going through multiple ledgers or journals.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;✅ 7. &lt;strong&gt;Basis for Financial Statements&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-7-basis-for-financial-statements&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-7-basis-for-financial-statements&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Accurate cash records contribute to reliable financial reporting.&lt;/li&gt;
+&lt;li&gt;Cash flow information from the Cash Book helps in preparing the &lt;strong&gt;Statement of Cash Flows&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;✅ 8. &lt;strong&gt;Useful for Small Businesses&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-8-useful-for-small-businesses&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-8-useful-for-small-businesses&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Especially in small businesses that rely heavily on cash transactions, the Cash Book is often the &lt;strong&gt;only formal accounting record&lt;/strong&gt; used.&lt;/li&gt;
+&lt;li&gt;It simplifies the accounting process and may even eliminate the need for a full double-entry system.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;🧾 Types of Cash Books:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-types-of-cash-books&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-types-of-cash-books&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To suit different business needs, Cash Books come in various formats:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Simple Cash Book&lt;/strong&gt;: One column for cash.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Two-Column Cash Book&lt;/strong&gt;: Cash and bank columns.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Three-Column Cash Book&lt;/strong&gt;: Cash, bank, and discount columns.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Petty Cash Book&lt;/strong&gt;: For recording small, routine expenses.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;📌 Summary&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-summary&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-summary&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Purpose&lt;/th&gt;
+          &lt;th&gt;Why It Matters&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Records cash inflows/outflows&lt;/td&gt;
+          &lt;td&gt;Tracks liquidity&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Dual function (journal + ledger)&lt;/td&gt;
+          &lt;td&gt;Saves time and effort&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Shows real-time cash position&lt;/td&gt;
+          &lt;td&gt;Supports financial decisions&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Enables bank reconciliation&lt;/td&gt;
+          &lt;td&gt;Ensures accuracy&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Prevents fraud&lt;/td&gt;
+          &lt;td&gt;Improves internal control&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Simplifies accounting&lt;/td&gt;
+          &lt;td&gt;Especially useful for small businesses&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3&gt;💡 Conclusion:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-conclusion&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-conclusion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The Cash Book is essential because it provides an organized, transparent, and timely record of all cash activities — which is crucial for effective financial management, decision-making, and maintaining accurate accounting records.&lt;/p&gt;
+&lt;pre class=&#34;mermaid hx-mt-6&#34;&gt;graph TD
+    A[Start] --&gt; B{Transaction Type?}
+    B --&gt;|Cash Receipt| C[Debit Cash Account]
+    B --&gt;|Cash Payment| D[Credit Cash Account]
+    
+    C --&gt; E[Record in Cash Book - Debit Side]
+    D --&gt; F[Record in Cash Book - Credit Side]
+    
+    E --&gt; G[Update Ledger &amp; Bank Balance]
+    F --&gt; G
+    
+    G --&gt; H[End Transaction Entry]&lt;/pre&gt;
       </description>
     </item>
     
@@ -4645,59 +4970,6 @@ c- A dispute arising from a commodity contract &lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;In summary, civil law deals with disputes between individuals or organizations, commercial law focuses on business transactions, and the Civil Procedure Code provides the rules for conducting civil lawsuits in court.&lt;/p&gt;
 
-      </description>
-    </item>
-    
-    <item>
-      <title>CNG as a Marine Fuel</title>
-      <link>https://anirbanmarine.in/docs/partb/engg/cng/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://anirbanmarine.in/docs/partb/engg/cng/</guid>
-      <description>
-        
-        
-        &lt;p&gt;The growing interest in using Compressed Natural Gas (CNG) as a fuel for marine vessels is primarily driven by the following factors&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1. Environmental Benefits:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Reduced Emissions:&lt;/strong&gt; CNG burns cleaner than traditional marine fuels like diesel, producing significantly lower levels of harmful pollutants such as sulfur oxides (SOx), nitrogen oxides (NOx), and particulate matter (PM). This helps to improve air quality and reduce greenhouse gas emissions.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Lower Carbon Footprint:&lt;/strong&gt; CNG has a lower carbon intensity compared to fossil fuels, contributing to efforts to mitigate climate change.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;2. Economic Advantages:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Cost Savings:&lt;/strong&gt; CNG can often be more cost-effective than traditional marine fuels, especially in regions with abundant natural gas resources. This can lead to significant savings for vessel operators.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Reduced Maintenance:&lt;/strong&gt; CNG engines generally require less maintenance compared to diesel engines, resulting in lower operating costs.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;3. Safety Improvements:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Lower Flammability:&lt;/strong&gt; CNG is less flammable than gasoline and diesel, making it a safer fuel option for marine applications.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Improved Safety Features:&lt;/strong&gt; Modern CNG systems incorporate advanced safety features to prevent leaks and ensure safe operation.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;4. Technological Advancements:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Improved Engine Design:&lt;/strong&gt; CNG engines have become more efficient and reliable in recent years, making them a viable option for marine propulsion.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Infrastructure Development:&lt;/strong&gt; The development of CNG fueling infrastructure, including refueling stations and pipelines, is supporting the adoption of CNG in the marine industry.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;5. Regulatory Pressures:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Emission Standards:&lt;/strong&gt; Governments worldwide are implementing stricter emission standards for marine vessels. CNG can help to meet these standards while maintaining operational efficiency.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Incentives:&lt;/strong&gt; Governments and regulatory bodies are offering incentives and subsidies to encourage the adoption of cleaner marine fuels like CNG.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Overall, the combination of environmental benefits, economic advantages, safety improvements, technological advancements, and regulatory pressures is driving the increasing interest in using CNG as a fuel for marine vessels.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Co-Ordinate Universal Time and Time Signals</title>
-      <link>https://anirbanmarine.in/docs/partb/adnav/utc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://anirbanmarine.in/docs/partb/adnav/utc/</guid>
-      <description>
-        
-        
-        
       </description>
     </item>
     
