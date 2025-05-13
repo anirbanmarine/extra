@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – Parts-Syllabus</title>
-    <link>http://localhost:1313/docs/</link>
+    <link>https://anirbanmarine.in/docs/</link>
     <description>Recent content in Parts-Syllabus on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://anirbanmarine.in/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Agenda 21 UNFCCC </title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/agenda_21/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/agenda_21/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/agenda_21/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/agenda_21/</guid>
       <description>
         
         
@@ -53,10 +53,10 @@ The UNFCCC Agenda 21 has been influential in shaping the international response 
     
     <item>
       <title>Kyoto Protocol-UNFCCC (UNFCCC,Kyoto,1997)</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/kyotoproto/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/kyotoproto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/kyotoproto/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/kyotoproto/</guid>
       <description>
         
         
@@ -83,10 +83,10 @@ The UNFCCC Agenda 21 has been influential in shaping the international response 
     
     <item>
       <title>Regional Seas Programme (RSP,Paris,2015)</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/rsparis2015/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/rsparis2015/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/rsparis2015/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/rsparis2015/</guid>
       <description>
         
         
@@ -110,10 +110,10 @@ The RSP is committed to working with all stakeholders to implement the SDGs and 
     
     <item>
       <title>The 2002 World Summit on Sustainable Development-Rio&#43;10 (WSSD,Johannesburg,2002)The 2012 United Nations Conference on Sustainable Development-Rio&#43;20 (UNCSD,Rio,2012)</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/rio&#43;10_20/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/rio&#43;10_20/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/rio&#43;10_20/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/rio&#43;10_20/</guid>
       <description>
         
         
@@ -157,10 +157,10 @@ Despite these challenges, there is also a growing awareness of the importance of
     
     <item>
       <title>The Commission on Sustainable Development (CSD,Rio,1992)</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/csd1992/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/csd1992/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/csd1992/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/csd1992/</guid>
       <description>
         
         
@@ -193,10 +193,10 @@ Despite these challenges, there is also a growing awareness of the importance of
     
     <item>
       <title>The Intergovernmental Conference on biological diversity beyond national jurisdiction (BBNJ,2023)</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/bbnj/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/bbnj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/bbnj/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/bbnj/</guid>
       <description>
         
         
@@ -344,7 +344,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;http:\/\/localhost:1313\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.in\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
 
     
     var pdfDoc = null,
@@ -474,10 +474,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
     
     <item>
       <title>The London Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter (LC 1972)</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/londondump1972/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/londondump1972/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/londondump1972/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/londondump1972/</guid>
       <description>
         
         
@@ -503,10 +503,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-8
     
     <item>
       <title>The United Nations Conference on Environment and Development (UNCED),1992</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/unced/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unced/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/unced/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unced/</guid>
       <description>
         
         
@@ -525,10 +525,10 @@ The Earth Summit was a major step forward in international environmental coopera
     
     <item>
       <title>The United Nations Convention on Biological Diversity (CBD,Rio,1992) </title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/unconvbiodiversity/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unconvbiodiversity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/unconvbiodiversity/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unconvbiodiversity/</guid>
       <description>
         
         
@@ -564,10 +564,10 @@ The CBD is a comprehensive treaty that covers all aspects of biological diversit
     
     <item>
       <title>The United Nations Framework Convention on Climate Change (UNFCCC,Rio,1992)</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/unfccc/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unfccc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/unfccc/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unfccc/</guid>
       <description>
         
         
@@ -720,7 +720,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-6
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;http:\/\/localhost:1313\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.in\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
 
     
     var pdfDoc = null,
@@ -850,10 +850,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-6
     
     <item>
       <title>United Nations Convention on Human Environment,1972</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/unhe/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unhe/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/unhe/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unhe/</guid>
       <description>
         
         
@@ -878,10 +878,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-6
     
     <item>
       <title>United Nations Environment Programme</title>
-      <link>http://localhost:1313/docs/partc/em301/intconv/unepcont/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/intconv/unepcont/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/intconv/unepcont/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/unepcont/</guid>
       <description>
         
         
@@ -1010,7 +1010,7 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b
 
     
     if (pdfjsLib.GlobalWorkerOptions.workerSrc == &#39;&#39;)
-      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;http:\/\/localhost:1313\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
+      pdfjsLib.GlobalWorkerOptions.workerSrc = &#34;https:\/\/anirbanmarine.in\/&#34; + &#39;js/pdf-js/build/pdf.worker.js&#39;;
 
     
     var pdfDoc = null,
@@ -1140,10 +1140,10 @@ View the PDF file &lt;a class=&#34;pdf-source&#34; id=&#34;pdf-source-noscript-b
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/parta/marecofin/long_term_fin/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/long_term_fin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/long_term_fin/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/long_term_fin/</guid>
       <description>
         
         
@@ -1412,81 +1412,10 @@ open: close&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;open-close&#34
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/parta/marecofin/shipping-finance-derivatives/</link>
+      <link>https://anirbanmarine.in/docs/partb/adnav/special_navigation_problems/different_lat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/shipping-finance-derivatives/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;itle: Shipping Derivatives
-type: docs
-toc: true
-sidebar:
-open: close&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;open-close&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#open-close&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Shipping finance derivatives are financial instruments whose value is derived from the underlying shipping market. These derivatives allow various participants in the shipping industry and financial institutions to manage their exposure to the risks associated with the volatility of freight rates, bunker (fuel) prices, interest rates, and currency exchange rates.&lt;/p&gt;
-&lt;p&gt;Here&amp;rsquo;s a breakdown of key aspects of shipping finance derivatives:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Types of Shipping Derivatives:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Forward Freight Agreements (FFAs):&lt;/strong&gt; These are the most common type of shipping derivative. An FFA is a contract where two parties agree to exchange the difference between a contracted freight rate and the actual freight rate on a specific route and for a specified future period. FFAs are typically cash-settled.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Bunker Swaps:&lt;/strong&gt; These contracts allow ship owners and charterers to hedge against the price volatility of bunker fuel. A bunker swap involves exchanging a fixed price for a floating market price of fuel over a specific period.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Interest Rate Swaps (IRS):&lt;/strong&gt; Shipping companies often have significant borrowing for vessel financing. IRS are used to manage the risk of fluctuating interest rates by exchanging a floating interest rate obligation for a fixed one, or vice versa, on a notional principal amount.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Currency Swaps:&lt;/strong&gt; Given the international nature of shipping, companies often deal with multiple currencies. Currency swaps help hedge against exchange rate fluctuations by agreeing to exchange principal and/or interest payments in one currency for equivalent payments in another currency.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Freight Options:&lt;/strong&gt; These give the buyer the right, but not the obligation, to trade freight at a specific price on or before a certain date. Options can be used for hedging or speculation. Types include call options (the right to buy) and put options (the right to sell).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Container Freight Derivatives:&lt;/strong&gt; These are specifically designed for the container shipping market and allow participants to manage the risks associated with container freight rates on specific trade lanes. These can include container freight swap agreements and container freight futures.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Participants in the Shipping Derivatives Market:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Ship Owners:&lt;/strong&gt; Use derivatives to hedge against potential declines in freight rates or increases in bunker costs, thereby stabilizing their revenue and expenses.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Charterers:&lt;/strong&gt; Employ derivatives to protect themselves from rising freight rates or increased bunker costs, ensuring predictable transportation expenses.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Commodity Traders:&lt;/strong&gt; Utilize freight derivatives to manage the shipping costs associated with the physical commodities they trade.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Oil Companies:&lt;/strong&gt; Use bunker swaps to hedge their fuel expenses for their fleets.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Financial Institutions (Banks, Hedge Funds, etc.):&lt;/strong&gt; Participate for trading and speculation purposes, providing liquidity to the market.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Freight Forwarders and Logistics Companies:&lt;/strong&gt; May use derivatives to offer more stable pricing to their clients.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Functions of Shipping Derivatives:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Risk Management (Hedging):&lt;/strong&gt; The primary purpose is to mitigate the financial risks associated with volatile shipping market variables.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Price Discovery:&lt;/strong&gt; The trading activity in the derivatives market can provide insights into the expected future levels of freight rates, bunker prices, etc.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Speculation:&lt;/strong&gt; Traders aim to profit from correctly predicting the future direction of the underlying shipping market prices.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Portfolio Diversification:&lt;/strong&gt; Financial institutions can use shipping derivatives to diversify their investment portfolios and gain exposure to the shipping industry.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Trading and Settlement:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Shipping derivatives are traded both &lt;strong&gt;Over-the-Counter (OTC)&lt;/strong&gt;, directly between two parties, and on &lt;strong&gt;exchanges&lt;/strong&gt;, which offer standardized contracts and clearing services.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Settlement&lt;/strong&gt; is typically done in cash, based on the difference between the contract price and the prevailing market price at the settlement date. Some less common derivatives might involve physical delivery.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Key Underlying Benchmarks:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Baltic Exchange Indices:&lt;/strong&gt; A crucial source of benchmarks for many freight derivatives, including the Baltic Dry Index (BDI) for dry bulk shipping and various tanker route indices.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shanghai Shipping Exchange (SSE) Indices:&lt;/strong&gt; Increasingly important, especially for container freight and some dry bulk routes.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Platts Assessments:&lt;/strong&gt; Used for some wet freight (tanker) contracts, particularly in Asian markets.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Benefits of Using Shipping Derivatives:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Hedging Price Volatility:&lt;/strong&gt; Protects against adverse movements in freight rates, bunker prices, interest rates, and currencies.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Budgeting and Planning:&lt;/strong&gt; Provides more certainty in future costs and revenues, facilitating better financial planning.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Enhanced Liquidity:&lt;/strong&gt; Derivatives markets can offer more liquidity than physical markets, allowing for easier entry and exit.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Flexibility:&lt;/strong&gt; Derivatives can be tailored to specific needs and risk profiles.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Risks Associated with Shipping Derivatives:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Counterparty Risk:&lt;/strong&gt; The risk that the other party to the contract may default on their obligations. This is mitigated through clearinghouses for exchange-traded derivatives.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Basis Risk:&lt;/strong&gt; The risk that the price of the derivative does not move exactly in line with the underlying physical market price.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Market Risk:&lt;/strong&gt; The risk of losses due to unfavorable price movements in the underlying market.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Complexity:&lt;/strong&gt; Some derivatives can be complex and require a thorough understanding of the market and the specific instruments.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In conclusion, shipping finance derivatives are vital tools for managing financial risks in the shipping industry, contributing to greater stability and allowing participants to focus on their core operations. The market has evolved significantly since the introduction of FFAs in the early 1990s and continues to adapt to the changing needs of the global maritime sector.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>http://localhost:1313/docs/partb/adnav/special_navigation_problems/different_lat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partb/adnav/special_navigation_problems/different_lat/</guid>
+      <guid>https://anirbanmarine.in/docs/partb/adnav/special_navigation_problems/different_lat/</guid>
       <description>
         
         
@@ -1688,10 +1617,10 @@ open: close&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;open-close&#34
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/partb/engg/cont/</link>
+      <link>https://anirbanmarine.in/docs/partb/engg/cont/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/engg/cont/</guid>
+      <guid>https://anirbanmarine.in/docs/partb/engg/cont/</guid>
       <description>
         
         
@@ -1720,10 +1649,10 @@ open: close&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;open-close&#34
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/partc/em301/tides/typoftides/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/tides/typoftides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/tides/typoftides/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/tides/typoftides/</guid>
       <description>
         
         
@@ -1769,10 +1698,10 @@ open: close&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;open-close&#34
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/partc/em302/intropm/originofcargo/</link>
+      <link>https://anirbanmarine.in/docs/partc/em302/intropm/originofcargo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em302/intropm/originofcargo/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em302/intropm/originofcargo/</guid>
       <description>
         
         
@@ -1846,10 +1775,10 @@ Seasonal variations&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/partc/em303/averageadjustment/addback/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/averageadjustment/addback/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/averageadjustment/addback/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/averageadjustment/addback/</guid>
       <description>
         
         
@@ -1896,10 +1825,10 @@ Seasonal variations&lt;/p&gt;
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/sueandlabourclause/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/sueandlabourclause/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/sueandlabourclause/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/sueandlabourclause/</guid>
       <description>
         
         
@@ -1968,10 +1897,10 @@ Seasonal variations&lt;/p&gt;
     
     <item>
       <title>A Shift Towards Probabilistic Safety Assessment SOLAS 90 plus 50</title>
-      <link>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</link>
+      <link>https://anirbanmarine.in/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</guid>
+      <guid>https://anirbanmarine.in/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</guid>
       <description>
         
         
@@ -2002,15 +1931,14 @@ Seasonal variations&lt;/p&gt;
     
     <item>
       <title>Accountancy Ratios</title>
-      <link>http://localhost:1313/docs/parta/marecofin/acc_ratios/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/acc_ratios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/acc_ratios/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/acc_ratios/</guid>
       <description>
         
         
         &lt;p&gt;Here are short notes and formulas for &lt;strong&gt;major accountancy ratios&lt;/strong&gt;, categorized by type:&lt;/p&gt;
-&lt;hr&gt;
 &lt;h3&gt;&lt;strong&gt;1. Profitability Ratios&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-profitability-ratios&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-profitability-ratios&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Measure a company’s ability to generate profit.&lt;/p&gt;
 &lt;ul&gt;
@@ -2151,26 +2079,11 @@ $$
     </item>
     
     <item>
-      <title>Accounts and Finance</title>
-      <link>http://localhost:1313/docs/parta/marecofin/accounts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/parta/marecofin/accounts/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Accounts|Finance
-Record, classify&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Active geological processes</title>
-      <link>http://localhost:1313/docs/partc/em301/oceanogeo/actgeo/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceanogeo/actgeo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/actgeo/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceanogeo/actgeo/</guid>
       <description>
         
         
@@ -2192,10 +2105,10 @@ Record, classify&lt;/p&gt;
     
     <item>
       <title>Analyze the impact of Cabotage on the development of Indian shipping and shipping in general around the Indian coast in the past 5 years.</title>
-      <link>http://localhost:1313/docs/parta/marecofin/cabotage_effect/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/cabotage_effect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/cabotage_effect/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/cabotage_effect/</guid>
       <description>
         
         
@@ -2243,10 +2156,10 @@ The government has indicated plans for a complete removal of cabotage rules for 
     
     <item>
       <title>Arbitration</title>
-      <link>http://localhost:1313/docs/parta/marlaw/arbitration/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/arbitration/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/arbitration/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/arbitration/</guid>
       <description>
         
         
@@ -2318,10 +2231,10 @@ The government has indicated plans for a complete removal of cabotage rules for 
     
     <item>
       <title>Arbitration and Dispute Resolution</title>
-      <link>http://localhost:1313/docs/parta/marlaw/arbitration_and_dispute_resolution/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/arbitration_and_dispute_resolution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/arbitration_and_dispute_resolution/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/arbitration_and_dispute_resolution/</guid>
       <description>
         
         
@@ -2408,10 +2321,10 @@ The government has indicated plans for a complete removal of cabotage rules for 
     
     <item>
       <title>Areas Beyond National Jurisdiction</title>
-      <link>http://localhost:1313/docs/partc/em301/oceangov/abnj/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceangov/abnj/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/oceangov/abnj/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceangov/abnj/</guid>
       <description>
         
         
@@ -2453,10 +2366,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Athens Convention 1974</title>
-      <link>http://localhost:1313/docs/parta/marlaw/athensconv/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/athensconv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/athensconv/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/athensconv/</guid>
       <description>
         
         
@@ -2538,10 +2451,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Average total Loss (ATL)</title>
-      <link>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/atl/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/atl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/atl/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/atl/</guid>
       <description>
         
         
@@ -2572,10 +2485,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>AVR</title>
-      <link>http://localhost:1313/docs/partb/engg/avr/</link>
+      <link>https://anirbanmarine.in/docs/partb/engg/avr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/engg/avr/</guid>
+      <guid>https://anirbanmarine.in/docs/partb/engg/avr/</guid>
       <description>
         
         
@@ -2634,10 +2547,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Azimuth thrusters</title>
-      <link>http://localhost:1313/docs/partb/engg/azimuth-thrusters/</link>
+      <link>https://anirbanmarine.in/docs/partb/engg/azimuth-thrusters/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/engg/azimuth-thrusters/</guid>
+      <guid>https://anirbanmarine.in/docs/partb/engg/azimuth-thrusters/</guid>
       <description>
         
         
@@ -2697,10 +2610,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Bailment</title>
-      <link>http://localhost:1313/docs/parta/marlaw/bailment/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/bailment/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/bailment/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/bailment/</guid>
       <description>
         
         
@@ -2781,10 +2694,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Banking Law and Negotiable Instruments Law</title>
-      <link>http://localhost:1313/docs/parta/marlaw/banking_and_negotiable_instruments/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/banking_and_negotiable_instruments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/banking_and_negotiable_instruments/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/banking_and_negotiable_instruments/</guid>
       <description>
         
         
@@ -2873,10 +2786,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Basic techniques of Hydrographic Surveying</title>
-      <link>http://localhost:1313/docs/partc/em301/hydrosurv/bashydro/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/hydrosurv/bashydro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/hydrosurv/bashydro/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/hydrosurv/bashydro/</guid>
       <description>
         
         
@@ -2915,10 +2828,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Bathymetric Studies</title>
-      <link>http://localhost:1313/docs/partc/em301/oceanogeo/bathy/</link>
+      <link>https://anirbanmarine.in/docs/partc/em301/oceanogeo/bathy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/bathy/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em301/oceanogeo/bathy/</guid>
       <description>
         
         
@@ -2955,10 +2868,10 @@ Here are some specific examples of conservation and management measures that are
     
     <item>
       <title>Bill of Lading</title>
-      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/billoflading/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/billoflading/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/billoflading/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/billoflading/</guid>
       <description>
         
         
@@ -3236,10 +3149,10 @@ b- Shipment from a port within the United Kingdom&lt;/p&gt;
     
     <item>
       <title>Broker&#39;s responsibility to the principal</title>
-      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/brokerespons/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/brokerespons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/brokerespons/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/brokerespons/</guid>
       <description>
         
         
@@ -3266,10 +3179,10 @@ b- Shipment from a port within the United Kingdom&lt;/p&gt;
     
     <item>
       <title>Calculation of Demurrage</title>
-      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/demurrcalc/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/demurrcalc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/demurrcalc/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/demurrcalc/</guid>
       <description>
         
         
@@ -3544,10 +3457,10 @@ b- Shipment from a port within the United Kingdom&lt;/p&gt;
     
     <item>
       <title>Capital budgeting</title>
-      <link>http://localhost:1313/docs/parta/marecofin/capital_budgeting/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/capital_budgeting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/capital_budgeting/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/capital_budgeting/</guid>
       <description>
         
         
@@ -3651,10 +3564,10 @@ $\qquad \text{Payback Period} = \frac{\text{Initial Investment}}{\text{Annual Ca
     
     <item>
       <title>Cargo Circulars for Commercial shipping</title>
-      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/cargocirc/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/cargocirc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/cargocirc/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/cargocirc/</guid>
       <description>
         
         
@@ -3689,10 +3602,10 @@ $\qquad \text{Payback Period} = \frac{\text{Initial Investment}}{\text{Annual Ca
     
     <item>
       <title>Cargo claims procedure</title>
-      <link>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/cgoclaimsproc/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/cgoclaimsproc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/cgoclaimsproc/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cargoinsuranceclaims/cgoclaimsproc/</guid>
       <description>
         
         
@@ -3744,10 +3657,10 @@ $\qquad \text{Payback Period} = \frac{\text{Initial Investment}}{\text{Annual Ca
     
     <item>
       <title>Cargo Handling Machineries Required for a Port.</title>
-      <link>http://localhost:1313/docs/partc/em302/portops/cargohandlingequipments/</link>
+      <link>https://anirbanmarine.in/docs/partc/em302/portops/cargohandlingequipments/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em302/portops/cargohandlingequipments/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em302/portops/cargohandlingequipments/</guid>
       <description>
         
         
@@ -3793,10 +3706,10 @@ SBM Tender,&lt;/p&gt;
     
     <item>
       <title>Cargo insurance rating</title>
-      <link>http://localhost:1313/docs/partc/em303/cargoinsurance/insurancerating/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cargoinsurance/insurancerating/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cargoinsurance/insurancerating/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cargoinsurance/insurancerating/</guid>
       <description>
         
         
@@ -3827,10 +3740,10 @@ SBM Tender,&lt;/p&gt;
     
     <item>
       <title>Cargo insurance underwriting factors</title>
-      <link>http://localhost:1313/docs/partc/em303/cargoinsurance/underwritingfact/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cargoinsurance/underwritingfact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cargoinsurance/underwritingfact/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cargoinsurance/underwritingfact/</guid>
       <description>
         
         
@@ -3872,10 +3785,10 @@ SBM Tender,&lt;/p&gt;
     
     <item>
       <title>cargo risk factors</title>
-      <link>http://localhost:1313/docs/partc/em303/cargoinsurance/cgorskfac/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cargoinsurance/cgorskfac/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cargoinsurance/cgorskfac/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cargoinsurance/cgorskfac/</guid>
       <description>
         
         
@@ -3903,10 +3816,10 @@ The desired average (loss) clauses: The assured may choose average clauses rangi
     
     <item>
       <title>Case Studies and Incidence response procedures</title>
-      <link>http://localhost:1313/docs/partb/adnav/cyber_security_case_studies/</link>
+      <link>https://anirbanmarine.in/docs/partb/adnav/cyber_security_case_studies/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/adnav/cyber_security_case_studies/</guid>
+      <guid>https://anirbanmarine.in/docs/partb/adnav/cyber_security_case_studies/</guid>
       <description>
         
         
@@ -3916,10 +3829,10 @@ The desired average (loss) clauses: The assured may choose average clauses rangi
     
     <item>
       <title>Changes in Logistics and Distribution Patterns Influence the Development or Decline of Ports</title>
-      <link>http://localhost:1313/docs/partc/em302/intropm/changeinlogisticsanddistribution/</link>
+      <link>https://anirbanmarine.in/docs/partc/em302/intropm/changeinlogisticsanddistribution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em302/intropm/changeinlogisticsanddistribution/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em302/intropm/changeinlogisticsanddistribution/</guid>
       <description>
         
         
@@ -3962,10 +3875,10 @@ The desired average (loss) clauses: The assured may choose average clauses rangi
     
     <item>
       <title>Charter party disputes</title>
-      <link>http://localhost:1313/docs/partc/em303/cshipmgmt/chrtrdispute/</link>
+      <link>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/chrtrdispute/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partc/em303/cshipmgmt/chrtrdispute/</guid>
+      <guid>https://anirbanmarine.in/docs/partc/em303/cshipmgmt/chrtrdispute/</guid>
       <description>
         
         
@@ -4663,10 +4576,10 @@ c- A dispute arising from a commodity contract &lt;/p&gt;
     
     <item>
       <title>Civil Law and Civil Procedure Code</title>
-      <link>http://localhost:1313/docs/parta/marlaw/civil-law-and-civil-procedure-code/</link>
+      <link>https://anirbanmarine.in/docs/parta/marlaw/civil-law-and-civil-procedure-code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marlaw/civil-law-and-civil-procedure-code/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marlaw/civil-law-and-civil-procedure-code/</guid>
       <description>
         
         
@@ -4732,6 +4645,59 @@ c- A dispute arising from a commodity contract &lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;In summary, civil law deals with disputes between individuals or organizations, commercial law focuses on business transactions, and the Civil Procedure Code provides the rules for conducting civil lawsuits in court.&lt;/p&gt;
 
+      </description>
+    </item>
+    
+    <item>
+      <title>CNG as a Marine Fuel</title>
+      <link>https://anirbanmarine.in/docs/partb/engg/cng/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.in/docs/partb/engg/cng/</guid>
+      <description>
+        
+        
+        &lt;p&gt;The growing interest in using Compressed Natural Gas (CNG) as a fuel for marine vessels is primarily driven by the following factors&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Environmental Benefits:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Reduced Emissions:&lt;/strong&gt; CNG burns cleaner than traditional marine fuels like diesel, producing significantly lower levels of harmful pollutants such as sulfur oxides (SOx), nitrogen oxides (NOx), and particulate matter (PM). This helps to improve air quality and reduce greenhouse gas emissions.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Lower Carbon Footprint:&lt;/strong&gt; CNG has a lower carbon intensity compared to fossil fuels, contributing to efforts to mitigate climate change.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Economic Advantages:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost Savings:&lt;/strong&gt; CNG can often be more cost-effective than traditional marine fuels, especially in regions with abundant natural gas resources. This can lead to significant savings for vessel operators.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reduced Maintenance:&lt;/strong&gt; CNG engines generally require less maintenance compared to diesel engines, resulting in lower operating costs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. Safety Improvements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Lower Flammability:&lt;/strong&gt; CNG is less flammable than gasoline and diesel, making it a safer fuel option for marine applications.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Improved Safety Features:&lt;/strong&gt; Modern CNG systems incorporate advanced safety features to prevent leaks and ensure safe operation.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;4. Technological Advancements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Improved Engine Design:&lt;/strong&gt; CNG engines have become more efficient and reliable in recent years, making them a viable option for marine propulsion.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Infrastructure Development:&lt;/strong&gt; The development of CNG fueling infrastructure, including refueling stations and pipelines, is supporting the adoption of CNG in the marine industry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;5. Regulatory Pressures:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Emission Standards:&lt;/strong&gt; Governments worldwide are implementing stricter emission standards for marine vessels. CNG can help to meet these standards while maintaining operational efficiency.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Incentives:&lt;/strong&gt; Governments and regulatory bodies are offering incentives and subsidies to encourage the adoption of cleaner marine fuels like CNG.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Overall, the combination of environmental benefits, economic advantages, safety improvements, technological advancements, and regulatory pressures is driving the increasing interest in using CNG as a fuel for marine vessels.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Co-Ordinate Universal Time and Time Signals</title>
+      <link>https://anirbanmarine.in/docs/partb/adnav/utc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.in/docs/partb/adnav/utc/</guid>
+      <description>
+        
+        
+        
       </description>
     </item>
     

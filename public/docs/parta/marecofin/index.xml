@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – EM102 Maritime Economics and Finance</title>
-    <link>http://localhost:1313/docs/parta/marecofin/</link>
+    <link>https://anirbanmarine.in/docs/parta/marecofin/</link>
     <description>Recent content in EM102 Maritime Economics and Finance on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="http://localhost:1313/docs/parta/marecofin/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://anirbanmarine.in/docs/parta/marecofin/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title></title>
-      <link>http://localhost:1313/docs/parta/marecofin/long_term_fin/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/long_term_fin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/long_term_fin/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/long_term_fin/</guid>
       <description>
         
         
@@ -287,87 +287,15 @@ open: close&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;open-close&#34
     </item>
     
     <item>
-      <title></title>
-      <link>http://localhost:1313/docs/parta/marecofin/shipping-finance-derivatives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/parta/marecofin/shipping-finance-derivatives/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;itle: Shipping Derivatives
-type: docs
-toc: true
-sidebar:
-open: close&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;open-close&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#open-close&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Shipping finance derivatives are financial instruments whose value is derived from the underlying shipping market. These derivatives allow various participants in the shipping industry and financial institutions to manage their exposure to the risks associated with the volatility of freight rates, bunker (fuel) prices, interest rates, and currency exchange rates.&lt;/p&gt;
-&lt;p&gt;Here&amp;rsquo;s a breakdown of key aspects of shipping finance derivatives:&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Types of Shipping Derivatives:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Forward Freight Agreements (FFAs):&lt;/strong&gt; These are the most common type of shipping derivative. An FFA is a contract where two parties agree to exchange the difference between a contracted freight rate and the actual freight rate on a specific route and for a specified future period. FFAs are typically cash-settled.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Bunker Swaps:&lt;/strong&gt; These contracts allow ship owners and charterers to hedge against the price volatility of bunker fuel. A bunker swap involves exchanging a fixed price for a floating market price of fuel over a specific period.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Interest Rate Swaps (IRS):&lt;/strong&gt; Shipping companies often have significant borrowing for vessel financing. IRS are used to manage the risk of fluctuating interest rates by exchanging a floating interest rate obligation for a fixed one, or vice versa, on a notional principal amount.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Currency Swaps:&lt;/strong&gt; Given the international nature of shipping, companies often deal with multiple currencies. Currency swaps help hedge against exchange rate fluctuations by agreeing to exchange principal and/or interest payments in one currency for equivalent payments in another currency.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Freight Options:&lt;/strong&gt; These give the buyer the right, but not the obligation, to trade freight at a specific price on or before a certain date. Options can be used for hedging or speculation. Types include call options (the right to buy) and put options (the right to sell).&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Container Freight Derivatives:&lt;/strong&gt; These are specifically designed for the container shipping market and allow participants to manage the risks associated with container freight rates on specific trade lanes. These can include container freight swap agreements and container freight futures.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Participants in the Shipping Derivatives Market:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Ship Owners:&lt;/strong&gt; Use derivatives to hedge against potential declines in freight rates or increases in bunker costs, thereby stabilizing their revenue and expenses.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Charterers:&lt;/strong&gt; Employ derivatives to protect themselves from rising freight rates or increased bunker costs, ensuring predictable transportation expenses.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Commodity Traders:&lt;/strong&gt; Utilize freight derivatives to manage the shipping costs associated with the physical commodities they trade.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Oil Companies:&lt;/strong&gt; Use bunker swaps to hedge their fuel expenses for their fleets.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Financial Institutions (Banks, Hedge Funds, etc.):&lt;/strong&gt; Participate for trading and speculation purposes, providing liquidity to the market.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Freight Forwarders and Logistics Companies:&lt;/strong&gt; May use derivatives to offer more stable pricing to their clients.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Functions of Shipping Derivatives:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Risk Management (Hedging):&lt;/strong&gt; The primary purpose is to mitigate the financial risks associated with volatile shipping market variables.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Price Discovery:&lt;/strong&gt; The trading activity in the derivatives market can provide insights into the expected future levels of freight rates, bunker prices, etc.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Speculation:&lt;/strong&gt; Traders aim to profit from correctly predicting the future direction of the underlying shipping market prices.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Portfolio Diversification:&lt;/strong&gt; Financial institutions can use shipping derivatives to diversify their investment portfolios and gain exposure to the shipping industry.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Trading and Settlement:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Shipping derivatives are traded both &lt;strong&gt;Over-the-Counter (OTC)&lt;/strong&gt;, directly between two parties, and on &lt;strong&gt;exchanges&lt;/strong&gt;, which offer standardized contracts and clearing services.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Settlement&lt;/strong&gt; is typically done in cash, based on the difference between the contract price and the prevailing market price at the settlement date. Some less common derivatives might involve physical delivery.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Key Underlying Benchmarks:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Baltic Exchange Indices:&lt;/strong&gt; A crucial source of benchmarks for many freight derivatives, including the Baltic Dry Index (BDI) for dry bulk shipping and various tanker route indices.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Shanghai Shipping Exchange (SSE) Indices:&lt;/strong&gt; Increasingly important, especially for container freight and some dry bulk routes.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Platts Assessments:&lt;/strong&gt; Used for some wet freight (tanker) contracts, particularly in Asian markets.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Benefits of Using Shipping Derivatives:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Hedging Price Volatility:&lt;/strong&gt; Protects against adverse movements in freight rates, bunker prices, interest rates, and currencies.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Budgeting and Planning:&lt;/strong&gt; Provides more certainty in future costs and revenues, facilitating better financial planning.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Enhanced Liquidity:&lt;/strong&gt; Derivatives markets can offer more liquidity than physical markets, allowing for easier entry and exit.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Flexibility:&lt;/strong&gt; Derivatives can be tailored to specific needs and risk profiles.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Risks Associated with Shipping Derivatives:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Counterparty Risk:&lt;/strong&gt; The risk that the other party to the contract may default on their obligations. This is mitigated through clearinghouses for exchange-traded derivatives.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Basis Risk:&lt;/strong&gt; The risk that the price of the derivative does not move exactly in line with the underlying physical market price.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Market Risk:&lt;/strong&gt; The risk of losses due to unfavorable price movements in the underlying market.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Complexity:&lt;/strong&gt; Some derivatives can be complex and require a thorough understanding of the market and the specific instruments.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In conclusion, shipping finance derivatives are vital tools for managing financial risks in the shipping industry, contributing to greater stability and allowing participants to focus on their core operations. The market has evolved significantly since the introduction of FFAs in the early 1990s and continues to adapt to the changing needs of the global maritime sector.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Accountancy Ratios</title>
-      <link>http://localhost:1313/docs/parta/marecofin/acc_ratios/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/acc_ratios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/acc_ratios/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/acc_ratios/</guid>
       <description>
         
         
         &lt;p&gt;Here are short notes and formulas for &lt;strong&gt;major accountancy ratios&lt;/strong&gt;, categorized by type:&lt;/p&gt;
-&lt;hr&gt;
 &lt;h3&gt;&lt;strong&gt;1. Profitability Ratios&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-profitability-ratios&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-profitability-ratios&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Measure a company’s ability to generate profit.&lt;/p&gt;
 &lt;ul&gt;
@@ -508,26 +436,11 @@ $$
     </item>
     
     <item>
-      <title>Accounts and Finance</title>
-      <link>http://localhost:1313/docs/parta/marecofin/accounts/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/parta/marecofin/accounts/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Accounts|Finance
-Record, classify&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
       <title>Analyze the impact of Cabotage on the development of Indian shipping and shipping in general around the Indian coast in the past 5 years.</title>
-      <link>http://localhost:1313/docs/parta/marecofin/cabotage_effect/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/cabotage_effect/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/cabotage_effect/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/cabotage_effect/</guid>
       <description>
         
         
@@ -575,10 +488,10 @@ The government has indicated plans for a complete removal of cabotage rules for 
     
     <item>
       <title>Capital budgeting</title>
-      <link>http://localhost:1313/docs/parta/marecofin/capital_budgeting/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/capital_budgeting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/capital_budgeting/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/capital_budgeting/</guid>
       <description>
         
         
@@ -682,10 +595,10 @@ $\qquad \text{Payback Period} = \frac{\text{Initial Investment}}{\text{Annual Ca
     
     <item>
       <title>Cost as a Dominant Factor in Influencing Innovations and Technological Developments in Shipping</title>
-      <link>http://localhost:1313/docs/parta/marecofin/cost-as-dominant-factor/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/cost-as-dominant-factor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/cost-as-dominant-factor/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/cost-as-dominant-factor/</guid>
       <description>
         
         
@@ -731,10 +644,10 @@ Cost has been a dominant and pervasive force driving innovation and technologica
     
     <item>
       <title>Costs Associated with Fleet Operation, Maintenance, and Financing (Annual)</title>
-      <link>http://localhost:1313/docs/parta/marecofin/costs-and-cash-flow/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/costs-and-cash-flow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/costs-and-cash-flow/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/costs-and-cash-flow/</guid>
       <description>
         
         
@@ -870,10 +783,10 @@ Cost has been a dominant and pervasive force driving innovation and technologica
     
     <item>
       <title>Create Annual Budget Sheet</title>
-      <link>http://localhost:1313/docs/parta/marecofin/annual-budget/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/annual-budget/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/annual-budget/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/annual-budget/</guid>
       <description>
         
         
@@ -1013,10 +926,10 @@ Assumptions:
     
     <item>
       <title>Credit Risk Analysis</title>
-      <link>http://localhost:1313/docs/parta/marecofin/credit-risk-analysis/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/credit-risk-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/credit-risk-analysis/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/credit-risk-analysis/</guid>
       <description>
         
         
@@ -1057,10 +970,10 @@ Assumptions:
     
     <item>
       <title>Exchange Rate Dynamics and how the Master influences it</title>
-      <link>http://localhost:1313/docs/parta/marecofin/exchange-rate/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/exchange-rate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/exchange-rate/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/exchange-rate/</guid>
       <description>
         
         
@@ -1134,11 +1047,274 @@ Assumptions:
     </item>
     
     <item>
-      <title>Freight pricing in Shipping Markets</title>
-      <link>http://localhost:1313/docs/parta/marecofin/freight-pricing/</link>
+      <title>Fixed Costs and Variable Costs -Breakeven</title>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/costs_fixed_and_variable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/freight-pricing/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/costs_fixed_and_variable/</guid>
+      <description>
+        
+        
+        &lt;h3&gt;&lt;strong&gt;Simple Costing: Fixed vs. Variable Costs, Breakeven Point, and Profit Analysis&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;simple-costing-fixed-vs-variable-costs-breakeven-point-and-profit-analysis&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#simple-costing-fixed-vs-variable-costs-breakeven-point-and-profit-analysis&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Understanding &lt;strong&gt;fixed costs, variable costs, breakeven point, and profit&lt;/strong&gt; is crucial for pricing decisions and financial planning. Below is a breakdown with &lt;strong&gt;formulas, examples, and graphs&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;strong&gt;1. Fixed Costs vs. Variable Costs&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-fixed-costs-vs-variable-costs&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-fixed-costs-vs-variable-costs&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;Cost Type&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Definition&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Examples&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Fixed Costs (FC)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Costs that &lt;strong&gt;do not change&lt;/strong&gt; with production volume.&lt;/td&gt;
+          &lt;td&gt;Rent, salaries, insurance, depreciation.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Variable Costs (VC)&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Costs that &lt;strong&gt;vary directly&lt;/strong&gt; with production volume.&lt;/td&gt;
+          &lt;td&gt;Raw materials, labor per unit, packaging.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;&lt;strong&gt;Total Cost (TC) Formula&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;total-cost-tc-formula&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#total-cost-tc-formula&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;$$
+TC = FC + (VC \times Q)
+$$&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;\(Q\)&lt;/strong&gt; = Quantity produced/sold&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;\(VC\)&lt;/strong&gt; = Variable cost per unit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;strong&gt;2. Breakeven Point (BEP)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-breakeven-point-bep&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-breakeven-point-bep&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The &lt;strong&gt;breakeven point&lt;/strong&gt; is where &lt;strong&gt;Total Revenue (TR) = Total Cost (TC)&lt;/strong&gt;, meaning &lt;strong&gt;no profit or loss&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Breakeven Formula&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;breakeven-formula&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#breakeven-formula&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;$$
+BEP\ (in\ units) = \frac{FC}{SP - VC}  
+$$&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;\(SP\)&lt;/strong&gt; = Selling Price per unit&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;\(VC\)&lt;/strong&gt; = Variable Cost per unit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Breakeven Revenue&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;breakeven-revenue&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#breakeven-revenue&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;$$
+BEP\ (in\ \$) = BEP\ (units) \times SP  
+$$&lt;hr&gt;
+&lt;h2&gt;&lt;strong&gt;3. Profit Calculation&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-profit-calculation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-profit-calculation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Profit occurs when &lt;strong&gt;Total Revenue &amp;gt; Total Cost&lt;/strong&gt;.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Profit Formula&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;profit-formula&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#profit-formula&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;$$
+Profit = (SP \times Q) - [FC + (VC \times Q)]  
+$$&lt;p&gt;&lt;br&gt;
+Or:&lt;br&gt;
+&lt;/p&gt;
+$$
+Profit = (SP - VC) \times Q - FC  
+$$&lt;hr&gt;
+&lt;h2&gt;&lt;strong&gt;4. Graphical Representation&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-graphical-representation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-graphical-representation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;&lt;strong&gt;Breakeven Chart&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;breakeven-chart&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#breakeven-chart&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Below is a &lt;strong&gt;cost-volume-profit (CVP) graph&lt;/strong&gt;:&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+  
+
+&lt;div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-plaintext&#34; data-lang=&#34;plaintext&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;          | Revenue/Cost ($)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;          |
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;          |   / Total Revenue (TR = SP × Q)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;          |  /
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;          | / 
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;          |/________ Breakeven Point (BEP)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;          |        /|
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;          |       / |
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;          |______/  |
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;          |    /   |
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;          |   /    |
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;          |  /     |
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;          | /      | Total Cost (TC = FC + VC × Q)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;          |/_______|________________
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;          |        Fixed Cost (FC)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;          |________________________
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;                     Quantity (Q)&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+  
+&lt;/div&gt;
+&lt;pre class=&#34;mermaid hx-mt-6&#34;&gt;%% Breakeven Analysis Graphgraph LR
+graph LR
+    axis[(&#34;Volume (Q) →&#34;)] --&gt;|&#34;Low&#34;| Q1[Q=500]
+    axis --&gt;|&#34;Breakeven&#34;| Q2[Q=1,000]
+    axis --&gt;|&#34;High&#34;| Q3[Q=1,500]
+    
+    cost[(&#34;Cost/Revenue ($) ↑&#34;)] --&gt; FC[FC=$10,000]
+    cost --&gt; TC[TC=FC + VC×Q]
+    cost --&gt; TR[TR=Price×Q]
+    
+    TR --&gt;|&#34;TR &gt; TC → Profit&#34;| Profit
+    TC --&gt;|&#34;TR &lt; TC → Loss&#34;| Loss
+    TR &amp; TC --&gt;|&#34;TR = TC&#34;| BEP[&#34;Breakeven Point&#34;]
+    
+    style FC fill:#f5f5dc,stroke:#333
+    style TC fill:#ffcccc,stroke:#333
+    style TR fill:#ccffcc,stroke:#333
+    style BEP fill:#ffff99,stroke:#333&lt;/pre&gt;&lt;pre class=&#34;mermaid hx-mt-6&#34;&gt;graph LR
+    FC[Fixed Cost] --&gt;|+Variable Cost| TC[Total Cost]
+    Sales[Total Revenue] --&gt;|Breakeven| BEP((Breakeven Point))
+    style FC fill:#f5f5dc,stroke:#333
+    style TC fill:#ffcccc,stroke:#333
+    style Sales fill:#ccffcc,stroke:#333
+    style BEP fill:#ffff99,stroke:#333&lt;/pre&gt;&lt;h4&gt;&lt;strong&gt;Key Points:&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;key-points&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#key-points&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Fixed Cost (FC)&lt;/strong&gt; is a horizontal line (doesn’t change with quantity).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Total Cost (TC)&lt;/strong&gt; starts at FC and slopes upward (due to VC).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Total Revenue (TR)&lt;/strong&gt; starts at 0 and increases with sales.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Breakeven Point (BEP)&lt;/strong&gt; is where &lt;strong&gt;TR = TC&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Profit Area&lt;/strong&gt; = TR &amp;gt; TC (right of BEP).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Loss Area&lt;/strong&gt; = TR &amp;lt; TC (left of BEP).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;strong&gt;5. Example Calculation&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-example-calculation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#5-example-calculation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Scenario:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fixed Costs (FC) = &lt;strong&gt;$10,000&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Variable Cost per unit (VC) = &lt;strong&gt;$5&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Selling Price per unit (SP) = &lt;strong&gt;$15&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Breakeven Point (Units)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;breakeven-point-units&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#breakeven-point-units&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;$$
+BEP = \frac{10,000}{15 - 5} = 1,000\ units  
+$$&lt;h3&gt;&lt;strong&gt;Breakeven Revenue&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;breakeven-revenue-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#breakeven-revenue-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;$$
+BEP\ (\$) = 1,000 \times 15 = \$15,000  
+$$&lt;h3&gt;&lt;strong&gt;Profit if 1,500 Units Sold&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;profit-if-1500-units-sold&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#profit-if-1500-units-sold&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;$$
+Profit = (15 - 5) \times 1,500 - 10,000 = \$5,000  
+$$&lt;hr&gt;
+&lt;h2&gt;&lt;strong&gt;6. Impact of Changing Costs &amp;amp; Prices&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;6-impact-of-changing-costs--prices&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#6-impact-of-changing-costs--prices&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;Change&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Effect on Breakeven&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;↑ Fixed Costs&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;BEP increases (more units needed to cover costs)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;↑ Variable Costs&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;BEP increases (profit per unit decreases)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;↑ Selling Price&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;BEP decreases (each unit contributes more profit)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2&gt;&lt;strong&gt;7. Practical Applications&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;7-practical-applications&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#7-practical-applications&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Pricing Strategy:&lt;/strong&gt; Adjust \(SP\) to lower BEP.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cost Control:&lt;/strong&gt; Reduce \(FC\) or \(VC\) to improve profitability.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Profit Targets:&lt;/strong&gt; Calculate required sales volume for desired profit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;&lt;strong&gt;Target Profit Formula&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;target-profit-formula&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#target-profit-formula&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;$$
+Q = \frac{FC + Target\ Profit}{SP - VC}  
+$$&lt;hr&gt;
+&lt;h2&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#conclusion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fixed Costs&lt;/strong&gt; remain constant; &lt;strong&gt;Variable Costs&lt;/strong&gt; change with production.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Breakeven Point (BEP)&lt;/strong&gt; is where revenue covers all costs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Profit&lt;/strong&gt; = Revenue – Total Costs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Graphs&lt;/strong&gt; help visualize the relationship between costs, volume, and profit.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Would you like a &lt;strong&gt;real-world case study&lt;/strong&gt; or an &lt;strong&gt;Excel template&lt;/strong&gt; for calculations? Let me know!&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Forward Freight Agreement</title>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/ffa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/ffa/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Shipowners and charterers involved in bulk commodity transportation rely heavily on the daily variations in shipping freight rates. The challenge is how interested parties may manage the high volatility and freight risk to reduce the negative impact of fluctuations on the profitability of a vessel&amp;rsquo;s employment agreement.&lt;/p&gt;
+&lt;p&gt;The freight market functions exactly like any other market, such as commodities or the stock exchange. The movement of freight prices is determined by the availability of vessels and seaborne demand. Freight rates are determined by supply and demand imbalances, as well as other external factors such as weather, geopolitical events, and commodity prices. Oversupply of ships with fewer available cargoes leads to lower freight prices, whereas more cargo and fewer ships promote an increasing trend. The equilibrium between vessel supply and demand-cargoes maintains a stable sentiment in freight rates, with no large losses or revenue for shipping companies.&lt;/p&gt;
+&lt;p&gt;It is important to distinguish the difference between the &lt;strong&gt;physical&lt;/strong&gt; market and contracts, such as period time charters and contracts of &amp;ldquo;affreightment&amp;rdquo; with the &lt;strong&gt;hedging&lt;/strong&gt; using derivatives or paper contracts, such as freight futures, forward, and options on freight rates. The benefits of having a futures market in freight rates were recognised by the shipping industry early in the 1960s, however, such a market was eventually established in 1985. The Baltic Exchange commenced publication of a daily freight index in January 1985. The freight index initially consisted of 13 voyage routes covering a variety of cargoes from 14,000 metric tons up to 120,000 metric tons, and this was developed as a settlement mechanism for the establishment of the BIFFEX futures contract.&lt;/p&gt;
+&lt;pre class=&#34;mermaid hx-mt-6&#34;&gt;flowchart TD
+    A[Charterer] --&gt;|Physical| B(Shipowner)
+    A --&gt;|Derivatives| B
+
+    C[PHYSICAL] ---&gt; D[TIME CHARTER]
+    C ---&gt; E[VOYAGE CHARTER]
+    C ---&gt; F[CONTRACT OF AFFREIGHTMENT]
+
+    G[DERIVATIVES] ----&gt; H[FUTURES]
+    G[DERIVATIVES] ----&gt; I[FORWARD AGREEMENTS]
+    G[DERIVATIVES] ----&gt; J[OPTIONS]&lt;/pre&gt;&lt;p&gt;The Baltic Exchange&amp;rsquo;s freight shipping indices have long been considered as the most dependable indicators of market conditions in the shipping industry. Forward freight agreements (FFAs)superseded futures contracts in the late 1990s, and by 2006, they had become the primary derivatives tool.&lt;/p&gt;
+&lt;p&gt;The value of freight derivatives determines the future value of freight rates for the seaborne transportation of dry bulk and oil cargoes. The process for arranging an FFA is similar to that of time charter contracts; the main difference is that no physical commitment is required. As a basis for the settlement of the contracts, the Baltic Exchange publishes the settlement of indices on a daily basis.&lt;/p&gt;
+&lt;p&gt;Freight derivatives are of great importance to shipowners and charterers, allowing them to manage the freight risk and hedge against the fluctuations of freight rates in line with the supply of ships and the relevant demand of a ship’s employment. The other main types of derivatives including FFAs are futures, options, swaps.&lt;/p&gt;
+&lt;h2&gt;The Freight Derivatives Market&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;the-freight-derivatives-market&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-freight-derivatives-market&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The freight derivatives market, in contrast to the physical, also bears a lot of practical problems to be resolved. It is important to highlight that there are large sums of money involved as well as high risks, and the market must be liquid enough to allow contracts to be placed reasonably quickly. In the physical freight market, liquidity is not an issue because ships have to be fixed, but freight derivatives are optional with no guarantees for trading willingness, so the inefficiency of counterparties may be a risk. In addition, there is a much higher credit risk compared to the physical market, where time charter contracts can be terminated if the charterer does not pay the hire. To mitigate this risk, in 2006 and 2007, the practice of passing FFA trades to clearinghouses gathered momentum in response to growing concern about the credit risk inherent in the pure over-the-counter market for FFAs.&lt;/p&gt;
+&lt;h2&gt;The mechanism of a Forward Freight Agreement (FFA)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;the-mechanism-of-a-forward-freight-agreement-ffa&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-mechanism-of-a-forward-freight-agreement-ffa&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Forward Freight Agreements are actually futures contracts that allow shipping market participants to trade on an expected future level of freight rates. They are derived from the physical, spot freight market, widely used in the dry bulk and tanker freight segments. The futures market provides a mechanism of vessels’ supply and demand and reflects the current expectations of the market of the level of spot freight rates in the future. For instance, if future prices are higher than current spot freight rates, the market will reflect an expected increased demand for vessels and seaborne transportation and vice versa.&lt;/p&gt;
+&lt;h2&gt;What is a Forward Freight Agreement?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;what-is-a-forward-freight-agreement&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-is-a-forward-freight-agreement&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;FFA is a contract between two counterparties to settle a freight rate for a specified quantity of cargo for one of the major dry bulk or tanker shipping routes at a certain date in the future. The underlying route can be any of the routes that constitute the indices produced by the Baltic Exchange. FFA contracts are settled in cash on the difference between the contract price and an appropriate settlement price. This is usually the average rate of the route over the last seven days of a month, or the average hire rate over a month for the selected time charter routes.&lt;/p&gt;
+&lt;h2&gt;Where are FFA contracts trading?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;where-are-ffa-contracts-trading&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#where-are-ffa-contracts-trading&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The FFAs are trading over the counter market (OTC) on the terms and conditions of the Forward Freight Agreement Broker Association (FFABA) standard contracts. These are contracts negotiated between a broker and two counterparties (shipowner - charterer), in a manner similar to a conventional physical market negotiation.&lt;/p&gt;
+&lt;p&gt;The mechanism of FFAs is mainly used for hedging purposes by charterers and shipowners although they can also be used for the purposes of speculating on the future direction of freight rates. Hedging with FFAs is based on the principle that the physical freight rates and FFA rates move in line over time. Therefore, shipowners are mainly sellers of FFAs when freight rates decrease, and charterers become buyers of FFAs. The benefits of FFAs lie in the fact that shipowners and charterers bear opposite freight risks, the upward direction of rates favors shipowners, while the downward charterers.&lt;/p&gt;
+&lt;p&gt;It is important to underline that hedging with FFAs is an expectation of freight rates at some time in the future, i.e. a month from now or later, and there is no physical delivery. FFA is a financially settled contract and the price settled is known as a contract for the difference between the change in the physical market and the change in the FFA market. Other main elements of an FFA contract are the agreed route, period of settlement, contract size. At the expiration of the contract on the settlement date, if the agreed price is higher than the settlement price, then the seller pays the difference to the buyer, and the opposite, if the agreed price is lower than the settlement price.&lt;/p&gt;
+&lt;p&gt;The buying or selling of a contract depends on the direction of freight rates in the next months or period of time i.e three or six months. The FFA market is mainly traded in months/quarters and the buying or selling of contracts can take place within this period of time. On a daily basis, bids and offers are quoted via FFA brokers to shipping market participants as the daily freight rates are decreasing or increasing.&lt;/p&gt;
+&lt;p&gt;FFA contracts are also traded on time charter trips and routes according to the average rate of the time charter routes for each of the Baltic freight indices. The FFA market has witnessed considerable growth since its establishment as the benefits of freight risk reduction are valuable to shipping market participants. FFAs are an almost perfect selection of hedging as they lock in at a forward rate when the hedge is placed. FFA contracts cannot be bought or sold back to the counterparty prior to the settlement date; in this case, FFA traders may be in a disadvantageous position and not be able to close FFA positions if the FFA market moves against them.&lt;/p&gt;
+&lt;p&gt;Overall, FFAs are principal-to-principal contracts between a buyer and a seller to settle a freight or hire rate and may be tailor-made to the requirements of each trade, while the parties can introduce their own variations to the contract on the basis that these are mutually agreed.  Such variations include the trading cargo quantity, the introduction of different methods for the calculation of the settlement price. Finally, FFA contracts are traded directly between principals with no physical delivery since freight is intangible. The counterparties in each contract must agree to do business with each other, which means that each party is exposed to some element of risk in case the other party defaults.&lt;/p&gt;
+&lt;h2&gt;Futures and Options&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;futures-and-options&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#futures-and-options&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The freight derivatives are traded either as freight futures or options at different expiry dates, while the clearing is taking place at major clearinghouses, under specific requirements. For the dry FFA contracts, the clearing exchanges are the European Energy Exchange (EEX) and the Singapore Exchange (SGX). In the dry bulk segment, FFA contracts are for the most common vessel sizes, Capesize, Panamax, and Supramax.&lt;/p&gt;
+&lt;h2&gt;What’s the difference between Futures and Options?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;whats-the-difference-between-futures-and-options&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#whats-the-difference-between-futures-and-options&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Freight option contracts are financial agreements with the same main characteristics as futures contracts, i.e. different expiry dates on the forward curve starting from the first month and up to six calendar years, cleared on a regulated financial exchange. The main difference is that there are two types of freight options contracts: call options and put options.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A call option&lt;/strong&gt; is a contract that gives its buyer the right, but not the obligation, to buy an underlying asset (freight rate) from the seller (or writer) of the call option at a certain price known as the strike price at a certain expiration date. On the other hand, &lt;strong&gt;a put option&lt;/strong&gt; gives its holder the right, but not the obligation, to sell the underlying asset to the writer of the put option at a certain strike price and expiration date.&lt;/p&gt;
+&lt;h2&gt;FFA -The Dry Bulk Freight Market, Signal indicators versus FFAs&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ffa--the-dry-bulk-freight-market-signal-indicators-versus-ffas&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ffa--the-dry-bulk-freight-market-signal-indicators-versus-ffas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;As mentioned earlier not all freight routes are liquid in the FFA market. Dry bulk FFA contracts for Capesize, Panamax, and Supramax have significant liquidity. The Baltic Exchange publishes daily the assessments for the main trading routes with the highest percentage of importance on each vessel size, reflecting the performance of shipping rates. These assessments are used for the calculation of the settlement price of an FFA contract of one month.&lt;/p&gt;
+&lt;h2&gt;Vessel Supply &amp;amp; Demand - Freight Rates&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;vessel-supply--demand---freight-rates&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#vessel-supply--demand---freight-rates&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The vessel supply evolution determines the supply curve of seaborne transportation, thus the daily information on vessels&amp;rsquo; availability at key loading areas is crucial for the evolution of freight rates in line with the demand for shipping services. The demand is connected to the industrial production levels linked to raw materials and the economic growth in developed and developing economies. In this section, we will focus on how with the Signal Ocean Data on vessel supply you can monitor the performance of freight rates along with the vessel’s availability and supply trend. We used for the purposes of this analysis the most important dry bulk vessel size, the Capesize at the major loading area in Brazil with a destination to China.&lt;/p&gt;
+&lt;p&gt;We examined the correlation of spot freight rates in the spot and futures market along with the development of Capesize supply. In the plotted graph, we see the impact of vessel supply on spot freight rates and the corresponding FFA contract 1 month forward.&lt;/p&gt;
+&lt;p&gt;The synthetic one month forward curve:  Spot Capesize Freight Market - FFA and Evolution of Vessels Supply Brazil - China. Data Source: SSY&lt;/p&gt;
+&lt;p&gt;The Signal Ocean Platform | Capesize Supply Trend - Market Rates $/t and FFA for Brazil - China, data provided by SSY
+Graph 1: The Signal Ocean Platform | Capesize Supply Trend - Market Rates $/t and FFA for Brazil - China, data provided by SSY
+The Signal Ocean FFA Report | Overview of FFA prices across all routes and contracts
+Options and Futures rates are shown through graphs in all main dry bulk ship sizes, Capesize, Panamax, Supramax, and Handysize, for all key trading routes, per month, quarter and year, for the expired and non-expired contracts. The forward prices are quoted for the spot ($/t)-Image 1 and time charter rates ($/d)- Image 2. Additionally, with the Signal Ocean FFA Report (Available for our Paid plans) powered by SSY, you can monitor the bid and offer FFA quotes, and FFA prices comparisons between the current month, one month forward, two months forward, one quarter ahead, and two quarters ahead.&lt;/p&gt;
+&lt;p&gt;Signal Ocean Platform, FFA data by SSY: Spot Market
+Capesize/ Routes- Tubarao/Beilun and Baoshan | W Australia/ Beilun and Baoshan | Bolivar/Rotterdam&lt;/p&gt;
+&lt;p&gt;Panamax/ Routes- Skaw-Gib/Far East | Japan-SK-NOPAC round voyage)&lt;/p&gt;
+&lt;p&gt;The Signal Ocean Platform FFA Report, for Capesize C3 route, Spot Market
+Image 1: The Signal Ocean Platform FFA Report, for Capesize C3 route, Spot Market
+‍Signal Ocean Platform, FFA data by SSY: Time Charter Market
+Cape 5tc - The freight future settlement prices are based on the Capesize time charter index by the Baltic Exchange (weighted average of spot rates on 5 benchmark routes)&lt;/p&gt;
+&lt;p&gt;Panamax 82 5tc - The freight future settlement prices based on the Panamax (82,000dwt) time charter index by the Baltic Exchange (weighted average of spot rates on 5 benchmark routes)&lt;/p&gt;
+&lt;p&gt;Supramax 58 10tc - The freight future settlement prices based on the Supramax (58,000dwt) time charter index by the Baltic Exchange (weighted average of spot rates on 10 benchmark routes)&lt;/p&gt;
+&lt;p&gt;Handysize 38 7tc - The freight future settlement prices based on the Handysize (38,000dwt) time charter index by the Baltic Exchange (weighted average of spot rates on 7 benchmark routes)&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Freight pricing in Shipping Markets</title>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/freight-pricing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/freight-pricing/</guid>
       <description>
         
         
@@ -1195,10 +1371,10 @@ Assumptions:
     
     <item>
       <title>How the Shipowners control Freight pricing in Shipping Markets</title>
-      <link>http://localhost:1313/docs/parta/marecofin/shipowner_control-pricing/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/shipowner_control-pricing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/shipowner_control-pricing/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/shipowner_control-pricing/</guid>
       <description>
         
         
@@ -1256,10 +1432,10 @@ Assumptions:
     
     <item>
       <title>Long-Term Sources of Finance for Organizations</title>
-      <link>http://localhost:1313/docs/parta/marecofin/long_term_finance_options/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/long_term_finance_options/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/long_term_finance_options/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/long_term_finance_options/</guid>
       <description>
         
         
@@ -1440,10 +1616,10 @@ Assumptions:
     
     <item>
       <title>Read Balance sheets</title>
-      <link>http://localhost:1313/docs/parta/marecofin/readbalance-sheets/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/readbalance-sheets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/readbalance-sheets/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/readbalance-sheets/</guid>
       <description>
         
         
@@ -1584,10 +1760,10 @@ The &amp;ldquo;financial services&amp;rdquo; aspect you mentioned could come int
     
     <item>
       <title>Ship Size and Economies of Scale</title>
-      <link>http://localhost:1313/docs/parta/marecofin/shipsize-and-economies-of-sale/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/shipsize-and-economies-of-sale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/shipsize-and-economies-of-sale/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/shipsize-and-economies-of-sale/</guid>
       <description>
         
         
@@ -1631,11 +1807,122 @@ The &amp;ldquo;financial services&amp;rdquo; aspect you mentioned could come int
     </item>
     
     <item>
-      <title>Short Notes</title>
-      <link>http://localhost:1313/docs/parta/marecofin/short-notes/</link>
+      <title>Shipping Derivatives</title>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/shipping-finance-derivatives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/short-notes/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/shipping-finance-derivatives/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Shipping finance derivatives are financial instruments whose value is derived from the underlying shipping market. These derivatives allow various participants in the shipping industry and financial institutions to manage their exposure to the risks associated with the volatility of freight rates, bunker (fuel) prices, interest rates, and currency exchange rates.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s a breakdown of key aspects of shipping finance derivatives:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Types of Shipping Derivatives:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Forward Freight Agreements (FFAs):&lt;/strong&gt; These are the most common type of shipping derivative. An FFA is a contract where two parties agree to exchange the difference between a contracted freight rate and the actual freight rate on a specific route and for a specified future period. FFAs are typically cash-settled.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bunker Swaps:&lt;/strong&gt; These contracts allow ship owners and charterers to hedge against the price volatility of bunker fuel. A bunker swap involves exchanging a fixed price for a floating market price of fuel over a specific period.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Interest Rate Swaps (IRS):&lt;/strong&gt; Shipping companies often have significant borrowing for vessel financing. IRS are used to manage the risk of fluctuating interest rates by exchanging a floating interest rate obligation for a fixed one, or vice versa, on a notional principal amount.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Currency Swaps:&lt;/strong&gt; Given the international nature of shipping, companies often deal with multiple currencies. Currency swaps help hedge against exchange rate fluctuations by agreeing to exchange principal and/or interest payments in one currency for equivalent payments in another currency.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Freight Options:&lt;/strong&gt; These give the buyer the right, but not the obligation, to trade freight at a specific price on or before a certain date. Options can be used for hedging or speculation. Types include call options (the right to buy) and put options (the right to sell).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Container Freight Derivatives:&lt;/strong&gt; These are specifically designed for the container shipping market and allow participants to manage the risks associated with container freight rates on specific trade lanes. These can include container freight swap agreements and container freight futures.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Participants in the Shipping Derivatives Market:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ship Owners:&lt;/strong&gt; Use derivatives to hedge against potential declines in freight rates or increases in bunker costs, thereby stabilizing their revenue and expenses.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Charterers:&lt;/strong&gt; Employ derivatives to protect themselves from rising freight rates or increased bunker costs, ensuring predictable transportation expenses.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Commodity Traders:&lt;/strong&gt; Utilize freight derivatives to manage the shipping costs associated with the physical commodities they trade.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Oil Companies:&lt;/strong&gt; Use bunker swaps to hedge their fuel expenses for their fleets.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Financial Institutions (Banks, Hedge Funds, etc.):&lt;/strong&gt; Participate for trading and speculation purposes, providing liquidity to the market.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Freight Forwarders and Logistics Companies:&lt;/strong&gt; May use derivatives to offer more stable pricing to their clients.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Functions of Shipping Derivatives:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Risk Management (Hedging):&lt;/strong&gt; The primary purpose is to mitigate the financial risks associated with volatile shipping market variables.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Price Discovery:&lt;/strong&gt; The trading activity in the derivatives market can provide insights into the expected future levels of freight rates, bunker prices, etc.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Speculation:&lt;/strong&gt; Traders aim to profit from correctly predicting the future direction of the underlying shipping market prices.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Portfolio Diversification:&lt;/strong&gt; Financial institutions can use shipping derivatives to diversify their investment portfolios and gain exposure to the shipping industry.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Trading and Settlement:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Shipping derivatives are traded both &lt;strong&gt;Over-the-Counter (OTC)&lt;/strong&gt;, directly between two parties, and on &lt;strong&gt;exchanges&lt;/strong&gt;, which offer standardized contracts and clearing services.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Settlement&lt;/strong&gt; is typically done in cash, based on the difference between the contract price and the prevailing market price at the settlement date. Some less common derivatives might involve physical delivery.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key Underlying Benchmarks:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Baltic Exchange Indices:&lt;/strong&gt; A crucial source of benchmarks for many freight derivatives, including the Baltic Dry Index (BDI) for dry bulk shipping and various tanker route indices.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Shanghai Shipping Exchange (SSE) Indices:&lt;/strong&gt; Increasingly important, especially for container freight and some dry bulk routes.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Platts Assessments:&lt;/strong&gt; Used for some wet freight (tanker) contracts, particularly in Asian markets.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Benefits of Using Shipping Derivatives:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Hedging Price Volatility:&lt;/strong&gt; Protects against adverse movements in freight rates, bunker prices, interest rates, and currencies.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Budgeting and Planning:&lt;/strong&gt; Provides more certainty in future costs and revenues, facilitating better financial planning.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Enhanced Liquidity:&lt;/strong&gt; Derivatives markets can offer more liquidity than physical markets, allowing for easier entry and exit.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flexibility:&lt;/strong&gt; Derivatives can be tailored to specific needs and risk profiles.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Risks Associated with Shipping Derivatives:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Counterparty Risk:&lt;/strong&gt; The risk that the other party to the contract may default on their obligations. This is mitigated through clearinghouses for exchange-traded derivatives.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Basis Risk:&lt;/strong&gt; The risk that the price of the derivative does not move exactly in line with the underlying physical market price.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Market Risk:&lt;/strong&gt; The risk of losses due to unfavorable price movements in the underlying market.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Complexity:&lt;/strong&gt; Some derivatives can be complex and require a thorough understanding of the market and the specific instruments.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In conclusion, shipping finance derivatives are vital tools for managing financial risks in the shipping industry, contributing to greater stability and allowing participants to focus on their core operations. The market has evolved significantly since the introduction of FFAs in the early 1990s and continues to adapt to the changing needs of the global maritime sector.&lt;/p&gt;
+&lt;p&gt;The Baltic Dry Index (BDI) is a crucial indicator in the shipping industry and has significant implications for shipping finance derivatives. Here&amp;rsquo;s a breakdown of its relationship and use:&lt;/p&gt;
+&lt;h2&gt;What is the Baltic Dry Index (BDI)?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;what-is-the-baltic-dry-index-bdi&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#what-is-the-baltic-dry-index-bdi&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;The BDI, published daily by the London-based Baltic Exchange, measures the average cost of transporting dry bulk raw materials (like coal, iron ore, and grains) across more than 20 key shipping routes.&lt;/li&gt;
+&lt;li&gt;It&amp;rsquo;s a composite index based on time charter averages of different sizes of dry bulk carriers:
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Capesize:&lt;/strong&gt; Largest vessels (over 100,000 deadweight tonnage - DWT), primarily used for iron ore and coal. The average size is around 156,000 DWT, but can go up to 400,000 DWT.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Panamax:&lt;/strong&gt; Designed to pass through the Panama Canal (60,000 to 80,000 DWT), typically carrying coal or grain.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Supramax:&lt;/strong&gt; (45,000 to 59,999 DWT), also referred to as Handymaxes or Handysize.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;The BDI reflects the balance between the supply of dry bulk carriers and the demand for shipping these raw materials.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Relationship with Shipping Finance Derivatives:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Underlying Asset:&lt;/strong&gt; The BDI and its sub-indices serve as the underlying asset for various shipping finance derivatives, most notably &lt;strong&gt;Forward Freight Agreements (FFAs)&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pricing and Settlement:&lt;/strong&gt; These derivatives allow participants in the shipping industry (ship owners, charterers, traders) and financial investors to hedge against the volatility of freight rates or to speculate on future rate movements. FFAs are essentially forward contracts where the payout is based on the difference between the agreed-upon price and the settlement price of the relevant BDI index at a future date.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Risk Management:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ship Owners:&lt;/strong&gt; Use FFAs to lock in future freight rates, protecting themselves from potential declines in rates. For example, if a ship owner anticipates a drop in Capesize rates, they can sell (go short) a Capesize FFA. If rates indeed fall, the profit from the FFA can offset the lower earnings from their vessel.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Charterers:&lt;/strong&gt; (those who hire ships) use FFAs to hedge against potential increases in freight rates. If a charterer expects Panamax rates to rise, they can buy (go long) a Panamax FFA, securing a price for future shipping needs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Investment and Speculation:&lt;/strong&gt; Financial institutions and traders participate in the freight derivatives market to profit from their predictions of future movements in the BDI and its components.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Market Transparency:&lt;/strong&gt; The BDI provides a transparent and independent benchmark for freight rates, which is essential for the functioning of the freight derivatives market.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;How the BDI is Used in Relation to Shipping Finance Derivatives:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Hedging Price Risk:&lt;/strong&gt; As mentioned above, FFAs based on the BDI allow shipping companies and commodity traders to mitigate the risk of fluctuating freight rates. By locking in rates for future periods, they can better manage their costs and revenues.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Speculation:&lt;/strong&gt; Investors can take positions in freight derivatives based on their outlook for global economic activity and the demand for raw materials. A belief that demand will increase (leading to higher shipping rates) might lead to buying FFAs.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Valuation of Shipping Assets:&lt;/strong&gt; While not a direct derivative, the BDI influences the valuation of ships. Higher freight rates (reflected in a higher BDI) generally lead to increased earnings potential for vessels, thus increasing their market value. This is important for shipping finance as it affects the collateral value of loans and the profitability of shipping investments.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Market Analysis and Forecasting:&lt;/strong&gt; The BDI is closely watched as a leading indicator of global economic activity. A rising BDI often signals increased demand for raw materials, which can indicate economic growth. Conversely, a falling BDI may suggest a slowdown. This macroeconomic outlook informs decisions in shipping finance and derivative trading.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Contract Settlement:&lt;/strong&gt; FFAs are cash-settled against the average of the relevant BDI index over a specified period. For example, a Capesize FFA for June 2025 might be settled against the average of the daily Baltic Capesize Index assessments during that month.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;In summary, the Baltic Dry Index is the fundamental benchmark for the dry bulk shipping market, and it underpins a significant part of the shipping finance derivatives market. These derivatives, primarily FFAs, allow industry participants and investors to manage price risk, speculate on market movements, and gain insights into global trade dynamics.&lt;/strong&gt;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Short Notes</title>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/short-notes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/short-notes/</guid>
       <description>
         
         
@@ -1643,11 +1930,29 @@ The &amp;ldquo;financial services&amp;rdquo; aspect you mentioned could come int
 a. What are the differences between Financial Accounts and Management Accounts?
 b. Who appoints External Auditors and to whom are they responsible?
 c. Why would (1) financial institutions and (ii) the public in general be interested in the accounts of a public limited company?&lt;/p&gt;
-&lt;h2&gt;|Financial Accounts|Management Accounts|&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;financial-accountsmanagement-accounts&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#financial-accountsmanagement-accounts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;|&amp;mdash;|&amp;mdash;|
-|Primarily for external stakeholders like investors ,creditors,and regulatory bodies | Primarily for internal users(managers) to aid in decision making and control.|
-|They follow Generally Accepted Accounting principles  or international Financial Reporting Standards |They are not bound by strict accounting standards,focus on both historical and future data and prioritize timeliness and relevance.|
-|The main outputs are standardized financial statements (Balance Sheet, Income Statement, Cash Flow Statement)|Outputs are varied and tailored to specific management needs (e.g., cost reports, budgets, performance analysis)|&lt;/p&gt;
+&lt;h2&gt;Financial Accounts vs Management Accounts&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;financial-accounts-vs-management-accounts&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#financial-accounts-vs-management-accounts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Financial Accounts&lt;/th&gt;
+          &lt;th&gt;Management Accounts&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Primarily for external stakeholders like investors ,creditors,and regulatory bodies&lt;/td&gt;
+          &lt;td&gt;Primarily for internal users(managers) to aid in decision making and control.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;They follow Generally Accepted Accounting principles  or international Financial Reporting Standards&lt;/td&gt;
+          &lt;td&gt;They are not bound by strict accounting standards,focus on both historical and future data and prioritize timeliness and relevance.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;The main outputs are standardized financial statements (Balance Sheet, Income Statement, Cash Flow Statement)&lt;/td&gt;
+          &lt;td&gt;Outputs are varied and tailored to specific management needs (e.g., cost reports, budgets, performance analysis)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 &lt;h2&gt;Appointment and Responsibility of External Auditors:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;appointment-and-responsibility-of-external-auditors&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#appointment-and-responsibility-of-external-auditors&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;External Auditors are independent professionals appointed to provide an objective opinion on the fairness of a company&amp;rsquo;s financial statements.8 In the case of a public limited company, they are typically appointed by the shareholders at the Annual General Meeting (AGM). While the management proposes the appointment, the ultimate decision rests with the owners of the company. External Auditors are primarily responsible to the shareholders, as their audit provides assurance that the financial information presented by the management is reliable and fairly represents the company&amp;rsquo;s financial position and performance. They also have responsibilities towards regulatory bodies and the public interest to ensure compliance and transparency.9&lt;/p&gt;
 &lt;h2&gt;Interest in Public Limited Company Accounts:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;interest-in-public-limited-company-accounts&#34;&gt;&lt;/span&gt;
@@ -1697,10 +2002,10 @@ c. Why would (1) financial institutions and (ii) the public in general be intere
     
     <item>
       <title>The German KG System</title>
-      <link>http://localhost:1313/docs/parta/marecofin/deutsch_kg/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/deutsch_kg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/deutsch_kg/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/deutsch_kg/</guid>
       <description>
         
         
@@ -1886,10 +2191,10 @@ c. Why would (1) financial institutions and (ii) the public in general be intere
     
     <item>
       <title>Time Value of Money</title>
-      <link>http://localhost:1313/docs/parta/marecofin/time_value_of_money/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/time_value_of_money/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/time_value_of_money/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/time_value_of_money/</guid>
       <description>
         
         
@@ -1982,10 +2287,10 @@ c. Why would (1) financial institutions and (ii) the public in general be intere
     
     <item>
       <title>Trading Finance</title>
-      <link>http://localhost:1313/docs/parta/marecofin/trading-finance/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/trading-finance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/trading-finance/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/trading-finance/</guid>
       <description>
         
         
@@ -2116,10 +2421,10 @@ c. Why would (1) financial institutions and (ii) the public in general be intere
     
     <item>
       <title>What Factors affect success of entreprneurship</title>
-      <link>http://localhost:1313/docs/parta/marecofin/entrepreneurship_factors/</link>
+      <link>https://anirbanmarine.in/docs/parta/marecofin/entrepreneurship_factors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/parta/marecofin/entrepreneurship_factors/</guid>
+      <guid>https://anirbanmarine.in/docs/parta/marecofin/entrepreneurship_factors/</guid>
       <description>
         
         

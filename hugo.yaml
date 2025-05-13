@@ -38,6 +38,7 @@ markup:
         enable: true
 
 params:
+  mermaid: true
   math: true
   page:
     # full (100%), wide (90rem), normal (1280px)

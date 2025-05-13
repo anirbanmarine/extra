@@ -9,7 +9,11 @@ Write short notes on
 a. What are the differences between Financial Accounts and Management Accounts?
 b. Who appoints External Auditors and to whom are they responsible?
 c. Why would (1) financial institutions and (ii) the public in general be interested in the accounts of a public limited company?
-## |Financial Accounts|Management Accounts|
+
+## Financial Accounts vs Management Accounts
+
+
+|Financial Accounts|Management Accounts|
 |---|---|
 |Primarily for external stakeholders like investors ,creditors,and regulatory bodies | Primarily for internal users(managers) to aid in decision making and control.|
 |They follow Generally Accepted Accounting principles  or international Financial Reporting Standards |They are not bound by strict accounting standards,focus on both historical and future data and prioritize timeliness and relevance.|

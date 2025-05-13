@@ -1,4 +1,5 @@
-itle: Shipping Derivatives
+---
+Title: Shipping Derivatives
 type: docs
 toc: true
 sidebar:
@@ -59,3 +60,38 @@ Here's a breakdown of key aspects of shipping finance derivatives:
 * **Complexity:** Some derivatives can be complex and require a thorough understanding of the market and the specific instruments.
 
 In conclusion, shipping finance derivatives are vital tools for managing financial risks in the shipping industry, contributing to greater stability and allowing participants to focus on their core operations. The market has evolved significantly since the introduction of FFAs in the early 1990s and continues to adapt to the changing needs of the global maritime sector.
+
+The Baltic Dry Index (BDI) is a crucial indicator in the shipping industry and has significant implications for shipping finance derivatives. Here's a breakdown of its relationship and use:
+
+## What is the Baltic Dry Index (BDI)?
+
+* The BDI, published daily by the London-based Baltic Exchange, measures the average cost of transporting dry bulk raw materials (like coal, iron ore, and grains) across more than 20 key shipping routes.
+* It's a composite index based on time charter averages of different sizes of dry bulk carriers:
+    * **Capesize:** Largest vessels (over 100,000 deadweight tonnage - DWT), primarily used for iron ore and coal. The average size is around 156,000 DWT, but can go up to 400,000 DWT.
+    * **Panamax:** Designed to pass through the Panama Canal (60,000 to 80,000 DWT), typically carrying coal or grain.
+    * **Supramax:** (45,000 to 59,999 DWT), also referred to as Handymaxes or Handysize.
+* The BDI reflects the balance between the supply of dry bulk carriers and the demand for shipping these raw materials.
+
+**Relationship with Shipping Finance Derivatives:**
+
+* **Underlying Asset:** The BDI and its sub-indices serve as the underlying asset for various shipping finance derivatives, most notably **Forward Freight Agreements (FFAs)**.
+* **Pricing and Settlement:** These derivatives allow participants in the shipping industry (ship owners, charterers, traders) and financial investors to hedge against the volatility of freight rates or to speculate on future rate movements. FFAs are essentially forward contracts where the payout is based on the difference between the agreed-upon price and the settlement price of the relevant BDI index at a future date.
+* **Risk Management:**
+    * **Ship Owners:** Use FFAs to lock in future freight rates, protecting themselves from potential declines in rates. For example, if a ship owner anticipates a drop in Capesize rates, they can sell (go short) a Capesize FFA. If rates indeed fall, the profit from the FFA can offset the lower earnings from their vessel.
+    * **Charterers:** (those who hire ships) use FFAs to hedge against potential increases in freight rates. If a charterer expects Panamax rates to rise, they can buy (go long) a Panamax FFA, securing a price for future shipping needs.
+* **Investment and Speculation:** Financial institutions and traders participate in the freight derivatives market to profit from their predictions of future movements in the BDI and its components.
+* **Market Transparency:** The BDI provides a transparent and independent benchmark for freight rates, which is essential for the functioning of the freight derivatives market.
+
+**How the BDI is Used in Relation to Shipping Finance Derivatives:**
+
+1.  **Hedging Price Risk:** As mentioned above, FFAs based on the BDI allow shipping companies and commodity traders to mitigate the risk of fluctuating freight rates. By locking in rates for future periods, they can better manage their costs and revenues.
+
+2.  **Speculation:** Investors can take positions in freight derivatives based on their outlook for global economic activity and the demand for raw materials. A belief that demand will increase (leading to higher shipping rates) might lead to buying FFAs.
+
+3.  **Valuation of Shipping Assets:** While not a direct derivative, the BDI influences the valuation of ships. Higher freight rates (reflected in a higher BDI) generally lead to increased earnings potential for vessels, thus increasing their market value. This is important for shipping finance as it affects the collateral value of loans and the profitability of shipping investments.
+
+4.  **Market Analysis and Forecasting:** The BDI is closely watched as a leading indicator of global economic activity. A rising BDI often signals increased demand for raw materials, which can indicate economic growth. Conversely, a falling BDI may suggest a slowdown. This macroeconomic outlook informs decisions in shipping finance and derivative trading.
+
+5.  **Contract Settlement:** FFAs are cash-settled against the average of the relevant BDI index over a specified period. For example, a Capesize FFA for June 2025 might be settled against the average of the daily Baltic Capesize Index assessments during that month.
+
+**In summary, the Baltic Dry Index is the fundamental benchmark for the dry bulk shipping market, and it underpins a significant part of the shipping finance derivatives market. These derivatives, primarily FFAs, allow industry participants and investors to manage price risk, speculate on market movements, and gain insights into global trade dynamics.**

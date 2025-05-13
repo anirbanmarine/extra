@@ -1,6 +1,7 @@
 ---
 title: Time Value of Money
 type: docs
+math: true
 toc: true
 sidebar:
   open: close

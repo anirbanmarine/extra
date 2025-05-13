@@ -8,7 +8,7 @@ math: true
 ---
 Here are short notes and formulas for **major accountancy ratios**, categorized by type:
 
----
+
 
 ### **1. Profitability Ratios**  
 Measure a company’s ability to generate profit.  
