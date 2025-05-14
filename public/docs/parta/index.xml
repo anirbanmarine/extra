@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – Part A</title>
-    <link>https://anirbanmarine.in/docs/parta/</link>
+    <link>http://localhost:1313/docs/parta/</link>
     <description>Recent content in Part A on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://anirbanmarine.in/docs/parta/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/parta/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>EM101 Leadership, Management and Human Resources</title>
-      <link>https://anirbanmarine.in/docs/parta/marlead/</link>
+      <link>http://localhost:1313/docs/parta/marlead/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlead/</guid>
+      <guid>http://localhost:1313/docs/parta/marlead/</guid>
       <description>
         
         
@@ -73,10 +73,10 @@
     
     <item>
       <title>EM102 Maritime Economics and Finance</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/</guid>
       <description>
         
         
@@ -84,6 +84,8 @@
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marecofin/long_term_fin/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
 
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marecofin/acc_ratios/&#34;&gt;Accountancy Ratios&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marecofin/amortization-of-drydock/&#34;&gt;Amortization of Drydock Expenses&lt;/a&gt;&lt;/h2&gt;
 
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marecofin/cabotage_effect/&#34;&gt;Analyze the impact of Cabotage on the development of Indian shipping and shipping in general around the Indian coast in the past 5 years.&lt;/a&gt;&lt;/h2&gt;
 
@@ -103,6 +105,8 @@
 
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marecofin/credit-risk-analysis/&#34;&gt;Credit Risk Analysis&lt;/a&gt;&lt;/h2&gt;
 
+  &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marecofin/depreciation-vs-amortization/&#34;&gt;Depreciation versus Amortization&lt;/a&gt;&lt;/h2&gt;
+
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marecofin/exchange-rate/&#34;&gt;Exchange Rate Dynamics and how the Master influences it&lt;/a&gt;&lt;/h2&gt;
 
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marecofin/costs_fixed_and_variable/&#34;&gt;Fixed Costs and Variable Costs -Breakeven&lt;/a&gt;&lt;/h2&gt;
@@ -112,6 +116,8 @@
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marecofin/freight-pricing/&#34;&gt;Freight pricing in Shipping Markets&lt;/a&gt;&lt;/h2&gt;
 
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marecofin/shipowner_control-pricing/&#34;&gt;How the Shipowners control Freight pricing in Shipping Markets&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marecofin/how-to-make-entries-in-the-balance/&#34;&gt;how to make entries in the balance sheet&lt;/a&gt;&lt;/h2&gt;
 
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marecofin/long_term_finance_options/&#34;&gt;Long-Term Sources of Finance for Organizations&lt;/a&gt;&lt;/h2&gt;
 
@@ -135,6 +141,8 @@
 
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marecofin/trial-balance/&#34;&gt;Trial balance&lt;/a&gt;&lt;/h2&gt;
 
+  &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marecofin/depreciation-/&#34;&gt;Types of Depreciation and how to do it&lt;/a&gt;&lt;/h2&gt;
+
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marecofin/entrepreneurship_factors/&#34;&gt;What Factors affect success of entreprneurship&lt;/a&gt;&lt;/h2&gt;
 
 
@@ -144,14 +152,16 @@
     
     <item>
       <title>EM103 Maritime Law</title>
-      <link>https://anirbanmarine.in/docs/parta/marlaw/</link>
+      <link>http://localhost:1313/docs/parta/marlaw/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marlaw/</guid>
+      <guid>http://localhost:1313/docs/parta/marlaw/</guid>
       <description>
         
         
         
+  &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/indianwaterawys/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/arbitration/&#34;&gt;Arbitration&lt;/a&gt;&lt;/h2&gt;
 
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/arbitration_and_dispute_resolution/&#34;&gt;Arbitration and Dispute Resolution&lt;/a&gt;&lt;/h2&gt;
@@ -276,10 +286,10 @@
     
     <item>
       <title>Question and Answers</title>
-      <link>https://anirbanmarine.in/docs/parta/q-and-a/</link>
+      <link>http://localhost:1313/docs/parta/q-and-a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/q-and-a/</guid>
+      <guid>http://localhost:1313/docs/parta/q-and-a/</guid>
       <description>
         
         

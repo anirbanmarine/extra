@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – Earth&#39;s tides</title>
-    <link>https://anirbanmarine.in/docs/partc/em301/tides/</link>
+    <link>http://localhost:1313/docs/partc/em301/tides/</link>
     <description>Recent content in Earth&#39;s tides on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://anirbanmarine.in/docs/partc/em301/tides/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/partc/em301/tides/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title></title>
-      <link>https://anirbanmarine.in/docs/partc/em301/tides/typoftides/</link>
+      <link>http://localhost:1313/docs/partc/em301/tides/typoftides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/tides/typoftides/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/tides/typoftides/</guid>
       <description>
         
         
@@ -65,10 +65,10 @@
     
     <item>
       <title>Co-Tidal Charts</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/tides/cotidal/</link>
+      <link>http://localhost:1313/docs/partc/em301/tides/cotidal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/tides/cotidal/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/tides/cotidal/</guid>
       <description>
         
         
@@ -96,10 +96,10 @@
     
     <item>
       <title>Establishment of Datums</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/tides/datums/</link>
+      <link>http://localhost:1313/docs/partc/em301/tides/datums/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/tides/datums/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/tides/datums/</guid>
       <description>
         
         
@@ -135,10 +135,10 @@
     
     <item>
       <title>General Knowledge of Tides</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/tides/gktides/</link>
+      <link>http://localhost:1313/docs/partc/em301/tides/gktides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/tides/gktides/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/tides/gktides/</guid>
       <description>
         
         
@@ -156,10 +156,10 @@
     
     <item>
       <title>Mean Sea Level</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/tides/msl/</link>
+      <link>http://localhost:1313/docs/partc/em301/tides/msl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/tides/msl/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/tides/msl/</guid>
       <description>
         
         
@@ -194,10 +194,10 @@ is the average height of the sea&amp;rsquo;s surface over a period of time, typi
     
     <item>
       <title>Tidal Streams,currents and their measurement</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/tides/tidstream/</link>
+      <link>http://localhost:1313/docs/partc/em301/tides/tidstream/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/tides/tidstream/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/tides/tidstream/</guid>
       <description>
         
         

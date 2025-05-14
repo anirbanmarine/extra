@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – EM301 Marine Environment and Ocean Governance</title>
-    <link>https://anirbanmarine.in/docs/partc/em301/</link>
+    <link>http://localhost:1313/docs/partc/em301/</link>
     <description>Recent content in EM301 Marine Environment and Ocean Governance on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://anirbanmarine.in/docs/partc/em301/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/partc/em301/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Earth&#39;s tides</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/tides/</link>
+      <link>http://localhost:1313/docs/partc/em301/tides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/tides/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/tides/</guid>
       <description>
         
         
@@ -43,10 +43,10 @@
     
     <item>
       <title>Geology and Oceanography</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/oceanogeo/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceanogeo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/oceanogeo/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/</guid>
       <description>
         
         
@@ -84,10 +84,10 @@
     
     <item>
       <title>Hydrographic Surveying</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/hydrosurv/</link>
+      <link>http://localhost:1313/docs/partc/em301/hydrosurv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/hydrosurv/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/hydrosurv/</guid>
       <description>
         
         
@@ -107,10 +107,10 @@
     
     <item>
       <title>International Conventions</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/intconv/</link>
+      <link>http://localhost:1313/docs/partc/em301/intconv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/intconv/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/intconv/</guid>
       <description>
         
         
@@ -151,10 +151,10 @@
     
     <item>
       <title>Marine Resources</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/marineres/</link>
+      <link>http://localhost:1313/docs/partc/em301/marineres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/marineres/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/marineres/</guid>
       <description>
         
         
@@ -174,10 +174,10 @@
     
     <item>
       <title>Meteorology</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/meteorology/</link>
+      <link>http://localhost:1313/docs/partc/em301/meteorology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/meteorology/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/meteorology/</guid>
       <description>
         
         
@@ -198,10 +198,10 @@
     
     <item>
       <title>Ocean Governance</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/oceangov/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceangov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/oceangov/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceangov/</guid>
       <description>
         
         
@@ -227,10 +227,10 @@
     
     <item>
       <title>Satellite Meteorology</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/satmet/</link>
+      <link>http://localhost:1313/docs/partc/em301/satmet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/satmet/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/satmet/</guid>
       <description>
         
         

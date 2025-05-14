@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – Fishing</title>
-    <link>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/</link>
+    <link>http://localhost:1313/docs/partc/em301/marineres/marfish/</link>
     <description>Recent content in Fishing on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://anirbanmarine.in/docs/partc/em301/marineres/marfish/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/partc/em301/marineres/marfish/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Conservation of resources</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/conserv/</link>
+      <link>http://localhost:1313/docs/partc/em301/marineres/marfish/conserv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/conserv/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/marineres/marfish/conserv/</guid>
       <description>
         
         
@@ -57,10 +57,10 @@
     
     <item>
       <title>Demersal and Pelagic fishing</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/demerpelag/</link>
+      <link>http://localhost:1313/docs/partc/em301/marineres/marfish/demerpelag/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/demerpelag/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/marineres/marfish/demerpelag/</guid>
       <description>
         
         
@@ -84,10 +84,10 @@
     
     <item>
       <title>Fish Types</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/fishtyp/</link>
+      <link>http://localhost:1313/docs/partc/em301/marineres/marfish/fishtyp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/fishtyp/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/marineres/marfish/fishtyp/</guid>
       <description>
         
         
@@ -135,10 +135,10 @@ Flatfish&lt;/p&gt;
     
     <item>
       <title>Fishing Factory Vessels</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/fishfactory/</link>
+      <link>http://localhost:1313/docs/partc/em301/marineres/marfish/fishfactory/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/fishfactory/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/marineres/marfish/fishfactory/</guid>
       <description>
         
         
@@ -182,10 +182,10 @@ Flatfish&lt;/p&gt;
     
     <item>
       <title>Geographical location of fishing grounds</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/fishgrnd/</link>
+      <link>http://localhost:1313/docs/partc/em301/marineres/marfish/fishgrnd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/fishgrnd/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/marineres/marfish/fishgrnd/</guid>
       <description>
         
         
@@ -209,10 +209,10 @@ Flatfish&lt;/p&gt;
     
     <item>
       <title>Marine Fish Farming</title>
-      <link>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/fishfarm/</link>
+      <link>http://localhost:1313/docs/partc/em301/marineres/marfish/fishfarm/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/partc/em301/marineres/marfish/fishfarm/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/marineres/marfish/fishfarm/</guid>
       <description>
         
         

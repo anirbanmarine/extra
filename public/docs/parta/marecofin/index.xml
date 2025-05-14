@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – EM102 Maritime Economics and Finance</title>
-    <link>https://anirbanmarine.in/docs/parta/marecofin/</link>
+    <link>http://localhost:1313/docs/parta/marecofin/</link>
     <description>Recent content in EM102 Maritime Economics and Finance on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	  <atom:link href="https://anirbanmarine.in/docs/parta/marecofin/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/parta/marecofin/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title></title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/long_term_fin/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/long_term_fin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/long_term_fin/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/long_term_fin/</guid>
       <description>
         
         
@@ -288,10 +288,10 @@ open: close&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;open-close&#34
     
     <item>
       <title>Accountancy Ratios</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/acc_ratios/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/acc_ratios/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/acc_ratios/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/acc_ratios/</guid>
       <description>
         
         
@@ -436,11 +436,133 @@ $$
     </item>
     
     <item>
-      <title>Analyze the impact of Cabotage on the development of Indian shipping and shipping in general around the Indian coast in the past 5 years.</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/cabotage_effect/</link>
+      <title>Amortization of Drydock Expenses</title>
+      <link>http://localhost:1313/docs/parta/marecofin/amortization-of-drydock/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/cabotage_effect/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/amortization-of-drydock/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;🧩 What is Drydocking?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-what-is-drydocking&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-what-is-drydocking&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Drydocking&lt;/strong&gt; is the process of &lt;strong&gt;removing a ship from water&lt;/strong&gt; to perform &lt;strong&gt;maintenance, repairs, and inspections&lt;/strong&gt;. It’s a major expense that occurs &lt;strong&gt;every few years&lt;/strong&gt;, depending on the type of vessel and regulatory requirements.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;🧠 Why is Drydocking Expense Amortized?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-why-is-drydocking-expense-amortized&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-why-is-drydocking-expense-amortized&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;1. &lt;strong&gt;It&amp;rsquo;s a Non-Recurring, Large Expense&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-it&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-it&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Drydocking is not an &lt;strong&gt;annual&lt;/strong&gt; expense — it happens every &lt;strong&gt;3–5 years&lt;/strong&gt;. If you were to &lt;strong&gt;record the full cost in one year&lt;/strong&gt;, it would distort the company&amp;rsquo;s &lt;strong&gt;profitability&lt;/strong&gt; for that year and make it hard to compare performance across periods.&lt;/p&gt;
+&lt;h3&gt;2. &lt;strong&gt;Matching Principle (Accounting Concept)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-matching-principle-accounting-concept&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-matching-principle-accounting-concept&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Under the &lt;strong&gt;accrual basis of accounting&lt;/strong&gt;, expenses should be &lt;strong&gt;matched with the revenues they help generate&lt;/strong&gt;.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Drydocking improves the &lt;strong&gt;operational efficiency and safety&lt;/strong&gt; of the vessel.&lt;/li&gt;
+&lt;li&gt;The benefits of drydocking are spread over several years.&lt;/li&gt;
+&lt;li&gt;Therefore, the cost should be &lt;strong&gt;allocated over the period&lt;/strong&gt; during which the asset (the ship) continues to provide economic benefits.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;3. &lt;strong&gt;Amortization as a Method of Allocation&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-amortization-as-a-method-of-allocation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-amortization-as-a-method-of-allocation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Instead of recognizing the full cost in one year, companies &lt;strong&gt;amortize&lt;/strong&gt; the drydocking expense over the &lt;strong&gt;number of years between drydockings&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;For example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If a ship undergoes drydocking every 4 years and the cost is $100,000,&lt;/li&gt;
+&lt;li&gt;Then each year, the company would record a &lt;strong&gt;$25,000 amortization expense&lt;/strong&gt; ($100,000 ÷ 4).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;📊 How is This Treated in Financial Statements?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-how-is-this-treated-in-financial-statements&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-how-is-this-treated-in-financial-statements&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;✅ In the &lt;strong&gt;Income Statement&lt;/strong&gt;:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-in-the-income-statement&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-in-the-income-statement&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;A &lt;strong&gt;yearly amortization expense&lt;/strong&gt; is recorded (e.g., $25,000 per year).&lt;/li&gt;
+&lt;li&gt;This avoids a huge dip in profits during the drydocking year.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;✅ In the &lt;strong&gt;Balance Sheet&lt;/strong&gt;:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-in-the-balance-sheet&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-in-the-balance-sheet&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;The remaining unamortized portion of the drydocking cost is shown as a &lt;strong&gt;liability or an asset&lt;/strong&gt;, depending on how it&amp;rsquo;s treated.
+&lt;ul&gt;
+&lt;li&gt;If the expense has been paid in advance (i.e., cash was paid before the drydocking), it might be listed as a &lt;strong&gt;prepaid expense (asset)&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;If the expense hasn&amp;rsquo;t been paid yet, it might be listed as a &lt;strong&gt;liability (provision or accrued expense)&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;🔍 Example Scenario&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-example-scenario&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-example-scenario&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Year&lt;/th&gt;
+          &lt;th&gt;Drydocking Cost&lt;/th&gt;
+          &lt;th&gt;Amortization Expense&lt;/th&gt;
+          &lt;th&gt;Unamortized Balance&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2020&lt;/td&gt;
+          &lt;td&gt;$100,000&lt;/td&gt;
+          &lt;td&gt;$25,000&lt;/td&gt;
+          &lt;td&gt;$75,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2021&lt;/td&gt;
+          &lt;td&gt;–&lt;/td&gt;
+          &lt;td&gt;$25,000&lt;/td&gt;
+          &lt;td&gt;$50,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2022&lt;/td&gt;
+          &lt;td&gt;–&lt;/td&gt;
+          &lt;td&gt;$25,000&lt;/td&gt;
+          &lt;td&gt;$25,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2023&lt;/td&gt;
+          &lt;td&gt;–&lt;/td&gt;
+          &lt;td&gt;$25,000&lt;/td&gt;
+          &lt;td&gt;$0&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;In this case, the full $100,000 is amortized over 4 years.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;🧠 Key Takeaways&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-key-takeaways&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-key-takeaways&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Aspect&lt;/th&gt;
+          &lt;th&gt;Explanation&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Why amortize?&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;To match the expense with the benefit over time, not just in the year it occurs.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Impact on Income Statement&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Smooths out earnings by spreading the cost over multiple years.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Impact on Balance Sheet&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Shows the remaining obligation or prepaid amount related to future drydocking.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Regulatory Requirement&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Some industries (like shipping) require regular drydocking, making this practice standard.&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2&gt;✅ Summary&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-summary&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-summary&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Drydocking expenses are amortized&lt;/strong&gt; in the yearly financial statements to &lt;strong&gt;reflect the true cost of maintaining the vessel over its useful life&lt;/strong&gt;, rather than recognizing the entire expense in the year it occurs. This approach follows the &lt;strong&gt;matching principle&lt;/strong&gt; and ensures more accurate and consistent financial reporting.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Let me know if you&amp;rsquo;d like an example of the actual journal entries for drydocking amortization!&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Analyze the impact of Cabotage on the development of Indian shipping and shipping in general around the Indian coast in the past 5 years.</title>
+      <link>http://localhost:1313/docs/parta/marecofin/cabotage_effect/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/parta/marecofin/cabotage_effect/</guid>
       <description>
         
         
@@ -488,10 +610,10 @@ The government has indicated plans for a complete removal of cabotage rules for 
     
     <item>
       <title>Break Even Point</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/breakeven/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/breakeven/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/breakeven/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/breakeven/</guid>
       <description>
         
         
@@ -682,16 +804,22 @@ $$&lt;p&gt;So, the firm must sell &lt;strong&gt;3,333 units&lt;/strong&gt; per m
     class A,B,D cost
     class C,E revenue
     class F result
-    class G,H zone&lt;/pre&gt;
+    class G,H zone&lt;/pre&gt;&lt;pre class=&#34;mermaid hx-mt-6&#34;&gt;xychart-beta
+    title &#34;Costing&#34;  
+    x-axis &#34;Units&#34; [0, 1, 2, 3, 4, 5]
+    y-axis &#34;Cost&#34; 0 --&gt; 150
+    line [100, 100, 100, 100, 100, 100]
+    line [10, 20, 30, 40, 50, 60]
+    line [110, 120, 130, 140, 150, 160]&lt;/pre&gt;
       </description>
     </item>
     
     <item>
       <title>Capital budgeting</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/capital_budgeting/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/capital_budgeting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/capital_budgeting/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/capital_budgeting/</guid>
       <description>
         
         
@@ -795,10 +923,10 @@ $\qquad \text{Payback Period} = \frac{\text{Initial Investment}}{\text{Annual Ca
     
     <item>
       <title>Cash Book</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/cashbook/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/cashbook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/cashbook/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/cashbook/</guid>
       <description>
         
         
@@ -920,10 +1048,10 @@ $\qquad \text{Payback Period} = \frac{\text{Initial Investment}}{\text{Annual Ca
     
     <item>
       <title>Classification of Costs</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/classification-of-costs/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/classification-of-costs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/classification-of-costs/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/classification-of-costs/</guid>
       <description>
         
         
@@ -1287,10 +1415,10 @@ $\qquad \text{Payback Period} = \frac{\text{Initial Investment}}{\text{Annual Ca
     
     <item>
       <title>Cost as a Dominant Factor in Influencing Innovations and Technological Developments in Shipping</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/cost-as-dominant-factor/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/cost-as-dominant-factor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/cost-as-dominant-factor/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/cost-as-dominant-factor/</guid>
       <description>
         
         
@@ -1362,10 +1490,10 @@ Cost has been a dominant and pervasive force driving innovation and technologica
     
     <item>
       <title>Costs Associated with Fleet Operation, Maintenance, and Financing (Annual)</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/costs-and-cash-flow/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/costs-and-cash-flow/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/costs-and-cash-flow/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/costs-and-cash-flow/</guid>
       <description>
         
         
@@ -1501,10 +1629,10 @@ Cost has been a dominant and pervasive force driving innovation and technologica
     
     <item>
       <title>Create Annual Budget Sheet</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/annual-budget/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/annual-budget/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/annual-budget/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/annual-budget/</guid>
       <description>
         
         
@@ -2057,16 +2185,56 @@ Cost has been a dominant and pervasive force driving innovation and technologica
       D. Marketing and Sales
       E. Legal and Professional Fees
       F. Communication and IT
-      G. Insurance (Office)&lt;/pre&gt;
+      G. Insurance (Office)&lt;/pre&gt;&lt;pre class=&#34;mermaid hx-mt-6&#34;&gt;
+graph TB
+    A[Operating Costs] --&gt; B[Fixed Costs]
+    A --&gt; C[Variable Costs]
+    
+    B --&gt; D[Crew Costs]
+    B --&gt; E[Insurance]
+    B --&gt; F[Maintenance &amp; Repair]
+    B --&gt; G[Overhead Costs]
+    
+    C --&gt; H[Fuel Costs]
+    C --&gt; I[Port Charges]
+    C --&gt; J[Lubricants &amp; Stores]
+    C --&gt; K[Other Variable Costs]
+    
+    D --&gt; L[Salaries &amp; Benefits]
+    D --&gt; M[Travel &amp; Training]
+    
+    F --&gt; N[Planned Maintenance]
+    F --&gt; O[Unplanned Maintenance]
+    
+    H --&gt; P[Bunker Fuel]
+    H --&gt; Q[Fuel Oil]
+    
+    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style B fill:#ace,stroke:#333,stroke-width:2px
+    style C fill:#ace,stroke:#333,stroke-width:2px
+    style D fill:#cdf,stroke:#333,stroke-width:1px
+    style E fill:#cdf,stroke:#333,stroke-width:1px
+    style F fill:#cdf,stroke:#333,stroke-width:1px
+    style G fill:#cdf,stroke:#333,stroke-width:1px
+    style H fill:#cdf,stroke:#333,stroke-width:1px
+    style I fill:#cdf,stroke:#333,stroke-width:1px
+    style J fill:#cdf,stroke:#333,stroke-width:1px
+    style K fill:#cdf,stroke:#333,stroke-width:1px
+    style L fill:#fff,stroke:#333,stroke-width:1px
+    style M fill:#fff,stroke:#333,stroke-width:1px
+    style N fill:#fff,stroke:#333,stroke-width:1px
+    style O fill:#fff,stroke:#333,stroke-width:1px
+    style P fill:#fff,stroke:#333,stroke-width:1px
+    style Q fill:#fff,stroke:#333,stroke-width:1px&lt;/pre&gt;
       </description>
     </item>
     
     <item>
       <title>Credit Risk Analysis</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/credit-risk-analysis/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/credit-risk-analysis/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/credit-risk-analysis/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/credit-risk-analysis/</guid>
       <description>
         
         
@@ -2106,11 +2274,149 @@ Cost has been a dominant and pervasive force driving innovation and technologica
     </item>
     
     <item>
-      <title>Exchange Rate Dynamics and how the Master influences it</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/exchange-rate/</link>
+      <title>Depreciation versus Amortization</title>
+      <link>http://localhost:1313/docs/parta/marecofin/depreciation-vs-amortization/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/exchange-rate/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/depreciation-vs-amortization/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;🔍 What is Depreciation?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-what-is-depreciation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-what-is-depreciation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;📌 Definition:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-definition&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-definition&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Depreciation&lt;/strong&gt; is the process of allocating the &lt;strong&gt;cost of a tangible fixed asset&lt;/strong&gt; (like machinery, buildings, or vehicles) over its useful life.&lt;/p&gt;
+&lt;h3&gt;🧩 Key Features:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-key-features&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-key-features&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Applies to &lt;strong&gt;tangible assets&lt;/strong&gt; (physical assets).&lt;/li&gt;
+&lt;li&gt;Reflects the decline in value due to &lt;strong&gt;use, wear and tear, or obsolescence&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Common methods: Straight Line, Written Down Value, Units of Production, etc.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;📌 Example:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-example&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-example&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A company buys a machine for $50,000 with a 10-year useful life and no salvage value.&lt;br&gt;
+Using straight-line depreciation:&lt;/p&gt;
+$$
+\text{Annual Depreciation} = \frac{50,000 - 0}{10} = \$5,000
+$$&lt;p&gt;So, every year, the company records a $5,000 expense for depreciation.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;🔍 What is Amortization?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-what-is-amortization&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-what-is-amortization&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;📌 Definition:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-definition-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-definition-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;Amortization&lt;/strong&gt; is the process of allocating the &lt;strong&gt;cost of an intangible asset&lt;/strong&gt; (like patents, trademarks, copyrights, or software) over its useful life.&lt;/p&gt;
+&lt;h3&gt;🧩 Key Features:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-key-features-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-key-features-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Applies to &lt;strong&gt;intangible assets&lt;/strong&gt; (non-physical assets).&lt;/li&gt;
+&lt;li&gt;Reflects the loss of value over time, often due to &lt;strong&gt;expiration or legal restrictions&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Usually follows the &lt;strong&gt;straight-line method&lt;/strong&gt;, but can vary.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;📌 Example:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-example-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-example-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A company acquires a patent for $200,000 with a 20-year useful life.&lt;/p&gt;
+$$
+\text{Annual Amortization} = \frac{200,000 - 0}{20} = \$10,000
+$$&lt;p&gt;So, each year, the company records a $10,000 amortization expense.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;✅ Key Differences Between Depreciation and Amortization&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-key-differences-between-depreciation-and-amortization&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-key-differences-between-depreciation-and-amortization&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Feature&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Depreciation&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Amortization&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Type of Asset&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Tangible assets (machines, buildings, etc.)&lt;/td&gt;
+          &lt;td&gt;Intangible assets (patents, trademarks, etc.)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Purpose&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;To account for physical wear and tear&lt;/td&gt;
+          &lt;td&gt;To account for loss of value over time&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Common Method&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Straight line, reducing balance, units&lt;/td&gt;
+          &lt;td&gt;Usually straight line&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Salvage Value&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;May be considered&lt;/td&gt;
+          &lt;td&gt;Not typically considered&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Example&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;A factory building&lt;/td&gt;
+          &lt;td&gt;A trademark&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2&gt;🧠 Summary Table&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-summary-table&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-summary-table&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Term&lt;/th&gt;
+          &lt;th&gt;Type of Asset&lt;/th&gt;
+          &lt;th&gt;Purpose&lt;/th&gt;
+          &lt;th&gt;Method Used&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Depreciation&lt;/td&gt;
+          &lt;td&gt;Tangible&lt;/td&gt;
+          &lt;td&gt;Physical wear &amp;amp; tear&lt;/td&gt;
+          &lt;td&gt;Straight line, etc.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Amortization&lt;/td&gt;
+          &lt;td&gt;Intangible&lt;/td&gt;
+          &lt;td&gt;Loss of value due to expiration&lt;/td&gt;
+          &lt;td&gt;Straight line&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2&gt;💡 Important Notes:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-important-notes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-important-notes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Both are non-cash expenses&lt;/strong&gt; that reduce net income.&lt;/li&gt;
+&lt;li&gt;They help match the &lt;strong&gt;cost of the asset&lt;/strong&gt; with the &lt;strong&gt;revenue it generates&lt;/strong&gt; over time.&lt;/li&gt;
+&lt;li&gt;In some countries (like the U.S.), &lt;strong&gt;amortization&lt;/strong&gt; may also be used for &lt;strong&gt;loan repayments&lt;/strong&gt;, which is different from &lt;strong&gt;accounting amortization&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;📌 When to Use Each:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-when-to-use-each&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-when-to-use-each&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Use &lt;strong&gt;depreciation&lt;/strong&gt; for &lt;strong&gt;physical assets&lt;/strong&gt; like:
+&lt;ul&gt;
+&lt;li&gt;Buildings&lt;/li&gt;
+&lt;li&gt;Vehicles&lt;/li&gt;
+&lt;li&gt;Equipment&lt;/li&gt;
+&lt;li&gt;Computers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Use &lt;strong&gt;amortization&lt;/strong&gt; for &lt;strong&gt;intangible assets&lt;/strong&gt; like:
+&lt;ul&gt;
+&lt;li&gt;Patents&lt;/li&gt;
+&lt;li&gt;Trademarks&lt;/li&gt;
+&lt;li&gt;Software&lt;/li&gt;
+&lt;li&gt;Licenses&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;✅ Final Thought:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-final-thought&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-final-thought&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;While &lt;strong&gt;depreciation&lt;/strong&gt; and &lt;strong&gt;amortization&lt;/strong&gt; are similar in purpose (allocating asset cost over time), they differ in the type of asset they apply to. Understanding this distinction is essential for accurate financial reporting and tax compliance.&lt;/p&gt;
+&lt;p&gt;Let me know if you&amp;rsquo;d like examples of journal entries for depreciation or amortization!&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Exchange Rate Dynamics and how the Master influences it</title>
+      <link>http://localhost:1313/docs/parta/marecofin/exchange-rate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/parta/marecofin/exchange-rate/</guid>
       <description>
         
         
@@ -2185,10 +2491,10 @@ Cost has been a dominant and pervasive force driving innovation and technologica
     
     <item>
       <title>Fixed Costs and Variable Costs -Breakeven</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/costs_fixed_and_variable/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/costs_fixed_and_variable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/costs_fixed_and_variable/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/costs_fixed_and_variable/</guid>
       <description>
         
         
@@ -2381,10 +2687,10 @@ $$&lt;hr&gt;
     
     <item>
       <title>Forward Freight Agreement</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/ffa/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/ffa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/ffa/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/ffa/</guid>
       <description>
         
         
@@ -2448,10 +2754,10 @@ Cape 5tc - The freight future settlement prices are based on the Capesize time c
     
     <item>
       <title>Freight pricing in Shipping Markets</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/freight-pricing/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/freight-pricing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/freight-pricing/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/freight-pricing/</guid>
       <description>
         
         
@@ -2508,10 +2814,10 @@ Cape 5tc - The freight future settlement prices are based on the Capesize time c
     
     <item>
       <title>How the Shipowners control Freight pricing in Shipping Markets</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/shipowner_control-pricing/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/shipowner_control-pricing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/shipowner_control-pricing/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/shipowner_control-pricing/</guid>
       <description>
         
         
@@ -2568,11 +2874,326 @@ Cape 5tc - The freight future settlement prices are based on the Capesize time c
     </item>
     
     <item>
-      <title>Long-Term Sources of Finance for Organizations</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/long_term_finance_options/</link>
+      <title>how to make entries in the balance sheet</title>
+      <link>http://localhost:1313/docs/parta/marecofin/how-to-make-entries-in-the-balance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/long_term_finance_options/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/how-to-make-entries-in-the-balance/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Making entries in the &lt;strong&gt;balance sheet&lt;/strong&gt; involves recording the financial position of a business at a specific point in time. The balance sheet follows the &lt;strong&gt;accounting equation&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Assets = Liabilities + Equity&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;To make entries in the balance sheet, you need to classify and record all &lt;strong&gt;assets&lt;/strong&gt;, &lt;strong&gt;liabilities&lt;/strong&gt;, and &lt;strong&gt;equity&lt;/strong&gt; accounts. Here&amp;rsquo;s how to do it step by step:&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;📌 Step-by-Step Guide to Making Entries in the Balance Sheet&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-step-by-step-guide-to-making-entries-in-the-balance-sheet&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-step-by-step-guide-to-making-entries-in-the-balance-sheet&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;1. &lt;strong&gt;Understand the Components of the Balance Sheet&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-understand-the-components-of-the-balance-sheet&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-understand-the-components-of-the-balance-sheet&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The balance sheet has three main sections:&lt;/p&gt;
+&lt;h4&gt;A. &lt;strong&gt;Assets&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;a-assets&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#a-assets&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;These are resources owned by the company that have economic value.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Current Assets&lt;/strong&gt;: Can be converted into cash within one year (e.g., cash, accounts receivable, inventory).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Non-Current Assets&lt;/strong&gt;: Long-term assets (e.g., property, plant &amp;amp; equipment, intangible assets).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;B. &lt;strong&gt;Liabilities&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;b-liabilities&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#b-liabilities&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;These are obligations the company owes to others.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Current Liabilities&lt;/strong&gt;: Due within one year (e.g., accounts payable, short-term loans).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Non-Current Liabilities&lt;/strong&gt;: Not due for more than one year (e.g., long-term debt, deferred tax liabilities).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;C. &lt;strong&gt;Equity&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;c-equity&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#c-equity&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;This is the owner’s or shareholders’ stake in the company.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Includes &lt;strong&gt;common stock&lt;/strong&gt;, &lt;strong&gt;retained earnings&lt;/strong&gt;, and &lt;strong&gt;additional paid-in capital&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;2. &lt;strong&gt;Gather Financial Data&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-gather-financial-data&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-gather-financial-data&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Collect information from the general ledger and other financial records:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Bank statements&lt;/li&gt;
+&lt;li&gt;Accounts receivable and payable reports&lt;/li&gt;
+&lt;li&gt;Inventory records&lt;/li&gt;
+&lt;li&gt;Loan agreements&lt;/li&gt;
+&lt;li&gt;Shareholder equity details&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3&gt;3. &lt;strong&gt;Classify Each Account&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-classify-each-account&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-classify-each-account&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Ensure each account is correctly classified as an asset, liability, or equity item.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Account Name&lt;/th&gt;
+          &lt;th&gt;Type&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Cash&lt;/td&gt;
+          &lt;td&gt;Asset&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Accounts Receivable&lt;/td&gt;
+          &lt;td&gt;Asset&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Inventory&lt;/td&gt;
+          &lt;td&gt;Asset&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Accounts Payable&lt;/td&gt;
+          &lt;td&gt;Liability&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Loans Payable&lt;/td&gt;
+          &lt;td&gt;Liability&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Common Stock&lt;/td&gt;
+          &lt;td&gt;Equity&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Retained Earnings&lt;/td&gt;
+          &lt;td&gt;Equity&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h3&gt;4. &lt;strong&gt;Prepare the Balance Sheet Format&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-prepare-the-balance-sheet-format&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-prepare-the-balance-sheet-format&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Here’s a basic format:&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+  
+
+&lt;pre&gt;&lt;code&gt;Balance Sheet
+As of [Date]
+
+ASSETS
+Current Assets:
+  - Cash
+  - Accounts Receivable
+  - Inventory
+  - Prepaid Expenses
+Total Current Assets
+
+Non-Current Assets:
+  - Property, Plant &amp;amp; Equipment
+  - Accumulated Depreciation
+  - Intangible Assets
+Total Non-Current Assets
+
+Total Assets
+
+LIABILITIES AND EQUITY
+
+Current Liabilities:
+  - Accounts Payable
+  - Short-Term Debt
+  - Accrued Expenses
+Total Current Liabilities
+
+Non-Current Liabilities:
+  - Long-Term Debt
+  - Deferred Revenue
+Total Non-Current Liabilities
+
+Total Liabilities
+
+Equity:
+  - Common Stock
+  - Additional Paid-In Capital
+  - Retained Earnings
+Total Equity
+
+Total Liabilities and Equity&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+  
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3&gt;5. &lt;strong&gt;Record the Amounts&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-record-the-amounts&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#5-record-the-amounts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Enter the correct amounts under each category based on your accounting records.&lt;/p&gt;
+&lt;p&gt;Example:&lt;/p&gt;
+&lt;div class=&#34;hextra-code-block hx-relative hx-mt-6 first:hx-mt-0 hx-group/code&#34;&gt;
+  
+
+&lt;pre&gt;&lt;code&gt;Cash: $10,000  
+Accounts Receivable: $5,000  
+Inventory: $8,000  
+Total Current Assets: $23,000  
+
+Property, Plant &amp;amp; Equipment: $50,000  
+Accumulated Depreciation: ($10,000)  
+Total Non-Current Assets: $40,000  
+
+Total Assets: $63,000  
+
+Accounts Payable: $7,000  
+Short-Term Debt: $3,000  
+Total Current Liabilities: $10,000  
+
+Long-Term Debt: $15,000  
+Total Non-Current Liabilities: $15,000  
+
+Total Liabilities: $25,000  
+
+Common Stock: $20,000  
+Retained Earnings: $18,000  
+Total Equity: $38,000  
+
+Total Liabilities and Equity: $63,000&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;hextra-code-copy-btn-container hx-opacity-0 hx-transition group-hover/code:hx-opacity-100 hx-flex hx-gap-1 hx-absolute hx-m-[11px] hx-right-0 hx-top-0&#34;&gt;
+  &lt;button
+    class=&#34;hextra-code-copy-btn hx-group/copybtn hx-transition-all active:hx-opacity-50 hx-bg-primary-700/5 hx-border hx-border-black/5 hx-text-gray-600 hover:hx-text-gray-900 hx-rounded-md hx-p-1.5 dark:hx-bg-primary-300/10 dark:hx-border-white/10 dark:hx-text-gray-400 dark:hover:hx-text-gray-50&#34;
+    title=&#34;Copy code&#34;
+  &gt;
+    &lt;div class=&#34;copy-icon group-[.copied]/copybtn:hx-hidden hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+    &lt;div class=&#34;success-icon hx-hidden group-[.copied]/copybtn:hx-block hx-pointer-events-none hx-h-4 hx-w-4&#34;&gt;&lt;/div&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+  
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h3&gt;6. &lt;strong&gt;Verify the Accounting Equation&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;6-verify-the-accounting-equation&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#6-verify-the-accounting-equation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Always check that:&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Assets = Liabilities + Equity&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In the example above:&lt;br&gt;
+$63,000 = $25,000 + $38,000 ✅&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3&gt;7. &lt;strong&gt;Review and Finalize&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;7-review-and-finalize&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#7-review-and-finalize&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Check for any errors in classification or amounts.&lt;/li&gt;
+&lt;li&gt;Ensure all accounts are included.&lt;/li&gt;
+&lt;li&gt;Make sure the date is correct.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;💡 Tips for Accurate Balance Sheet Entries&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-tips-for-accurate-balance-sheet-entries&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-tips-for-accurate-balance-sheet-entries&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Use &lt;strong&gt;double-entry bookkeeping&lt;/strong&gt; to ensure accuracy.&lt;/li&gt;
+&lt;li&gt;Regularly update the balance sheet to reflect current financial status.&lt;/li&gt;
+&lt;li&gt;Use accounting software (like QuickBooks, Xero, or Excel) to automate the process.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;🧾 Example of a Simple Balance Sheet&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-example-of-a-simple-balance-sheet&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-example-of-a-simple-balance-sheet&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;Balance Sheet&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Amount&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Assets&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Cash&lt;/td&gt;
+          &lt;td&gt;$10,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Accounts Receivable&lt;/td&gt;
+          &lt;td&gt;$5,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Inventory&lt;/td&gt;
+          &lt;td&gt;$8,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Total Current Assets&lt;/td&gt;
+          &lt;td&gt;$23,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Property &amp;amp; Equipment&lt;/td&gt;
+          &lt;td&gt;$50,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Less: Depreciation&lt;/td&gt;
+          &lt;td&gt;($10,000)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Total Non-Current Assets&lt;/td&gt;
+          &lt;td&gt;$40,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Total Assets&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;$63,000&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Liabilities&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Accounts Payable&lt;/td&gt;
+          &lt;td&gt;$7,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Short-Term Debt&lt;/td&gt;
+          &lt;td&gt;$3,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Total Current Liabilities&lt;/td&gt;
+          &lt;td&gt;$10,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Long-Term Debt&lt;/td&gt;
+          &lt;td&gt;$15,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Total Liabilities&lt;/td&gt;
+          &lt;td&gt;$25,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Equity&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Common Stock&lt;/td&gt;
+          &lt;td&gt;$20,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Retained Earnings&lt;/td&gt;
+          &lt;td&gt;$18,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Total Equity&lt;/td&gt;
+          &lt;td&gt;$38,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Total Liabilities and Equity&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;$63,000&lt;/strong&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;Let me know if you&amp;rsquo;d like help preparing a balance sheet for a specific business or scenario!&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Long-Term Sources of Finance for Organizations</title>
+      <link>http://localhost:1313/docs/parta/marecofin/long_term_finance_options/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/parta/marecofin/long_term_finance_options/</guid>
       <description>
         
         
@@ -2753,10 +3374,10 @@ Cape 5tc - The freight future settlement prices are based on the Capesize time c
     
     <item>
       <title>Main Books of Account</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/accbooks/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/accbooks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/accbooks/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/accbooks/</guid>
       <description>
         
         
@@ -3015,10 +3636,10 @@ Cape 5tc - The freight future settlement prices are based on the Capesize time c
     
     <item>
       <title>Market Viability</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/viability/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/viability/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/viability/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/viability/</guid>
       <description>
         
         
@@ -3168,10 +3789,10 @@ Cape 5tc - The freight future settlement prices are based on the Capesize time c
     
     <item>
       <title>Read Balance sheets</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/readbalance-sheets/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/readbalance-sheets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/readbalance-sheets/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/readbalance-sheets/</guid>
       <description>
         
         
@@ -3312,10 +3933,10 @@ The &amp;ldquo;financial services&amp;rdquo; aspect you mentioned could come int
     
     <item>
       <title>Ship Size and Economies of Scale</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/shipsize-and-economies-of-sale/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/shipsize-and-economies-of-sale/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/shipsize-and-economies-of-sale/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/shipsize-and-economies-of-sale/</guid>
       <description>
         
         
@@ -3360,10 +3981,10 @@ The &amp;ldquo;financial services&amp;rdquo; aspect you mentioned could come int
     
     <item>
       <title>Shipping Derivatives</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/shipping-finance-derivatives/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/shipping-finance-derivatives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/shipping-finance-derivatives/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/shipping-finance-derivatives/</guid>
       <description>
         
         
@@ -3471,10 +4092,10 @@ The &amp;ldquo;financial services&amp;rdquo; aspect you mentioned could come int
     
     <item>
       <title>Short Notes</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/short-notes/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/short-notes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/short-notes/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/short-notes/</guid>
       <description>
         
         
@@ -3554,10 +4175,10 @@ c. Why would (1) financial institutions and (ii) the public in general be intere
     
     <item>
       <title>The German KG System</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/deutsch_kg/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/deutsch_kg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/deutsch_kg/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/deutsch_kg/</guid>
       <description>
         
         
@@ -3743,10 +4364,10 @@ c. Why would (1) financial institutions and (ii) the public in general be intere
     
     <item>
       <title>Time Value of Money</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/time_value_of_money/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/time_value_of_money/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/time_value_of_money/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/time_value_of_money/</guid>
       <description>
         
         
@@ -3839,10 +4460,10 @@ c. Why would (1) financial institutions and (ii) the public in general be intere
     
     <item>
       <title>Trading Finance</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/trading-finance/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/trading-finance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/trading-finance/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/trading-finance/</guid>
       <description>
         
         
@@ -3973,10 +4594,10 @@ c. Why would (1) financial institutions and (ii) the public in general be intere
     
     <item>
       <title>Trial balance</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/trial-balance/</link>
+      <link>http://localhost:1313/docs/parta/marecofin/trial-balance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/trial-balance/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/trial-balance/</guid>
       <description>
         
         
@@ -4186,11 +4807,293 @@ c. Why would (1) financial institutions and (ii) the public in general be intere
     </item>
     
     <item>
-      <title>What Factors affect success of entreprneurship</title>
-      <link>https://anirbanmarine.in/docs/parta/marecofin/entrepreneurship_factors/</link>
+      <title>Types of Depreciation and how to do it</title>
+      <link>http://localhost:1313/docs/parta/marecofin/depreciation-/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://anirbanmarine.in/docs/parta/marecofin/entrepreneurship_factors/</guid>
+      <guid>http://localhost:1313/docs/parta/marecofin/depreciation-/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;✅ 1. &lt;strong&gt;Straight Line Method (SLM)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-1-straight-line-method-slm&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-1-straight-line-method-slm&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;📌 Definition:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-definition&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-definition&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;This is the simplest and most commonly used method. The asset depreciates by the same amount each year.&lt;/p&gt;
+&lt;h3&gt;🧮 Formula:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-formula&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-formula&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;$$
+\text{Annual Depreciation} = \frac{\text{Cost of Asset} - \text{Salvage Value}}{\text{Useful Life}}
+$$&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Cost of Asset&lt;/strong&gt;: Initial purchase price.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Salvage Value&lt;/strong&gt;: Estimated value at the end of the asset’s useful life.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Useful Life&lt;/strong&gt;: Expected number of years the asset will be used.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;📌 Example:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-example&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-example&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;If a machine costs $10,000, has a salvage value of $2,000, and a useful life of 5 years:&lt;/p&gt;
+$$
+\text{Depreciation} = \frac{10,000 - 2,000}{5} = \frac{8,000}{5} = \$1,600 \text{ per year}
+$$&lt;h3&gt;💡 Advantages:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-advantages&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-advantages&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Simple to calculate.&lt;/li&gt;
+&lt;li&gt;Provides consistent expense each year.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;⚠️ Disadvantages:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-disadvantages&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-disadvantages&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Doesn’t reflect the actual usage pattern of the asset.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;✅ 2. &lt;strong&gt;Written Down Value Method (WDV) / Reducing Balance Method&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-2-written-down-value-method-wdv--reducing-balance-method&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-2-written-down-value-method-wdv--reducing-balance-method&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;📌 Definition:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-definition-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-definition-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Under this method, depreciation is calculated on the &lt;strong&gt;book value&lt;/strong&gt; (original cost minus accumulated depreciation) of the asset each year. The rate is usually higher in the early years and decreases over time.&lt;/p&gt;
+&lt;h3&gt;🧮 Formula:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-formula-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-formula-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;$$
+\text{Annual Depreciation} = \text{Book Value} \times \text{Depreciation Rate}
+$$&lt;h3&gt;📌 Example:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-example-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-example-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A machine costs $10,000, with a depreciation rate of 20% per annum.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Year&lt;/th&gt;
+          &lt;th&gt;Book Value&lt;/th&gt;
+          &lt;th&gt;Depreciation&lt;/th&gt;
+          &lt;th&gt;Accumulated Depreciation&lt;/th&gt;
+          &lt;th&gt;Net Book Value&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;$10,000&lt;/td&gt;
+          &lt;td&gt;$2,000&lt;/td&gt;
+          &lt;td&gt;$2,000&lt;/td&gt;
+          &lt;td&gt;$8,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;$8,000&lt;/td&gt;
+          &lt;td&gt;$1,600&lt;/td&gt;
+          &lt;td&gt;$3,600&lt;/td&gt;
+          &lt;td&gt;$6,400&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td&gt;$6,400&lt;/td&gt;
+          &lt;td&gt;$1,280&lt;/td&gt;
+          &lt;td&gt;$4,880&lt;/td&gt;
+          &lt;td&gt;$5,120&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;💡 Advantages:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-advantages-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-advantages-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Reflects the fact that assets lose more value early in their life.&lt;/li&gt;
+&lt;li&gt;Matches revenue with expenses better for tax purposes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;⚠️ Disadvantages:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-disadvantages-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-disadvantages-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Not suitable for all types of assets (e.g., land).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;✅ 3. &lt;strong&gt;Units of Production Method&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-3-units-of-production-method&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-3-units-of-production-method&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;📌 Definition:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-definition-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-definition-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Depreciation is based on the &lt;strong&gt;actual usage&lt;/strong&gt; of the asset rather than time.&lt;/p&gt;
+&lt;h3&gt;🧮 Formula:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-formula-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-formula-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;$$
+\text{Depreciation per Unit} = \frac{\text{Cost of Asset} - \text{Salvage Value}}{\text{Total Estimated Units}}
+$$$$
+\text{Annual Depreciation} = \text{Depreciation per Unit} \times \text{Units Produced}
+$$&lt;h3&gt;📌 Example:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-example-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-example-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Machine costs $10,000, salvage value $1,000, estimated production: 9,000 units.&lt;/p&gt;
+$$
+\text{Depreciation per unit} = \frac{10,000 - 1,000}{9,000} = \frac{9,000}{9,000} = \$1 \text{ per unit}
+$$&lt;p&gt;If 1,000 units are produced in a year:&lt;/p&gt;
+$$
+\text{Depreciation} = 1,000 \times 1 = \$1,000
+$$&lt;h3&gt;💡 Advantages:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-advantages-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-advantages-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Accurate when usage varies significantly from year to year.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;⚠️ Disadvantages:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-disadvantages-2&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-disadvantages-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Requires accurate estimates of total units.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;✅ 4. &lt;strong&gt;Double Declining Balance Method (DDB)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-4-double-declining-balance-method-ddb&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-4-double-declining-balance-method-ddb&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;📌 Definition:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-definition-3&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-definition-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;An accelerated depreciation method where the depreciation rate is double the straight-line rate.&lt;/p&gt;
+&lt;h3&gt;🧮 Formula:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-formula-3&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-formula-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;$$
+\text{Depreciation Rate} = \frac{2}{\text{Useful Life}} \times 100
+$$&lt;p&gt;Then apply it to the book value each year.&lt;/p&gt;
+&lt;h3&gt;📌 Example:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-example-3&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-example-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Asset costs $10,000, useful life 5 years.&lt;/p&gt;
+$$
+\text{Rate} = \frac{2}{5} = 40\%
+$$&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Year&lt;/th&gt;
+          &lt;th&gt;Book Value&lt;/th&gt;
+          &lt;th&gt;Depreciation&lt;/th&gt;
+          &lt;th&gt;Accumulated Depreciation&lt;/th&gt;
+          &lt;th&gt;Net Book Value&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;$10,000&lt;/td&gt;
+          &lt;td&gt;$4,000&lt;/td&gt;
+          &lt;td&gt;$4,000&lt;/td&gt;
+          &lt;td&gt;$6,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;$6,000&lt;/td&gt;
+          &lt;td&gt;$2,400&lt;/td&gt;
+          &lt;td&gt;$6,400&lt;/td&gt;
+          &lt;td&gt;$3,600&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td&gt;$3,600&lt;/td&gt;
+          &lt;td&gt;$1,440&lt;/td&gt;
+          &lt;td&gt;$7,840&lt;/td&gt;
+          &lt;td&gt;$2,160&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;💡 Advantages:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-advantages-3&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-advantages-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Useful for assets that lose value quickly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;⚠️ Disadvantages:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-disadvantages-3&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-disadvantages-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Can result in negative book value if not adjusted.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;✅ 5. &lt;strong&gt;Sum of Years’ Digits Method (SYD)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-5-sum-of-years-digits-method-syd&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-5-sum-of-years-digits-method-syd&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;📌 Definition:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-definition-4&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-definition-4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Another accelerated method where depreciation is based on the sum of the digits of the asset&amp;rsquo;s useful life.&lt;/p&gt;
+&lt;h3&gt;🧮 Formula:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-formula-4&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-formula-4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;$$
+\text{Depreciation} = \left( \frac{\text{Remaining Useful Life}}{\text{Sum of Years&#39; Digits}} \right) \times (\text{Cost} - \text{Salvage Value})
+$$&lt;h3&gt;📌 Example:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-example-4&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-example-4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Asset costs $10,000, salvage $1,000, useful life 5 years.&lt;/p&gt;
+&lt;p&gt;Sum of years = 1 + 2 + 3 + 4 + 5 = 15&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Year&lt;/th&gt;
+          &lt;th&gt;Remaining Life&lt;/th&gt;
+          &lt;th&gt;Depreciation&lt;/th&gt;
+          &lt;th&gt;Accumulated Depreciation&lt;/th&gt;
+          &lt;th&gt;Net Book Value&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;5&lt;/td&gt;
+          &lt;td&gt;$3,000&lt;/td&gt;
+          &lt;td&gt;$3,000&lt;/td&gt;
+          &lt;td&gt;$7,000&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;4&lt;/td&gt;
+          &lt;td&gt;$2,400&lt;/td&gt;
+          &lt;td&gt;$5,400&lt;/td&gt;
+          &lt;td&gt;$4,600&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td&gt;3&lt;/td&gt;
+          &lt;td&gt;$1,800&lt;/td&gt;
+          &lt;td&gt;$7,200&lt;/td&gt;
+          &lt;td&gt;$2,800&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;4&lt;/td&gt;
+          &lt;td&gt;2&lt;/td&gt;
+          &lt;td&gt;$1,200&lt;/td&gt;
+          &lt;td&gt;$8,400&lt;/td&gt;
+          &lt;td&gt;$1,600&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;5&lt;/td&gt;
+          &lt;td&gt;1&lt;/td&gt;
+          &lt;td&gt;$600&lt;/td&gt;
+          &lt;td&gt;$9,000&lt;/td&gt;
+          &lt;td&gt;$1,000&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3&gt;💡 Advantages:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-advantages-4&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-advantages-4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Accelerated depreciation, similar to DDB.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3&gt;⚠️ Disadvantages:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-disadvantages-4&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-disadvantages-4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;More complex calculations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;🔍 Summary Table: Types of Depreciation Methods&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-summary-table-types-of-depreciation-methods&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-summary-table-types-of-depreciation-methods&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Method&lt;/th&gt;
+          &lt;th&gt;Description&lt;/th&gt;
+          &lt;th&gt;Best For&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Straight Line&lt;/td&gt;
+          &lt;td&gt;Same depreciation every year&lt;/td&gt;
+          &lt;td&gt;Assets with even usage&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Written Down Value&lt;/td&gt;
+          &lt;td&gt;Depreciation based on book value&lt;/td&gt;
+          &lt;td&gt;Assets that lose value fast&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Units of Production&lt;/td&gt;
+          &lt;td&gt;Based on actual usage&lt;/td&gt;
+          &lt;td&gt;Machinery, equipment, etc.&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Double Declining&lt;/td&gt;
+          &lt;td&gt;Double the straight-line rate&lt;/td&gt;
+          &lt;td&gt;Assets that depreciate faster&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Sum of Years’ Digits&lt;/td&gt;
+          &lt;td&gt;Accelerated depreciation&lt;/td&gt;
+          &lt;td&gt;Assets with high initial value&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2&gt;📌 Choosing the Right Method&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;-choosing-the-right-method&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#-choosing-the-right-method&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;The choice of depreciation method depends on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Nature of the asset&lt;/li&gt;
+&lt;li&gt;Tax regulations&lt;/li&gt;
+&lt;li&gt;Accounting standards (e.g., IFRS, GAAP)&lt;/li&gt;
+&lt;li&gt;Management preferences&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Let me know if you want help calculating depreciation using any specific method or for a particular asset!&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>What Factors affect success of entreprneurship</title>
+      <link>http://localhost:1313/docs/parta/marecofin/entrepreneurship_factors/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/parta/marecofin/entrepreneurship_factors/</guid>
       <description>
         
         

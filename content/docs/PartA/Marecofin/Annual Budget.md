@@ -207,4 +207,46 @@ mindmap
       F. Communication and IT
       G. Insurance (Office)
 ```
+```mermaid
 
+graph TB
+    A[Operating Costs] --> B[Fixed Costs]
+    A --> C[Variable Costs]
+    
+    B --> D[Crew Costs]
+    B --> E[Insurance]
+    B --> F[Maintenance & Repair]
+    B --> G[Overhead Costs]
+    
+    C --> H[Fuel Costs]
+    C --> I[Port Charges]
+    C --> J[Lubricants & Stores]
+    C --> K[Other Variable Costs]
+    
+    D --> L[Salaries & Benefits]
+    D --> M[Travel & Training]
+    
+    F --> N[Planned Maintenance]
+    F --> O[Unplanned Maintenance]
+    
+    H --> P[Bunker Fuel]
+    H --> Q[Fuel Oil]
+    
+    style A fill:#f9f,stroke:#333,stroke-width:4px
+    style B fill:#ace,stroke:#333,stroke-width:2px
+    style C fill:#ace,stroke:#333,stroke-width:2px
+    style D fill:#cdf,stroke:#333,stroke-width:1px
+    style E fill:#cdf,stroke:#333,stroke-width:1px
+    style F fill:#cdf,stroke:#333,stroke-width:1px
+    style G fill:#cdf,stroke:#333,stroke-width:1px
+    style H fill:#cdf,stroke:#333,stroke-width:1px
+    style I fill:#cdf,stroke:#333,stroke-width:1px
+    style J fill:#cdf,stroke:#333,stroke-width:1px
+    style K fill:#cdf,stroke:#333,stroke-width:1px
+    style L fill:#fff,stroke:#333,stroke-width:1px
+    style M fill:#fff,stroke:#333,stroke-width:1px
+    style N fill:#fff,stroke:#333,stroke-width:1px
+    style O fill:#fff,stroke:#333,stroke-width:1px
+    style P fill:#fff,stroke:#333,stroke-width:1px
+    style Q fill:#fff,stroke:#333,stroke-width:1px
+```

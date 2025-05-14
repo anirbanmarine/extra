@@ -161,3 +161,12 @@ graph LR
     class F result
     class G,H zone
 ```
+```mermaid
+xychart-beta
+    title "Costing"  
+    x-axis "Units" [0, 1, 2, 3, 4, 5]
+    y-axis "Cost" 0 --> 150
+    line [100, 100, 100, 100, 100, 100]
+    line [10, 20, 30, 40, 50, 60]
+    line [110, 120, 130, 140, 150, 160]
+```
