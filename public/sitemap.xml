@@ -30,7 +30,7 @@
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlaw/indianwaterawys/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/special_navigation_problems/different_lat/</loc>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/different_lat/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/cont/</loc>
   </url><url>
@@ -41,6 +41,12 @@
     <loc>http://localhost:1313/docs/partc/em303/averageadjustment/addback/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/sueandlabourclause/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_44/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_47/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_50/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</loc>
   </url><url>
@@ -110,7 +116,7 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cargoinsurance/cgorskfac/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/cyber_security_case_studies/</loc>
+    <loc>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_security_case_studies/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/cashbook/</loc>
   </url><url>
@@ -126,7 +132,7 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/cng/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/utc/</loc>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/utc/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/tides/cotidal/</loc>
   </url><url>
@@ -141,10 +147,6 @@
     <loc>http://localhost:1313/docs/parta/marlead/management/communication_management/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlaw/comparison-between-rules-/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/compass-adjustment/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/compass_construction_and-siting/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cabotage/cabotageconcept/</loc>
   </url><url>
@@ -176,6 +178,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/transformers_cu_losses/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_11/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/cost-as-dominant-factor/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/management/cost_management/</loc>
@@ -193,8 +197,6 @@
     <loc>http://localhost:1313/docs/partc/em303/indianinsurance/currentexclusions/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/cyber_security/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/cyber_security_in_ports/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/meteorology/cyclones/</loc>
   </url><url>
@@ -218,6 +220,96 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em302/intropm/portfunc/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/advancements/prompt_4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/advancements/prompt_6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/advancements/prompt_1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/advancements/prompt_2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/advancements/prompt_8/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/advancements/prompt_7/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/advancements/prompt_5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/advancements/prompt_11/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/advancements/prompt_10/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/advancements/prompt_9/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/advancements/prompt_3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/advancements/prompt_13/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/advancements/prompt_12/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/advancements/prompt_15/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/advancements/prompt_16/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/advancements/prompt_14/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_7/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_11/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_9/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_8/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_10/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_20/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_15/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_12/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_13/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_14/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_16/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_19/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_18/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_17/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_24/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_25/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_21/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_22/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_23/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_28/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_27/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_29/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/prompt_26/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/intro/distinguishingleadershipfunc/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/watermass/</loc>
@@ -230,6 +322,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/eedi_eeoi/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_10/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em301/meteorology/el-nino/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/</loc>
@@ -237,6 +331,10 @@
     <loc>http://localhost:1313/docs/parta/marecofin/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlaw/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/advancements/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/celnav/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/</loc>
   </url><url>
@@ -252,6 +350,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/management/shackletonway/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_9/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em301/tides/datums/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/misc_aspects_of_leadership/ethical_and_darksides/</loc>
@@ -259,6 +359,8 @@
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/excperiods/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/exchange-rate/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_1/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/extrachrges/</loc>
   </url><url>
@@ -304,6 +406,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/tides/gktides/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_52/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/rocks/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/marfish/fishgrnd/</loc>
@@ -337,6 +441,8 @@
     <loc>http://localhost:1313/docs/partc/em301/hydrosurv/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/ice/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_49/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/ship_designs/pax/imo_pax_safety/</loc>
   </url><url>
@@ -380,13 +486,7 @@
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/intro/keyleadershiptheories/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/latest_nav_aids/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/latest_nav_equipments/</loc>
-  </url><url>
     <loc>http://localhost:1313/docs/parta/marlaw/law-of-agency/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/laws_of_palentary_motion/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/laytimecalc/</loc>
   </url><url>
@@ -400,7 +500,19 @@
   </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/long_term_finance_options/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/magnetism/</loc>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_8/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_3/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_5/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_4/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_2/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/accbooks/</loc>
   </url><url>
@@ -418,8 +530,6 @@
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/intro/managementsubsetofleadership/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/managing_cybersecurity_in_ports/</loc>
-  </url><url>
     <loc>http://localhost:1313/docs/partc/em302/portops/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/manoeuvring_trials/</loc>
@@ -427,6 +537,54 @@
     <loc>http://localhost:1313/docs/partc/em301/marineres/marfish/fishfarm/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/marinsurance/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_29/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_31/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_32/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_30/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_42/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_23/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_41/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_40/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_22/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_39/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_36/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_35/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_38/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_33/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_37/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_27/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_24/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_28/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_25/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_34/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_26/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_20/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_19/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_21/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/</loc>
   </url><url>
@@ -438,13 +596,13 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/robotics/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/maritime_security_on_ships/</loc>
-  </url><url>
     <loc>http://localhost:1313/docs/parta/marlaw/maritime-fraud/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/viability/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/annex6/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/parta/marlaw/law-of-torts/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/tides/msl/</loc>
   </url><url>
@@ -464,6 +622,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/mohole/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_7/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partb/engg/mooring-winches/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/management/motivation/</loc>
@@ -471,10 +631,6 @@
     <loc>http://localhost:1313/docs/parta/marlaw/msact1958/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/marinsurance/mutuality/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/navigationfomulae/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/navigationformulae/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em302/prtpln/newprtapprovalchklist/</loc>
   </url><url>
@@ -532,8 +688,6 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/hydrosurv/posfix/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/positional_errors_in_fixes/</loc>
-  </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/postfixactn/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/electricalpowerfactor/</loc>
@@ -572,8 +726,6 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/satmet/rsense/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/r_d/</loc>
-  </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/resistance_and_propulsion/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/revision_of_fundamentals/</loc>
@@ -608,6 +760,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/shipsize-and-economies-of-sale/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_12/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em303/salepurchase/shipbuildcontract/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/shipping-finance-derivatives/</loc>
@@ -621,14 +775,6 @@
     <loc>http://localhost:1313/docs/parta/marlead/approches_to_define_leadership/situational-leadership/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/sola_90/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/special_navigation_systems/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/special_navigation_problems/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/stellar_magnitudes_and_distances/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/steps_for_maritime_security/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/stockholm_a/</loc>
   </url><url>
@@ -658,7 +804,17 @@
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/management/team_management/</loc>
   </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/terrestrial_and_ships_magnetism/</loc>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_16/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_15/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_14/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_18/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_17/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_13/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/management/universe25/</loc>
   </url><url>
@@ -689,8 +845,6 @@
     <loc>http://localhost:1313/docs/partc/em302/intropm/fpandftz/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlaw/vclt/</loc>
-  </url><url>
-    <loc>http://localhost:1313/docs/partb/adnav/projections/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/hydrosurv/nchart/</loc>
   </url><url>
@@ -739,6 +893,8 @@
     <loc>http://localhost:1313/docs/partc/em301/oceangov/unfsa/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/intconv/unclos/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_46/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/management/vendor_management/</loc>
   </url><url>
