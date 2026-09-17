@@ -4,7 +4,7 @@
     <link>http://localhost:1313/docs/partb/adnav/</link>
     <description>Recent content in EM201 Advanced Navigation and Maritime Cyber Security on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     
 	  <atom:link href="http://localhost:1313/docs/partb/adnav/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,7 +23,7 @@
       <description>
         
         
-        &lt;h2&gt;Content&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;content&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;Content&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;content&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#content&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
   &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/adnav/cyber_security/cyber_security_case_studies/&#34;&gt;Case Studies and Incidence response procedures&lt;/a&gt;&lt;/h2&gt;
 
@@ -49,7 +49,7 @@
       <description>
         
         
-        &lt;h2&gt;Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;Contents&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
   &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/adnav/advancements/prompt_4/&#34;&gt;Discuss latest advancement in navigational equipments involving Fibre optic gyroscope,&lt;/a&gt;&lt;/h2&gt;
 
@@ -97,7 +97,7 @@
       <description>
         
         
-        &lt;h2&gt;Contents&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;Contents&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
   &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/adnav/celnav/different_lat/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
 

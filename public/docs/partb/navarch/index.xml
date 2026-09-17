@@ -4,7 +4,7 @@
     <link>http://localhost:1313/docs/partb/navarch/</link>
     <description>Recent content in EM202 Advanced Naval Architecture on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     
 	  <atom:link href="http://localhost:1313/docs/partb/navarch/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,16 +23,16 @@
       <description>
         
         
-        &lt;h2&gt;Form Coefficients&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;form-coefficients&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;Form Coefficients&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;form-coefficients&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#form-coefficients&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;WPA = Waterplane area
 L = Length overall
 B = maximum breadth
 d = maximum depth
 &lt;/p&gt;
-\[C_w\]&lt;p&gt; = coefficient of waterplane area
+&lt;span class=&#34;katex-display&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34; display=&#34;block&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;C&lt;/mi&gt;&lt;mi&gt;w&lt;/mi&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;C_w&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.8333em;vertical-align:-0.15em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0715em;&#34;&gt;C&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.1514em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.0715em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.0269em;&#34;&gt;w&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt; = coefficient of waterplane area
 &lt;/p&gt;
-\[C_m\]&lt;p&gt; = coefficient of midship area&lt;/p&gt;
-\[ WPA = L\times B \times C_w \]\[ Area Amidships = B \times d\times C_m \]
+&lt;span class=&#34;katex-display&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34; display=&#34;block&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;C&lt;/mi&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;C_m&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.8333em;vertical-align:-0.15em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0715em;&#34;&gt;C&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.1514em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.0715em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;m&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt; = coefficient of midship area&lt;/p&gt;
+&lt;span class=&#34;katex-display&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34; display=&#34;block&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;W&lt;/mi&gt;&lt;mi&gt;P&lt;/mi&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mi&gt;L&lt;/mi&gt;&lt;mo&gt;×&lt;/mo&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;mo&gt;×&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;C&lt;/mi&gt;&lt;mi&gt;w&lt;/mi&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; WPA = L\times B \times C_w &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.1389em;&#34;&gt;W&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.1389em;&#34;&gt;P&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;A&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.7667em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;L&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;×&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.7667em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0502em;&#34;&gt;B&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;×&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.8333em;vertical-align:-0.15em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0715em;&#34;&gt;C&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.1514em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.0715em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34; style=&#34;margin-right:0.0269em;&#34;&gt;w&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex-display&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34; display=&#34;block&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;mi&gt;r&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;s&lt;/mi&gt;&lt;mi&gt;h&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;p&lt;/mi&gt;&lt;mi&gt;s&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;mo&gt;×&lt;/mo&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mo&gt;×&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;C&lt;/mi&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; Area Amidships = B \times d\times C_m &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.8889em;vertical-align:-0.1944em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;A&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0278em;&#34;&gt;r&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;e&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;a&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;A&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;mi&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;d&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;hi&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;p&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.7667em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0502em;&#34;&gt;B&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;×&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.7778em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;d&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;×&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.8333em;vertical-align:-0.15em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0715em;&#34;&gt;C&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.1514em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.0715em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;m&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;
       </description>
     </item>
     
@@ -73,7 +73,11 @@ design of hull &amp;amp; rudder.&lt;/li&gt;
       <description>
         
         
-        &lt;ol&gt;
+        
+  &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/navarch/resistance_and_propulsion/rp/&#34;&gt;Resistance and Propulsion -Formulas and concepts&lt;/a&gt;&lt;/h2&gt;
+
+
+&lt;ol&gt;
 &lt;li&gt;Review of fluid dynamics concepts,&lt;/li&gt;
 &lt;li&gt;Frictional resistance,
 2A. Wave making resistance
@@ -122,6 +126,42 @@ design of hull &amp;amp; rudder.&lt;/li&gt;
 &lt;li&gt;Intact stability and their parameters,&lt;/li&gt;
 &lt;li&gt;Stability criteria for damaged stability&lt;/li&gt;
 &lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Sample Questions</title>
+      <link>http://localhost:1313/docs/partb/navarch/sample_questions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/sample_questions/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Contents&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/navarch/sample_questions/ans_sample/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/navarch/sample_questions/csr-gbs-pspc-and-structural-standards-specimen-questions-and-answers/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/navarch/sample_questions/illc_1969-2005/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/navarch/sample_questions/imo-fire-safety-regulations-in-solas-chapter-ii-2/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/navarch/sample_questions/passenger_ships/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/navarch/sample_questions/ropax-and-tankers-structural-alterations-for-solas-compliance/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/navarch/sample_questions/ropax-and-tankers-theory-specimen-questions-and-answers/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/navarch/sample_questions/ship-design-shipbuilding-cost-models-and-trials/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/navarch/sample_questions/specimen-questions/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;../../../docs/partb/navarch/sample_questions/tankers_corrosion/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+
+
 
       </description>
     </item>
@@ -340,7 +380,7 @@ ferries, tankers, bulk carriers, OBOs, chemical tankers, LNG/LPG carriers, conta
       <description>
         
         
-        &lt;h1&gt;What was the purpose of introducing Common Structural Rules by International Association of Classification Societies for Bulk Carriers and oil tankers?&lt;/h1&gt;&lt;h1&gt;# The International Association of Classification Societies (IACS) introduced Common Structural Rules (CSR) for Bulk Carriers and Oil Tankers to enhance safety, uniformity, and efficiency in ship design and construction.&lt;/h1&gt;&lt;h2&gt;Purpose of CSR:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;purpose-of-csr&#34;&gt;&lt;/span&gt;
+        &lt;h1&gt;What was the purpose of introducing Common Structural Rules by International Association of Classification Societies for Bulk Carriers and oil tankers?&lt;/h1&gt;&lt;h1&gt;# The International Association of Classification Societies (IACS) introduced Common Structural Rules (CSR) for Bulk Carriers and Oil Tankers to enhance safety, uniformity, and efficiency in ship design and construction.&lt;/h1&gt;&lt;h2&gt;Purpose of CSR:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;purpose-of-csr&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#purpose-of-csr&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Harmonization&lt;/strong&gt;: Unify structural requirements across classification societies.&lt;/p&gt;
@@ -358,7 +398,7 @@ ferries, tankers, bulk carriers, OBOs, chemical tankers, LNG/LPG carriers, conta
 &lt;p&gt;&lt;strong&gt;Environmental Protection&lt;/strong&gt;: Reduce potential for pollution.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;Key Objectives:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;key-objectives&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Key Objectives:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;key-objectives&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#key-objectives&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Structural Integrity&lt;/strong&gt;: Ensure ships can withstand various loads and stresses.&lt;/p&gt;
@@ -373,7 +413,7 @@ ferries, tankers, bulk carriers, OBOs, chemical tankers, LNG/LPG carriers, conta
 &lt;p&gt;&lt;strong&gt;Damage Stability&lt;/strong&gt;: Improve ship stability in damaged conditions.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;Benefits:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;benefits&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Benefits:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;benefits&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#benefits&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Improved Safety&lt;/strong&gt;: Reduced risk of accidents and casualties.&lt;/p&gt;
@@ -391,7 +431,7 @@ ferries, tankers, bulk carriers, OBOs, chemical tankers, LNG/LPG carriers, conta
 &lt;p&gt;&lt;strong&gt;Environmental Benefits&lt;/strong&gt;: Minimized risk of pollution.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;Implementation:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;implementation&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Implementation:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;implementation&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#implementation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Bulk Carrier CSR&lt;/strong&gt;: Implemented in 2006.&lt;/p&gt;
@@ -403,7 +443,7 @@ ferries, tankers, bulk carriers, OBOs, chemical tankers, LNG/LPG carriers, conta
 &lt;p&gt;&lt;strong&gt;Regular Updates&lt;/strong&gt;: CSR revised and updated periodically.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;Impact:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;impact&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Impact:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;impact&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#impact&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Industry-wide Adoption&lt;/strong&gt;: Widely adopted by shipbuilders, owners, and operators.&lt;/p&gt;
@@ -415,7 +455,7 @@ ferries, tankers, bulk carriers, OBOs, chemical tankers, LNG/LPG carriers, conta
 &lt;p&gt;&lt;strong&gt;Research and Development&lt;/strong&gt;: Drives innovation in ship design and construction.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;Relevant Regulations:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;relevant-regulations&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Relevant Regulations:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;relevant-regulations&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#relevant-regulations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;SOLAS (Safety of Life at Sea)&lt;/strong&gt;&lt;/p&gt;
@@ -432,7 +472,7 @@ ferries, tankers, bulk carriers, OBOs, chemical tankers, LNG/LPG carriers, conta
 &lt;/ol&gt;
 &lt;p&gt;The Common Structural Rules have significantly contributed to enhancing the safety, efficiency, and sustainability of bulk carriers and oil tankers, aligning with international regulatory requirements.&lt;/p&gt;
 &lt;p&gt;The International Association of Classification Societies (IACS) introduced Common Structural Rules (CSR) for Bulk Carriers and Oil Tankers to enhance safety, uniformity, and efficiency in ship design and construction.&lt;/p&gt;
-&lt;h2&gt;Purpose of CSR:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;purpose-of-csr-1&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Purpose of CSR:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;purpose-of-csr-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#purpose-of-csr-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Harmonization&lt;/strong&gt;: Unify structural requirements across classification societies.&lt;/p&gt;
@@ -450,7 +490,7 @@ ferries, tankers, bulk carriers, OBOs, chemical tankers, LNG/LPG carriers, conta
 &lt;p&gt;&lt;strong&gt;Environmental Protection&lt;/strong&gt;: Reduce potential for pollution.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;Key Objectives:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;key-objectives-1&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Key Objectives:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;key-objectives-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#key-objectives-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Structural Integrity&lt;/strong&gt;: Ensure ships can withstand various loads and stresses.&lt;/p&gt;
@@ -465,7 +505,7 @@ ferries, tankers, bulk carriers, OBOs, chemical tankers, LNG/LPG carriers, conta
 &lt;p&gt;&lt;strong&gt;Damage Stability&lt;/strong&gt;: Improve ship stability in damaged conditions.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;Benefits:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;benefits-1&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Benefits:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;benefits-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#benefits-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Improved Safety&lt;/strong&gt;: Reduced risk of accidents and casualties.&lt;/p&gt;
@@ -483,7 +523,7 @@ ferries, tankers, bulk carriers, OBOs, chemical tankers, LNG/LPG carriers, conta
 &lt;p&gt;&lt;strong&gt;Environmental Benefits&lt;/strong&gt;: Minimized risk of pollution.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;Implementation:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;implementation-1&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Implementation:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;implementation-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#implementation-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Bulk Carrier CSR&lt;/strong&gt;: Implemented in 2006.&lt;/p&gt;
@@ -495,7 +535,7 @@ ferries, tankers, bulk carriers, OBOs, chemical tankers, LNG/LPG carriers, conta
 &lt;p&gt;&lt;strong&gt;Regular Updates&lt;/strong&gt;: CSR revised and updated periodically.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;Impact:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;impact-1&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Impact:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;impact-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#impact-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Industry-wide Adoption&lt;/strong&gt;: Widely adopted by shipbuilders, owners, and operators.&lt;/p&gt;
@@ -507,7 +547,7 @@ ferries, tankers, bulk carriers, OBOs, chemical tankers, LNG/LPG carriers, conta
 &lt;p&gt;&lt;strong&gt;Research and Development&lt;/strong&gt;: Drives innovation in ship design and construction.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2&gt;Relevant Regulations:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;relevant-regulations-1&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Relevant Regulations:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;relevant-regulations-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#relevant-regulations-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;SOLAS (Safety of Life at Sea)&lt;/strong&gt;&lt;/p&gt;

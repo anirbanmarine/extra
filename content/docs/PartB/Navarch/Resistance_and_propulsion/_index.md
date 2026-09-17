@@ -4,6 +4,7 @@ type: docs
 sidebar:
   open: true
 ---
+{{<page_list2>}}
 1. Review of fluid dynamics concepts, 
 2. Frictional resistance,
 2A. Wave making resistance 

@@ -4,7 +4,7 @@
     <link>http://localhost:1313/docs/partb/q_a/</link>
     <description>Recent content in Question and Answers on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     
 	  <atom:link href="http://localhost:1313/docs/partb/q_a/index.xml" rel="self" type="application/rss+xml" />
     
@@ -42,11 +42,11 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Grounding Calculations**: When a ship runs aground, Bonjean curves help in estimating the forces required to refloat the vessel.&lt;/p&gt;
-&lt;h2&gt;Illustration of Bonjean Curves&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;illustration-of-bonjean-curves&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Illustration of Bonjean Curves&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;illustration-of-bonjean-curves&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#illustration-of-bonjean-curves&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Here&amp;rsquo;s a simplified diagram illustrating Bonjean curves:&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.001.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;Each vertical line represents a station along the ship&amp;rsquo;s length. The curves show how the sectional area changes with draft at each station.&lt;/p&gt;
-&lt;h2&gt;Application in Naval Architecture Calculations&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;application-in-naval-architecture-calculations&#34;&gt;&lt;/span&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.001.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;Each vertical line represents a station along the ship&amp;rsquo;s length. The curves show how the sectional area changes with draft at each station.&lt;/p&gt;
+&lt;h2&gt;Application in Naval Architecture Calculations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;application-in-naval-architecture-calculations&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#application-in-naval-architecture-calculations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Displacement Calculation**:&lt;/p&gt;
@@ -106,7 +106,7 @@
 &lt;p&gt;&lt;strong&gt;Q1(b): Draw a sketch of a screw propeller and show the hub , blade tip, blade root, propeller diameter, pressure face, and suction back.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.002.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.002.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s a brief explanation of each part:&lt;/p&gt;
 &lt;p&gt;Hub: The central part of the propeller where the blades are attached.&lt;/p&gt;
 &lt;p&gt;Blade Tip: The outermost part of the propeller blade.&lt;/p&gt;
@@ -160,7 +160,7 @@
 &lt;li&gt;The GZ curve shifts to reflect the new center of gravity.&lt;/li&gt;
 &lt;li&gt;The curve becomes more asymmetrical with reduced positive stability range.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;| ![Grain Shift Stability Curve](&lt;a href=&#34;https://www.marineinsight.com/wp-&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.marineinsight.com/wp-&lt;/a&gt; content/uploads/2020/07/grain1.png) |&lt;/p&gt;
+&lt;p&gt;| ![Grain Shift Stability Curve](&lt;a href=&#34;https://www.marineinsight.com/wp-&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.marineinsight.com/wp-&lt;/a&gt; content/uploads/2020/07/grain1.png) |&lt;/p&gt;
 &lt;p&gt;*II) Formation of Ice**&lt;/p&gt;
 &lt;p&gt;Ice accumulation, especially on the ship’s superstructure and decks, poses a serious stability risk. Ice adds weight high up on the ship, raising the center of gravity and reducing the metacentric height (GM).&lt;/p&gt;
 &lt;p&gt;#### **Impact of Ice Formation on Stability**:&lt;/p&gt;
@@ -201,7 +201,7 @@
 &lt;li&gt;The curve becomes lower and shifts leftward.&lt;/li&gt;
 &lt;li&gt;The maximum righting arm occurs at a smaller angle of heel, and the overall range of positive stability decreases.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;| ![Ice Formation Stability Curve](&lt;a href=&#34;https://www.marineinsight.com/wp-&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.marineinsight.com/wp-&lt;/a&gt; content/uploads/2020/07/ice1.png) |&lt;/p&gt;
+&lt;p&gt;| ![Ice Formation Stability Curve](&lt;a href=&#34;https://www.marineinsight.com/wp-&#34;target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.marineinsight.com/wp-&lt;/a&gt; content/uploads/2020/07/ice1.png) |&lt;/p&gt;
 &lt;p&gt;&lt;code&gt; &lt;/code&gt;**Residual Dynamic Stability**:&lt;/p&gt;
 &lt;p&gt;Residual dynamic stability refers to the remaining stability that a vessel has after accounting for external influences like grain shift or ice formation. It is the area under the GZ curve, representing the ship&amp;rsquo;s ability to return to an upright position after being heeled over.&lt;/p&gt;
 &lt;ol&gt;
@@ -232,17 +232,17 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.003.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.003.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.004.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.004.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q4: Draw a diagram and a GZ with angle of heel graph to show and explain angle of loll of a ship. Using wall sided formula, how can we calculate GM at angle of loll?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.005.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.005.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.006.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.006.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.007.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.007.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q5(a): How does a submarine surface and submerge with the help of the mail ballast tanks? Write in detail with proper sketches. How and why are hydroplanes used in the early part of surfacting?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; Submarine Surfacing and Submerging:&lt;/p&gt;
 &lt;ol&gt;
@@ -348,7 +348,7 @@
 &lt;p&gt;&lt;strong&gt;Q5(b) : State the alternative intact stability criteria for a timber carrier as per the I.S. Code 2008. Enumerate reasons for the changed criteria. What are the pre-requisites to be eligible for this criteria?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; Alternative Intact Stability Criteria for Timber Carriers (I.S. Code 2008):&lt;/p&gt;
 &lt;p&gt;The International Maritime Organization (IMO) developed alternative intact stability criteria for timber carriers, outlined in the **2008 International Code on Intact Stability (IS Code)**. Timber carriers have unique stability considerations due to the high and often unsecured deck cargo, which affects their stability characteristics. The alternative criteria for timber carriers ensure their safety while accounting for the specific challenges they face.&lt;/p&gt;
-&lt;h3&gt;**Alternative Intact Stability Criteria for Timber Carriers**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;alternative-intact-stability-criteria-for-timber-carriers&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Alternative Intact Stability Criteria for Timber Carriers**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;alternative-intact-stability-criteria-for-timber-carriers&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#alternative-intact-stability-criteria-for-timber-carriers&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The alternative intact stability criteria for timber carriers, as per the IS Code 2008, include the following:&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -677,7 +677,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.008.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.008.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q8: Discuss the reasons for parametric rolling in ships with fine bow lines and full and broad sterns. What is the relationships of Tr with Te for parametric rolling to occur when vessel is heading into waves?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; **Parametric Rolling in Ships: Causes and Conditions**&lt;/p&gt;
 &lt;p&gt;Parametric rolling is a dangerous phenomenon where a ship experiences large rolling motions due to variations in wave-induced forces acting on the hull. Ships with **fine bow lines** and **full, broad sterns** are particularly susceptible to parametric rolling. This occurs mainly when the vessel is sailing in head or following seas, and the wave-induced motions resonate with the ship’s natural roll frequency. Below are the causes and key factors contributing to this phenomenon:&lt;/p&gt;
@@ -709,9 +709,9 @@
 &lt;/ul&gt;
 &lt;p&gt;stability** during the crest phases create a resonance effect, where the ship’s natural roll period aligns with the wave period, causing large rolling motions.&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.009.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.009.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.010.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.010.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;#### **Specific Factors Leading to Parametric Rolling in Ships with Fine Bows and Broad Sterns**:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;**Wave Pattern and Heading**:&lt;/li&gt;
@@ -733,11 +733,11 @@
 &lt;ul&gt;
 &lt;li&gt;Ships with broad sterns generally have lower natural roll frequencies (larger&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;\(T\_r\)), making them more likely to experience resonance with wave encounter periods. The fine bow makes them more sensitive to pitch and heave, which increases the likelihood of developing large rolling motions when the wave encounter period matches half the roll period.&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;T&lt;/mi&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;_&lt;/mi&gt;&lt;mi&gt;r&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;T\_r&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.9933em;vertical-align:-0.31em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.1389em;&#34;&gt;T&lt;/span&gt;&lt;span class=&#34;mord&#34; style=&#34;margin-right:0.0278em;&#34;&gt;_&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0278em;&#34;&gt;r&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;), making them more likely to experience resonance with wave encounter periods. The fine bow makes them more sensitive to pitch and heave, which increases the likelihood of developing large rolling motions when the wave encounter period matches half the roll period.&lt;/p&gt;
 &lt;p&gt;**Summary of the Conditions for Parametric Rolling**:&lt;/p&gt;
 &lt;p&gt;1. **Primary Cause**: The periodic changes in stability due to alternating buoyancy forces when waves pass under the ship&amp;rsquo;s bow and stern, particularly in ships with fine bows and broad sterns.&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.011.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.011.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;**Ship and Wave Characteristics**:&lt;/li&gt;
 &lt;/ol&gt;
@@ -869,7 +869,7 @@
 &lt;p&gt;&lt;strong&gt;chine shape. Why does such a boat have poor seakeeping ability and poor reputation for passenger comfort ?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; ### Hydrodynamic Lift Features of a Planing Hull Boat with a Hard Chine Shape&lt;/p&gt;
 &lt;p&gt;A **planing hull** is designed to **ride on top of the water** at high speeds, as opposed to displacing water like a displacement hull. The key to the operation of planing hulls is the generation of **hydrodynamic lift**, which reduces the amount of hull in contact with the water, thereby minimizing drag and allowing the boat to achieve greater speeds.&lt;/p&gt;
-&lt;h4&gt;1. **Hydrodynamic Lift in a Planing Hull**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-hydrodynamic-lift-in-a-planing-hull&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;1. **Hydrodynamic Lift in a Planing Hull**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-hydrodynamic-lift-in-a-planing-hull&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-hydrodynamic-lift-in-a-planing-hull&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
@@ -885,7 +885,7 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;**Flat Bottom**: Many planing hulls with hard chines are designed with relatively **flat or shallow-V bottoms**, which provide more lift at high speeds.&lt;/p&gt;
-&lt;h4&gt;2. **Why a Hard Chine Planing Hull Boat Has Poor Seakeeping Ability**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-why-a-hard-chine-planing-hull-boat-has-poor-seakeeping-ability&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;2. **Why a Hard Chine Planing Hull Boat Has Poor Seakeeping Ability**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-why-a-hard-chine-planing-hull-boat-has-poor-seakeeping-ability&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-why-a-hard-chine-planing-hull-boat-has-poor-seakeeping-ability&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;While planing hulls with hard chines excel at speed and efficiency, they are known for poor **seakeeping** ability in rough waters due to the following reasons:&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -896,7 +896,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Planing Mode Sensitivity**: The transition from displacement to planing mode is critical. If the boat is at intermediate speeds, the hull may not generate enough lift, leading to excessive bow rise and making the boat less stable. If speeds are too low, the boat may ride rough and feel unstable.&lt;/p&gt;
-&lt;h4&gt;3. **Poor Reputation for Passenger Comfort**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-poor-reputation-for-passenger-comfort&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;3. **Poor Reputation for Passenger Comfort**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-poor-reputation-for-passenger-comfort&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-poor-reputation-for-passenger-comfort&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The hard chine planing hull has a **poor reputation for passenger comfort**, especially in rough conditions, due to:&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -910,7 +910,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Increased Rolling**: At slower speeds, hard chine boats are prone to **rolling** from side to side in beam seas due to the sharp chine edges digging into the water unevenly, making it difficult to stabilize the vessel and adding to passenger discomfort.&lt;/p&gt;
-&lt;h4&gt;4. **Summary**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-summary&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;4. **Summary**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-summary&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-summary&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Advantages**:&lt;/p&gt;
@@ -934,15 +934,15 @@
 &lt;p&gt;&lt;strong&gt;Q11: Derive Attwood’s formula for calculating moment of statical stability at a large angle of heel.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.012.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.012.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.013.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.013.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.014.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.014.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q12: What are the limitations of the wall -sides formula? Explain the relevance to “wall” sides as the ship heels to a large angle. Further give reasons why do we need to use these formulae for finding GZ at large angles of heel when for small angles the simple relationship of GZ=GM . Sinϴ can produce acceptable results.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.015.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.015.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;#### Limitations of the Wall-Sided Formula:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -956,10 +956,10 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Hull Form Complexity**: Ships often have **curved hull forms**, especially around the bilges and sheer. The wall-sided formula does not account for this curvature, making it unreliable for broader sections of the ship, particularly when significant portions of the hull are submerged at large heel angles.&lt;/p&gt;
-&lt;h3&gt;Relevance to &amp;ldquo;Wall&amp;rdquo; Sides as the Ship Heels to Large Angles&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;relevance-to-wall-sides-as-the-ship-heels-to-large-angles&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Relevance to &amp;ldquo;Wall&amp;rdquo; Sides as the Ship Heels to Large Angles&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;relevance-to-wall-sides-as-the-ship-heels-to-large-angles&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#relevance-to-wall-sides-as-the-ship-heels-to-large-angles&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;At small angles of heel, a ship&amp;rsquo;s sides might effectively behave like &amp;ldquo;walls&amp;rdquo; — meaning that the ship&amp;rsquo;s waterline area doesn&amp;rsquo;t change dramatically with small increases in heel. The waterplane is mostly flat, and the volume displaced by the ship is relatively consistent with small changes in heel angle.&lt;/p&gt;
 &lt;p&gt;However, as the angle of heel increases, the submerged portion of the hull changes significantly. Instead of behaving like a wall, the hull’s shape begins to curve into the water, which impacts the **center of buoyancy (B)**, the **righting arm (GZ)**, and the overall stability. The ship’s geometry becomes more complex, and using a simple &amp;ldquo;wall-sided&amp;rdquo; assumption no longer provides accurate results. At large heel angles, the displacement and the stability characteristics of the ship must be calculated using more complex methods that account for the hull’s true geometry.&lt;/p&gt;
-&lt;h3&gt;Reasons for Using More Complex Formulas for Large Angles of Heel&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;reasons-for-using-more-complex-formulas-for-large-angles-of-heel&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Reasons for Using More Complex Formulas for Large Angles of Heel&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;reasons-for-using-more-complex-formulas-for-large-angles-of-heel&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#reasons-for-using-more-complex-formulas-for-large-angles-of-heel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;For small angles of heel, the **GZ = GM \sin \theta** formula is generally acceptable because:&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
@@ -987,7 +987,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Critical Heel Angle**: At large angles of heel, other stability concerns come into play, such as **angle of vanishing stability**, where the ship&amp;rsquo;s stability becomes neutral or even negative. Simple formulas cannot account for these phenomena.&lt;/p&gt;
-&lt;h3&gt;Summary of the Need for Complex Formulas for Large Angles&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;summary-of-the-need-for-complex-formulas-for-large-angles&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Summary of the Need for Complex Formulas for Large Angles&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;summary-of-the-need-for-complex-formulas-for-large-angles&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#summary-of-the-need-for-complex-formulas-for-large-angles&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
@@ -1001,7 +1001,7 @@
 &lt;p&gt;These more complex formulas accurately account for the changes in the ship’s stability as the heel angle increases, ensuring safe and reliable calculations of the righting moment and residual stability at large angles of heel.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q13: Explain briefly hoe non-displacement hydrofoils having surface-piercing foil or submerged foil produce righting moment to maintain transverse stability.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; Non-displacement hydrofoils, whether they have **surface-piercing foils** or **fully submerged foils**, create lift to support the vessel above the water, reducing drag and allowing for greater speeds. These hydrofoils also contribute to **transverse stability** by generating a **righting moment**, which helps to maintain balance and prevent excessive heel or roll. Here&amp;rsquo;s how these foils contribute to the righting moment:&lt;/p&gt;
-&lt;h3&gt;1. **Surface-Piercing Hydrofoils**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-surface-piercing-hydrofoils&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;1. **Surface-Piercing Hydrofoils**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-surface-piercing-hydrofoils&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-surface-piercing-hydrofoils&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Surface-piercing hydrofoils are designed in such a way that part of the foil remains above the water’s surface, while the lower part is submerged. These foils naturally adjust the amount of lift they generate depending on their depth in the water, providing stability through self-regulation.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -1227,8 +1227,8 @@
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Impact of second generation intact stability criteria on coastal shipping in particular small coastal vessels.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; The development of the second generation intact stability criteria represents a significant advancement in ensuring maritime safety, especially for coastal and small vessels. Below is a detailed commentary on the specified aspects:&lt;/p&gt;
-&lt;h3&gt;(A) Stability Failure Modes and Formalized Procedures for Vulnerability Checks&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;a-stability-failure-modes-and-formalized-procedures-for-vulnerability-checks&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#a-stability-failure-modes-and-formalized-procedures-for-vulnerability-checks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Stability Failure Modes Considered&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;stability-failure-modes-considered&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;(A) Stability Failure Modes and Formalized Procedures for Vulnerability Checks&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;a-stability-failure-modes-and-formalized-procedures-for-vulnerability-checks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#a-stability-failure-modes-and-formalized-procedures-for-vulnerability-checks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Stability Failure Modes Considered&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;stability-failure-modes-considered&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#stability-failure-modes-considered&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ol&gt;
@@ -1288,8 +1288,8 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Data Collection and Analysis**: Emphasis will be placed on the collection of operational data to continually update stability models, making it possible to adapt to new designs and operational practices.&lt;/p&gt;
-&lt;h3&gt;(B) Impact of Second Generation Intact Stability Criteria on Coastal Shipping and Small Coastal Vessels&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;b-impact-of-second-generation-intact-stability-criteria-on-coastal-shipping-and-small-coastal-vessels&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#b-impact-of-second-generation-intact-stability-criteria-on-coastal-shipping-and-small-coastal-vessels&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Implications for Coastal Shipping&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;implications-for-coastal-shipping&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;(B) Impact of Second Generation Intact Stability Criteria on Coastal Shipping and Small Coastal Vessels&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;b-impact-of-second-generation-intact-stability-criteria-on-coastal-shipping-and-small-coastal-vessels&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#b-impact-of-second-generation-intact-stability-criteria-on-coastal-shipping-and-small-coastal-vessels&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;Implications for Coastal Shipping&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;implications-for-coastal-shipping&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#implications-for-coastal-shipping&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol&gt;
@@ -1593,7 +1593,7 @@
 &lt;p&gt;&lt;strong&gt;Q20: Length of ship is 300m. Ship is passing through a regular train of waves at an angle of 30 degrees to the line of the crests. The wave crest passes from stern to bow of the ship in 12 seconds in the following sea. Calculate the speed of the ship.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.016.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.016.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q21: Describe Murray’s method of calculating longitudinal bending moment. What is a standard wave? Why is WBM necessary to be considered in addition to SWBM?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; ### Murray&amp;rsquo;s Method of Calculating Longitudinal Bending Moment&lt;/p&gt;
 &lt;p&gt;Murray&amp;rsquo;s method is a systematic approach used to calculate the longitudinal bending moment (LBM) in ships, particularly useful in assessing the structural integrity of a vessel under various loading conditions. The method involves the following steps:&lt;/p&gt;
@@ -1613,7 +1613,7 @@
 &lt;li&gt;**Static Equilibrium**: By applying the principles of static equilibrium, the method ensures that the sum of vertical forces and moments around any point along the length of the vessel is zero. This helps determine the internal forces and moments at various sections.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.017.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.017.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;5. **Plotting the Bending Moment Curve**: Finally, the calculated moments at different sections are plotted to obtain the longitudinal bending moment curve for the entire length of the ship. This curve is essential for assessing the ship&amp;rsquo;s structural adequacy and for design purposes.&lt;/p&gt;
 &lt;p&gt;### Standard Wave&lt;/p&gt;
 &lt;p&gt;A **standard wave** refers to a theoretical wave profile that is often used in naval architecture and marine engineering to simplify the analysis of wave-induced loads on a vessel. It typically represents sinusoidal wave patterns with specific characteristics, such as wave height, period, and length. Standard waves are utilized for modeling purposes to predict how ships interact with wave conditions, making it easier to analyze forces acting on the ship due to wave action.&lt;/p&gt;
@@ -1634,7 +1634,7 @@
 &lt;p&gt;In summary, while SWBM provides a baseline for assessing static conditions, WBM is essential for understanding the full range of forces experienced by a ship in motion and ensuring structural safety and longevity.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q22: Draw diagrams to depict the forces involved when vessel is heeled at an angle due to vessel turning at speed using its rudder. Explain why does the ship heel to one side when starting the turn and then to the other side when turning at steady rate of turn.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; When a vessel turns using its rudder at speed, several forces and moments come into play that cause the ship to heel. The heel experienced by the vessel is due to a combination of centrifugal forces, hydrodynamic forces on the hull, and the moment created by the rudder action. Below is an explanation along with diagrams depicting these forces.&lt;/p&gt;
-&lt;h3&gt;Forces Acting on a Vessel When Turning&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;forces-acting-on-a-vessel-when-turning&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Forces Acting on a Vessel When Turning&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;forces-acting-on-a-vessel-when-turning&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#forces-acting-on-a-vessel-when-turning&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Centrifugal Force (Fₐ)**: This force acts outward from the center of the turn and tends to push the vessel away from the direction of the turn. It acts at the center of mass of the ship and is proportional to the vessel&amp;rsquo;s speed and the sharpness of the turn (radius of the turn).&lt;/p&gt;
@@ -1653,14 +1653,14 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.018.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.018.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.019.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.4adc6914-1c95-4f27-a011-e121102b66f1.019.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Explanation of the Heeling Behavior&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;**Initial Heel (Outward)**:&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;code&gt;   &lt;/code&gt;When the ship starts to turn, the centrifugal force \( Fₐ \) acts outward, away from the center of the turn. This causes the ship to heel outward initially (away from the direction of the turn). This happens because the rudder force and hydrodynamic forces have not yet fully developed to balance the centrifugal force.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;   &lt;/code&gt;When the ship starts to turn, the centrifugal force &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;F&lt;/mi&gt;&lt;mi&gt;a&lt;/mi&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; Fₐ &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.8333em;vertical-align:-0.15em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.1389em;&#34;&gt;F&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.1514em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.1389em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;a&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; acts outward, away from the center of the turn. This causes the ship to heel outward initially (away from the direction of the turn). This happens because the rudder force and hydrodynamic forces have not yet fully developed to balance the centrifugal force.&lt;/p&gt;
 &lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;**Steady Turn (Inward Heel)**:&lt;/li&gt;
 &lt;/ol&gt;
@@ -1676,7 +1676,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;The degree of heel in both cases depends on factors like ship speed, turn radius, hull shape, and rudder angle.&lt;/p&gt;
-&lt;h3&gt;Diagrams Summary&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;diagrams-summary&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Diagrams Summary&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;diagrams-summary&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#diagrams-summary&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol&gt;
@@ -1699,7 +1699,7 @@
         
         &lt;p&gt;&lt;strong&gt;Q14(a): Describe the simplest form of an underwater glider (AUV) especially&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.001.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.001.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;referring to its unique propulsion system. Make a simple sketch to illustrate.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Ans: ### **Underwater Glider (AUV): Simplest Form and Unique Propulsion System**&lt;/p&gt;
 &lt;p&gt;An **Underwater Glider** is a type of Autonomous Underwater Vehicle (AUV) that moves through the water without traditional propellers. Instead of using mechanical propulsion like conventional AUVs, it relies on buoyancy changes and wings for propulsion. This results in a very energy-efficient system, allowing the glider to operate for long periods, sometimes for months.&lt;/p&gt;
@@ -2205,7 +2205,7 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;**Importance**: A budget that considers operational goals ensures that the ship’s activities are financially sustainable and aligned with the overall mission of the shipping company. For example, a company may prioritize investments in green technologies or safety training, which may not yield immediate financial returns but enhance long-term viability and competitiveness.&lt;/p&gt;
-&lt;h3&gt;**2. Resource Allocation and Efficiency**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-resource-allocation-and-efficiency&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**2. Resource Allocation and Efficiency**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-resource-allocation-and-efficiency&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-resource-allocation-and-efficiency&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Example: Maintenance Budgeting**:&lt;/p&gt;
@@ -2222,7 +2222,7 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;**Importance**: This demonstrates that budgeting is about effectively managing resources to ensure operational readiness and safety, rather than simply a financial exercise. Investing in maintenance can lead to significant savings in the long run, as it prevents more extensive repairs and downtime.&lt;/p&gt;
-&lt;h3&gt;**3. Performance Measurement and Accountability**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-performance-measurement-and-accountability&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**3. Performance Measurement and Accountability**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-performance-measurement-and-accountability&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-performance-measurement-and-accountability&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Example: KPIs and Budget Variance Analysis**:&lt;/p&gt;
@@ -2239,7 +2239,7 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;**Importance**: Budgeting in this context becomes a tool for accountability and performance improvement rather than merely tracking financial expenditures. This allows ship managers to make data-driven decisions that optimize operations and reduce costs.&lt;/p&gt;
-&lt;h3&gt;**4. Risk Management**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-risk-management&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**4. Risk Management**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-risk-management&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-risk-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Example: Contingency Planning**:&lt;/p&gt;
@@ -2256,7 +2256,7 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;**Importance**: This approach highlights budgeting as a proactive management tool that prepares organizations for uncertainties and risks, which goes beyond just financial planning. By anticipating potential challenges, ship operators can safeguard their operations and ensure stability.&lt;/p&gt;
-&lt;h3&gt;**5. Stakeholder Communication and Alignment**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-stakeholder-communication-and-alignment&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**5. Stakeholder Communication and Alignment**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-stakeholder-communication-and-alignment&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#5-stakeholder-communication-and-alignment&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Example: Investor Relations**:&lt;/p&gt;
@@ -2273,14 +2273,14 @@
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;**Importance**: This illustrates that budgeting is not merely a financial statement but a means of aligning stakeholder interests with the company’s strategic vision. Engaging stakeholders through budgeting fosters a collaborative approach to achieving shared goals.&lt;/p&gt;
-&lt;h3&gt;**Conclusion**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Conclusion**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;In conclusion, the statement “budget is not a financial activity” emphasizes that budgeting in the maritime industry encompasses strategic planning, resource allocation, operational efficiency, risk management, and stakeholder engagement. While financial calculations are essential, the broader context of budgeting is about enhancing ship operations, ensuring safety, and achieving organizational goals. By viewing budgeting as a holistic management tool, shipping companies can navigate the complexities of their operations more effectively, ultimately leading to improved performance and sustainability in the industry.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q16(a): A 20HP, 440V 3phase 4pole motor works on 50Hz supply. Determine (a) synchronous speed (b) rotor speed at 4%slip © frequency of rotor current when the slip is 7.5% (d) current drawn by the motor it the efficiency of the motor is 90% and P.F. Of motor is 0.8.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.002.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.002.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q16(b): what is the most common cause of induction motor failure? How do you check the insulation resistance between phases on an induction motor?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; ### **Common Causes of Induction Motor Failure** The most common causes of induction motor failure include:&lt;/p&gt;
 &lt;ol&gt;
@@ -2981,12 +2981,12 @@
 &lt;p&gt;For a spherical Earth, the meridional part formula is derived by integrating the differential length along a meridian on the sphere. Here&amp;rsquo;s how we can deduce it:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1. Formula Derivation for a Sphere&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.003.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.003.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Meridional Part Formula for the Spheroidal Earth&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;For a more accurate representation of Earth as an &lt;em&gt;oblate spheroid&lt;/em&gt;, the formula for meridional parts is more complex due to the varying radius along different latitudes. The Earth&amp;rsquo;s shape causes the meridian lengths to differ because Earth is flattened at the poles and bulging at the equator.&lt;/p&gt;
 &lt;p&gt;The formula for the meridional parts of a spheroidal Earth takes into account the varying curvature and is given by:&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.004.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.004.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Key Differences Between the Sphere and Spheroid Meridional Part Formulas&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Complexity&lt;/strong&gt;:&lt;/p&gt;
 &lt;/li&gt;
@@ -2994,24 +2994,24 @@
 &lt;ul&gt;
 &lt;li&gt;The formula for a &lt;strong&gt;sphere&lt;/strong&gt; is straightforward, involving a simple proportional relationship between the latitude and the radius.&lt;/li&gt;
 &lt;li&gt;The formula for a &lt;strong&gt;spheroid&lt;/strong&gt; includes the Earth&amp;rsquo;s eccentricity and requires an elliptic integral, making it much more complex to compute.
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.005.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.005.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Accuracy&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The &lt;strong&gt;sphere model&lt;/strong&gt; assumes the Earth has a constant radius at all latitudes, which leads to inaccuracies, especially at higher latitudes.&lt;/li&gt;
 &lt;li&gt;The &lt;strong&gt;spheroid model&lt;/strong&gt; accounts for the Earth&amp;rsquo;s oblateness, resulting in more precise values of meridional parts, especially when considering larger latitudes.
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.006.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.006.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Variation of Radius&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;In the &lt;strong&gt;sphere&lt;/strong&gt;, the radius is constant, so the meridional parts grow linearly with latitude.&lt;/li&gt;
 &lt;li&gt;In the &lt;strong&gt;spheroid&lt;/strong&gt;, the radius varies with latitude, and the rate of change of meridional parts slows down as latitude increases due to the flattening at the poles.
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.007.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.007.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;Use in Navigation&lt;/strong&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;In early navigation, the &lt;strong&gt;spherical model&lt;/strong&gt; was often used for simplicity, but as more accurate maps and charts were needed, the &lt;strong&gt;spheroidal model&lt;/strong&gt; became standard for marine and air navigation.
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.008.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.008.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;In conclusion, while the spherical model offers simplicity in calculating meridional parts, the spheroidal model provides a much more accurate representation of Earth&amp;rsquo;s shape, which is crucial for precise navigation and charting applications.&lt;/p&gt;
 &lt;p&gt;(&lt;strong&gt;C ): Derive expression of parametric latitude in terms of geodetic latitude. Ans:&lt;/strong&gt;&lt;/p&gt;
@@ -3019,11 +3019,11 @@
 &lt;p&gt;In geodetic and hydrographic computations, different types of latitudes are used based on different aspects of the Earth&amp;rsquo;s shape. The &lt;strong&gt;parametric latitude&lt;/strong&gt; (or &lt;strong&gt;reduced latitude&lt;/strong&gt;, denoted as β\betaβ) is commonly used in connection with ellipsoidal Earth models, especially in geodetic surveys and map projections. It is related to the &lt;strong&gt;geodetic latitude&lt;/strong&gt; (denoted as ϕ\phiϕ), which is the angle between the normal to the reference ellipsoid and the equatorial plane.&lt;/p&gt;
 &lt;p&gt;Let’s derive the expression for the parametric latitude in terms of the geodetic latitude.&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.009.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.009.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.010.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.010.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.011.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.011.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q23 (a) : Explain the following cyber threats and the measures for prevention against them (I) Brute Force Attack (II) MITM (III) DDOS and (IV) XSS&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; ### **Cyber Threats and Their Prevention Measures**&lt;/p&gt;
 &lt;p&gt;In the context of maritime operations, especially with increased digitalization, understanding cyber threats is crucial for maintaining the safety and security of onboard and onshore systems. Here is an explanation of four common cyber threats and measures to prevent them:&lt;/p&gt;
@@ -3036,7 +3036,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;This is a simple yet effective method for breaking into accounts or systems if they rely on weak passwords or encryption mechanisms.&lt;/p&gt;
-&lt;h4&gt;**Prevention Measures**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;prevention-measures&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Prevention Measures**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;prevention-measures&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#prevention-measures&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Strong Password Policies**: Enforce the use of complex passwords (e.g., a mix of upper/lower case letters, numbers, and special characters) that are difficult to guess.&lt;/p&gt;
@@ -3050,15 +3050,15 @@
 &lt;li&gt;
 &lt;p&gt;**Captcha**: Use CAPTCHA or similar mechanisms to prevent automated systems from trying passwords repeatedly.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**2. Man-in-the-Middle (MITM) Attack**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-man-in-the-middle-mitm-attack&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2-man-in-the-middle-mitm-attack&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;**Explanation**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;explanation&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**2. Man-in-the-Middle (MITM) Attack**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-man-in-the-middle-mitm-attack&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-man-in-the-middle-mitm-attack&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;**Explanation**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;explanation&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#explanation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;In a **Man-in-the-Middle (MITM)** attack, the attacker secretly intercepts and possibly alters the communication between two parties (e.g., between a ship’s system and an onshore server). The attacker can eavesdrop, manipulate data, or steal sensitive information without either party knowing.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;This type of attack often happens in unsecured networks, where the attacker can position themselves between the communicating entities.&lt;/p&gt;
-&lt;h4&gt;**Prevention Measures**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;prevention-measures-1&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Prevention Measures**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;prevention-measures-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#prevention-measures-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Encryption**: Ensure that all communications use strong encryption protocols like TLS (Transport Layer Security) or SSL (Secure Sockets Layer) to prevent attackers from reading the data.&lt;/p&gt;
@@ -3072,15 +3072,15 @@
 &lt;li&gt;
 &lt;p&gt;**Network Monitoring**: Regularly monitor network traffic for unusual patterns that could indicate a MITM attack is occurring.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**3. Distributed Denial of Service (DDoS)**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-distributed-denial-of-service-ddos&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-distributed-denial-of-service-ddos&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;**Explanation**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;explanation-1&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**3. Distributed Denial of Service (DDoS)**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-distributed-denial-of-service-ddos&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-distributed-denial-of-service-ddos&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;**Explanation**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;explanation-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#explanation-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**DDoS (Distributed Denial of Service)** is an attack where multiple compromised systems (often botnets) flood a target server or network with traffic, overwhelming its resources and rendering it unavailable to legitimate users. In the maritime industry, such attacks could cripple communication and navigation systems.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;DDoS attacks can cause significant disruptions to services, leading to downtime and financial loss.&lt;/p&gt;
-&lt;h4&gt;**Prevention Measures**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;prevention-measures-2&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Prevention Measures**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;prevention-measures-2&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#prevention-measures-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Traffic Filtering**: Implement firewalls and Intrusion Prevention Systems (IPS) to filter out abnormal traffic before it reaches the target system.&lt;/p&gt;
@@ -3094,15 +3094,15 @@
 &lt;li&gt;
 &lt;p&gt;**Rate Limiting**: Apply rate limiting on networks to control the flow of incoming requests and prevent overwhelming amounts of traffic from entering the system.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**4. Cross-Site Scripting (XSS)**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-cross-site-scripting-xss&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#4-cross-site-scripting-xss&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;**Explanation**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;explanation-2&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**4. Cross-Site Scripting (XSS)**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-cross-site-scripting-xss&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-cross-site-scripting-xss&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;**Explanation**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;explanation-2&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#explanation-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Cross-Site Scripting (XSS)** is a web vulnerability that allows attackers to inject malicious scripts into webpages viewed by other users. These scripts can steal user data, such as session cookies, or perform malicious actions on behalf of the user without their knowledge.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;XSS is a common attack on websites with poor input validation and can affect applications used in fleet management or onboard systems.&lt;/p&gt;
-&lt;h4&gt;**Prevention Measures**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;prevention-measures-3&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Prevention Measures**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;prevention-measures-3&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#prevention-measures-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Input Validation and Sanitization**: Ensure that all input fields, especially in web applications, validate user input to prevent the injection of malicious scripts. Use libraries and frameworks that sanitize input data.&lt;/p&gt;
@@ -3116,11 +3116,11 @@
 &lt;li&gt;
 &lt;p&gt;**Web Application Firewalls (WAF)**: Deploy a WAF that can detect and block XSS attacks by inspecting HTTP requests and responses.&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.012.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.012.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Each of these cyber threats can disrupt operations and compromise safety, especially in the context of increasingly connected and digitalized maritime systems. Prevention relies heavily on strong security practices, regular updates, and monitoring systems.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q23(b) : Enumerate advantages of TLS over SSL? Ans:&lt;/strong&gt; **Advantages of TLS over SSL**&lt;/p&gt;
 &lt;p&gt;Transport Layer Security (TLS) is the successor to Secure Sockets Layer (SSL), and it offers several improvements in terms of security and performance. Here are the key advantages of **TLS over SSL**:&lt;/p&gt;
-&lt;h3&gt;1. **Enhanced Security Protocols**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-enhanced-security-protocols&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;1. **Enhanced Security Protocols**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-enhanced-security-protocols&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-enhanced-security-protocols&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Stronger Encryption Algorithms**: TLS supports more modern encryption algorithms (e.g., AES, ECC) that&lt;/p&gt;
@@ -3183,7 +3183,7 @@
 &lt;/ul&gt;
 &lt;p&gt;with ongoing development and updates to address new threats. SSL, especially versions 2.0 and 3.0, has been deprecated and is no longer considered secure by modern browsers and systems.&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.013.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.013.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;In conclusion, TLS is the modern, more secure, and efficient replacement for SSL. With its ability to handle stronger cryptographic algorithms, session resumption, and protection against various vulnerabilities, it is the preferred choice for secure communication in today&amp;rsquo;s cyber landscape.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q23( c) : As head of a company providing post - fixture commercial management to container ships, what factores would you envisage to be included in your contingency plan (including recovery) in case of cyber attack?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt;  As the head of a company providing post-fixture commercial management to container ships, ensuring the company&amp;rsquo;s resilience to cyber threats is critical to maintaining the continuity of operations and safeguarding sensitive commercial, financial, and operational data. Developing a **contingency plan** that includes both preventive and recovery measures in case of a cyber attack is essential. Below are the factors to consider in this contingency plan:&lt;/p&gt;
@@ -3337,22 +3337,22 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;However, since Polaris is offset from the NCP, the altitude of Polaris is not exactly equal to the latitude.&lt;/p&gt;
-&lt;h3&gt;**3. Why Subtract 1 Degree?**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-why-subtract-1-degree&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**3. Why Subtract 1 Degree?**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-why-subtract-1-degree&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-why-subtract-1-degree&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The **Polaris Table** accounts for the varying offset of Polaris from the North Celestial Pole over time, and corrections are applied depending on the year and the precise position of Polaris. The value of **1 degree** subtracted is a general approximation that corrects for the fact that Polaris is slightly below the North Celestial Pole.&lt;/p&gt;
 &lt;p&gt;The subtraction compensates for the star’s small deviation from the exact pole position to give an accurate latitude. The use of **1 degree** is rounded from the true offset (which is approximately 0.7 degrees) for practical navigational purposes.&lt;/p&gt;
-&lt;h3&gt;**4. Practical Example**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-practical-example&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**4. Practical Example**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-practical-example&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-practical-example&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;If you observe the altitude of Polaris to be, say, 45 degrees above the horizon, the latitude you would calculate using a simplified method would initially seem to be 45 degrees North.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;However, since Polaris is not exactly at the NCP, subtracting 1 degree accounts for the star’s deviation, giving you a more accurate observed latitude of 44 degrees North.&lt;/p&gt;
-&lt;h3&gt;**Conclusion**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion-1&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Conclusion**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The subtraction of **1 degree** in the Polaris Table is a simplified correction for the fact that Polaris is not exactly at the North Celestial Pole. This adjustment provides navigators with a more accurate latitude reading when using Polaris for celestial navigation.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q25 (a) : What is SAGNAC effect? Explain the working of Ring Laser gyro.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; ### **SAGNAC Effect**&lt;/p&gt;
 &lt;p&gt;The **Sagnac Effect** is a phenomenon observed in rotating reference frames, where the difference in the path length traveled by light beams moving in opposite directions around a closed loop causes a measurable phase shift or time difference. It occurs because the speed of light is constant relative to an inertial frame, but in a rotating frame, the path length of light changes depending on the direction of rotation.&lt;/p&gt;
-&lt;h4&gt;**Explanation**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;explanation-3&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Explanation**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;explanation-3&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#explanation-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;When a system is rotating, light beams traveling in the direction of the rotation cover more distance relative to the rotating system compared to light beams traveling in the opposite direction.&lt;/p&gt;
@@ -3361,9 +3361,9 @@
 &lt;p&gt;This difference in distance leads to a phase shift between the two light beams, and this phase difference can be used to calculate the rotational velocity of the system.&lt;/p&gt;
 &lt;p&gt;The Sagnac effect is the fundamental principle behind **ring laser gyros** and **fiber optic gyroscopes**, which are widely used in navigation systems to detect and measure rotational movement (angular velocity) with high precision.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**Ring Laser Gyro (RLG)**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ring-laser-gyro-rlg&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Ring Laser Gyro (RLG)**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ring-laser-gyro-rlg&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#ring-laser-gyro-rlg&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A **Ring Laser Gyroscope (RLG)** is a highly accurate device used to measure angular rotation. It works on the principle of the Sagnac Effect and is widely used in modern navigation systems, especially in aircraft, ships, and spacecraft.&lt;/p&gt;
-&lt;h4&gt;**Working Principle**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;working-principle&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Working Principle**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;working-principle&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#working-principle&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol&gt;
@@ -3421,14 +3421,14 @@
 &lt;li&gt;
 &lt;p&gt;**Cost**: RLGs are expensive to manufacture compared to other gyroscope technologies like MEMS gyroscopes.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**Conclusion**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion-2&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Conclusion**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion-2&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The **Sagnac Effect** underpins the operation of the **Ring Laser Gyro**, a critical device in modern navigation systems for measuring angular velocity with high precision. RLGs are widely preferred in applications requiring high accuracy and reliability due to their lack of moving parts and high precision, although they can be costly and may suffer from issues like the lock-in problem at low rotational rates.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q25 (b) : Evaluate “advantages” and “limitations” of the use of ‘AIS AtoNs’ as aids to navigation in indian waterways and in Non-major ports, in particular in night navigation. Also do a cost benefit analysis of the equipment that shall be required to be fitted on vessels to avail the services.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; ### **AIS AtoNs (Automatic Identification System - Aids to Navigation): Overview**&lt;/p&gt;
 &lt;p&gt;**AIS AtoNs** are virtual or physical devices that broadcast navigational information such as position, status, and health through the AIS (Automatic Identification System) network. They can be either physical (installed on buoys or lighthouses) or virtual (representing objects like wrecks or submerged rocks without a physical AIS transmitter). These systems are increasingly used in maritime navigation, providing essential data to vessels in real-time.&lt;/p&gt;
 &lt;p&gt;The use of **AIS AtoNs** in **Indian waterways** and **non-major ports**, particularly during night navigation, presents several advantages and limitations. Below is an evaluation and cost-benefit analysis of AIS AtoNs in this context:&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**Advantages of AIS AtoNs in Indian Waterways and Non-Major Ports**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;advantages-of-ais-atons-in-indian-waterways-and-non-major-ports&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Advantages of AIS AtoNs in Indian Waterways and Non-Major Ports**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;advantages-of-ais-atons-in-indian-waterways-and-non-major-ports&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#advantages-of-ais-atons-in-indian-waterways-and-non-major-ports&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol&gt;
@@ -3539,7 +3539,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Integration with Bridge Systems**: For larger vessels, AIS systems need to be integrated with existing navigation equipment (radar, GPS, ECDIS), adding further cost, typically around **$1,000 to $5,000** (INR 80,000 to INR 400,000).&lt;/p&gt;
-&lt;h4&gt;**2. Benefits for Vessels and Operators**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-benefits-for-vessels-and-operators&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**2. Benefits for Vessels and Operators**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-benefits-for-vessels-and-operators&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-benefits-for-vessels-and-operators&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Safety Enhancement**: Reduction in navigational incidents such as groundings, collisions, or stranding. This can significantly reduce insurance premiums and repair costs, making AIS AtoNs cost-effective in the long run.&lt;/p&gt;
@@ -3549,7 +3549,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Fuel Savings**: Enhanced route optimization through better situational awareness helps reduce fuel consumption and operating costs.&lt;/p&gt;
-&lt;h4&gt;**3. Costs for Port Authorities**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-costs-for-port-authorities&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**3. Costs for Port Authorities**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-costs-for-port-authorities&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-costs-for-port-authorities&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Installation of Physical AIS AtoNs**: For installing AIS transmitters on buoys or lighthouses, the cost per unit could range from **$3,000 to $10,000** (INR 240,000 to INR 800,000), depending on the technology and location.&lt;/p&gt;
@@ -3559,7 +3559,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Monitoring and Control System**: Setting up remote monitoring and control systems may involve additional costs for software and hardware installations, typically ranging from **$5,000 to $20,000** (INR 400,000 to INR 1,600,000).&lt;/p&gt;
-&lt;h4&gt;**4. Long-Term Benefits**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-long-term-benefits&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**4. Long-Term Benefits**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-long-term-benefits&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-long-term-benefits&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Lower Maintenance Costs**: Reduced maintenance compared to traditional physical aids. Over time, virtual AIS AtoNs offer significant savings due to less frequent physical inspections and repairs.&lt;/p&gt;
@@ -3567,12 +3567,12 @@
 &lt;li&gt;
 &lt;p&gt;**Improved Operational Efficiency**: For port authorities, better navigation systems lead to smoother port operations, increased vessel throughput, and reduced incidents, which collectively enhance revenue generation.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**Conclusion**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion-3&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Conclusion**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion-3&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The use of **AIS AtoNs** in **Indian waterways** and **non-major ports** brings significant advantages in enhancing **navigational safety**, particularly during **night navigation** and in areas with limited physical infrastructure. However, it is essential to address the limitations such as **cost of equipment**, **vessel compatibility**, and **signal interference**.&lt;/p&gt;
 &lt;p&gt;From a **cost-benefit** perspective, while the **initial setup costs** may be high, the **long-term benefits** in terms of reduced operational incidents, improved navigational safety, and lower maintenance costs make the adoption of AIS AtoNs highly feasible, especially as part of a modernization strategy in India’s non-major ports.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q25 ( c) : List the salient differences between IRNSS, GPS and GLONASS. Which organisations may need to be approached for approval of a common receiver for all three.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt;  Here is a comparison of the three major satellite navigation systems: **IRNSS** (Indian Regional Navigation Satellite System), **GPS** (Global Positioning System), and **GLONASS** (Global Navigation Satellite System):&lt;/p&gt;
-&lt;h3&gt;**1. Coverage Area**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-coverage-area&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**1. Coverage Area**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-coverage-area&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-coverage-area&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**IRNSS**: Provides coverage over **India and the surrounding region** (approximately 1,500 km beyond Indian borders). It is a regional system.&lt;/p&gt;
@@ -3582,7 +3582,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**GLONASS**: Also provides global coverage.&lt;/p&gt;
-&lt;h3&gt;**2. Number of Satellites**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-number-of-satellites&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**2. Number of Satellites**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-number-of-satellites&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-number-of-satellites&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**IRNSS**: Operates with a constellation of **7 satellites** (3 in geostationary orbit and 4 in geosynchronous orbit).&lt;/p&gt;
@@ -3592,7 +3592,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**GLONASS**: Has a constellation of **24 satellites** in medium Earth orbit.&lt;/p&gt;
-&lt;h3&gt;**3. Orbit Type**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-orbit-type&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**3. Orbit Type**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-orbit-type&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-orbit-type&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**IRNSS**: Satellites are placed in **geostationary and geosynchronous orbits** at approximately 36,000 km altitude.&lt;/p&gt;
@@ -3602,7 +3602,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**GLONASS**: Satellites are in **medium Earth orbit** (MEO) at about 19,100 km altitude.&lt;/p&gt;
-&lt;h3&gt;**4. Frequency Bands**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-frequency-bands&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**4. Frequency Bands**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-frequency-bands&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-frequency-bands&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**IRNSS**: Uses **L5 band (1.176 GHz)** and **S band (2.492 GHz)** for civilian and military use.&lt;/p&gt;
@@ -3642,7 +3642,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**GLONASS**: Primarily for Russian users but available globally for civilian and military purposes.&lt;/p&gt;
-&lt;h3&gt;**9. Independence and Strategic Role**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;9-independence-and-strategic-role&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**9. Independence and Strategic Role**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;9-independence-and-strategic-role&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#9-independence-and-strategic-role&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**IRNSS**: Designed to ensure **India&amp;rsquo;s strategic autonomy** in navigation services, particularly important for defense and regional autonomy.&lt;/p&gt;
@@ -3653,7 +3653,7 @@
 &lt;li&gt;
 &lt;p&gt;**GLONASS**: Russia’s answer to GPS, ensuring **Russia’s navigation independence** from U.S. systems.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**Organizations for Common Receiver Approval**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;organizations-for-common-receiver-approval&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Organizations for Common Receiver Approval**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;organizations-for-common-receiver-approval&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#organizations-for-common-receiver-approval&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To develop and certify a **common receiver** that supports **IRNSS, GPS, and GLONASS**, you would likely need to approach the following organizations for regulatory approval and compliance:&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -3740,11 +3740,11 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Buffer Zones**: A suitable **buffer zone** will be maintained between the wind farm and key maritime routes to ensure ample maneuvering space for vessels. The **International Association of Marine Aids to Navigation and Lighthouse Authorities (IALA)** guidelines for wind farms will be adhered to, which recommend buffer zones for safe navigation.&lt;/p&gt;
-&lt;h3&gt;3. **Use of Advanced Navigational Aids**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-use-of-advanced-navigational-aids&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;3. **Use of Advanced Navigational Aids**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-use-of-advanced-navigational-aids&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-use-of-advanced-navigational-aids&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To further ensure safety, we will install advanced **navigation aids** such as **radar reflectors**, **AIS transponders**, and **marking buoys** around the perimeter of the wind farm. These aids will make the wind farm **highly visible to vessels**, both visually and electronically, reducing the likelihood of any maritime incidents. **Lighting systems** on the turbines will comply with **International Maritime Organization (IMO)** and **IALA** guidelines to ensure they are visible during low visibility conditions.&lt;/p&gt;
-&lt;h3&gt;4. **Coordination with Coastal and Port Authorities**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-coordination-with-coastal-and-port-authorities&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;4. **Coordination with Coastal and Port Authorities**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-coordination-with-coastal-and-port-authorities&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-coordination-with-coastal-and-port-authorities&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;We will work closely with the **Kandla Port Trust**, **Indian Navy**, **Coast Guard**, and other relevant stakeholders to ensure the offshore wind farm is positioned in a way that does not interfere with **port approaches**, **pilot boarding areas**, or **emergency response routes**. Regular consultations will help in **aligning the wind farm’s location** with the broader port and coastal management objectives, ensuring that maritime safety and operational efficiency are maintained.&lt;/p&gt;
-&lt;h3&gt;5. **Marine Spatial Planning Framework**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-marine-spatial-planning-framework&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;5. **Marine Spatial Planning Framework**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-marine-spatial-planning-framework&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#5-marine-spatial-planning-framework&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The **MSP framework** we have adopted ensures that multiple marine uses can coexist harmoniously. The plan includes:&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -3755,7 +3755,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Multi-use Marine Areas**: The wind farm can also create opportunities for **multi-use zones**, where certain activities like **recreational fishing** or **marine research** can coexist with the renewable energy infrastructure, maximizing the use of maritime space.&lt;/p&gt;
-&lt;h3&gt;6. **Advantages of Offshore Wind for the Coastal State**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;6-advantages-of-offshore-wind-for-the-coastal-state&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;6. **Advantages of Offshore Wind for the Coastal State**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;6-advantages-of-offshore-wind-for-the-coastal-state&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#6-advantages-of-offshore-wind-for-the-coastal-state&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;In addition to minimizing interaction with maritime navigation, it is important to highlight the benefits of the offshore wind farm to the coastal state:&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -3766,19 +3766,19 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Energy Security**: Offshore wind farms contribute to **energy security**, providing a stable and reliable source of power that can help coastal states meet their **energy demands** sustainably.&lt;/p&gt;
-&lt;h3&gt;7. **Cost-benefit Considerations**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;7-cost-benefit-considerations&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;7. **Cost-benefit Considerations**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;7-cost-benefit-considerations&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#7-cost-benefit-considerations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;By carefully planning the offshore wind farm through **Marine Spatial Planning**, the coastal state can reap the benefits of renewable energy without significant disruption to maritime navigation. This **balanced approach** ensures that the offshore wind farm coexists with shipping activities, enhancing both the **sustainability** and **economic resilience** of the region.&lt;/p&gt;
-&lt;h3&gt;Conclusion:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion-4&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Conclusion:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion-4&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion-4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;In conclusion, through a **Marine Spatial Planning** approach, we can ensure that the proposed offshore wind farm off Kandla has **minimal interaction with maritime navigation**. By strategically locating the wind farm outside major shipping lanes, employing advanced navigational aids, and working closely with coastal authorities, we can ensure safe and efficient maritime operations alongside renewable energy generation. The wind farm will provide long-term environmental and economic benefits to the coastal state, while maintaining the safety and efficiency of Kandla&amp;rsquo;s maritime infrastructure.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q27(a) : explain the reasons for using ellipsoids as a reference body and not a sphere.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; The use of **ellipsoids** as a reference body for Earth, instead of a **sphere**, is due to several important reasons related to the shape and distribution of mass on Earth. The Earth is not a perfect sphere but rather an **oblate spheroid**, meaning it is slightly flattened at the poles and bulging at the equator. Here&amp;rsquo;s an explanation of the reasons for this choice:&lt;/p&gt;
-&lt;h3&gt;1. **Earth’s Actual Shape (Oblate Spheroid)**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-earths-actual-shape-oblate-spheroid&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;1. **Earth’s Actual Shape (Oblate Spheroid)**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-earths-actual-shape-oblate-spheroid&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-earths-actual-shape-oblate-spheroid&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The Earth’s rotation causes it to have a **bulging equator** and **flattened poles**. This results in the shape of an oblate spheroid, or ellipsoid, which is a more accurate representation of the Earth’s geometry than a perfect sphere. The **equatorial radius** is about 21 kilometers longer than the **polar radius**. This slight flattening is caused by the centrifugal force due to Earth’s rotation.&lt;/p&gt;
 &lt;p&gt;If a sphere were used as a reference body, it would not account for this flattening, leading to inaccuracies in **geodesy**, **navigation**, and **mapping**. The ellipsoid, on the other hand, accounts for this distortion and allows for more precise calculations.&lt;/p&gt;
-&lt;h3&gt;2. **Gravitational Variation**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-gravitational-variation&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;2. **Gravitational Variation**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-gravitational-variation&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-gravitational-variation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The Earth’s **gravitational field** varies due to the uneven distribution of mass, which is better represented by an ellipsoid than by a sphere. The gravitational force at the equator is slightly weaker than at the poles because of the centrifugal force generated by the Earth’s rotation and the larger distance from the center of the Earth at the equator.&lt;/p&gt;
 &lt;p&gt;By using an ellipsoid, which considers the Earth’s varying radii, it is possible to model the **gravitational potential** and the **geoid** more accurately, leading to better predictions of satellite orbits, tides, and positioning systems like **GPS**.&lt;/p&gt;
-&lt;h3&gt;3. **Precision in Geodetic Calculations**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-precision-in-geodetic-calculations&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;3. **Precision in Geodetic Calculations**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-precision-in-geodetic-calculations&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-precision-in-geodetic-calculations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Geodetic measurements, such as determining **latitude**, **longitude**, and **altitude**, require a precise reference model for Earth. The ellipsoid allows geodesists to develop reference systems that account for Earth&amp;rsquo;s **non-uniform** shape. This ensures high accuracy for:&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -3789,20 +3789,20 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Datum and Reference Frames**: An ellipsoid provides a consistent **datum** for positioning on the Earth&amp;rsquo;s surface, used in global and regional reference frames.&lt;/p&gt;
-&lt;h3&gt;4. **Mathematical Simplicity**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-mathematical-simplicity&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;4. **Mathematical Simplicity**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-mathematical-simplicity&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-mathematical-simplicity&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;An ellipsoid offers a **simpler mathematical model** than the irregular, more complex shape of the Earth’s actual surface (the **geoid**). While the geoid accounts for variations in gravitational potential due to the uneven distribution of mass, it is difficult to use directly for calculations. The ellipsoid, however, is a mathematically defined surface that approximates the geoid in a way that is easier to work with in geodetic calculations and satellite systems.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;For example, the ellipsoid has a clear **equation** that relates the **semi-major axis** (equatorial radius) and **semi-minor axis** (polar radius), making it a manageable shape for computational purposes.&lt;/p&gt;
-&lt;h3&gt;5. **Flexibility with Regional Ellipsoids**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-flexibility-with-regional-ellipsoids&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;5. **Flexibility with Regional Ellipsoids**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-flexibility-with-regional-ellipsoids&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#5-flexibility-with-regional-ellipsoids&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Different regions of the world have been surveyed and mapped using **regional ellipsoids** that are optimized for that area’s unique shape. For instance, **GRS80** and **WGS84** are examples of global ellipsoids, but in the past, regional ellipsoids were used for greater local precision. A sphere would not have provided this flexibility to accommodate different regions of the Earth.&lt;/p&gt;
 &lt;p&gt;#
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.014.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt; ### Conclusion:&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.014.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt; ### Conclusion:&lt;/p&gt;
 &lt;p&gt;The use of ellipsoids as a reference body instead of a sphere is critical for achieving **high precision in geodesy, navigation, and mapping**. The Earth’s true shape is better approximated by an oblate spheroid (ellipsoid), accounting for its equatorial bulge and polar flattening, ensuring accuracy in **geographical coordinates**, **gravitational modeling**, and **engineering applications**.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q27(b): explain in brief the conical projection with one standard parallel and show the procedure for the construction of the graticule for a given standard parallel .&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; ### **Conical Projection with One Standard Parallel:**&lt;/p&gt;
 &lt;p&gt;A **conical projection** is a type of **map projection** where the surface of the Earth is projected onto a **cone**, which is then unwrapped into a flat surface. In the case of a **conical projection with one standard parallel**, the cone touches the Earth along a single line of latitude, called the **standard parallel**. This method is commonly used for mid-latitude regions where the map area is wider east-west than north-south, such as in **topographical maps** and **regional charts**.&lt;/p&gt;
-&lt;h4&gt;**Key Characteristics of Conical Projection with One Standard Parallel:**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;key-characteristics-of-conical-projection-with-one-standard-parallel&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Key Characteristics of Conical Projection with One Standard Parallel:**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;key-characteristics-of-conical-projection-with-one-standard-parallel&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#key-characteristics-of-conical-projection-with-one-standard-parallel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol&gt;
@@ -3817,17 +3817,17 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Parallels**: Parallels are arcs of concentric circles centered on the pole.&lt;/p&gt;
-&lt;h3&gt;**Procedure for Constructing a Graticule with One Standard Parallel:**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;procedure-for-constructing-a-graticule-with-one-standard-parallel&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Procedure for Constructing a Graticule with One Standard Parallel:**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;procedure-for-constructing-a-graticule-with-one-standard-parallel&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#procedure-for-constructing-a-graticule-with-one-standard-parallel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To construct a **graticule** (the network of latitude and longitude lines) for a conical projection with one standard parallel, follow these steps:&lt;/p&gt;
-&lt;h4&gt;**1. Define Key Elements:**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-define-key-elements&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**1. Define Key Elements:**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-define-key-elements&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-define-key-elements&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
 &lt;li&gt;
-&lt;p&gt;**Standard Parallel** (\(\phi\_1\)): Choose a latitude (e.g., 45°N) where the cone touches the Earth. This is where scale is accurate.&lt;/p&gt;
+&lt;p&gt;**Standard Parallel** (&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;ϕ&lt;/mi&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;_&lt;/mi&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\phi\_1&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:1.0044em;vertical-align:-0.31em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;ϕ&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;_1&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;): Choose a latitude (e.g., 45°N) where the cone touches the Earth. This is where scale is accurate.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;**Central Meridian** (\(\lambda\_0\)): This is the meridian that runs vertically through the center of the map.&lt;/p&gt;
+&lt;p&gt;**Central Meridian** (&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;λ&lt;/mi&gt;&lt;mi mathvariant=&#34;normal&#34;&gt;_&lt;/mi&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\lambda\_0&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:1.0044em;vertical-align:-0.31em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;λ&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;_0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;): This is the meridian that runs vertically through the center of the map.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Pole**: The apex of the cone, often placed at the North or South Pole.&lt;/p&gt;
@@ -3835,11 +3835,11 @@
 &lt;li&gt;
 &lt;p&gt;**Scale Factor**: Choose a scale factor, usually 1.0, meaning the scale is true along the standard parallel.&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.015.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.015.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;Draw these parallels as concentric arcs centered on the pole. These parallels are increasingly distorted as you move away from the standard parallel.&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.016.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;h3&gt;**Conclusion:**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion-5&#34;&gt;&lt;/span&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.016.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3&gt;**Conclusion:**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion-5&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion-5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The conical projection with one standard parallel is ideal for mid-latitude areas with wide east-west expanses. The procedure for constructing a graticule involves drawing meridians as radiating lines and parallels as concentric arcs, with the standard parallel being the point of true scale. This method minimizes distortion along the standard parallel while managing distortion away from it.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q28 (a) : Explain the following in brief:&lt;/strong&gt;&lt;/p&gt;
 &lt;/li&gt;
@@ -3893,7 +3893,18 @@
 &lt;/ul&gt;
 &lt;p&gt;and vertical components.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;\( F = \sqrt{H^2 + Z^2} \)&lt;/li&gt;
+&lt;li&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;F&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;msqrt&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mi&gt;H&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;msup&gt;&lt;mi&gt;Z&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;/msqrt&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; F = \sqrt{H^2 + Z^2} &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.1389em;&#34;&gt;F&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:1.04em;vertical-align:-0.1266em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord sqrt&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.9134em;&#34;&gt;&lt;span class=&#34;svg-align&#34; style=&#34;top:-3em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34; style=&#34;padding-left:0.833em;&#34;&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0813em;&#34;&gt;H&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.7401em;&#34;&gt;&lt;span style=&#34;top:-2.989em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0715em;&#34;&gt;Z&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.7401em;&#34;&gt;&lt;span style=&#34;top:-2.989em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-2.8734em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;hide-tail&#34; style=&#34;min-width:0.853em;height:1.08em;&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; width=&#34;400em&#34; height=&#34;1.08em&#34; viewBox=&#34;0 0 400000 1080&#34; preserveAspectRatio=&#34;xMinYMin slice&#34;&gt;&lt;path d=&#34;M95,702
+c-2.7,0,-7.17,-2.7,-13.5,-8c-5.8,-5.3,-9.5,-10,-9.5,-14
+c0,-2,0.3,-3.3,1,-4c1.3,-2.7,23.83,-20.7,67.5,-54
+c44.2,-33.3,65.8,-50.3,66.5,-51c1.3,-1.3,3,-2,5,-2c4.7,0,8.7,3.3,12,10
+s173,378,173,378c0.7,0,35.3,-71,104,-213c68.7,-142,137.5,-285,206.5,-429
+c69,-144,104.5,-217.7,106.5,-221
+l0 -0
+c5.3,-9.3,12,-14,20,-14
+H400000v40H845.2724
+s-225.272,467,-225.272,467s-235,486,-235,486c-2.7,4.7,-9,7,-19,7
+c-6,0,-10,-1,-12,-3s-194,-422,-194,-422s-65,47,-65,47z
+M834 80h400000v40h-400000z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.1266em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;### **Types of Changes in Magnetic Elements**:&lt;/p&gt;
 &lt;p&gt;The Earth&amp;rsquo;s magnetic field is not constant and undergoes variations over time, which can be categorized into the following types:&lt;/p&gt;
@@ -3957,13 +3968,13 @@
 &lt;li&gt;The direction of the magnetic field can be determined using **Ampère&amp;rsquo;s Right-Hand Rule**: If the thumb of the right hand points in the direction of the conventional current (from positive to negative), the curled fingers will indicate the direction of the magnetic field lines.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.017.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.017.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.018.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.018.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;The direction of the force can be determined using the **Right-Hand Rule**: if you point your thumb in the direction of the current and your fingers in the direction of the magnetic field, your palm will face the direction of the force.&lt;/p&gt;
-&lt;h4&gt;**6. Applications:**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;6-applications&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**6. Applications:**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;6-applications&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#6-applications&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Electric Motors**: Utilize the interaction between the magnetic field and the current-carrying conductors to produce rotational motion.&lt;/p&gt;
@@ -3976,44 +3987,44 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Magnetic Levitation**: Employ magnetic effects to levitate objects, as seen in maglev trains.&lt;/p&gt;
-&lt;h3&gt;**Conclusion:**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion-6&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Conclusion:**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion-6&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion-6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The magnetic effects of electric current are fundamental to the field of electromagnetism. They involve the generation of magnetic fields by current-carrying conductors and the resulting forces on conductors in magnetic fields. These principles are critical for the operation of various electrical devices and systems, showcasing the interplay between electricity and magnetism.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q29 : describe the various methods of separating components of co-efficient B&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; In the context of magnetism, the coefficient \( B \) usually refers to the magnetic flux density (or magnetic field density), which is a measure of the amount of magnetic field passing through a given area. In magnetic materials, separating the components of \( B \) can involve understanding its relationship with other magnetic quantities, such as magnetic field intensity \( H \), magnetization \( M \), and permeability \( \mu \). Below are methods to separate or analyze these components in magnetism:&lt;/p&gt;
-&lt;h3&gt;1. **Vector Decomposition**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-vector-decomposition&#34;&gt;&lt;/span&gt;
+&lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; In the context of magnetism, the coefficient &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; B &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0502em;&#34;&gt;B&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; usually refers to the magnetic flux density (or magnetic field density), which is a measure of the amount of magnetic field passing through a given area. In magnetic materials, separating the components of &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; B &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0502em;&#34;&gt;B&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; can involve understanding its relationship with other magnetic quantities, such as magnetic field intensity &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;H&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; H &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0813em;&#34;&gt;H&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;, magnetization &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;M&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; M &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.109em;&#34;&gt;M&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;, and permeability &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;μ&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; \mu &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.625em;vertical-align:-0.1944em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;μ&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;. Below are methods to separate or analyze these components in magnetism:&lt;/p&gt;
+&lt;h3&gt;1. **Vector Decomposition**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-vector-decomposition&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-vector-decomposition&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;**Description**: The magnetic flux density \( B \) can be expressed as a vector that has both magnitude and direction. It can be decomposed into its components along the x, y, and z axes in a Cartesian coordinate system.&lt;/p&gt;
+&lt;p&gt;**Description**: The magnetic flux density &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; B &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0502em;&#34;&gt;B&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; can be expressed as a vector that has both magnitude and direction. It can be decomposed into its components along the x, y, and z axes in a Cartesian coordinate system.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Application**: Useful in analyzing magnetic fields in three-dimensional space, particularly in electromagnetic simulations and field calculations.&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.019.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;h3&gt;6. **Magnetic Hysteresis Loop Analysis**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;6-magnetic-hysteresis-loop-analysis&#34;&gt;&lt;/span&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.019.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3&gt;6. **Magnetic Hysteresis Loop Analysis**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;6-magnetic-hysteresis-loop-analysis&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#6-magnetic-hysteresis-loop-analysis&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;**Description**: The hysteresis loop characterizes the relationship between \( B \) and \( H \) for ferromagnetic materials. The loop provides information on the magnetization and demagnetization behavior of the material.&lt;/p&gt;
+&lt;p&gt;**Description**: The hysteresis loop characterizes the relationship between &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; B &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0502em;&#34;&gt;B&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; and &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;H&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; H &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0813em;&#34;&gt;H&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; for ferromagnetic materials. The loop provides information on the magnetization and demagnetization behavior of the material.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;**Application**: Analyzing the loop allows for the separation of different magnetic states and components, revealing how \( B \) varies with \( H \).&lt;/p&gt;
-&lt;h3&gt;7. **Numerical Simulation**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;7-numerical-simulation&#34;&gt;&lt;/span&gt;
+&lt;p&gt;**Application**: Analyzing the loop allows for the separation of different magnetic states and components, revealing how &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; B &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0502em;&#34;&gt;B&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; varies with &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;H&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; H &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0813em;&#34;&gt;H&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;.&lt;/p&gt;
+&lt;h3&gt;7. **Numerical Simulation**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;7-numerical-simulation&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#7-numerical-simulation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Description**: Computational techniques, such as Finite Element Analysis (FEA), can be employed to simulate magnetic fields in complex geometries.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;**Application**: These simulations can calculate the components of \( B \) at various points in a magnetic field and analyze how they interact with materials.&lt;/p&gt;
-&lt;h3&gt;8. **Magnetic Resonance Imaging (MRI)**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;8-magnetic-resonance-imaging-mri&#34;&gt;&lt;/span&gt;
+&lt;p&gt;**Application**: These simulations can calculate the components of &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; B &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0502em;&#34;&gt;B&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; at various points in a magnetic field and analyze how they interact with materials.&lt;/p&gt;
+&lt;h3&gt;8. **Magnetic Resonance Imaging (MRI)**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;8-magnetic-resonance-imaging-mri&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#8-magnetic-resonance-imaging-mri&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Description**: MRI techniques utilize the principles of magnetic resonance to separate and analyze different components of magnetic fields in medical applications.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;**Application**: MRI can visualize how \( B \) interacts with different tissues, which have varying magnetic properties.&lt;/p&gt;
-&lt;h3&gt;Conclusion&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion-7&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#conclusion-7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Separating the components of the coefficient \( B \) in magnetism can be achieved through various methods ranging from theoretical analysis using laws of magnetism to practical measurements and simulations. These methods are essential for understanding magnetic fields in different materials and applications, aiding in the design and optimization of magnetic devices. If you have a specific application or context in mind, feel free to provide more details!&lt;/p&gt;
+&lt;p&gt;**Application**: MRI can visualize how &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; B &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0502em;&#34;&gt;B&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; interacts with different tissues, which have varying magnetic properties.&lt;/p&gt;
+&lt;h3&gt;Conclusion&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion-7&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#conclusion-7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Separating the components of the coefficient &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; B &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0502em;&#34;&gt;B&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; in magnetism can be achieved through various methods ranging from theoretical analysis using laws of magnetism to practical measurements and simulations. These methods are essential for understanding magnetic fields in different materials and applications, aiding in the design and optimization of magnetic devices. If you have a specific application or context in mind, feel free to provide more details!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q30(a) : Describe the basic principle and use of Dynamic Positioning Systems in modern shipping. Ans: #&lt;/strong&gt;## **Dynamic Positioning Systems in Modern Shipping**&lt;/p&gt;
-&lt;h4&gt;**Basic Principle**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;basic-principle&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Basic Principle**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;basic-principle&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#basic-principle&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Dynamic Positioning (DP) systems are automated control systems used to maintain a vessel&amp;rsquo;s position and heading using its own propulsion systems. The basic principle involves a combination of sensors, computer algorithms, and thrusters to counteract environmental forces such as wind, waves, and current, allowing the vessel to stay in a specific location without anchoring.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -4032,7 +4043,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Propulsion**: The system controls multiple thrusters (either azimuth thrusters or bow/stern thrusters) to generate forces that counteract environmental effects. The precise adjustments allow the vessel to hold its position even in challenging conditions.&lt;/p&gt;
-&lt;h4&gt;**Types of Dynamic Positioning Systems**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;types-of-dynamic-positioning-systems&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Types of Dynamic Positioning Systems**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;types-of-dynamic-positioning-systems&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#types-of-dynamic-positioning-systems&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
@@ -4044,7 +4055,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**DP Class 3**: The most sophisticated system with full redundancy, ensuring continuous operation even with multiple failures. Used for critical operations where position accuracy is paramount.&lt;/p&gt;
-&lt;h4&gt;**Uses of Dynamic Positioning Systems**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;uses-of-dynamic-positioning-systems&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Uses of Dynamic Positioning Systems**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;uses-of-dynamic-positioning-systems&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#uses-of-dynamic-positioning-systems&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol&gt;
@@ -4065,7 +4076,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Wind Farm Installation**: DP systems are used in the installation and maintenance of offshore wind farms, allowing installation vessels to position themselves accurately while working on turbines.&lt;/p&gt;
-&lt;h4&gt;**Advantages of Dynamic Positioning Systems**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;advantages-of-dynamic-positioning-systems&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Advantages of Dynamic Positioning Systems**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;advantages-of-dynamic-positioning-systems&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#advantages-of-dynamic-positioning-systems&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
@@ -4080,7 +4091,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Environmental Protection**: Minimizes disturbance to the seabed and marine life, especially during offshore drilling and construction activities.&lt;/p&gt;
-&lt;h3&gt;**Conclusion**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion-8&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Conclusion**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion-8&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion-8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Dynamic Positioning Systems are crucial for modern shipping, particularly in offshore operations and specialized marine activities. Their ability to maintain precise vessel positioning enhances safety, efficiency, and environmental protection in various maritime applications.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q30(b): On what principle do the following function? (I) Sub-marine acoustic transponders (Ii) Split beam channel guidance systems&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Also state uses of these devices.&lt;/strong&gt;&lt;/p&gt;
@@ -4130,7 +4141,7 @@
 &lt;li&gt;
 &lt;p&gt;**Navigation Systems**: Helps provide precise directional guidance for vessels and underwater vehicles.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**Summary**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;summary&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Summary**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;summary&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#summary&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Submarine Acoustic Transponders**: Rely on sound wave propagation and time-of-flight measurements for underwater positioning and communication. Commonly used in navigation, seabed surveying, and ROV guidance.&lt;/p&gt;
@@ -4157,7 +4168,7 @@
 &lt;li&gt;
 &lt;p&gt;**Standardization**: The compensation process is a standardized method in marine navigation that adheres to best practices and regulatory requirements. It provides a systematic approach to maintaining compass accuracy.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h4&gt;**Acceptable Deviations and Their Importance**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;acceptable-deviations-and-their-importance&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Acceptable Deviations and Their Importance**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;acceptable-deviations-and-their-importance&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#acceptable-deviations-and-their-importance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;**Acceptable Deviations**: The deviations of a compass are generally expressed in degrees and can vary based on the vessel&amp;rsquo;s magnetic characteristics, heading, and local magnetic anomalies.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -4171,12 +4182,12 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Regulatory Compliance**: Marine regulatory bodies often set standards for acceptable compass deviations to ensure that all vessels maintain a minimum level of navigational accuracy. Compliance with these standards is essential for safety and legal reasons.&lt;/p&gt;
-&lt;h3&gt;**Conclusion**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion-9&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Conclusion**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion-9&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion-9&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Swinging the ship and compensating the compass is a more efficient and accurate method of ensuring navigational reliability compared to merely noting deviations on each heading. Acceptable deviations, typically within ±5 degrees, are crucial for safe navigation, operational efficiency, and compliance with maritime regulations. These practices help maintain the integrity of navigational systems and enhance the safety of maritime operations.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q32(a) : Bearing of three shore objects when plotted on the chart produce a cocked hat. What may be possible reasons for this cocked hat and where is the most probable position of the ship ? Give reasons.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; ###Cocked Hat in Nautical Navigation** #### **Understanding the Cocked Hat**&lt;/p&gt;
 &lt;p&gt;When the bearings of three shore objects are plotted on a nautical chart and they do not converge to a single point, but instead form a &amp;ldquo;cocked hat&amp;rdquo; (a triangular shape), it indicates that the ship’s position is uncertain. This phenomenon can occur due to various reasons.&lt;/p&gt;
-&lt;h4&gt;**Possible Reasons for the Cocked Hat**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;possible-reasons-for-the-cocked-hat&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Possible Reasons for the Cocked Hat**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;possible-reasons-for-the-cocked-hat&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#possible-reasons-for-the-cocked-hat&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Measurement Errors**:&lt;/p&gt;
@@ -4239,7 +4250,7 @@
 &lt;p&gt;&lt;strong&gt;Q32(b) : Bearing of three shore objects when plotted on the chart produce a cocked hat, describe a method to find the true position of the ship and to find the uncertain compass error if any. What are the main criteria to ensure a reliable fix when this method is adopted?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; ### Finding the True Position of the Ship and Identifying Compass Error Using Cocked Hat Method #### **Method to Determine True Position of the Ship**&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.020.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.cf67f8d0-c0ac-4325-8acd-3eed85e6fdc5.020.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;#### **Criteria for a Reliable Fix**&lt;/p&gt;
 &lt;p&gt;To ensure a reliable fix when using the cocked hat method, consider the following criteria:&lt;/p&gt;
 &lt;ol&gt;
@@ -4319,7 +4330,7 @@
 &lt;li&gt;
 &lt;p&gt;**Reduced Environmental Impact**: Laser systems typically require less power and can be less intrusive than traditional methods.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h4&gt;**2. Infrared (IR) Techniques in Navigation**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-infrared-ir-techniques-in-navigation&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**2. Infrared (IR) Techniques in Navigation**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-infrared-ir-techniques-in-navigation&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-infrared-ir-techniques-in-navigation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;**Overview**:&lt;/p&gt;
 &lt;p&gt;Infrared technology utilizes infrared radiation for various navigational purposes, providing solutions that enhance situational awareness and safety at sea.&lt;/p&gt;
 &lt;p&gt;**Applications**:&lt;/p&gt;
@@ -4343,11 +4354,11 @@
 &lt;li&gt;
 &lt;p&gt;**Integration with Other Systems**: Infrared technology can be integrated with other navigational systems, such as radar and AIS (Automatic Identification System), for comprehensive situational awareness.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**Conclusion**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion-10&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Conclusion**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion-10&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion-10&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The latest advancements in navigational equipment, particularly through laser beam and infrared technologies, are revolutionizing maritime navigation. These technologies offer high accuracy, enhanced safety, and improved operational efficiency. As the maritime industry continues to evolve, the integration of these advanced systems will play a crucial role in enhancing navigation, ensuring safety, and reducing environmental impacts on marine operations.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q33 (a): Explain the word “Cookies” as applied to computers. What advantages does a website get by using cookies in a user’s computer? What are its risks? Should cookies be allowed in one’s computer if a website requests so?&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; Explanation of &amp;ldquo;Cookies&amp;rdquo; in Computing&lt;/p&gt;
-&lt;h4&gt;**What are Cookies?**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;what-are-cookies&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**What are Cookies?**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;what-are-cookies&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#what-are-cookies&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;In computing, a **cookie** is a small piece of data that a website stores on a user&amp;rsquo;s computer or device when they visit the site. These cookies are used to remember information about the user, such as login details, user preferences, or tracking information, to enhance the browsing experience. Cookies are stored as text files and are read by the website when the user visits again.&lt;/p&gt;
 &lt;p&gt;There are two main types of cookies:&lt;/p&gt;
 &lt;/li&gt;
@@ -4359,7 +4370,7 @@
 &lt;li&gt;
 &lt;p&gt;**Persistent Cookies**: These cookies remain on the user&amp;rsquo;s device for a set period, even after the browser is closed. They are used to remember user settings or login details across sessions.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**Advantages for Websites Using Cookies**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;advantages-for-websites-using-cookies&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Advantages for Websites Using Cookies**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;advantages-for-websites-using-cookies&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#advantages-for-websites-using-cookies&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Personalized User Experience**:&lt;/p&gt;
@@ -4423,14 +4434,14 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Session Management**: Some websites may not function properly without cookies (e.g., online banking, shopping carts).&lt;/p&gt;
-&lt;h4&gt;**Reasons to Block or Limit Cookies**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;reasons-to-block-or-limit-cookies&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Reasons to Block or Limit Cookies**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;reasons-to-block-or-limit-cookies&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#reasons-to-block-or-limit-cookies&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Privacy Concerns**: Blocking third-party cookies or only allowing cookies from trusted websites can prevent unnecessary tracking and data collection.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Security**: Disabling cookies or using a browser that offers enhanced cookie management can reduce the risk of cookie-based attacks.&lt;/p&gt;
-&lt;h4&gt;**Best Practices**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;best-practices&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Best Practices**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;best-practices&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#best-practices&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
@@ -4443,11 +4454,11 @@
 &lt;li&gt;
 &lt;p&gt;**Use Private Browsing**: Incognito or private browsing mode ensures that no cookies are saved after a session, offering temporary privacy.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**Conclusion**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion-11&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Conclusion**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion-11&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion-11&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Cookies are a powerful tool for enhancing the functionality of websites and providing a personalized user experience. However, they come with privacy and security risks. It’s generally safe to allow cookies from trusted websites, but users should be cautious of third-party tracking cookies. Managing cookies through browser settings and clearing them periodically are effective ways to balance convenience and privacy.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Q33(b): Differentiate between Information technology and Operational technology in the Shipboard environment as advised by IMO. Give few examples of operational technology and enumerate the cyber risk to ship operations.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ans:&lt;/strong&gt; ### Differentiating Information Technology (IT) and Operational Technology (OT) in the Shipboard Environment&lt;/p&gt;
-&lt;h4&gt;**1. Information Technology (IT)**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-information-technology-it&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**1. Information Technology (IT)**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-information-technology-it&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-information-technology-it&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Definition**: Information Technology (IT) refers to the use of systems, primarily computers and telecommunications, to store, retrieve, transmit, and manipulate data.&lt;/p&gt;
@@ -4578,14 +4589,14 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;*Fluid Dynamics*: These pumps are designed to move liquids, and their impellers are optimized for liquid density and viscosity. Air, being compressible, can disrupt the flow characteristics, leading to poor performance.&lt;/p&gt;
-&lt;h3&gt;IG Blowers:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ig-blowers&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;IG Blowers:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ig-blowers&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#ig-blowers&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;*Handling Air*: IG blowers are designed specifically for moving gases, including air. Their impellers and design facilitate the movement of compressible fluids without the need for priming.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;*Operation*: Unlike pumps, blowers create pressure to push gas through the system, making them effective for applications involving air or gas without the risk of cavitation.&lt;/p&gt;
-&lt;h3&gt;Conclusion:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Conclusion:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The statement is true because centrifugal pumps cannot effectively handle air due to their design and the need for priming, while IG blowers are built to manage gases, allowing them to operate efficiently without the same limitations.&lt;/p&gt;
 &lt;p&gt;Q1(b): Explain in simple terms the meaning of NPSH. Indicate on a NPSH vs flow diagram the ideal/optimum flow rate for a centrifugal pump , justify your choice.&lt;/p&gt;
 &lt;p&gt;Ans: ### NPSH Explained&lt;/p&gt;
@@ -4615,7 +4626,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;*NPSHa Line*: This line may remain relatively constant or slightly decrease with increased flow due to system changes (like friction losses).&lt;/p&gt;
-&lt;h3&gt;Ideal/Optimum Flow Rate&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;idealoptimum-flow-rate&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Ideal/Optimum Flow Rate&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;idealoptimum-flow-rate&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#idealoptimum-flow-rate&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The *ideal/optimum flow rate* is typically found at a point where:&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
@@ -5494,7 +5505,7 @@
 &lt;p&gt;This approach ensures sufficient redundancy, accounting for typical wear, unexpected issues, and the lead time required for resupplying critical parts.&lt;/p&gt;
 &lt;p&gt;Q5(a): what are the factors responsible for the formation of Nox?&lt;/p&gt;
 &lt;p&gt;Ans: Nitrogen oxides (NOx) are formed during the combustion process in diesel engines, including large 2-stroke marine diesel engines. Several factors influence the formation of NOx, primarily due to the high temperatures and chemical reactions that occur in the combustion chamber. The key factors responsible for the formation of NOx are:&lt;/p&gt;
-&lt;h3&gt;1. **High Combustion Temperature**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-high-combustion-temperature&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;1. **High Combustion Temperature**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-high-combustion-temperature&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-high-combustion-temperature&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Primary Factor**: NOx formation increases exponentially with higher combustion temperatures. When air (which&lt;/p&gt;
@@ -5765,7 +5776,7 @@
 &lt;li&gt;SCR can also be used in large-scale boilers to treat exhaust gases and reduce NOx emissions.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;### Summary of Differences: 
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.001.png&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.001.png&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;| **Factor** | **Compression Ignition Engine** | **High-Pressure Boiler** | |&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;ndash;|&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;&amp;mdash;-|&lt;/p&gt;
 &lt;p&gt;| **Combustion Process** | Rapid, localized combustion | Uniform, steady combustion | | **Peak Temperature** | Higher (up to 2,500°C) | Lower (1,300-1,600°C) |&lt;/p&gt;
 &lt;p&gt;| **Air-to-Fuel Ratio** | Variable, often lean | Controlled, constant |&lt;/p&gt;
@@ -5929,9 +5940,9 @@
 &lt;p&gt;-&amp;ndash;&lt;/p&gt;
 &lt;p&gt;### Summary of NOx Reduction Methods Using Water&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.002.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.002.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.003.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.003.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;### Conclusion:&lt;/p&gt;
 &lt;p&gt;The introduction of water into the combustion process is an effective way to reduce NOx emissions by lowering peak combustion temperatures, slowing the combustion reaction, and diluting the reactants. Each method of water introduction has its own advantages and challenges, but all rely on the basic principle that cooler combustion temperatures lead to lower NOx formation. These techniques are widely applied in marine engines, power plants, and industrial boilers to meet increasingly stringent environmental regulations.&lt;/p&gt;
 &lt;p&gt;Q5(d): State other Nox reduction method being used in the shipping industry which you shall select for your fleet.&lt;/p&gt;
@@ -6040,7 +6051,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Recommendation**: Low-NOx combustion technologies are suitable for new-build ships or engines being retrofitted with advanced control systems. They provide an effective way to reduce NOx without relying on after- treatment systems, though they may not achieve the same level of NOx reduction as SCR or EGR.&lt;/p&gt;
-&lt;h3&gt;4. **LNG (Liquefied Natural Gas) as Fuel**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-lng-liquefied-natural-gas-as-fuel&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;4. **LNG (Liquefied Natural Gas) as Fuel**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-lng-liquefied-natural-gas-as-fuel&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-lng-liquefied-natural-gas-as-fuel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Description**: Using LNG as a fuel significantly reduces NOx emissions, as natural gas burns more cleanly than&lt;/p&gt;
@@ -6114,20 +6125,20 @@
 &lt;p&gt;Ans: The cost per ton of CO₂ averted for various CO₂ abatement measures depends on multiple factors, including fuel efficiency, operating costs, maintenance, and capital investments. Measures that generate cost savings or additional revenue are categorized under **negative &amp;ldquo;cost per ton CO₂ averted&amp;rdquo;** (i.e., they result in a net financial benefit while reducing CO₂ emissions). Those that involve higher costs with less direct savings are categorized under **positive &amp;ldquo;cost per ton CO₂ averted&amp;rdquo;**.&lt;/p&gt;
 &lt;p&gt;### Tabulation of CO₂ Abatement Measures:&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.004.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.004.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;|
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.005.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt; ### Key Points:&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.005.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt; ### Key Points:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;**Negative &amp;ldquo;Cost per Ton CO₂ Averted&amp;rdquo;**: These measures generally result in net savings, either by reducing fuel consumption, improving operational efficiency, or extending the lifespan of equipment. Most operational adjustments, like **slow steaming**, **voyage execution**, and **weather routing**, fall into this category because they require minimal upfront costs but yield significant fuel savings.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Positive &amp;ldquo;Cost per Ton CO₂ Averted&amp;rdquo;**: These measures involve higher capital investments, such as **dual-fuel engines**, **shore power (cold ironing)**, or **contra-rotating propellers**. Although they offer long-term environmental benefits and may provide fuel savings, the initial cost is high, leading to a positive cost per ton of CO₂ averted.&lt;/p&gt;
-&lt;h3&gt;Conclusion:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion-1&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Conclusion:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Most of the operational measures that focus on optimizing existing systems result in negative cost per ton of CO₂ averted, meaning they provide both environmental and financial benefits over time. High-tech solutions and large-scale retrofits may involve high initial costs but still play an essential role in reducing CO₂ emissions, especially as regulations tighten in the shipping industry.&lt;/p&gt;
 &lt;p&gt;Q6(b): Explain how a ‘grim vane wheel’ and a ‘rubber bulb system with fins’ achieve CO2 abatement , including advantages and disadvantages, if any.&lt;/p&gt;
 &lt;p&gt;Ans: ### **Grim Vane Wheel**&lt;/p&gt;
-&lt;h4&gt;1. **How It Works:**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-how-it-works&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;1. **How It Works:**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-how-it-works&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-how-it-works&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The **Grim Vane Wheel** is an energy-saving device installed just behind the ship’s propeller. It is designed to capture and utilize the rotational energy left in the water flow after it passes through the propeller. The device consists of a set of rotating blades that are connected to the ship&amp;rsquo;s shaft and help to:&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -6156,8 +6167,8 @@
 &lt;li&gt;
 &lt;p&gt;**Maintenance**: Like all moving parts, the vane wheel requires periodic maintenance, adding to operational complexity.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**Rubber Bulb System with Fins (Also Known as Pre-Swirl Stator or Propeller Boss Cap Fins)**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;rubber-bulb-system-with-fins-also-known-as-pre-swirl-stator-or-propeller-boss-cap-fins&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#rubber-bulb-system-with-fins-also-known-as-pre-swirl-stator-or-propeller-boss-cap-fins&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;1. **How It Works:**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-how-it-works-1&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Rubber Bulb System with Fins (Also Known as Pre-Swirl Stator or Propeller Boss Cap Fins)**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;rubber-bulb-system-with-fins-also-known-as-pre-swirl-stator-or-propeller-boss-cap-fins&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#rubber-bulb-system-with-fins-also-known-as-pre-swirl-stator-or-propeller-boss-cap-fins&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;1. **How It Works:**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-how-it-works-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-how-it-works-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The **rubber bulb system with fins** (or propeller boss cap fins) is another energy-saving device mounted at the hub of the propeller. The system consists of **fins attached to the boss cap** (the hub) of the propeller. These fins are angled to counteract the swirling motion of the water caused by the rotating propeller. The device:&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -6183,9 +6194,9 @@
 &lt;li&gt;
 &lt;p&gt;**Installation Costs**: Although not overly expensive, the initial installation still requires investment, and the cost- benefit ratio may be more favorable for ships with longer operational lives.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**Comparison and Conclusion**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;comparison-and-conclusion&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Comparison and Conclusion**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;comparison-and-conclusion&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#comparison-and-conclusion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;|
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.006.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.006.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Grim Vane Wheel** is generally more effective in terms of propulsion efficiency gains but involves higher complexity and cost, making it suitable for larger vessels or ships with longer operational lifetimes.&lt;/p&gt;
@@ -6195,9 +6206,9 @@
 &lt;p&gt;Both technologies contribute to CO₂ abatement by improving propulsion efficiency and reducing fuel consumption, thereby cutting CO₂ emissions. The choice between the two would depend on the specific vessel&amp;rsquo;s operating conditions, budget, and expected return on investment.&lt;/p&gt;
 &lt;p&gt;Q7: What are the three types of autonomy referred to in connection with maritime robotics? Discuss the advantages and disadvantages of each.&lt;/p&gt;
 &lt;p&gt;Ans: In the context of **maritime robotics** (such as autonomous ships, underwater vehicles, and drones), autonomy refers to the level of human intervention required for navigation, decision-making, and operation. The three main types of autonomy are:&lt;/p&gt;
-&lt;h3&gt;1. **Manual or Human-in-the-Loop Autonomy**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-manual-or-human-in-the-loop-autonomy&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;1. **Manual or Human-in-the-Loop Autonomy**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-manual-or-human-in-the-loop-autonomy&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-manual-or-human-in-the-loop-autonomy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;This is the **lowest level of autonomy**, where a human operator is directly controlling or guiding the system in real- time. The human is responsible for making decisions, and the robotic system primarily functions as an aid or tool.&lt;/p&gt;
-&lt;h4&gt;**Advantages**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;advantages&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Advantages**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;advantages&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#advantages&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Complete control**: The human operator has direct oversight, allowing for complex decision-making in unpredictable situations.&lt;/p&gt;
@@ -6208,7 +6219,7 @@
 &lt;li&gt;
 &lt;p&gt;**Better for complex operations**: Certain tasks, like salvage, repairs, or sensitive underwater research, may require a&lt;/p&gt;
 &lt;p&gt;human operator to handle unexpected conditions or minute adjustments.&lt;/p&gt;
-&lt;h4&gt;**Disadvantages**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;disadvantages&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Disadvantages**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;disadvantages&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#disadvantages&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Requires constant human attention**: Since real-time human intervention is necessary, this system is labor- intensive and depends on the operator&amp;rsquo;s skills, attention, and availability.&lt;/p&gt;
@@ -6219,9 +6230,9 @@
 &lt;li&gt;
 &lt;p&gt;**Potential for human error**: Despite control, human fatigue or misjudgment can lead to errors, especially during prolonged operations.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;2. **Supervised Autonomy or Human-on-the-Loop Autonomy**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-supervised-autonomy-or-human-on-the-loop-autonomy&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;2. **Supervised Autonomy or Human-on-the-Loop Autonomy**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-supervised-autonomy-or-human-on-the-loop-autonomy&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-supervised-autonomy-or-human-on-the-loop-autonomy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;This is an **intermediate level of autonomy**, where the robotic system operates largely on its own, but a human supervisor can intervene if necessary. The system can carry out pre-programmed tasks or make decisions based on set parameters, but human oversight is maintained to correct or override if something goes wrong.&lt;/p&gt;
-&lt;h4&gt;**Advantages**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;advantages-1&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Advantages**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;advantages-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#advantages-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Balance of automation and control**: The system can operate autonomously for routine or repetitive tasks, reducing human workload while still allowing intervention in critical moments.&lt;/p&gt;
@@ -6231,7 +6242,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Reduced operator fatigue**: Since the human operator doesn’t need to be involved in every action, the chance of human error due to fatigue is lower.&lt;/p&gt;
-&lt;h4&gt;**Disadvantages**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;disadvantages-1&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Disadvantages**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;disadvantages-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#disadvantages-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Still requires communication and oversight**: Although not as dependent on continuous human control, the system still relies on communication links, which may fail in remote or high-risk areas.&lt;/p&gt;
@@ -6242,9 +6253,9 @@
 &lt;li&gt;
 &lt;p&gt;**More complex decision-making may require human intervention**: When faced with new or unforeseen scenarios that are outside the pre-defined parameters, the system might need human intervention to avoid operational inefficiency or failure.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;3. **Full Autonomy or Human-out-of-the-Loop Autonomy**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-full-autonomy-or-human-out-of-the-loop-autonomy&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;3. **Full Autonomy or Human-out-of-the-Loop Autonomy**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-full-autonomy-or-human-out-of-the-loop-autonomy&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-full-autonomy-or-human-out-of-the-loop-autonomy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;This is the **highest level of autonomy**, where the robotic system operates entirely independently, without the need for human oversight or intervention. The system uses advanced sensors, artificial intelligence (AI), and machine learning to make decisions, adapt to changing conditions, and complete missions.&lt;/p&gt;
-&lt;h4&gt;**Advantages**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;advantages-2&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Advantages**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;advantages-2&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#advantages-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Highly efficient and scalable**: Autonomous systems can operate continuously without human intervention, making them suitable for long-duration missions, remote areas, or hazardous environments (e.g., deep-sea exploration or hostile regions).&lt;/p&gt;
@@ -6254,7 +6265,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Ideal for repetitive tasks**: For missions that involve repetitive tasks or pre-defined routes (e.g., surveying or patrolling), full autonomy is highly effective.&lt;/p&gt;
-&lt;h4&gt;**Disadvantages**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;disadvantages-2&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Disadvantages**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;disadvantages-2&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#disadvantages-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Technological challenges**: Full autonomy requires sophisticated AI and machine learning algorithms to ensure that the system can handle complex, unpredictable scenarios. Current technology may not always be reliable in all maritime conditions, especially for large ships.&lt;/p&gt;
@@ -6268,15 +6279,15 @@
 &lt;li&gt;
 &lt;p&gt;**Safety concerns**: Without human oversight, fully autonomous systems may struggle with ethical decision-making, collision avoidance, or compliance with maritime regulations (e.g., COLREGS).&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**Summary of Advantages and Disadvantages**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;summary-of-advantages-and-disadvantages&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Summary of Advantages and Disadvantages**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;summary-of-advantages-and-disadvantages&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#summary-of-advantages-and-disadvantages&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;|
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.007.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
-&lt;h3&gt;Conclusion:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion-2&#34;&gt;&lt;/span&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.007.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;h3&gt;Conclusion:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion-2&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Each type of autonomy has its strengths and weaknesses, and the choice of autonomy level depends on the specific maritime application. For complex, high-risk, or regulatory-bound operations, **supervised autonomy** often strikes the right balance. However, for repetitive, long-range missions, **full autonomy** can maximize efficiency, though it requires advanced technology and careful consideration of legal and safety issues.&lt;/p&gt;
 &lt;p&gt;Q8(a): Describe the “free rotating vane wheel” type propulsion (Voith= Schneider type) and state its advantages and disadvantages. Why is it fitted to escort tugs?&lt;/p&gt;
 &lt;p&gt;Ans: ### **Free Rotating Vane Wheel Propulsion (Voith-Schneider Propulsion)**&lt;/p&gt;
 &lt;p&gt;The **Voith-Schneider Propulsion (VSP)**, also known as the **free rotating vane wheel**, is a unique and highly maneuverable type of propulsion system primarily used in tugs, ferries, and other vessels that require precise control. It was invented by Ernst Schneider and developed by the Voith company.&lt;/p&gt;
-&lt;h4&gt;**How It Works:**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;how-it-works&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**How It Works:**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;how-it-works&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#how-it-works&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;The Voith-Schneider system consists of a **circular rotating disk** mounted vertically beneath the hull of the ship. Around the edge of the disk, there are **vertical blades** (or vanes) that rotate with the disk.&lt;/p&gt;
@@ -6288,7 +6299,7 @@
 &lt;p&gt;The magnitude and direction of the thrust are controlled by adjusting the pitch of each blade dynamically as the wheel spins. This design enables the vessel to **change direction quickly and with great precision**, without the need to reverse the rotation of the propeller.&lt;/p&gt;
 &lt;p&gt;The VSP allows for immediate control of both the direction and strength of thrust, offering **360-degree maneuverability** without having to rely on rudders or fixed-pitch propellers.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**Advantages of Voith-Schneider Propulsion**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;advantages-of-voith-schneider-propulsion&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Advantages of Voith-Schneider Propulsion**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;advantages-of-voith-schneider-propulsion&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#advantages-of-voith-schneider-propulsion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol&gt;
@@ -6390,7 +6401,7 @@
 &lt;p&gt;-&amp;ndash;&lt;/p&gt;
 &lt;p&gt;### **Summary of Advantages and Disadvantages**&lt;/p&gt;
 &lt;p&gt;|
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.008.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt; &amp;mdash;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.008.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt; &amp;mdash;&lt;/p&gt;
 &lt;p&gt;### **Conclusion:**&lt;/p&gt;
 &lt;p&gt;The **Voith-Schneider Propulsion** system is particularly well-suited for escort tugs due to its unparalleled maneuverability, fast response times, and the ability to generate thrust in any direction. While it has some disadvantages, such as high initial cost and vulnerability to debris, the system’s benefits far outweigh these drawbacks in operations where precise, responsive control is essential, especially in confined or congested areas like harbors or in emergency ship-handling situations.&lt;/p&gt;
 &lt;p&gt;Q8(b): Describe the function of split roller bearings for main and auxillary shafting. How are they overhauled and in a sketch show the location where they are fitted.&lt;/p&gt;
@@ -6420,7 +6431,7 @@
 &lt;li&gt;
 &lt;p&gt;**Auxiliary shafting**: In auxiliary systems like generators, compressors, or pumps where rotating shafts are present.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**Overhauling Process:**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;overhauling-process&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Overhauling Process:**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;overhauling-process&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#overhauling-process&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Overhauling split roller bearings involves a series of steps to inspect, clean, and, if necessary, replace the components to ensure continued operation. Here is the general process for overhauling split roller bearings:&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -6513,12 +6524,12 @@
 &lt;p&gt;generator rotor).&lt;/p&gt;
 &lt;p&gt;#### **Sketch of Split Roller Bearing Location in Main Shafting**:&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.009.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.009.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;In the sketch:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;The **split roller bearing** is placed along the **propeller shaft** and supports the rotating shaft, allowing smooth motion while carrying radial loads. It is installed between the thrust block (to manage axial loads) and the stern tube bearing.&lt;/p&gt;
-&lt;h3&gt;**Advantages of Split Roller Bearings**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;advantages-of-split-roller-bearings&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Advantages of Split Roller Bearings**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;advantages-of-split-roller-bearings&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#advantages-of-split-roller-bearings&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol&gt;
@@ -6533,7 +6544,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Enhanced Accessibility**: These bearings are suitable for hard-to-reach locations, such as confined spaces in engine rooms or below decks.&lt;/p&gt;
-&lt;h3&gt;**Disadvantages of Split Roller Bearings**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;disadvantages-of-split-roller-bearings&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Disadvantages of Split Roller Bearings**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;disadvantages-of-split-roller-bearings&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#disadvantages-of-split-roller-bearings&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Higher Initial Cost**: Split roller bearings tend to be more expensive compared to standard bearings due to their specialized design.&lt;/p&gt;
@@ -6548,7 +6559,7 @@
 &lt;p&gt;Ans: ### **Fresh Water Generator (FWG) and Brine Concentration Control**&lt;/p&gt;
 &lt;p&gt;A **fresh water generator (FWG)** is a piece of equipment on board ships that distills seawater to produce fresh water. It typically works on the principle of low-pressure evaporation, utilizing heat from engine jacket cooling water or steam.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**Preventing Brine Concentration from Falling Below a Certain Value**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;preventing-brine-concentration-from-falling-below-a-certain-value&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Preventing Brine Concentration from Falling Below a Certain Value**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;preventing-brine-concentration-from-falling-below-a-certain-value&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#preventing-brine-concentration-from-falling-below-a-certain-value&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;**Brine concentration** in a fresh water generator refers to the salt content of the seawater that remains after the evaporation of fresh water. If the brine concentration falls below a particular value, it can lead to operational inefficiencies. This is prevented by **adjusting the feed rate of seawater and the brine discharge rate**.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
@@ -6588,9 +6599,9 @@
 &lt;li&gt;
 &lt;p&gt;**Scale Formation**: An imbalance in brine concentration can also accelerate the **deposition of salts** on heat exchange surfaces, leading to scale formation (discussed in detail below).&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;(1) **Scale Formation on Tube Nests**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-scale-formation-on-tube-nests&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;(1) **Scale Formation on Tube Nests**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-scale-formation-on-tube-nests&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-scale-formation-on-tube-nests&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The tube nest, or heat exchanger bundle, is where heat is transferred to the seawater to cause evaporation. Scale formation on these tubes is a significant operational issue.&lt;/p&gt;
-&lt;h4&gt;**Causes of Scale Formation**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;causes-of-scale-formation&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Causes of Scale Formation**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;causes-of-scale-formation&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#causes-of-scale-formation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**High Brine Concentration**: As water evaporates, the concentration of dissolved salts increases. If the concentration becomes too high, salts like calcium carbonate (CaCO₃) and magnesium hydroxide (Mg(OH)₂) precipitate and form **hard scale** on the tube surfaces.&lt;/p&gt;
@@ -6600,7 +6611,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Poor Brine Circulation**: Inadequate circulation of brine can cause localized overheating, resulting in rapid salt precipitation on the hottest parts of the tube nests.&lt;/p&gt;
-&lt;h4&gt;**Effects of Scale Formation**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;effects-of-scale-formation&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Effects of Scale Formation**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;effects-of-scale-formation&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#effects-of-scale-formation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Reduced Heat Transfer Efficiency**: Scale acts as an insulating layer, reducing the efficiency of heat transfer from the hot medium (engine cooling water or steam) to the seawater. This leads to decreased evaporation rates.&lt;/p&gt;
@@ -6610,7 +6621,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Potential Equipment Damage**: If left untreated, scale can become thick enough to block tubes or damage equipment, leading to costly repairs and downtime.&lt;/p&gt;
-&lt;h4&gt;**Prevention of Scale Formation**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;prevention-of-scale-formation&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Prevention of Scale Formation**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;prevention-of-scale-formation&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#prevention-of-scale-formation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Maintaining Correct Brine Concentration**: Monitoring and controlling the discharge of brine ensures that salt concentration is kept within operational limits, reducing the risk of scale formation.&lt;/p&gt;
@@ -6621,9 +6632,9 @@
 &lt;li&gt;
 &lt;p&gt;**Regular Cleaning**: Periodic **chemical or mechanical cleaning** of the tube nest is essential to remove scale deposits.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;(2) **Corrosion in the Evaporator**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-corrosion-in-the-evaporator&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;(2) **Corrosion in the Evaporator**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-corrosion-in-the-evaporator&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-corrosion-in-the-evaporator&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Corrosion is another significant problem in fresh water generators, particularly in the evaporator section where seawater is evaporated.&lt;/p&gt;
-&lt;h4&gt;**Causes of Corrosion**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;causes-of-corrosion&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Causes of Corrosion**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;causes-of-corrosion&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#causes-of-corrosion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol&gt;
@@ -6638,7 +6649,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Crevice Corrosion**: Seawater can become trapped in small crevices within the evaporator, such as at gasket joints or under deposits, leading to **localized corrosion**.&lt;/p&gt;
-&lt;h4&gt;**Effects of Corrosion**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;effects-of-corrosion&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Effects of Corrosion**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;effects-of-corrosion&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#effects-of-corrosion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
@@ -6650,7 +6661,7 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Increased Maintenance Costs**: Corrosion damage may require frequent repairs or replacement of expensive parts like tube nests or heat exchangers.&lt;/p&gt;
-&lt;h4&gt;**Prevention of Corrosion**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;prevention-of-corrosion&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Prevention of Corrosion**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;prevention-of-corrosion&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#prevention-of-corrosion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol&gt;
@@ -6666,7 +6677,7 @@
 &lt;li&gt;
 &lt;p&gt;**Control of Operating Conditions**: Maintaining proper operating conditions, such as avoiding excessive temperatures and controlling pH levels, can help minimize corrosion.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**Summary**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;summary&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Summary**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;summary&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#summary&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
@@ -6681,7 +6692,7 @@
 &lt;p&gt;Q9(b): In a STP (sewage treatment plant) what is the function of a flow -control disc? Make a simple sketch of a STP to show and label all its compartments and what treatment occurs in each.&lt;/p&gt;
 &lt;p&gt;Ans: ### **Function of a Flow-Control Disc in a Sewage Treatment Plant (STP)**&lt;/p&gt;
 &lt;p&gt;In a **Sewage Treatment Plant (STP)** on board ships, the **flow-control disc** is used to regulate the flow of sewage through the treatment system. It ensures that the sewage passes through the treatment chambers at an optimal rate, allowing sufficient time for the biological and mechanical processes to occur effectively.&lt;/p&gt;
-&lt;h4&gt;**Key Functions**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;key-functions&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Key Functions**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;key-functions&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#key-functions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol&gt;
@@ -6765,7 +6776,7 @@
 &lt;/ul&gt;
 &lt;p&gt;#### **Simple Sketch of STP Compartments**:&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.010.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.010.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;### **Explanation of Each Stage**:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;**Inlet Chamber**:&lt;/li&gt;
@@ -6823,9 +6834,9 @@
 &lt;li&gt;
 &lt;p&gt;The voltage generated in the alternator depends directly on the **strength of the magnetic field** in the rotor. By adjusting the **excitation current** supplied to the rotor windings, the magnetic field strength can be controlled, thereby controlling the voltage generated by the alternator.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;**Automatic Voltage Regulator (AVR) - Functioning and Working Principle**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;automatic-voltage-regulator-avr---functioning-and-working-principle&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Automatic Voltage Regulator (AVR) - Functioning and Working Principle**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;automatic-voltage-regulator-avr---functioning-and-working-principle&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#automatic-voltage-regulator-avr---functioning-and-working-principle&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;An **Automatic Voltage Regulator (AVR)** is a crucial device that automatically maintains the generator output voltage within predefined limits, compensating for load changes or other disturbances. It ensures the stability of the generator&amp;rsquo;s voltage output, even when there are fluctuations in the load demand.&lt;/p&gt;
-&lt;h4&gt;**Working Principle of an AVR**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;working-principle-of-an-avr&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;**Working Principle of an AVR**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;working-principle-of-an-avr&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#working-principle-of-an-avr&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol&gt;
@@ -6916,12 +6927,12 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;**Increased System Life**: By maintaining consistent voltage, the AVR reduces wear and tear on electrical components and enhances the overall life of the generator system.&lt;/p&gt;
-&lt;h3&gt;**Conclusion**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion-3&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;**Conclusion**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion-3&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The **Automatic Voltage Regulator (AVR)** plays a vital role in maintaining the output voltage of a generator within prescribed limits, compensating for changes in load, and protecting the generator from over-voltage or under-voltage conditions. By controlling the **excitation current**, the AVR ensures that the generator produces a stable and reliable power supply.&lt;/p&gt;
 &lt;p&gt;Q10(b): what are the likely consequences of attempting to close the incomer’s circuit breaker when the generator voltages are not in synchronism?&lt;/p&gt;
 &lt;p&gt;Ans: ### **Consequences of Closing the Incomer&amp;rsquo;s Circuit Breaker When Generator Voltages Are Not in Synchronism**&lt;/p&gt;
 &lt;p&gt;Closing the incomer’s circuit breaker (CB) when generator voltages are not in synchronism can lead to several serious and potentially damaging consequences. Synchronism refers to the condition where multiple generators have the same voltage, frequency, phase sequence, and phase angle. Attempting to connect generators that are not synchronized can have the following effects:&lt;/p&gt;
-&lt;h4&gt;1. **Electrical Faults**:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-electrical-faults&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;1. **Electrical Faults**:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-electrical-faults&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-electrical-faults&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
@@ -7394,7 +7405,7 @@
 &lt;p&gt;#### **Sketch of Fair Curve Alignment Method**&lt;/p&gt;
 &lt;p&gt;Here is a simplified sketch illustrating the Fair Curve Alignment Method:&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.011.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.011.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;```&lt;/p&gt;
 &lt;p&gt;In the sketch above, the dashed line represents the ideal fair curve that the shaft should follow to achieve proper alignment with the engine and stern tube bearing.&lt;/p&gt;
 &lt;p&gt;-&amp;ndash;&lt;/p&gt;
@@ -7490,9 +7501,9 @@
 &lt;p&gt;### **Location in the Shafting System**&lt;/p&gt;
 &lt;p&gt;In a typical marine propulsion system, the hydrodynamic white metal bearings are positioned at various points along the intermediate shafting. Below is a simplified sketch illustrating their location:&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.012.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.012.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.013.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.013.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;In this sketch:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The **engine** drives the **coupling**, which connects to the intermediate shaft.&lt;/li&gt;
@@ -7584,9 +7595,9 @@
 &lt;p&gt;### **Location in the Shafting System**&lt;/p&gt;
 &lt;p&gt;Tilting pad bearings are typically used as **intermediate shaft bearings** between the engine and the propeller shaft to support the rotating shaft and maintain proper alignment. Below is a simplified sketch illustrating their location:&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.014.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.014.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.015.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.015.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;In this sketch:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The **engine** drives the **coupling**, which connects to the intermediate shaft.&lt;/li&gt;
@@ -7690,9 +7701,9 @@
 &lt;p&gt;In a marine propulsion system, roller bearings used as intermediate shaft bearings are positioned between the engine (or gearbox) and the propeller shaft. They support the intermediate shaft, ensuring proper alignment and smooth rotation.&lt;/p&gt;
 &lt;p&gt;#### **Simplified Sketch of Location**&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.016.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.016.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.017.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.017.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;In this illustration:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The **engine** transmits power through a **coupling** to the intermediate shaft.&lt;/li&gt;
@@ -7785,9 +7796,9 @@
 &lt;p&gt;Thrust bearings are typically located close to the engine or gearbox, where they can effectively transfer the axial thrust generated by the propeller to the ship’s hull. Below is a simplified sketch illustrating their location in the shafting system.&lt;/p&gt;
 &lt;p&gt;#### **Simplified Sketch of Thrust Bearing Location**&lt;/p&gt;
 &lt;p&gt;
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.018.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.018.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
 &lt;p&gt;``
-    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.019.jpeg&#34; alt=&#34;&#34; loading=&#34;lazy&#34; /&gt; In this sketch:&lt;/p&gt;
+    &lt;img src=&#34;../Aspose.Words.d1d35436-f348-40f9-a8e5-ec4a67195579.019.jpeg&#34; alt=&#34;&#34;  loading=&#34;lazy&#34; /&gt; In this sketch:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;The **engine** drives the shaft.&lt;/li&gt;
 &lt;li&gt;The **thrust bearing** is positioned near the engine or gearbox and transfers the axial thrust generated by the propeller to the hull.&lt;/li&gt;

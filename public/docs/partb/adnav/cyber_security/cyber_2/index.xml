@@ -4,7 +4,7 @@
     <link>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/</link>
     <description>Recent content in Maritime Cyber Security on ships on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     
 	  <atom:link href="http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/index.xml" rel="self" type="application/rss+xml" />
     
@@ -26,9 +26,9 @@
         &lt;p&gt;Of course. This is an excellent and critical topic. The integration of cyber security into the maritime Safety Management System (SMS), as mandated by the IMO, is crucial for modern vessel operations. Email remains one of the most significant and persistent threats.&lt;/p&gt;
 &lt;p&gt;Here is a detailed breakdown of the dangers associated with emails in the maritime context, structured for clarity within a safety management framework.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;Maritime Cyber Security &amp;amp; Safety Management: Dangers Associated with Emails&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;maritime-cyber-security--safety-management-dangers-associated-with-emails&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;Maritime Cyber Security &amp;amp; Safety Management: Dangers Associated with Emails&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;maritime-cyber-security--safety-management-dangers-associated-with-emails&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#maritime-cyber-security--safety-management-dangers-associated-with-emails&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The International Safety Management (ISM) Code requires shipping companies to assess all identified risks to their ships, personnel, and the environment and to establish appropriate safeguards. Following IMO Resolution MSC.428(98), this now explicitly includes cyber risks. Email is a primary vector for these risks, capable of bridging the gap between shoreside IT systems and the vessel&amp;rsquo;s critical Operational Technology (OT).&lt;/p&gt;
-&lt;h3&gt;&lt;strong&gt;Why Email is a High-Risk Area in the Maritime Industry&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;why-email-is-a-high-risk-area-in-the-maritime-industry&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;Why Email is a High-Risk Area in the Maritime Industry&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;why-email-is-a-high-risk-area-in-the-maritime-industry&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#why-email-is-a-high-risk-area-in-the-maritime-industry&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The maritime sector has unique vulnerabilities that amplify the danger of email-based threats:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;High &amp;ldquo;Trust&amp;rdquo; Environment:&lt;/strong&gt; Vessels constantly receive legitimate emails with attachments from port agents, charterers, suppliers, and manning agencies (e.g., berthing instructions, crew manifests, cargo documents). Attackers exploit this by creating convincing fakes.&lt;/li&gt;
@@ -38,8 +38,8 @@
 &lt;li&gt;&lt;strong&gt;Crew Rotation:&lt;/strong&gt; A constantly changing crew increases the challenge of maintaining a consistent security culture and training standard.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;Specific Dangers Associated with Emails&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;specific-dangers-associated-with-emails&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#specific-dangers-associated-with-emails&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;&lt;strong&gt;1. Dangerous Attachments (Malware Delivery)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-dangerous-attachments-malware-delivery&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;Specific Dangers Associated with Emails&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;specific-dangers-associated-with-emails&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#specific-dangers-associated-with-emails&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;&lt;strong&gt;1. Dangerous Attachments (Malware Delivery)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-dangerous-attachments-malware-delivery&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-dangerous-attachments-malware-delivery&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;This is the most direct method of attack. The goal is to trick a user into opening an attachment that executes malicious code.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -72,7 +72,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;2. Phishing and Social Engineering&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-phishing-and-social-engineering&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;2. Phishing and Social Engineering&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-phishing-and-social-engineering&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-phishing-and-social-engineering&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Phishing attacks use deceptive emails to trick the recipient into revealing sensitive information or taking a harmful action.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -95,7 +95,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;3. Business Email Compromise (BEC)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-business-email-compromise-bec&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;3. Business Email Compromise (BEC)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-business-email-compromise-bec&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-business-email-compromise-bec&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;This is a sophisticated scam targeting companies that perform wire transfers. It&amp;rsquo;s a form of spear phishing that has cost the shipping industry millions.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -110,7 +110,7 @@
 &lt;p&gt;&lt;strong&gt;Maritime Impact:&lt;/strong&gt; Direct and significant financial loss. This can involve payments for bunker fuel, port fees, or ship supplies being diverted to criminals.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;4. Hoaxes and Scams&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-hoaxes-and-scams&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;4. Hoaxes and Scams&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-hoaxes-and-scams&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-hoaxes-and-scams&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;While some hoaxes don&amp;rsquo;t contain malware, they are still a threat to safety and operations.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; To spread misinformation, cause panic, or waste time and resources.&lt;/li&gt;
@@ -124,7 +124,7 @@
 &lt;li&gt;&lt;strong&gt;Impact:&lt;/strong&gt; Can clog limited satellite bandwidth, cause operational disruptions based on false information, and reduce vigilance by creating &amp;ldquo;alert fatigue.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;Integration with the Safety Management System (SMS): Mitigation Strategies&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;integration-with-the-safety-management-system-sms-mitigation-strategies&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;Integration with the Safety Management System (SMS): Mitigation Strategies&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;integration-with-the-safety-management-system-sms-mitigation-strategies&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#integration-with-the-safety-management-system-sms-mitigation-strategies&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Cyber risks from emails must be managed with the same rigor as traditional maritime risks (e.g., fire, collision).&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -182,10 +182,10 @@
         
         &lt;p&gt;Of course. This is a critical topic at the intersection of maritime operations, safety, and modern technology. Here is a comprehensive breakdown of identifying the theft and compromise of classified data within the framework of Maritime Cybersecurity and Safety Management.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;Maritime Cybersecurity &amp;amp; Safety Management: Identification of Data Theft and Compromise&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;maritime-cybersecurity--safety-management-identification-of-data-theft-and-compromise&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;Maritime Cybersecurity &amp;amp; Safety Management: Identification of Data Theft and Compromise&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;maritime-cybersecurity--safety-management-identification-of-data-theft-and-compromise&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#maritime-cybersecurity--safety-management-identification-of-data-theft-and-compromise&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The integration of IT (Information Technology) and OT (Operational Technology) systems on vessels has created new efficiencies but also significant vulnerabilities. The IMO Resolution MSC.428(98) requires cyber risks to be appropriately addressed in Safety Management Systems (SMS) no later than the first annual verification of the company’s Document of Compliance after 1 January 2021.&lt;/p&gt;
 &lt;p&gt;Identifying the theft of classified data is a cornerstone of this requirement. It&amp;rsquo;s not just about preventing financial loss; it&amp;rsquo;s about preventing safety incidents that could result from compromised operational data.&lt;/p&gt;
-&lt;h4&gt;&lt;strong&gt;Step 1: Define &amp;ldquo;Classified Data&amp;rdquo; in a Maritime Context&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;step-1-define&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;Step 1: Define &amp;ldquo;Classified Data&amp;rdquo; in a Maritime Context&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1-define&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#step-1-define&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Before you can identify theft, you must know what you are protecting. &amp;ldquo;Classified&amp;rdquo; or &amp;ldquo;sensitive&amp;rdquo; data on a vessel or within a shipping company can be categorized as:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -216,7 +216,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;Step 2: Understand the Threat Vectors (How Data is Stolen)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;step-2-understand-the-threat-vectors-how-data-is-stolen&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;Step 2: Understand the Threat Vectors (How Data is Stolen)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2-understand-the-threat-vectors-how-data-is-stolen&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#step-2-understand-the-threat-vectors-how-data-is-stolen&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Cyber Attacks (External):&lt;/strong&gt;&lt;/p&gt;
@@ -242,9 +242,9 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;Step 3: Identification of Theft and Compromise&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;step-3-identification-of-theft-and-compromise&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;Step 3: Identification of Theft and Compromise&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3-identification-of-theft-and-compromise&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#step-3-identification-of-theft-and-compromise&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Identification is a multi-layered process involving technical monitoring, procedural checks, and human awareness. These indicators are often subtle and must be correlated.&lt;/p&gt;
-&lt;h4&gt;&lt;strong&gt;A. Technical Indicators (System-Level Detection)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;a-technical-indicators-system-level-detection&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;A. Technical Indicators (System-Level Detection)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;a-technical-indicators-system-level-detection&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#a-technical-indicators-system-level-detection&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;These are typically identified by IT/OT personnel or through automated security systems.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -290,7 +290,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4&gt;&lt;strong&gt;B. Procedural and Human Indicators (Operational-Level Detection)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;b-procedural-and-human-indicators-operational-level-detection&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;B. Procedural and Human Indicators (Operational-Level Detection)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;b-procedural-and-human-indicators-operational-level-detection&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#b-procedural-and-human-indicators-operational-level-detection&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;These are often noticed by the crew and officers as part of their daily duties and are a critical part of the &amp;ldquo;human firewall.&amp;rdquo;&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -325,7 +325,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;&lt;strong&gt;Integrating Identification into the Safety Management System (SMS)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;integrating-identification-into-the-safety-management-system-sms&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;Integrating Identification into the Safety Management System (SMS)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;integrating-identification-into-the-safety-management-system-sms&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#integrating-identification-into-the-safety-management-system-sms&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The identification process cannot be ad-hoc. It must be formalized within the SMS.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Risk Assessment:&lt;/strong&gt; Identify critical data and systems. Assess the risks of theft and the potential safety/commercial consequences.&lt;/li&gt;
@@ -350,7 +350,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Identifying the theft and compromise of classified data in the maritime sector is a dynamic challenge that requires a holistic approach. It blends advanced &lt;strong&gt;technical monitoring&lt;/strong&gt; with robust &lt;strong&gt;procedural controls&lt;/strong&gt; and, most importantly, a &lt;strong&gt;well-trained, vigilant crew&lt;/strong&gt;. By defining what is sensitive, understanding the threats, and implementing a multi-layered identification strategy within the existing Safety Management System, a shipping company can move from a reactive to a proactive cyber-safety posture, protecting its assets, its people, and its operations.&lt;/p&gt;
 
       </description>
@@ -368,30 +368,30 @@
         &lt;p&gt;Excellent and highly relevant topic. The convergence of Information Technology (IT) and Operational Technology (OT) on modern vessels has made maritime cybersecurity a critical component of the Safety Management System (SMS). Malware, viruses, and spyware are no longer just an office IT problem; they are a direct threat to the safety of the crew, the vessel, and the environment.&lt;/p&gt;
 &lt;p&gt;Here is a detailed breakdown of how these threats impact maritime operations and how they should be managed.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;Part 1: Defining the Threats (Malware, Viruses, and Spyware)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;part-1-defining-the-threats-malware-viruses-and-spyware&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Part 1: Defining the Threats (Malware, Viruses, and Spyware)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;part-1-defining-the-threats-malware-viruses-and-spyware&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#part-1-defining-the-threats-malware-viruses-and-spyware&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;First, let&amp;rsquo;s clarify the terms. &lt;strong&gt;Malware&lt;/strong&gt; (Malicious Software) is the umbrella category for any software intentionally designed to cause disruption, steal data, or gain unauthorized access to a system.&lt;/p&gt;
-&lt;h4&gt;1. Viruses&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-viruses&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;1. Viruses&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-viruses&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-viruses&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;A computer virus is a type of malware that, when executed, replicates itself by modifying other computer programs and inserting its own code.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;How it Works:&lt;/strong&gt; It attaches to a clean file (like an executable, a document, or a software update file). When a user opens that infected file, the virus activates and spreads to other files on the system and network.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Maritime Example:&lt;/strong&gt; A service technician brings a USB stick with a software update for the ECDIS (Electronic Chart Display and Information System). The update file is infected with a virus. When the update is run, the virus infects the ECDIS, potentially corrupting chart data or causing the system to crash during a critical navigation phase.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;2. Spyware&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-spyware&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;2. Spyware&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-spyware&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-spyware&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Spyware is malware designed to secretly observe a user&amp;rsquo;s activity without their knowledge and report that information to the software&amp;rsquo;s author.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;How it Works:&lt;/strong&gt; It hides in the background, collecting information. This can include logging keystrokes (to steal passwords), capturing screenshots, harvesting email addresses, and tracking browsing habits.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Maritime Example:&lt;/strong&gt; A crew member downloads a &amp;ldquo;free&amp;rdquo; movie-watching program onto the ship&amp;rsquo;s business computer. The program contains spyware that logs the keystrokes used to access the cargo manifest system. A criminal organization then uses these stolen credentials to access sensitive cargo data, facilitating piracy or theft at the next port.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;3. Other Critical Malware Types in Maritime&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-other-critical-malware-types-in-maritime&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;3. Other Critical Malware Types in Maritime&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-other-critical-malware-types-in-maritime&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-other-critical-malware-types-in-maritime&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Worms:&lt;/strong&gt; Similar to viruses, but they can spread across a network on their own without any human interaction (i.e., without someone having to open an infected file). This makes them incredibly dangerous on a ship&amp;rsquo;s interconnected network.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Ransomware:&lt;/strong&gt; This malware encrypts a vessel&amp;rsquo;s critical data (e.g., navigation plans, cargo lists, crew data) and demands a ransom payment (usually in cryptocurrency) for the decryption key. This can halt operations completely.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Trojans:&lt;/strong&gt; Disguised as legitimate software, a Trojan horse creates a backdoor into a system, allowing a remote attacker to gain access and control.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;Part 2: The Maritime Context - Attack Vectors and Vulnerabilities&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;part-2-the-maritime-context---attack-vectors-and-vulnerabilities&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Part 2: The Maritime Context - Attack Vectors and Vulnerabilities&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;part-2-the-maritime-context---attack-vectors-and-vulnerabilities&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#part-2-the-maritime-context---attack-vectors-and-vulnerabilities&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;How does malware actually get onto a ship? The isolated environment of a vessel creates unique challenges.&lt;/p&gt;
-&lt;h4&gt;Common Attack Vectors:&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;common-attack-vectors&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;Common Attack Vectors:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;common-attack-vectors&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#common-attack-vectors&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Removable Media (The #1 Threat):&lt;/strong&gt;&lt;/p&gt;
@@ -431,39 +431,39 @@
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;h3&gt;Part 3: Consequences for Safety and Operations&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;part-3-consequences-for-safety-and-operations&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Part 3: Consequences for Safety and Operations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;part-3-consequences-for-safety-and-operations&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#part-3-consequences-for-safety-and-operations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A cyber incident is a safety incident. The potential consequences are severe:&lt;/p&gt;
 &lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Consequence Category&lt;/th&gt;
-          &lt;th style=&#34;text-align: left&#34;&gt;Specific Examples&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Safety of Life and Vessel&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;- &lt;strong&gt;Manipulation of ECDIS/GPS:&lt;/strong&gt; Causing grounding, collision, or navigating into dangerous waters. &lt;!-- raw HTML omitted --&gt; - &lt;strong&gt;Loss of Propulsion/Steering:&lt;/strong&gt; Disabling the engine or rudder control systems. &lt;!-- raw HTML omitted --&gt; - &lt;strong&gt;Disabling Alarms:&lt;/strong&gt; Turning off fire, flooding, or machinery failure alarms.&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Environmental Damage&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;- &lt;strong&gt;Manipulation of Ballast Water Systems:&lt;/strong&gt; Causing an illegal discharge and potential introduction of invasive species. &lt;!-- raw HTML omitted --&gt; - &lt;strong&gt;Loss of Control of Fuel Transfer:&lt;/strong&gt; Leading to an oil spill.&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Operational &amp;amp; Commercial&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;- &lt;strong&gt;Ransomware on Cargo Systems:&lt;/strong&gt; Halting loading/unloading operations, leading to huge financial penalties (demurrage). &lt;!-- raw HTML omitted --&gt; - &lt;strong&gt;Port State Control Detention:&lt;/strong&gt; If critical systems are found to be non-functional or compromised. &lt;!-- raw HTML omitted --&gt; - &lt;strong&gt;Voyage Disruption:&lt;/strong&gt; Inability to transmit required reports (e.g., to VTS) or receive weather updates.&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Financial &amp;amp; Reputational&lt;/strong&gt;&lt;/td&gt;
-          &lt;td style=&#34;text-align: left&#34;&gt;- &lt;strong&gt;Data Theft:&lt;/strong&gt; Loss of sensitive commercial data (cargo manifests, charter party details). &lt;!-- raw HTML omitted --&gt; - &lt;strong&gt;Ransom Payments:&lt;/strong&gt; Direct financial loss to regain control of systems. &lt;!-- raw HTML omitted --&gt; - &lt;strong&gt;Increased Insurance Premiums:&lt;/strong&gt; Insurers now assess cyber risk as part of their underwriting.&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Consequence Category&lt;/th&gt;
+					&lt;th style=&#34;text-align: left&#34;&gt;Specific Examples&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Safety of Life and Vessel&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;- &lt;strong&gt;Manipulation of ECDIS/GPS:&lt;/strong&gt; Causing grounding, collision, or navigating into dangerous waters. &lt;!-- raw HTML omitted --&gt; - &lt;strong&gt;Loss of Propulsion/Steering:&lt;/strong&gt; Disabling the engine or rudder control systems. &lt;!-- raw HTML omitted --&gt; - &lt;strong&gt;Disabling Alarms:&lt;/strong&gt; Turning off fire, flooding, or machinery failure alarms.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Environmental Damage&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;- &lt;strong&gt;Manipulation of Ballast Water Systems:&lt;/strong&gt; Causing an illegal discharge and potential introduction of invasive species. &lt;!-- raw HTML omitted --&gt; - &lt;strong&gt;Loss of Control of Fuel Transfer:&lt;/strong&gt; Leading to an oil spill.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Operational &amp;amp; Commercial&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;- &lt;strong&gt;Ransomware on Cargo Systems:&lt;/strong&gt; Halting loading/unloading operations, leading to huge financial penalties (demurrage). &lt;!-- raw HTML omitted --&gt; - &lt;strong&gt;Port State Control Detention:&lt;/strong&gt; If critical systems are found to be non-functional or compromised. &lt;!-- raw HTML omitted --&gt; - &lt;strong&gt;Voyage Disruption:&lt;/strong&gt; Inability to transmit required reports (e.g., to VTS) or receive weather updates.&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Financial &amp;amp; Reputational&lt;/strong&gt;&lt;/td&gt;
+					&lt;td style=&#34;text-align: left&#34;&gt;- &lt;strong&gt;Data Theft:&lt;/strong&gt; Loss of sensitive commercial data (cargo manifests, charter party details). &lt;!-- raw HTML omitted --&gt; - &lt;strong&gt;Ransom Payments:&lt;/strong&gt; Direct financial loss to regain control of systems. &lt;!-- raw HTML omitted --&gt; - &lt;strong&gt;Increased Insurance Premiums:&lt;/strong&gt; Insurers now assess cyber risk as part of their underwriting.&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
 &lt;/table&gt;
 &lt;hr&gt;
-&lt;h3&gt;Part 4: Integration into the Safety Management System (SMS)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;part-4-integration-into-the-safety-management-system-sms&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Part 4: Integration into the Safety Management System (SMS)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;part-4-integration-into-the-safety-management-system-sms&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#part-4-integration-into-the-safety-management-system-sms&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;In accordance with &lt;strong&gt;IMO Resolution MSC.428(98)&lt;/strong&gt;, shipping companies are required to address cyber risks in their Safety Management Systems no later than the first annual verification of the company’s Document of Compliance after 1 January 2021.&lt;/p&gt;
 &lt;p&gt;This means treating cyber risks just like any other operational risk (e.g., collision, fire). Here&amp;rsquo;s how to do it:&lt;/p&gt;
-&lt;h4&gt;&lt;strong&gt;Key Elements of a Maritime Cyber Safety Management Plan&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;key-elements-of-a-maritime-cyber-safety-management-plan&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;Key Elements of a Maritime Cyber Safety Management Plan&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;key-elements-of-a-maritime-cyber-safety-management-plan&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#key-elements-of-a-maritime-cyber-safety-management-plan&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Risk Assessment (Identify):&lt;/strong&gt;&lt;/p&gt;
@@ -534,13 +534,13 @@
         &lt;p&gt;Of course. This is a critical topic in the maritime industry, where the lines between information technology (IT), operational technology (OT), and physical safety are blurring.&lt;/p&gt;
 &lt;p&gt;Here is a detailed breakdown of the dangers related to mobile devices and unsecured wireless networks within the framework of Maritime Cybersecurity and Safety Management.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;Introduction: The Evolving Threat Landscape at Sea&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;introduction-the-evolving-threat-landscape-at-sea&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;Introduction: The Evolving Threat Landscape at Sea&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;introduction-the-evolving-threat-landscape-at-sea&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#introduction-the-evolving-threat-landscape-at-sea&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Historically, ship systems were isolated. A ship was a self-contained mechanical and electronic island. Today, vessels are highly connected nodes in a global logistics network. This digitization brings efficiency but also exposes ships to cyber threats that were once only a concern for shoreside offices. Mobile devices and wireless networks are two of the most significant and common vectors for these threats, directly impacting the safety of the crew, vessel, cargo, and the environment.&lt;/p&gt;
 &lt;p&gt;Under regulations like the IMO Resolution MSC.428(98), ship owners and managers are now required to address cyber risks within their Safety Management System (SMS) as part of the ISM Code.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;1. Dangers Related to Mobile Devices (Smartphones, Tablets, Laptops)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-dangers-related-to-mobile-devices-smartphones-tablets-laptops&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;1. Dangers Related to Mobile Devices (Smartphones, Tablets, Laptops)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-dangers-related-to-mobile-devices-smartphones-tablets-laptops&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-dangers-related-to-mobile-devices-smartphones-tablets-laptops&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Mobile devices, whether personal (Bring Your Own Device - BYOD) or company-issued, act as a bridge between the unsecured outside world and the ship&amp;rsquo;s critical networks.&lt;/p&gt;
-&lt;h4&gt;&lt;strong&gt;A. Malware and Ransomware Vector&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;a-malware-and-ransomware-vector&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;A. Malware and Ransomware Vector&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;a-malware-and-ransomware-vector&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#a-malware-and-ransomware-vector&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;The Danger:&lt;/strong&gt; A crew member&amp;rsquo;s personal phone or laptop becomes infected with malware (viruses, spyware, keyloggers) from a downloaded app, a malicious website, or a file received on shore. When they connect this device to the ship’s network (e.g., to charge it via a USB port on a bridge console or to use the ship&amp;rsquo;s Wi-Fi), the malware can spread.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Safety Implication:&lt;/strong&gt; If the malware spreads from the crew Wi-Fi network to the ship&amp;rsquo;s Operational Technology (OT) network, it can compromise critical systems:
@@ -551,46 +551,46 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;B. Phishing and Social Engineering&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;b-phishing-and-social-engineering&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;B. Phishing and Social Engineering&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;b-phishing-and-social-engineering&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#b-phishing-and-social-engineering&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;The Danger:&lt;/strong&gt; Mobile devices are a primary target for phishing attacks. A crew member might receive an email or SMS message that appears to be from the crewing agency, a port authority, or even the ship&amp;rsquo;s management company. These messages contain malicious links or attachments.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Example:&lt;/strong&gt; An email with the subject &amp;ldquo;Urgent: Crew Change Details&amp;rdquo; contains a link to a fake login page. The crew member enters their credentials, which are then stolen.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Safety Implication:&lt;/strong&gt; Stolen credentials can be used by attackers to gain remote access to the ship&amp;rsquo;s administrative or operational systems, allowing them to cause the same damage as malware introduced directly.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;C. Data Leakage&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;c-data-leakage&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;C. Data Leakage&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;c-data-leakage&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#c-data-leakage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;The Danger:&lt;/strong&gt; Sensitive information stored on a mobile device (e.g., ship&amp;rsquo;s network passwords, cargo manifests, voyage plans, crew lists) can be compromised if the device is lost, stolen, or accessed by an unauthorized app.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Safety Implication:&lt;/strong&gt; A stolen voyage plan could facilitate piracy or targeted theft. Leaked network credentials provide a direct path for an attacker to access the ship’s systems.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;D. Unintended Network Bridging&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;d-unintended-network-bridging&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;D. Unintended Network Bridging&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;d-unintended-network-bridging&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#d-unintended-network-bridging&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;The Danger:&lt;/strong&gt; A laptop connected to the ship&amp;rsquo;s wired operational network (e.g., for engine diagnostics) might also have its Wi-Fi or Bluetooth enabled, potentially connecting to an unsecured network or another compromised device simultaneously. This creates an unintended and unprotected bridge between a secure and an insecure environment.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;2. Dangers of Unsecured Wireless Networks (Wi-Fi &amp;amp; Bluetooth)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-dangers-of-unsecured-wireless-networks-wi-fi--bluetooth&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;2. Dangers of Unsecured Wireless Networks (Wi-Fi &amp;amp; Bluetooth)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-dangers-of-unsecured-wireless-networks-wi-fi--bluetooth&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-dangers-of-unsecured-wireless-networks-wi-fi--bluetooth&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Wireless networks, both on the vessel and in port, are a major point of vulnerability if not properly secured.&lt;/p&gt;
-&lt;h4&gt;&lt;strong&gt;A. Eavesdropping (Man-in-the-Middle Attacks)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;a-eavesdropping-man-in-the-middle-attacks&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;A. Eavesdropping (Man-in-the-Middle Attacks)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;a-eavesdropping-man-in-the-middle-attacks&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#a-eavesdropping-man-in-the-middle-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;The Danger:&lt;/strong&gt; On an unsecured or poorly secured Wi-Fi network (like a free &amp;ldquo;Port_Cafe_WiFi&amp;rdquo;), an attacker can position themselves between the user&amp;rsquo;s device and the internet. They can intercept, read, and even alter all the data being transmitted.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Safety Implication:&lt;/strong&gt; A crew member trying to log into the company portal to check their payroll could have their username and password stolen. These same credentials might be used to access more sensitive ship systems. The attacker could also inject malicious code into a legitimate website the crew member is visiting, infecting their device.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;B. &amp;ldquo;Evil Twin&amp;rdquo; Access Points&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;b&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;B. &amp;ldquo;Evil Twin&amp;rdquo; Access Points&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;b&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#b&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;The Danger:&lt;/strong&gt; An attacker sets up a malicious Wi-Fi network with a name that looks legitimate (e.g., naming it &amp;ldquo;Port_Free_Wi-Fi&amp;rdquo; when the real one is &amp;ldquo;Port-WiFi&amp;rdquo;). Crew members&amp;rsquo; devices, often set to auto-connect to known networks, connect to the evil twin without their knowledge. The attacker now has full control over their network traffic.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Safety Implication:&lt;/strong&gt; This is a primary method for executing man-in-the-middle attacks to steal credentials or inject malware that will later be carried aboard the vessel.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;C. Lateral Movement within the Ship&amp;rsquo;s Network&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;c-lateral-movement-within-the-ship&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;C. Lateral Movement within the Ship&amp;rsquo;s Network&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;c-lateral-movement-within-the-ship&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#c-lateral-movement-within-the-ship&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;The Danger:&lt;/strong&gt; Many ships provide a single, flat Wi-Fi network for both crew welfare (internet, movies) and administrative or operational tasks. If one device on this network is compromised (e.g., a crew member&amp;rsquo;s phone), the attacker can use that foothold to scan the network and attack other connected devices.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Safety Implication:&lt;/strong&gt; A virus on a crew phone could &amp;ldquo;move laterally&amp;rdquo; to the Captain&amp;rsquo;s laptop, which may be used to update electronic charts or sign off on the ballast water management plan. The compromise of one low-value target can lead to the compromise of a high-value, safety-critical system.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;D. Denial of Service (DoS)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;d-denial-of-service-dos&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;D. Denial of Service (DoS)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;d-denial-of-service-dos&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#d-denial-of-service-dos&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;The Danger:&lt;/strong&gt; An attacker can flood the ship&amp;rsquo;s Wi-Fi network with traffic, overwhelming it and preventing legitimate users from connecting.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Safety Implication:&lt;/strong&gt; While often seen as a nuisance, this could be a safety issue if, for example, the Master needs to urgently download an updated weather forecast or a navigational warning (NAVADMIN) via the ship&amp;rsquo;s satellite internet connection, but the Wi-Fi network is unusable.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;Mitigation and Best Practices for the Safety Management System (SMS)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;mitigation-and-best-practices-for-the-safety-management-system-sms&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;Mitigation and Best Practices for the Safety Management System (SMS)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;mitigation-and-best-practices-for-the-safety-management-system-sms&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#mitigation-and-best-practices-for-the-safety-management-system-sms&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Addressing these dangers requires a combination of policy, procedure, technical controls, and training, all documented within the ship&amp;rsquo;s SMS.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -653,8 +653,8 @@
         &lt;p&gt;Of course. This is an excellent and highly relevant topic. Desktop security is a critical, and often underestimated, component of a vessel&amp;rsquo;s overall maritime cybersecurity and safety management strategy.&lt;/p&gt;
 &lt;p&gt;Here is a comprehensive breakdown of desktop security in the maritime context, covering the risks, best practices, and its integration into the Safety Management System (SMS).&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;Maritime Cybersecurity and Safety Management: Desktop Security&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;maritime-cybersecurity-and-safety-management-desktop-security&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#maritime-cybersecurity-and-safety-management-desktop-security&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;&lt;strong&gt;1. Why Desktop Security is Critical on a Vessel&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-why-desktop-security-is-critical-on-a-vessel&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;Maritime Cybersecurity and Safety Management: Desktop Security&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;maritime-cybersecurity-and-safety-management-desktop-security&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#maritime-cybersecurity-and-safety-management-desktop-security&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;&lt;strong&gt;1. Why Desktop Security is Critical on a Vessel&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-why-desktop-security-is-critical-on-a-vessel&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-why-desktop-security-is-critical-on-a-vessel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Onshore, a compromised desktop is an inconvenience and a business risk. At sea, it&amp;rsquo;s a direct threat to safety, the environment, and the vessel&amp;rsquo;s operational capability.&lt;/p&gt;
 &lt;p&gt;Desktops on a ship (in the ship&amp;rsquo;s office, engine control room, or crew recreation areas) are the primary interface between the human crew and the digital world. They are often the &lt;strong&gt;&amp;ldquo;digital gangway&amp;rdquo;&lt;/strong&gt;—the easiest entry point for cyber threats to get aboard.&lt;/p&gt;
 &lt;p&gt;A compromised desktop can be the initial foothold for an attack that spreads to critical systems, including:&lt;/p&gt;
@@ -662,7 +662,7 @@
 &lt;li&gt;&lt;strong&gt;Operational Technology (OT):&lt;/strong&gt; ECDIS (Chart Systems), GPS, Radar, Ballast Water Management Systems, Engine Monitoring, Cargo Planning Computers.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Business Operations:&lt;/strong&gt; Systems for managing crew lists, cargo manifests, port declarations, and communications with the company.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;2. The Unique Maritime Challenges for Desktop Security&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-the-unique-maritime-challenges-for-desktop-security&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;2. The Unique Maritime Challenges for Desktop Security&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-the-unique-maritime-challenges-for-desktop-security&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-the-unique-maritime-challenges-for-desktop-security&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Managing desktops on a vessel is fundamentally different from a shore-based office:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Intermittent Connectivity:&lt;/strong&gt; High-latency, low-bandwidth, and expensive satellite connections make it difficult to download large security patches, update antivirus definitions, or get remote IT support.&lt;/li&gt;
@@ -671,7 +671,7 @@
 &lt;li&gt;&lt;strong&gt;The Human Factor:&lt;/strong&gt; Crew members have varying levels of cybersecurity awareness. High crew turnover means training must be constant and consistent.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Uncontrolled Peripherals:&lt;/strong&gt; Crew members frequently bring personal USB drives, hard drives, and laptops on board, which may be infected with malware from internet cafes in port.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;3. Key Risks and Threats to Vessel Desktops&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-key-risks-and-threats-to-vessel-desktops&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;3. Key Risks and Threats to Vessel Desktops&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-key-risks-and-threats-to-vessel-desktops&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-key-risks-and-threats-to-vessel-desktops&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Malware (Viruses, Worms, Trojans):&lt;/strong&gt;&lt;/p&gt;
@@ -709,7 +709,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4&gt;&lt;strong&gt;4. Best Practices for Maritime Desktop Security (The Controls)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-best-practices-for-maritime-desktop-security-the-controls&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;4. Best Practices for Maritime Desktop Security (The Controls)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-best-practices-for-maritime-desktop-security-the-controls&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-best-practices-for-maritime-desktop-security-the-controls&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;These controls should be documented in the ship&amp;rsquo;s procedures.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;A. Technical Controls (The &amp;ldquo;Tools&amp;rdquo;)&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -751,7 +751,7 @@
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Phishing Simulations:&lt;/strong&gt; Periodically send fake (but harmless) phishing emails to the crew to test their awareness and reinforce training.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;5. Integration into the Safety Management System (SMS)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-integration-into-the-safety-management-system-sms&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;5. Integration into the Safety Management System (SMS)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-integration-into-the-safety-management-system-sms&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#5-integration-into-the-safety-management-system-sms&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;As per &lt;strong&gt;IMO Resolution MSC.428(98)&lt;/strong&gt;, cyber risk management must be incorporated into the ship&amp;rsquo;s SMS. Desktop security is a core part of this.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Risk Assessment:&lt;/strong&gt; Identify the threats to desktops (e.g., &amp;ldquo;Infection of cargo computer by ransomware via crew USB&amp;rdquo;) and assess their potential impact on safety and operations.&lt;/li&gt;
@@ -787,9 +787,9 @@
         &lt;p&gt;Of course. This is an excellent and highly relevant topic. The use of pirated and pornographic material on board vessels is no longer just an HR or IT policy issue; it is a critical component of &lt;strong&gt;Maritime Cybersecurity and Safety Management&lt;/strong&gt; with direct ties to international regulations.&lt;/p&gt;
 &lt;p&gt;Here is a detailed breakdown of the issues, the relevant international regulations, and the implications for safety management.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;1. The Core Problem: How File Sharing Creates Risk&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-the-core-problem-how-file-sharing-creates-risk&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;1. The Core Problem: How File Sharing Creates Risk&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-the-core-problem-how-file-sharing-creates-risk&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-the-core-problem-how-file-sharing-creates-risk&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;At first glance, a crew member downloading a pirated movie or accessing pornography seems like a personal issue. However, in the interconnected environment of a modern vessel, these actions introduce severe risks.&lt;/p&gt;
-&lt;h4&gt;A) Pirated Material (Software, Movies, Music, etc.): The Cybersecurity Gateway&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;a-pirated-material-software-movies-music-etc-the-cybersecurity-gateway&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;A) Pirated Material (Software, Movies, Music, etc.): The Cybersecurity Gateway&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;a-pirated-material-software-movies-music-etc-the-cybersecurity-gateway&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#a-pirated-material-software-movies-music-etc-the-cybersecurity-gateway&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The primary risk from pirated material is &lt;strong&gt;malware&lt;/strong&gt;. Websites and filesharing (P2P, torrent) clients used to obtain pirated content are notorious vectors for:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Ransomware:&lt;/strong&gt; Encrypts critical files on a computer or network and demands payment for their release. Imagine the ship&amp;rsquo;s cargo plan, stability calculations, or even navigation chart updates being encrypted mid-voyage.&lt;/li&gt;
@@ -805,7 +805,7 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;li&gt;&lt;strong&gt;Engine Control &amp;amp; Monitoring Systems:&lt;/strong&gt; Manipulation could lead to engine failure or damage.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Cargo Management &amp;amp; Ballast Water Systems:&lt;/strong&gt; Incorrect operations could lead to stability issues, structural stress, or pollution.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;B) Pornographic Material: The Human, Legal, and Security Risk&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;b-pornographic-material-the-human-legal-and-security-risk&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;B) Pornographic Material: The Human, Legal, and Security Risk&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;b-pornographic-material-the-human-legal-and-security-risk&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#b-pornographic-material-the-human-legal-and-security-risk&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The risks associated with pornography are multifaceted:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -835,9 +835,9 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;2. Connection to International Regulations&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-connection-to-international-regulations&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;2. Connection to International Regulations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-connection-to-international-regulations&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-connection-to-international-regulations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;This is where individual actions become a corporate compliance failure. The company is responsible for what happens on its vessels, and several international maritime regulations apply directly.&lt;/p&gt;
-&lt;h4&gt;&lt;strong&gt;IMO Resolution MSC.428(98) - Maritime Cyber Risk Management in Safety Management Systems&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;imo-resolution-msc42898---maritime-cyber-risk-management-in-safety-management-systems&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;IMO Resolution MSC.428(98) - Maritime Cyber Risk Management in Safety Management Systems&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;imo-resolution-msc42898---maritime-cyber-risk-management-in-safety-management-systems&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#imo-resolution-msc42898---maritime-cyber-risk-management-in-safety-management-systems&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;This is the most important regulation in this context. It requires shipowners and managers to incorporate cyber risk management into their &lt;strong&gt;Safety Management System (SMS)&lt;/strong&gt; by January 1, 2021.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;How it applies:&lt;/strong&gt; The use of unauthorized software and the accessing of high-risk websites are &lt;strong&gt;identifiable cyber threats&lt;/strong&gt;.
@@ -847,7 +847,7 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;The ISM Code (International Safety Management Code)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;the-ism-code-international-safety-management-code&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;The ISM Code (International Safety Management Code)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-ism-code-international-safety-management-code&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#the-ism-code-international-safety-management-code&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The ISM Code is the framework for the SMS. The failure to manage these file-sharing risks violates several of its core principles:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Section 1.2 (Objectives):&lt;/strong&gt; To ensure &amp;ldquo;safety at sea, prevention of human injury or loss of life, and avoidance of damage to the environment.&amp;rdquo; Malware compromising an OT system directly threatens these objectives.&lt;/li&gt;
@@ -855,18 +855,18 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;li&gt;&lt;strong&gt;Section 7 (Shipboard Operations):&lt;/strong&gt; The company must establish procedures for key shipboard operations. This includes an &lt;strong&gt;Acceptable Use Policy (AUP)&lt;/strong&gt; for IT systems.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Section 10 (Maintenance):&lt;/strong&gt; This includes the maintenance of software. Using pirated, unlicensed, and un-patchable software is a failure of maintenance and a known vulnerability.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;The ISPS Code (International Ship and Port Facility Security Code)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;the-isps-code-international-ship-and-port-facility-security-code&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;The ISPS Code (International Ship and Port Facility Security Code)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-isps-code-international-ship-and-port-facility-security-code&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#the-isps-code-international-ship-and-port-facility-security-code&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;While focused on physical security, the ISPS code&amp;rsquo;s scope includes security threats of all kinds.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;How it applies:&lt;/strong&gt; A cyber-attack initiated via a malware-laden file can be a &lt;strong&gt;security incident&lt;/strong&gt;. For example, an attacker could disable security systems (CCTV), access the cargo manifest for piracy or theft purposes, or manipulate the Automatic Identification System (AIS) to create a &amp;ldquo;ghost ship.&amp;rdquo;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;Copyright Laws (International Conventions)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;copyright-laws-international-conventions&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;Copyright Laws (International Conventions)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;copyright-laws-international-conventions&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#copyright-laws-international-conventions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Berne Convention &amp;amp; WIPO Copyright Treaty:&lt;/strong&gt; These provide the international legal framework for copyright. While not maritime regulations, they are enforced by signatory nations. A vessel flying the flag of a signatory state or entering the waters of one is subject to these laws.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Enforcement:&lt;/strong&gt; Organizations like the &lt;strong&gt;Business Software Alliance (BSA)&lt;/strong&gt; can and do take legal action against corporations for using unlicensed software, resulting in heavy fines. Port State Control officers, particularly in the US and Europe, can ask to see software licenses for critical equipment (e.g., ECDIS chart software) during an inspection. A finding of piracy can be a ground for &lt;strong&gt;vessel detention&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;3. Best Practices for Safety and Compliance Management&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-best-practices-for-safety-and-compliance-management&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;3. Best Practices for Safety and Compliance Management&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-best-practices-for-safety-and-compliance-management&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-best-practices-for-safety-and-compliance-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To mitigate these risks and ensure compliance, shipping companies must implement a multi-layered approach within their SMS:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -900,7 +900,7 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The management of file sharing and the prohibition of pirated and pornographic material is no longer a &amp;ldquo;soft&amp;rdquo; HR issue. It is a hard-edged safety, security, and operational requirement under the ISM Code and IMO cyber risk management guidelines. A single infected file can create a pathway to operational failure, leading to collision, pollution, or grounding. A single instance of illegal content can lead to vessel detention and criminal charges. Therefore, robust policies, technical controls, and continuous crew training are essential components of a modern and effective Safety Management System.&lt;/p&gt;
 
       </description>
@@ -918,7 +918,7 @@ If malware from a pirated file crosses from the crew welfare network to the ship
         &lt;p&gt;Of course. This is a critical topic in the modern maritime industry. The integration of cyber security into the existing Safety Management System (SMS) framework is no longer optional; it&amp;rsquo;s a mandatory requirement under IMO regulations.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s break down phishing and the risks of removable media within the maritime context and how they relate to safety management.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;The Overall Context: Maritime Cyber Security and the Safety Management System (SMS)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;the-overall-context-maritime-cyber-security-and-the-safety-management-system-sms&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;The Overall Context: Maritime Cyber Security and the Safety Management System (SMS)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-overall-context-maritime-cyber-security-and-the-safety-management-system-sms&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#the-overall-context-maritime-cyber-security-and-the-safety-management-system-sms&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Before diving into the specifics, it&amp;rsquo;s essential to understand the framework. The International Maritime Organization (IMO) Resolution &lt;strong&gt;MSC.428(98)&lt;/strong&gt; mandates that cyber risks be appropriately addressed in a ship&amp;rsquo;s Safety Management System (SMS) no later than the first annual verification of the company’s Document of Compliance after January 1, 2021.&lt;/p&gt;
 &lt;p&gt;This means cyber threats are no longer just an &amp;ldquo;IT problem&amp;rdquo;; they are a &lt;strong&gt;safety problem&lt;/strong&gt;. A cyber-attack can lead to a physical event, such as a collision, grounding, pollution, or injury to the crew. Therefore, risks like phishing and malware from USB drives must be managed with the same rigor as risks like heavy weather or engine failure.&lt;/p&gt;
 &lt;p&gt;The core idea is to apply the existing ISM Code principles to cyber risks:&lt;/p&gt;
@@ -930,9 +930,9 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;li&gt;&lt;strong&gt;Recover&lt;/strong&gt; from Incidents.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;1. Phishing in the Maritime Context&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-phishing-in-the-maritime-context&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;1. Phishing in the Maritime Context&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-phishing-in-the-maritime-context&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-phishing-in-the-maritime-context&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Phishing is the fraudulent attempt to obtain sensitive information such as usernames, passwords, and credit card details by disguising oneself as a trustworthy entity in an electronic communication. In the maritime world, these attacks are uniquely tailored and highly effective.&lt;/p&gt;
-&lt;h4&gt;&lt;strong&gt;How Phishing Works on a Ship or in a Shipping Company:&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;how-phishing-works-on-a-ship-or-in-a-shipping-company&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;How Phishing Works on a Ship or in a Shipping Company:&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;how-phishing-works-on-a-ship-or-in-a-shipping-company&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#how-phishing-works-on-a-ship-or-in-a-shipping-company&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Phishing attacks are successful because they exploit human psychology—urgency, trust, and curiosity.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -950,7 +950,7 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;The Risks to Safety and Operations:&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;the-risks-to-safety-and-operations&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;The Risks to Safety and Operations:&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-risks-to-safety-and-operations&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#the-risks-to-safety-and-operations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;A successful phishing attack can bridge the gap between the ship&amp;rsquo;s Information Technology (IT) systems (for email, admin) and its critical Operational Technology (OT) systems (for navigation, propulsion).&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -974,23 +974,23 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4&gt;&lt;strong&gt;Integration into SMS (Phishing):&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;integration-into-sms-phishing&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;Integration into SMS (Phishing):&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;integration-into-sms-phishing&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#integration-into-sms-phishing&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Procedure:&lt;/strong&gt; A clear policy on handling unsolicited emails. &amp;ldquo;When in doubt, throw it out.&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Training:&lt;/strong&gt; Regular, practical training for both crew and shore staff. Use simulated phishing campaigns to test and educate users.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Technical Controls:&lt;/strong&gt; Email filters, antivirus software, and crucially, &lt;strong&gt;network segmentation&lt;/strong&gt; to keep the Bridge and Engine Control Room networks isolated from the general crew/admin network.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;2. Risks Regarding Removable Media (USB Drives, SD Cards, etc.)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-risks-regarding-removable-media-usb-drives-sd-cards-etc&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;2. Risks Regarding Removable Media (USB Drives, SD Cards, etc.)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-risks-regarding-removable-media-usb-drives-sd-cards-etc&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-risks-regarding-removable-media-usb-drives-sd-cards-etc&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Removable media is one of the most common vectors for introducing malware into a ship&amp;rsquo;s systems, as it can bypass network firewalls entirely.&lt;/p&gt;
-&lt;h4&gt;&lt;strong&gt;How Removable Media Creates Risk on a Ship:&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;how-removable-media-creates-risk-on-a-ship&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;How Removable Media Creates Risk on a Ship:&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;how-removable-media-creates-risk-on-a-ship&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#how-removable-media-creates-risk-on-a-ship&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Crew&amp;rsquo;s Personal Media:&lt;/strong&gt; This is the #1 threat. A crew member goes ashore to an internet café, downloads movies or music onto a USB drive, and then plugs it into a ship&amp;rsquo;s computer (e.g., a recreation room PC or, worse, a multi-purpose PC on the bridge). The USB is likely infected with malware.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Third-Party Technicians/Surveyors:&lt;/strong&gt; A technician from a manufacturer or a class surveyor may bring a USB drive with software updates or diagnostic tools. If their device is compromised, they can unintentionally infect the ship&amp;rsquo;s systems.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Official Updates:&lt;/strong&gt; Sometimes, official updates for systems like ECDIS are delivered on USB sticks. If this supply chain is compromised, it represents a direct attack on a critical navigation system.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&amp;ldquo;Baiting&amp;rdquo;:&lt;/strong&gt; Attackers may intentionally leave infected USB drives in ports or terminals, hoping a curious crew member will pick one up and plug it in.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;The Risks to Safety and Operations:&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;the-risks-to-safety-and-operations-1&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;The Risks to Safety and Operations:&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-risks-to-safety-and-operations-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#the-risks-to-safety-and-operations-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The risks are very similar to phishing but can be even more direct, as the media might be plugged directly into an OT system.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
@@ -1008,7 +1008,7 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4&gt;&lt;strong&gt;Integration into SMS (Removable Media):&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;integration-into-sms-removable-media&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;Integration into SMS (Removable Media):&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;integration-into-sms-removable-media&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#integration-into-sms-removable-media&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Policy:&lt;/strong&gt; A strict and simple policy is required.
 &lt;ul&gt;
@@ -1041,12 +1041,12 @@ If malware from a pirated file crosses from the crew welfare network to the ship
         &lt;p&gt;Excellent question. The intersection of social networking with maritime cybersecurity and safety management is a critical and often underestimated area of risk. While social media connects crew with loved ones and the world, it creates a significant &amp;ldquo;attack surface&amp;rdquo; that can be exploited to compromise a vessel&amp;rsquo;s safety, security, and commercial operations.&lt;/p&gt;
 &lt;p&gt;Here is a detailed breakdown of the risks of social networking in the context of maritime cybersecurity and safety management.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;The Core Problem: The Human Element as the Weakest Link&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;the-core-problem-the-human-element-as-the-weakest-link&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;The Core Problem: The Human Element as the Weakest Link&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-core-problem-the-human-element-as-the-weakest-link&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#the-core-problem-the-human-element-as-the-weakest-link&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Safety Management Systems (SMS), as required by the IMO&amp;rsquo;s ISM Code, are designed to ensure safety at sea and prevent human injury or loss of life. Modern cybersecurity is now an integral part of that system. Social networking directly targets the human element, which is consistently identified as the weakest link in any security chain.&lt;/p&gt;
 &lt;p&gt;Attackers know it&amp;rsquo;s often easier to trick a person than to break through a firewall. Social media provides them with the perfect platform for reconnaissance and manipulation.&lt;/p&gt;
-&lt;h3&gt;Key Risks of Social Networking for Maritime Operations&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;key-risks-of-social-networking-for-maritime-operations&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Key Risks of Social Networking for Maritime Operations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;key-risks-of-social-networking-for-maritime-operations&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#key-risks-of-social-networking-for-maritime-operations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The risks can be categorized into several key areas:&lt;/p&gt;
-&lt;h4&gt;1. Reconnaissance and Intelligence Gathering for Future Attacks&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-reconnaissance-and-intelligence-gathering-for-future-attacks&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;1. Reconnaissance and Intelligence Gathering for Future Attacks&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-reconnaissance-and-intelligence-gathering-for-future-attacks&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-reconnaissance-and-intelligence-gathering-for-future-attacks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;This is the most significant risk. Seafarers, port staff, and shipping company employees can inadvertently leak sensitive information that helps attackers plan a sophisticated cyber or physical attack.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Vessel Information:&lt;/strong&gt; Posting photos from the bridge or engine room can reveal the make, model, and software versions of critical equipment like &lt;strong&gt;ECDIS (Electronic Chart Display and Information System)&lt;/strong&gt;, GPS, GMDSS, or engine control systems. An attacker can then search for known vulnerabilities in that specific equipment.&lt;/li&gt;
@@ -1054,7 +1054,7 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;li&gt;&lt;strong&gt;Crew Information:&lt;/strong&gt; LinkedIn profiles reveal the command structure of a vessel (Captain, Chief Engineer, etc.). Facebook posts can reveal personal details (family names, hobbies, hometowns) that can be used to build a credible profile for social engineering.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Port &amp;amp; Terminal Information:&lt;/strong&gt; Photos of port facilities can expose security measures, access points, and operational procedures, aiding in plans for illegal smuggling or theft.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;2. Social Engineering and Spear Phishing&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-social-engineering-and-spear-phishing&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;2. Social Engineering and Spear Phishing&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-social-engineering-and-spear-phishing&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-social-engineering-and-spear-phishing&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Once attackers have gathered intelligence, they use it to launch targeted attacks.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Spear Phishing:&lt;/strong&gt; This is the most common follow-up. An attacker, knowing the Chief Engineer&amp;rsquo;s name and that the vessel uses a specific brand of fuel pump (gleaned from a forum or Facebook post), can send a highly convincing email.
@@ -1065,7 +1065,7 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;li&gt;&lt;strong&gt;Impersonation:&lt;/strong&gt; An attacker might create a fake profile of a senior company official or a port agent and connect with crew members to extract information or ask them to perform an action (e.g., &amp;ldquo;Please download this updated crew manifest&amp;rdquo;).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;&amp;ldquo;Watering Hole&amp;rdquo; Attacks:&lt;/strong&gt; Attackers identify websites and forums popular with seafarers (e.g., maritime news sites, union forums) and infect them with malware. When a crew member visits the site from a ship&amp;rsquo;s computer, the network can be compromised.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;3. Malware Infection and Network Compromise&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-malware-infection-and-network-compromise&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;3. Malware Infection and Network Compromise&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-malware-infection-and-network-compromise&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-malware-infection-and-network-compromise&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The use of personal devices and public networks creates a direct bridge for malware to enter the vessel&amp;rsquo;s systems.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;BYOD (Bring Your Own Device) Risk:&lt;/strong&gt; A crew member connects their personal laptop or phone, infected from a public Wi-Fi or a malicious download, to the ship’s crew network. If this network is not properly segregated from the critical &lt;strong&gt;Operational Technology (OT)&lt;/strong&gt; network, the malware can spread.&lt;/li&gt;
@@ -1077,21 +1077,21 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;4. Operational Security (OPSEC) Breaches&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-operational-security-opsec-breaches&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;4. Operational Security (OPSEC) Breaches&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-operational-security-opsec-breaches&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-operational-security-opsec-breaches&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;This involves the unintentional disclosure of information that compromises the security of an operation.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Photos of Documents:&lt;/strong&gt; A picture of a &amp;ldquo;team celebration&amp;rdquo; that happens to have a Bill of Lading, cargo manifest, or security patrol schedule visible in the background. This information is a goldmine for commercial competitors or cargo thieves.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Discussing Cargo:&lt;/strong&gt; A crew member mentions carrying a &amp;ldquo;high-value cargo of electronics&amp;rdquo; on a social media post. This makes the vessel a prime target for piracy or theft at its destination port.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Complaining About a Fault:&lt;/strong&gt; Posting &amp;ldquo;The darn radar has been on the fritz all week!&amp;rdquo; alerts attackers to a specific system vulnerability or weakness they can exploit.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;5. Physical Security and Safety Risks&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-physical-security-and-safety-risks&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;5. Physical Security and Safety Risks&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-physical-security-and-safety-risks&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#5-physical-security-and-safety-risks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Cyber intelligence gathered from social media can lead directly to physical threats.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Piracy and Armed Robbery:&lt;/strong&gt; Knowing a vessel&amp;rsquo;s route, speed, cargo, and the fact that it may have fewer crew members on watch (due to online chatter) helps pirates plan a successful attack.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Targeted Theft:&lt;/strong&gt; Intelligence about high-value cargo and port procedures can facilitate targeted theft from containers once ashore.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Personal Risk to Crew:&lt;/strong&gt; Revealing too much personal information can make crew members targets for scams, blackmail, or even kidnapping in high-risk areas.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Integrating Social Media Risks into the Safety Management System (SMS)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;integrating-social-media-risks-into-the-safety-management-system-sms&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Integrating Social Media Risks into the Safety Management System (SMS)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;integrating-social-media-risks-into-the-safety-management-system-sms&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#integrating-social-media-risks-into-the-safety-management-system-sms&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To comply with &lt;strong&gt;IMO Resolution MSC.428(98)&lt;/strong&gt;, which requires cyber risks to be addressed within the SMS, companies must implement controls for social media.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;1. Policy Development:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
@@ -1112,7 +1112,7 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;li&gt;&lt;strong&gt;Restrict USB Ports:&lt;/strong&gt; Disable USB ports on critical systems to prevent malware transfer from infected personal devices.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Content Filtering:&lt;/strong&gt; Consider web filters to block access to known malicious websites from the ship&amp;rsquo;s network.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Conclusion&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Conclusion&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Social networking is no longer just a personal activity; for the maritime industry, it is a significant operational risk. It provides a direct, low-cost channel for malicious actors to gather intelligence, manipulate personnel, and gain access to a vessel&amp;rsquo;s most critical systems. By integrating clear policies, robust training, and technical safeguards into the Safety Management System, shipping companies can mitigate these risks and turn their greatest vulnerability—the human element—into their strongest line of defense.&lt;/p&gt;
 
       </description>
@@ -1130,13 +1130,13 @@ If malware from a pirated file crosses from the crew welfare network to the ship
         &lt;p&gt;Of course. This is an excellent and critical topic. The integration of digital systems into vessel operations means that cybersecurity is no longer just an IT issue; it is a fundamental component of maritime safety management.&lt;/p&gt;
 &lt;p&gt;Here is a detailed breakdown of unauthorized system access and the characteristics of a strong password, framed within the context of maritime operations and the IMO&amp;rsquo;s requirements for cyber risk management.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;Maritime Cyber Security and Safety Management&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;maritime-cyber-security-and-safety-management&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;Maritime Cyber Security and Safety Management&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;maritime-cyber-security-and-safety-management&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#maritime-cyber-security-and-safety-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The International Maritime Organization (IMO) Resolution MSC.428(98) requires that cyber risks be appropriately addressed in a vessel&amp;rsquo;s Safety Management System (SMS) no later than the first annual verification of the company’s Document of Compliance after January 1, 2021. This means treating cyber risks with the same seriousness as physical hazards like fire, collision, or flooding.&lt;/p&gt;
 &lt;p&gt;A primary cyber risk is &lt;strong&gt;unauthorized system access&lt;/strong&gt;.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;Part 1: Unauthorized System Access in the Maritime Context&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;part-1-unauthorized-system-access-in-the-maritime-context&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;Part 1: Unauthorized System Access in the Maritime Context&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;part-1-unauthorized-system-access-in-the-maritime-context&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#part-1-unauthorized-system-access-in-the-maritime-context&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Unauthorized system access is the act of any individual (crew member, contractor, or external attacker) gaining logical or physical access to a vessel&amp;rsquo;s systems without permission. This is the gateway to almost all other cyber incidents.&lt;/p&gt;
-&lt;h4&gt;&lt;strong&gt;Why is Unauthorized Access so Dangerous on a Ship?&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;why-is-unauthorized-access-so-dangerous-on-a-ship&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;Why is Unauthorized Access so Dangerous on a Ship?&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;why-is-unauthorized-access-so-dangerous-on-a-ship&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#why-is-unauthorized-access-so-dangerous-on-a-ship&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;On a vessel, the line between Information Technology (IT) and Operational Technology (OT) is blurred. A single breach can have catastrophic physical consequences.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Navigation Systems (OT):&lt;/strong&gt; An attacker gaining access to the &lt;strong&gt;ECDIS&lt;/strong&gt; (Electronic Chart Display and Information System) or &lt;strong&gt;GPS&lt;/strong&gt; could manipulate the vessel&amp;rsquo;s perceived position, alter its route, or delete charts, leading directly to grounding or collision.&lt;/li&gt;
@@ -1145,7 +1145,7 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;li&gt;&lt;strong&gt;Communication Systems (IT):&lt;/strong&gt; Compromising the &lt;strong&gt;GMDSS&lt;/strong&gt; (Global Maritime Distress and Safety System) or satellite communications could prevent a vessel from sending a distress signal or receiving vital safety information.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Administrative Systems (IT):&lt;/strong&gt; While seemingly less critical, a breach here can lead to ransomware attacks that lock down all ship&amp;rsquo;s business, or data theft of crew and company information.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;Common Vectors for Unauthorized Access on a Vessel:&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;common-vectors-for-unauthorized-access-on-a-vessel&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;Common Vectors for Unauthorized Access on a Vessel:&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;common-vectors-for-unauthorized-access-on-a-vessel&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#common-vectors-for-unauthorized-access-on-a-vessel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Phishing and Social Engineering:&lt;/strong&gt; Attackers send deceptive emails pretending to be from port authorities, manning agents, or charterers. A crew member clicking a malicious link or opening an infected attachment can give an attacker a foothold.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Weak or Stolen Credentials:&lt;/strong&gt; This is the most common and preventable vector. Using default passwords (like &amp;ldquo;admin&amp;rdquo; or &amp;ldquo;12345&amp;rdquo;), easily guessable passwords, or sharing passwords among crew members is a major vulnerability.&lt;/li&gt;
@@ -1154,16 +1154,16 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;li&gt;&lt;strong&gt;Insider Threat:&lt;/strong&gt; This can be malicious (a disgruntled employee) or, more commonly, unintentional (a crew member making a mistake, bypassing security for convenience).&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;Part 2: Characteristics of a Strong Password (and Access Policy)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;part-2-characteristics-of-a-strong-password-and-access-policy&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;Part 2: Characteristics of a Strong Password (and Access Policy)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;part-2-characteristics-of-a-strong-password-and-access-policy&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#part-2-characteristics-of-a-strong-password-and-access-policy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A strong password is the first line of defense against unauthorized access. A &amp;ldquo;weak&amp;rdquo; password can be cracked by modern computers in seconds; a &amp;ldquo;strong&amp;rdquo; one could take centuries. For maritime systems, password policies should be enforced as rigorously as any safety procedure.&lt;/p&gt;
 &lt;p&gt;Here are the key characteristics of a strong password and the policies that should support them.&lt;/p&gt;
-&lt;h4&gt;&lt;strong&gt;1. Length is Strength&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-length-is-strength&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;1. Length is Strength&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-length-is-strength&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-length-is-strength&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Characteristic:&lt;/strong&gt; The single most important factor. Each additional character exponentially increases the time it takes to crack a password.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Best Practice:&lt;/strong&gt; &lt;strong&gt;A minimum of 12-14 characters.&lt;/strong&gt; For critical systems (e.g., ECDIS, Engine Control access), 16+ characters should be the standard.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Why:&lt;/strong&gt; Brute-force attacks, which try every possible combination, are rendered ineffective by length.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;2. Complexity&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-complexity&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;2. Complexity&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-complexity&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-complexity&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Characteristic:&lt;/strong&gt; Use a mix of character types.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Best Practice:&lt;/strong&gt; Include a combination of:
@@ -1176,13 +1176,13 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Why:&lt;/strong&gt; Complexity increases the pool of possible characters for each position in the password, making brute-force and dictionary attacks much harder.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;3. Uniqueness&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-uniqueness&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;3. Uniqueness&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-uniqueness&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-uniqueness&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Characteristic:&lt;/strong&gt; The password should not be used for any other system or personal account.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Best Practice:&lt;/strong&gt; Every system login on the vessel (ECDIS, email, cargo planner, etc.) should have a &lt;strong&gt;different password&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Why:&lt;/strong&gt; If an attacker compromises one password (e.g., from a crew member&amp;rsquo;s personal social media account), they will try that same password on all vessel systems. This attack, called &amp;ldquo;credential stuffing,&amp;rdquo; is highly effective if passwords are reused.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;&lt;strong&gt;4. Unpredictability (Use a Passphrase)&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-unpredictability-use-a-passphrase&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;&lt;strong&gt;4. Unpredictability (Use a Passphrase)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-unpredictability-use-a-passphrase&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4-unpredictability-use-a-passphrase&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Characteristic:&lt;/strong&gt; The password should not be easy to guess. Avoid personal information, common words, or keyboard patterns.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Best Practice:&lt;/strong&gt; Encourage the use of &lt;strong&gt;passphrases&lt;/strong&gt;. A passphrase is a sequence of words that is long, memorable, and hard to guess.
@@ -1193,7 +1193,7 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Why:&lt;/strong&gt; Passphrases are an excellent way to achieve length and complexity without forcing users to remember a random string of characters like &lt;code&gt;8#k&amp;amp;gT@vP_qZ&lt;/code&gt;.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;&lt;strong&gt;Beyond the Password: Essential Supporting Measures&lt;/strong&gt;&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;beyond-the-password-essential-supporting-measures&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;&lt;strong&gt;Beyond the Password: Essential Supporting Measures&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;beyond-the-password-essential-supporting-measures&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#beyond-the-password-essential-supporting-measures&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A strong password alone is not enough. It must be part of a comprehensive access control policy.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Multi-Factor Authentication (MFA):&lt;/strong&gt; The most effective way to secure an account. MFA requires a second form of verification in addition to the password, such as a code from a mobile app, a text message, or a physical security key. It should be enabled on all systems that support it, especially for remote access.&lt;/li&gt;
@@ -1218,7 +1218,7 @@ If malware from a pirated file crosses from the crew welfare network to the ship
         &lt;p&gt;Excellent topic. The seemingly innocuous USB stick is one of the most significant and persistent threats in maritime cybersecurity. Its danger lies in its ubiquity, convenience, and its ability to bypass traditional network-based security measures, directly threatening the operational technology (OT) that keeps a vessel safe.&lt;/p&gt;
 &lt;p&gt;Here is a comprehensive breakdown of USB stick dangers within the framework of Maritime Cybersecurity and Safety Management, aligned with IMO 2021 (MSC.428(98)) guidelines.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;1. Why USB Sticks are a Unique and Pervasive Threat at Sea&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-why-usb-sticks-are-a-unique-and-pervasive-threat-at-sea&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;1. Why USB Sticks are a Unique and Pervasive Threat at Sea&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-why-usb-sticks-are-a-unique-and-pervasive-threat-at-sea&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1-why-usb-sticks-are-a-unique-and-pervasive-threat-at-sea&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Unlike a shore-based office, the maritime environment has unique characteristics that amplify the danger of USB sticks:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;The &amp;ldquo;Air Gap&amp;rdquo; Illusion:&lt;/strong&gt; Critical systems like the ECDIS (Electronic Chart Display and Information System), propulsion control, and cargo management systems are often thought to be &amp;ldquo;air-gapped&amp;rdquo; (isolated from the internet). A USB stick is the primary tool that bridges this gap, directly introducing threats to the vessel&amp;rsquo;s most sensitive operational technology.&lt;/li&gt;
@@ -1233,9 +1233,9 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;li&gt;&lt;strong&gt;Lack of Onboard IT Support:&lt;/strong&gt; Most vessels do not have a dedicated IT security specialist. The responsibility falls to the Master, Chief Engineer, or a designated officer who may lack specialized cybersecurity training.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;2. The Specific Dangers and Threats from USB Sticks&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-the-specific-dangers-and-threats-from-usb-sticks&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;2. The Specific Dangers and Threats from USB Sticks&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-the-specific-dangers-and-threats-from-usb-sticks&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2-the-specific-dangers-and-threats-from-usb-sticks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The dangers can be categorized from simple nuisance to catastrophic failure.&lt;/p&gt;
-&lt;h4&gt;A. Malware Infection (The Most Common Threat)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;a-malware-infection-the-most-common-threat&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;A. Malware Infection (The Most Common Threat)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;a-malware-infection-the-most-common-threat&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#a-malware-infection-the-most-common-threat&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;A contaminated USB stick can introduce a wide variety of malicious software.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Viruses and Worms:&lt;/strong&gt; Self-replicating programs that can spread across networks. A worm introduced into the administrative network could potentially find a path to a critical OT system if the networks are not properly segmented.&lt;/li&gt;
@@ -1243,7 +1243,7 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;li&gt;&lt;strong&gt;Spyware and Keyloggers:&lt;/strong&gt; These can be used to steal sensitive information, such as login credentials for satellite communication systems, cargo details, or corporate network access.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Trojans and Backdoors:&lt;/strong&gt; Malicious software disguised as a legitimate file (e.g., a chart update or a movie file). Once executed, it can create a &amp;ldquo;backdoor,&amp;rdquo; giving a remote attacker persistent access to the system.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;B. Data Exfiltration (Data Theft)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;b-data-exfiltration-data-theft&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;B. Data Exfiltration (Data Theft)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;b-data-exfiltration-data-theft&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#b-data-exfiltration-data-theft&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;USBs are a two-way street. They are an easy way for a malicious insider or an unwitting crew member to copy and steal sensitive data from the ship&amp;rsquo;s systems:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Cargo manifests and schedules (valuable for pirates, competitors, or smugglers).&lt;/li&gt;
@@ -1251,18 +1251,18 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;li&gt;Crew and passenger personal data (PII).&lt;/li&gt;
 &lt;li&gt;Corporate financial information.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;C. System Integrity Compromise (The Safety Threat)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;c-system-integrity-compromise-the-safety-threat&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;C. System Integrity Compromise (The Safety Threat)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;c-system-integrity-compromise-the-safety-threat&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#c-system-integrity-compromise-the-safety-threat&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;This is the most dangerous scenario, where a USB stick directly impacts the vessel&amp;rsquo;s safety.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Scenario 1: The ECDIS Attack:&lt;/strong&gt; A service technician uses a USB stick contaminated with malware to update the ECDIS. The malware subtly corrupts chart data, alters GPS positioning calculations, or disables critical alarms (e.g., anti-grounding alarms). The bridge team, unaware of the compromise, could navigate the vessel into a hazardous situation.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Scenario 2: The Engine Control Attack:&lt;/strong&gt; A malicious file is introduced into the engine control room&amp;rsquo;s maintenance workstation. This could alter fuel injection timings, disable safety governors, or falsify sensor readings, potentially leading to catastrophic engine failure or damage.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;D. Unintentional Policy Violation&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;d-unintentional-policy-violation&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;D. Unintentional Policy Violation&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;d-unintentional-policy-violation&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#d-unintentional-policy-violation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Even without malice, a crew member could use a USB stick to install unauthorized software (e.g., a game or a utility) on a bridge computer, inadvertently causing system instability, software conflicts, or creating new security vulnerabilities.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;3. Integrating USB Control into the Safety Management System (SMS)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-integrating-usb-control-into-the-safety-management-system-sms&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;3. Integrating USB Control into the Safety Management System (SMS)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-integrating-usb-control-into-the-safety-management-system-sms&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3-integrating-usb-control-into-the-safety-management-system-sms&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Under IMO Resolution MSC.428(98), cyber risk management must be incorporated into the vessel&amp;rsquo;s existing Safety Management System (SMS). Here’s how to manage the USB threat effectively.&lt;/p&gt;
-&lt;h4&gt;Layer 1: Policy and Procedures (The Rules)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;layer-1-policy-and-procedures-the-rules&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;Layer 1: Policy and Procedures (The Rules)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;layer-1-policy-and-procedures-the-rules&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#layer-1-policy-and-procedures-the-rules&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Your SMS should include a clear, simple, and strict policy on the use of removable media.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Prohibit Personal USBs:&lt;/strong&gt; Strictly forbid the use of any personal or non-company-issued USB stick in any shipboard system (both IT and OT).&lt;/li&gt;
@@ -1274,14 +1274,14 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4&gt;Layer 2: Technical Controls (The Technology)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;layer-2-technical-controls-the-technology&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;Layer 2: Technical Controls (The Technology)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;layer-2-technical-controls-the-technology&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#layer-2-technical-controls-the-technology&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Disable USB Ports:&lt;/strong&gt; On critical systems where USBs are not required for operation (e.g., the ECDIS itself, not the planning station), USB ports should be physically disabled (with port blockers) or technically disabled via system policy (Group Policy in Windows).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Application Whitelisting:&lt;/strong&gt; Configure critical systems to only run approved, known-good applications. This prevents malware from executing even if it gets onto the system.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Network Segmentation:&lt;/strong&gt; Ensure that the crew welfare network is completely separate from the administrative network, and both are separate from the critical navigation and machinery control networks. A USB stick should never be the bridge between these segments.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Endpoint Protection:&lt;/strong&gt; All computers (including planning stations and workstations) should have up-to-date, centrally managed antivirus/antimalware software.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4&gt;Layer 3: The Human Element (Training and Awareness)&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;layer-3-the-human-element-training-and-awareness&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;Layer 3: The Human Element (Training and Awareness)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;layer-3-the-human-element-training-and-awareness&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#layer-3-the-human-element-training-and-awareness&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Technology and policy will fail if the crew is not trained. This is the most critical layer.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Role-Based Training:&lt;/strong&gt; Train all crew on the dangers of USB sticks. Explain &lt;em&gt;why&lt;/em&gt; the policy exists, using real-world examples of maritime incidents.&lt;/li&gt;
@@ -1289,7 +1289,7 @@ If malware from a pirated file crosses from the crew welfare network to the ship
 &lt;li&gt;&lt;strong&gt;Visual Reminders:&lt;/strong&gt; Place clear warning stickers over USB ports on critical equipment, stating &amp;ldquo;UNAUTHORISED USE PROHIBITED - SCAN ALL MEDIA.&amp;rdquo;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;No-Blame Culture:&lt;/strong&gt; Encourage crew members to report mistakes immediately. If someone accidentally plugs in an unscanned USB, they should feel safe reporting it so that immediate action can be taken, rather than hiding it for fear of punishment.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Conclusion&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Conclusion&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#conclusion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The USB stick is a classic example of how the biggest cyber threats to a vessel are not necessarily sophisticated remote hackers, but simple, everyday objects that exploit the intersection of human behaviour and technology.&lt;/p&gt;
 &lt;p&gt;For effective &lt;strong&gt;Safety Management&lt;/strong&gt;, treating a USB stick with the same caution as a new piece of lifting gear or a hot work permit is essential. It is a potential single point of failure that can bypass millions of dollars of security investment and directly threaten the safety of the crew, the vessel, the cargo, and the environment. A robust, multi-layered defence combining &lt;strong&gt;strict policy, technical controls, and continuous crew training&lt;/strong&gt; is the only way to manage this persistent maritime danger.&lt;/p&gt;
 

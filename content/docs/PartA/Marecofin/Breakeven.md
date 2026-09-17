@@ -62,14 +62,13 @@ Let’s say:
 - Selling Price per Unit = ₹25
 
 ### Step 1: Contribution per Unit
-$$
 ₹25 - ₹10 = ₹15
 $$
 
 ### Step 2: Break-Even Quantity
-$$
+
 \frac{₹50,000}{₹15} ≈ 3,333 \text{ units}
-$$
+
 
 So, the firm must sell **3,333 units** per month to **break even**.
 

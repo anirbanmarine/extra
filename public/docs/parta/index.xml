@@ -4,7 +4,7 @@
     <link>http://localhost:1313/docs/parta/</link>
     <description>Recent content in Part A on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>en</language>
     
 	  <atom:link href="http://localhost:1313/docs/parta/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,7 +23,7 @@
       <description>
         
         
-        &lt;h2&gt;Content&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;content&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;Content&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;content&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#content&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlead/approches_to_define_leadership/&#34;&gt;Approaches to defining leadership&lt;/a&gt;&lt;/h2&gt;
 
@@ -36,13 +36,13 @@
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlead/questions-and-answers/&#34;&gt;Questions and Answers&lt;/a&gt;&lt;/h2&gt;
 
 
-&lt;h3&gt;Leadership&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;leadership&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Leadership&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;leadership&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#leadership&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Introduction to Leadership&lt;/li&gt;
 &lt;li&gt;Approaches to defining leadership&lt;/li&gt;
 &lt;li&gt;Miscellaneous aspects of leadership&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Management&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;management&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Management&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;management&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Introduction to organization and management&lt;/li&gt;
 &lt;li&gt;Essentials of management function&lt;/li&gt;
@@ -56,7 +56,7 @@
 &lt;li&gt;Strategic management&lt;/li&gt;
 &lt;li&gt;Information technology management&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Human Resources&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;human-resources&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Human Resources&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;human-resources&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#human-resources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Definitions Objectives and responsibilities&lt;/li&gt;
 &lt;li&gt;Legal issues in HR&lt;/li&gt;
@@ -241,8 +241,8 @@
   &lt;h2&gt;&lt;a href=&#34;../../docs/parta/marlaw/legal-systems/&#34;&gt;World Legal Systems&lt;/a&gt;&lt;/h2&gt;
 
 
-&lt;h2&gt;Overview of different types of Constitutions and Legal systems of the world : common law jurisdictions ,civil law jurisdictions.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;overview-of-different-types-of-constitutions-and-legal-systems-of-the-world--common-law-jurisdictions-civil-law-jurisdictions&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#overview-of-different-types-of-constitutions-and-legal-systems-of-the-world--common-law-jurisdictions-civil-law-jurisdictions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Overview of civil law and commercial law and civil procedures code.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;overview-of-civil-law-and-commercial-law-and-civil-procedures-code&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Overview of different types of Constitutions and Legal systems of the world : common law jurisdictions ,civil law jurisdictions.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;overview-of-different-types-of-constitutions-and-legal-systems-of-the-world--common-law-jurisdictions-civil-law-jurisdictions&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#overview-of-different-types-of-constitutions-and-legal-systems-of-the-world--common-law-jurisdictions-civil-law-jurisdictions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Overview of civil law and commercial law and civil procedures code.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;overview-of-civil-law-and-commercial-law-and-civil-procedures-code&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#overview-of-civil-law-and-commercial-law-and-civil-procedures-code&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Law of contract&lt;/p&gt;
@@ -272,16 +272,16 @@
 &lt;p&gt;Arbitration and Dispute Resolution process and procedure involved .Relevance of IMAA, ICA and other bodies.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Overview of Criminal Law&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;overview-of-criminal-law&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Overview of Criminal Law&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;overview-of-criminal-law&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#overview-of-criminal-law&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;International Criminal Law with respect to Piracy, Armed Robbery , Criminal Trespass , Crimes against Humanity etc.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Mational Maritime Regulations&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;mational-maritime-regulations&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#mational-maritime-regulations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;International agreements and overview of Vienna Convention and Law of Treaties&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;international-agreements-and-overview-of-vienna-convention-and-law-of-treaties&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#international-agreements-and-overview-of-vienna-convention-and-law-of-treaties&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;United Nations, its specialized agencies&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;united-nations-its-specialized-agencies&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#united-nations-its-specialized-agencies&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;International Conventions&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;international-conventions&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#international-conventions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Maritime frauds&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;maritime-frauds&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#maritime-frauds&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Law of Torts&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;law-of-torts&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Mational Maritime Regulations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;mational-maritime-regulations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#mational-maritime-regulations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;International agreements and overview of Vienna Convention and Law of Treaties&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;international-agreements-and-overview-of-vienna-convention-and-law-of-treaties&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#international-agreements-and-overview-of-vienna-convention-and-law-of-treaties&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;United Nations, its specialized agencies&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;united-nations-its-specialized-agencies&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#united-nations-its-specialized-agencies&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;International Conventions&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;international-conventions&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#international-conventions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Maritime frauds&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;maritime-frauds&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#maritime-frauds&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Law of Torts&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;law-of-torts&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#law-of-torts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
       </description>
     </item>
@@ -295,18 +295,18 @@
       <description>
         
         
-        &lt;h2&gt;﻿12-june-2019 EM 101&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;12-june-2019-em-101&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#12-june-2019-em-101&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Q1&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;q1&#34;&gt;&lt;/span&gt;
+        &lt;h2&gt;﻿12-june-2019 EM 101&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;12-june-2019-em-101&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#12-june-2019-em-101&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Q1&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;q1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#q1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&amp;lsquo;X&amp;rsquo; is the owner and manager of a company with ten employees. &amp;lsquo;X&amp;rsquo; hires you to take over the functions of the HRM in the company
 &amp;lsquo;X&amp;rsquo; believes that the company may be able to save costs by allowing employees to work from home one or two days in a week. However, He has some concerns about productivity if he allows employees to work from home. Despite these concerns, &amp;lsquo;X&amp;rsquo; has even considered closing down the physical office and making his company a virtual organization, but he wonders how such a major change will affect the ability of the employees to communicate and what impact it will have on their motivation.
 &amp;ldquo;X also shares with you his thoughts about the costs of health care on the organization. He has considered cutting benefits entirely and having his employees work for him on a contract basis, instead of being full-time employees. He isn&amp;rsquo;t sure if this would be a good choice.
 During your first two weeks, you find out that the company is expected to experience overall revenue growth by 10 percent over the next three years, with some quarters secing growth as high as 30 percent. However, five of the ten workers are expected to retire within three years. These workers have been with the organization since the beginning and provide a unique historical perspective of the company. The other five workers are of diverse ages.
 &amp;lsquo;X&amp;rsquo; schedules a meeting with you to discuss some of his thoughts. To prepare for the meeting, you perform research so you can provide your new employer with recommendations on the challenges presented.&lt;/p&gt;
-&lt;h4&gt;1. Point out which changes are occurring in the business that affects HRM.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1-point-out-which-changes-are-occurring-in-the-business-that-affects-hrm&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-point-out-which-changes-are-occurring-in-the-business-that-affects-hrm&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;2. What considerations the company and HR should be aware of when making changes related to this case study?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2-what-considerations-the-company-and-hr-should-be-aware-of-when-making-changes-related-to-this-case-study&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2-what-considerations-the-company-and-hr-should-be-aware-of-when-making-changes-related-to-this-case-study&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;3 What would the initial steps be to start planning for these changes?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3-what-would-the-initial-steps-be-to-start-planning-for-these-changes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-what-would-the-initial-steps-be-to-start-planning-for-these-changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;4. What would your role be in implementing these changes and what role would you suggest for &amp;ldquo;X&amp;rdquo;?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4-what-would-your-role-be-in-implementing-these-changes-and-what-role-would-you-suggest-for-x&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#4-what-would-your-role-be-in-implementing-these-changes-and-what-role-would-you-suggest-for-x&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;5. What impact the proposed changes could have on the prospects of the company?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-what-impact-the-proposed-changes-could-have-on-the-prospects-of-the-company&#34;&gt;&lt;/span&gt;
+&lt;h4&gt;1. Point out which changes are occurring in the business that affects HRM.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-point-out-which-changes-are-occurring-in-the-business-that-affects-hrm&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-point-out-which-changes-are-occurring-in-the-business-that-affects-hrm&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;2. What considerations the company and HR should be aware of when making changes related to this case study?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-what-considerations-the-company-and-hr-should-be-aware-of-when-making-changes-related-to-this-case-study&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-what-considerations-the-company-and-hr-should-be-aware-of-when-making-changes-related-to-this-case-study&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;3 What would the initial steps be to start planning for these changes?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-what-would-the-initial-steps-be-to-start-planning-for-these-changes&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-what-would-the-initial-steps-be-to-start-planning-for-these-changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;4. What would your role be in implementing these changes and what role would you suggest for &amp;ldquo;X&amp;rdquo;?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-what-would-your-role-be-in-implementing-these-changes-and-what-role-would-you-suggest-for-x&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-what-would-your-role-be-in-implementing-these-changes-and-what-role-would-you-suggest-for-x&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;5. What impact the proposed changes could have on the prospects of the company?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-what-impact-the-proposed-changes-could-have-on-the-prospects-of-the-company&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#5-what-impact-the-proposed-changes-could-have-on-the-prospects-of-the-company&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;** 1. Changes Affecting HRM:** 
 &lt;/code&gt;&lt;/pre&gt;
 &lt;ul&gt;
@@ -332,10 +332,10 @@ During your first two weeks, you find out that the company is expected to experi
 &lt;li&gt;Potential Risks: Loss of institutional knowledge, lower morale, and recruitment challenges could harm productivity and growth.&lt;/li&gt;
 &lt;li&gt;Balanced Approach: A hybrid model, phased retirement plans, and strategic hiring can mitigate risks while supporting growth.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Q.2&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;q2&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Q.2&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;q2&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#q2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You are the newly appointed Marketing Manager of a privately operated Container Terminal in a Port of india. The Port has two other Container Terminals, operated by other private parties. (All the three terminals are leased out to the operators on revenue share basis). The Port is connected to the hinterland by rail and road. Capacity of rail and road is limited, but capacity expansion projects are already underway (Doubling railway lines and road 4-laning). Your terminal has secured additional yardage space near the Port. The terminal has three high-capacity Rail-mounted Port-Panamax Gantry Cranes on the dockside and sufficient RTGs and forklifts for Yard handling of Containers. The Operators are planning to install rail lines on the terminal to provide direct access to rail wagons from the main line. While your Terminal has one large Container Line as a captive client (5-year contract), there are many other mainline and feeder services who are potential clients, some of whom are being served by competing terminals.&lt;/p&gt;
-&lt;h2&gt;Draw up a 5-year Marketing Strategy for your Terminal so as to achieve the business growth targets set by the terminal operators. [40 Marks]&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;draw-up-a-5-year-marketing-strategy-for-your-terminal-so-as-to-achieve-the-business-growth-targets-set-by-the-terminal-operators-40-marks&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#draw-up-a-5-year-marketing-strategy-for-your-terminal-so-as-to-achieve-the-business-growth-targets-set-by-the-terminal-operators-40-marks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;5-Year Marketing Strategy for the Container Terminal.&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5-year-marketing-strategy-for-the-container-terminal&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Draw up a 5-year Marketing Strategy for your Terminal so as to achieve the business growth targets set by the terminal operators. [40 Marks]&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;draw-up-a-5-year-marketing-strategy-for-your-terminal-so-as-to-achieve-the-business-growth-targets-set-by-the-terminal-operators-40-marks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#draw-up-a-5-year-marketing-strategy-for-your-terminal-so-as-to-achieve-the-business-growth-targets-set-by-the-terminal-operators-40-marks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;5-Year Marketing Strategy for the Container Terminal.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-year-marketing-strategy-for-the-container-terminal&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#5-year-marketing-strategy-for-the-container-terminal&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1. Market Analysis and Positioning&lt;/strong&gt;
 Assess Competitor Strengths and Weaknesses: Evaluate the services, pricing, and efficiency of the two competing terminals.
 * Identify Target Customers: Focus on mainline and feeder services not currently using our terminal.
@@ -362,8 +362,8 @@ Assess Competitor Strengths and Weaknesses: Evaluate the services, pricing, and 
 &lt;li&gt;Monitor Customer Satisfaction: Regularly gather feedback and address service gaps.&lt;/li&gt;
 &lt;li&gt;Review and Adapt Strategy: Conduct biannual strategy reviews to adjust to market dynamics and infrastructure developments.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Q.3 Is Transactional Leadership a useful tool for enhancing communication in an organization. Present an analytical framework to illustrate. How is it different from Transformational or Instrumental leadership?&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;q3-is-transactional-leadership-a-useful-tool-for-enhancing-communication-in-an-organization-present-an-analytical-framework-to-illustrate-how-is-it-different-from-transformational-or-instrumental-leadership&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#q3-is-transactional-leadership-a-useful-tool-for-enhancing-communication-in-an-organization-present-an-analytical-framework-to-illustrate-how-is-it-different-from-transformational-or-instrumental-leadership&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;What is Situational/Contingency Model of Leadership? [30 Marks]&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;what-is-situationalcontingency-model-of-leadership-30-marks&#34;&gt;&lt;/span&gt;
+&lt;h2&gt;Q.3 Is Transactional Leadership a useful tool for enhancing communication in an organization. Present an analytical framework to illustrate. How is it different from Transformational or Instrumental leadership?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;q3-is-transactional-leadership-a-useful-tool-for-enhancing-communication-in-an-organization-present-an-analytical-framework-to-illustrate-how-is-it-different-from-transformational-or-instrumental-leadership&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#q3-is-transactional-leadership-a-useful-tool-for-enhancing-communication-in-an-organization-present-an-analytical-framework-to-illustrate-how-is-it-different-from-transformational-or-instrumental-leadership&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;What is Situational/Contingency Model of Leadership? [30 Marks]&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;what-is-situationalcontingency-model-of-leadership-30-marks&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#what-is-situationalcontingency-model-of-leadership-30-marks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Transactional Leadership and Communication Enhancement
 1. Analytical Framework for Transactional Leadership:&lt;/p&gt;
 &lt;ul&gt;
@@ -385,73 +385,73 @@ Assess Competitor Strengths and Weaknesses: Evaluate the services, pricing, and 
 &lt;p&gt;Q.4. Describe the elements of the Financial Management? Select an organisation known to you and explain how its Financial Management might affect it? [25 Marks]
 Ans 4. part 1
 Financial management involves the planning, organizing, directing, and controlling of financial activities within an organization. It aims to optimize the use of financial resources to achieve organizational goals. The key elements of financial management include:&lt;/p&gt;
-&lt;h3&gt;1. ** Financial Planning**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;1--financial-planning&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;1. ** Financial Planning**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1--financial-planning&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#1--financial-planning&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;** Objective Setting:**  Defining short-term and long-term financial goals.&lt;/li&gt;
 &lt;li&gt;** Budgeting:**  Creating a detailed plan for income and expenses.&lt;/li&gt;
 &lt;li&gt;** Forecasting:**  Predicting future financial conditions and needs.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;2. ** Capital Budgeting**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;2--capital-budgeting&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;2. ** Capital Budgeting**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2--capital-budgeting&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#2--capital-budgeting&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;** Investment Decisions:**  Evaluating and selecting long-term investment opportunities.&lt;/li&gt;
 &lt;li&gt;** Project Appraisal:**  Assessing the viability and profitability of projects.&lt;/li&gt;
 &lt;li&gt;** Risk Analysis:**  Identifying and mitigating potential risks associated with investments.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;3. ** Capital Structure**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;3--capital-structure&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;3. ** Capital Structure**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3--capital-structure&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#3--capital-structure&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;** Debt vs. Equity:**  Determining the optimal mix of debt and equity financing.&lt;/li&gt;
 &lt;li&gt;** Cost of Capital:**  Calculating the cost of different sources of capital.&lt;/li&gt;
 &lt;li&gt;** Leverage:**  Understanding the impact of debt on the organization&amp;rsquo;s financial health.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;4. ** Working Capital Management**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;4--working-capital-management&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;4. ** Working Capital Management**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4--working-capital-management&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#4--working-capital-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;** Cash Management:**  Ensuring sufficient liquidity to meet short-term obligations.&lt;/li&gt;
 &lt;li&gt;** Inventory Management:**  Optimizing inventory levels to balance costs and service levels.&lt;/li&gt;
 &lt;li&gt;** Receivables Management:**  Managing credit policies and collection processes.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;5. ** Financial Control**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;5--financial-control&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;5. ** Financial Control**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5--financial-control&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#5--financial-control&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;** Performance Monitoring:**  Tracking financial performance against budgets and forecasts.&lt;/li&gt;
 &lt;li&gt;** Variance Analysis:**  Identifying and analyzing deviations from planned financial outcomes.&lt;/li&gt;
 &lt;li&gt;** Internal Audits:**  Conducting regular audits to ensure compliance and accuracy.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;6. ** Risk Management**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;6--risk-management&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;6. ** Risk Management**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;6--risk-management&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#6--risk-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;** Identification:**  Recognizing financial risks such as market risk, credit risk, and operational risk.&lt;/li&gt;
 &lt;li&gt;** Assessment:**  Evaluating the potential impact and likelihood of risks.&lt;/li&gt;
 &lt;li&gt;** Mitigation:**  Implementing strategies to reduce or manage risks.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;7. ** Financial Reporting**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;7--financial-reporting&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;7. ** Financial Reporting**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;7--financial-reporting&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#7--financial-reporting&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;** Financial Statements:**  Preparing income statements, balance sheets, and cash flow statements.&lt;/li&gt;
 &lt;li&gt;** Compliance:**  Ensuring adherence to accounting standards and regulatory requirements.&lt;/li&gt;
 &lt;li&gt;** Transparency:**  Providing clear and accurate financial information to stakeholders.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;8. ** Dividend Policy**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;8--dividend-policy&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;8. ** Dividend Policy**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;8--dividend-policy&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#8--dividend-policy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;** Profit Distribution:**  Deciding on the portion of profits to be distributed to shareholders.&lt;/li&gt;
 &lt;li&gt;** Retained Earnings:**  Determining the amount of profits to be reinvested in the business.&lt;/li&gt;
 &lt;li&gt;** Shareholder Value:**  Balancing dividend payouts with the need for reinvestment to enhance shareholder value.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;9. ** Corporate Finance**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;9--corporate-finance&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;9. ** Corporate Finance**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;9--corporate-finance&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#9--corporate-finance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;** Mergers and Acquisitions:**  Evaluating and executing mergers, acquisitions, and divestitures.&lt;/li&gt;
 &lt;li&gt;** Valuation:**  Assessing the value of the company or its assets.&lt;/li&gt;
 &lt;li&gt;** Strategic Financial Decisions:**  Making decisions that align with the overall corporate strategy.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;10. ** Tax Planning**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;10--tax-planning&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;10. ** Tax Planning**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;10--tax-planning&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#10--tax-planning&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;** Tax Compliance:**  Ensuring adherence to tax laws and regulations.&lt;/li&gt;
 &lt;li&gt;** Tax Optimization:**  Strategizing to minimize tax liabilities.&lt;/li&gt;
 &lt;li&gt;** Reporting:**  Preparing and filing accurate tax returns.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;11. ** International Financial Management**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;11--international-financial-management&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;11. ** International Financial Management**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;11--international-financial-management&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#11--international-financial-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;** Foreign Exchange Management:**  Managing exposure to currency fluctuations.&lt;/li&gt;
 &lt;li&gt;** Global Investment:**  Evaluating international investment opportunities.&lt;/li&gt;
 &lt;li&gt;** Cross-border Financing:**  Understanding and managing financing options in different countries.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;12. ** Ethical and Governance Considerations**&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;12--ethical-and-governance-considerations&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;12. ** Ethical and Governance Considerations**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;12--ethical-and-governance-considerations&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#12--ethical-and-governance-considerations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;** Corporate Governance:**  Ensuring ethical financial practices and accountability.&lt;/li&gt;
 &lt;li&gt;** Stakeholder Interests:**  Balancing the interests of various stakeholders, including shareholders, employees, and the community.&lt;/li&gt;
@@ -495,7 +495,7 @@ The Indian government intervened to prevent a complete collapse of IL&amp;amp;FS
 Ans 5
 Part 1
 Success in entrepreneurship is influenced by a combination of personal traits, strategic actions, and external factors. Here are the key factors and activities that contribute to entrepreneurial success:&lt;/p&gt;
-&lt;h3&gt;Personal Traits and Skills&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;personal-traits-and-skills&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Personal Traits and Skills&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;personal-traits-and-skills&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#personal-traits-and-skills&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Vision and Passion**&lt;/p&gt;
@@ -533,7 +533,7 @@ Success in entrepreneurship is influenced by a combination of personal traits, s
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Strategic Actions&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;strategic-actions&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Strategic Actions&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;strategic-actions&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#strategic-actions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Market Research and Analysis**&lt;/p&gt;
@@ -580,7 +580,7 @@ Success in entrepreneurship is influenced by a combination of personal traits, s
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;External Factors&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;external-factors&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;External Factors&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;external-factors&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#external-factors&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Market Conditions**&lt;/p&gt;
@@ -611,7 +611,7 @@ Success in entrepreneurship is influenced by a combination of personal traits, s
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Continuous Improvement&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;continuous-improvement&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Continuous Improvement&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;continuous-improvement&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#continuous-improvement&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Learning and Adaptation**&lt;/p&gt;
@@ -635,7 +635,7 @@ Success in entrepreneurship is influenced by a combination of personal traits, s
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Ethical and Social Responsibility&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ethical-and-social-responsibility&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Ethical and Social Responsibility&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ethical-and-social-responsibility&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#ethical-and-social-responsibility&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Ethical Practices**&lt;/p&gt;
@@ -655,7 +655,7 @@ Success in entrepreneurship is influenced by a combination of personal traits, s
 &lt;p&gt;By focusing on these factors and activities, entrepreneurs can enhance their chances of success and build sustainable, thriving businesses.
 Part 2
 Zomato, a leading global food delivery and restaurant discovery platform, exemplifies how the principles of entrepreneurship can drive success. Here’s how various entrepreneurial principles contributed to Zomato&amp;rsquo;s growth and success:&lt;/p&gt;
-&lt;h3&gt;Vision and Passion&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;vision-and-passion&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Vision and Passion&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;vision-and-passion&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#vision-and-passion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Clear Vision**&lt;/p&gt;
@@ -671,7 +671,7 @@ Zomato, a leading global food delivery and restaurant discovery platform, exempl
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Resilience and Perseverance&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;resilience-and-perseverance&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Resilience and Perseverance&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;resilience-and-perseverance&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#resilience-and-perseverance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Resilience**&lt;/p&gt;
@@ -687,7 +687,7 @@ Zomato, a leading global food delivery and restaurant discovery platform, exempl
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Creativity and Innovation&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;creativity-and-innovation&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Creativity and Innovation&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;creativity-and-innovation&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#creativity-and-innovation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Creativity**&lt;/p&gt;
@@ -704,7 +704,7 @@ Zomato, a leading global food delivery and restaurant discovery platform, exempl
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Risk-taking and Decision-making&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;risk-taking-and-decision-making&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Risk-taking and Decision-making&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;risk-taking-and-decision-making&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#risk-taking-and-decision-making&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Risk-taking**&lt;/p&gt;
@@ -721,7 +721,7 @@ Zomato, a leading global food delivery and restaurant discovery platform, exempl
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Leadership and Management Skills&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;leadership-and-management-skills&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Leadership and Management Skills&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;leadership-and-management-skills&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#leadership-and-management-skills&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Leadership**&lt;/p&gt;
@@ -738,7 +738,7 @@ Zomato, a leading global food delivery and restaurant discovery platform, exempl
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Market Research and Analysis&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;market-research-and-analysis&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Market Research and Analysis&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;market-research-and-analysis&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#market-research-and-analysis&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Understanding the Market**&lt;/p&gt;
@@ -754,7 +754,7 @@ Zomato, a leading global food delivery and restaurant discovery platform, exempl
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Financial Management&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;financial-management&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Financial Management&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;financial-management&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#financial-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Budgeting and Funding**&lt;/p&gt;
@@ -770,7 +770,7 @@ Zomato, a leading global food delivery and restaurant discovery platform, exempl
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Marketing and Sales&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;marketing-and-sales&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Marketing and Sales&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;marketing-and-sales&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#marketing-and-sales&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Branding**&lt;/p&gt;
@@ -787,7 +787,7 @@ Zomato, a leading global food delivery and restaurant discovery platform, exempl
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Customer Focus&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;customer-focus&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Customer Focus&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;customer-focus&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#customer-focus&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Customer Service**&lt;/p&gt;
@@ -804,7 +804,7 @@ Zomato, a leading global food delivery and restaurant discovery platform, exempl
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Continuous Improvement&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;continuous-improvement-1&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Continuous Improvement&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;continuous-improvement-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#continuous-improvement-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Learning and Adaptation**&lt;/p&gt;
@@ -821,7 +821,7 @@ Zomato, a leading global food delivery and restaurant discovery platform, exempl
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Ethical and Social Responsibility&lt;span class=&#34;hx-absolute -hx-mt-20&#34; id=&#34;ethical-and-social-responsibility-1&#34;&gt;&lt;/span&gt;
+&lt;h3&gt;Ethical and Social Responsibility&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ethical-and-social-responsibility-1&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#ethical-and-social-responsibility-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Ethical Practices**&lt;/p&gt;

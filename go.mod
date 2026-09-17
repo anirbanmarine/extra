@@ -1,5 +1,5 @@
 module github.com/anirbanmarine/extra
 
-go 1.21
+go 1.26
 
-require github.com/imfing/hextra v0.9.1 // indirect
+require github.com/imfing/hextra v0.12.0 // indirect
