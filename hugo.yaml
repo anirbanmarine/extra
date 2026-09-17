@@ -1,8 +1,8 @@
-baseURL: https://anirbanmarine.in
+baseURL: https://extra.anirbanmarine.in
 defaultContentLanguage: en
 locale: en
 title: Study Extra Master
-relativeUrls: true
+
 author:
   name: Anirban Das
   email: a@anirbanmarine.in
