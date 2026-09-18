@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – EM202 Advanced Naval Architecture</title>
-    <link>http://localhost:1313/docs/partb/navarch/</link>
+    <link>https://extra.anirbanmarine.in/docs/partb/navarch/</link>
     <description>Recent content in EM202 Advanced Naval Architecture on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="http://localhost:1313/docs/partb/navarch/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="https://extra.anirbanmarine.in/docs/partb/navarch/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Formulae</title>
-      <link>http://localhost:1313/docs/partb/navarch/formula-_index/</link>
+      <link>https://extra.anirbanmarine.in/docs/partb/navarch/formula-_index/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/navarch/formula-_index/</guid>
+      <guid>https://extra.anirbanmarine.in/docs/partb/navarch/formula-_index/</guid>
       <description>
         
         
@@ -38,10 +38,10 @@ d = maximum depth
     
     <item>
       <title>Manoeuvring trials</title>
-      <link>http://localhost:1313/docs/partb/navarch/manoeuvring_trials/</link>
+      <link>https://extra.anirbanmarine.in/docs/partb/navarch/manoeuvring_trials/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/navarch/manoeuvring_trials/</guid>
+      <guid>https://extra.anirbanmarine.in/docs/partb/navarch/manoeuvring_trials/</guid>
       <description>
         
         
@@ -66,15 +66,19 @@ design of hull &amp;amp; rudder.&lt;/li&gt;
     
     <item>
       <title>Resistance and Propulsion</title>
-      <link>http://localhost:1313/docs/partb/navarch/resistance_and_propulsion/</link>
+      <link>https://extra.anirbanmarine.in/docs/partb/navarch/resistance_and_propulsion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/navarch/resistance_and_propulsion/</guid>
+      <guid>https://extra.anirbanmarine.in/docs/partb/navarch/resistance_and_propulsion/</guid>
       <description>
         
         
         
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/resistance_and_propulsion/rp/&#34;&gt;Resistance and Propulsion -Formulas and concepts&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/resistance_and_propulsion/thrust/&#34;&gt;Features of Propellers&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/resistance_and_propulsion/randp/&#34;&gt;Powering and Resistance&lt;/a&gt;&lt;/h2&gt;
+
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/resistance_and_propulsion/rp/&#34;&gt;Resistance and Powering of Ships&lt;/a&gt;&lt;/h2&gt;
 
 
 &lt;ol&gt;
@@ -103,10 +107,10 @@ design of hull &amp;amp; rudder.&lt;/li&gt;
     
     <item>
       <title>Revision of Fundamentals of  Naval Architecture</title>
-      <link>http://localhost:1313/docs/partb/navarch/revision_of_fundamentals/</link>
+      <link>https://extra.anirbanmarine.in/docs/partb/navarch/revision_of_fundamentals/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/navarch/revision_of_fundamentals/</guid>
+      <guid>https://extra.anirbanmarine.in/docs/partb/navarch/revision_of_fundamentals/</guid>
       <description>
         
         
@@ -132,38 +136,38 @@ design of hull &amp;amp; rudder.&lt;/li&gt;
     
     <item>
       <title>Sample Questions</title>
-      <link>http://localhost:1313/docs/partb/navarch/sample_questions/</link>
+      <link>https://extra.anirbanmarine.in/docs/partb/navarch/sample_questions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/navarch/sample_questions/</guid>
+      <guid>https://extra.anirbanmarine.in/docs/partb/navarch/sample_questions/</guid>
       <description>
         
         
         &lt;h2&gt;Contents&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/sample_questions/tankers_corrosion/&#34;&gt;Corrosion&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/sample_questions/tankers_corrosion/&#34;&gt;Corrosion&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/sample_questions/csr-gbs-pspc-and-structural-standards-specimen-questions-and-answers/&#34;&gt;CSR, GBS, PSPC, and Structural Standards-Specimen Questions and Answers&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/sample_questions/csr-gbs-pspc-and-structural-standards-specimen-questions-and-answers/&#34;&gt;CSR, GBS, PSPC, and Structural Standards-Specimen Questions and Answers&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/sample_questions/pa2_answers/&#34;&gt;EM202 ADVANCED NAVAL ARCHITECTURE - Complete Solutions&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/sample_questions/pa2_answers/&#34;&gt;EM202 ADVANCED NAVAL ARCHITECTURE - Complete Solutions&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/sample_questions/imo-fire-safety-regulations-in-solas-chapter-ii-2/&#34;&gt;IMO Fire Safety Regulations-Layers of Protection &amp;amp; SOLAS Chapter II-2&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/sample_questions/imo-fire-safety-regulations-in-solas-chapter-ii-2/&#34;&gt;IMO Fire Safety Regulations-Layers of Protection &amp;amp; SOLAS Chapter II-2&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/sample_questions/illc_1969-2005/&#34;&gt;International Loadline Convention 1966-69-2005&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/sample_questions/illc_1969-2005/&#34;&gt;International Loadline Convention 1966-69-2005&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/sample_questions/numericals_prev_years/&#34;&gt;Numericals Answers Previous Years&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/sample_questions/numericals_prev_years/&#34;&gt;Numericals Answers Previous Years&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/sample_questions/passenger_ships/&#34;&gt;Passenger Ship Safety sample question answers&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/sample_questions/passenger_ships/&#34;&gt;Passenger Ship Safety sample question answers&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/sample_questions/ropax-and-tankers-theory-specimen-questions-and-answers/&#34;&gt;ROPAX and Tankers_Theory Specimen Questions and Answers&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/sample_questions/ropax-and-tankers-theory-specimen-questions-and-answers/&#34;&gt;ROPAX and Tankers_Theory Specimen Questions and Answers&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/sample_questions/ropax-and-tankers-structural-alterations-for-solas-compliance/&#34;&gt;ROPAX and Tankers-Sample Questions and answers&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/sample_questions/ropax-and-tankers-structural-alterations-for-solas-compliance/&#34;&gt;ROPAX and Tankers-Sample Questions and answers&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/sample_questions/ans_sample/&#34;&gt;Sample Question and Answers&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/sample_questions/ans_sample/&#34;&gt;Sample Question and Answers&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/sample_questions/ship-design-shipbuilding-cost-models-and-trials/&#34;&gt;Ship Design, Shipbuilding Cost Models, and Trials&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/sample_questions/ship-design-shipbuilding-cost-models-and-trials/&#34;&gt;Ship Design, Shipbuilding Cost Models, and Trials&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/sample_questions/specimen-questions/&#34;&gt;Specimen Questions&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/sample_questions/specimen-questions/&#34;&gt;Specimen Questions&lt;/a&gt;&lt;/h2&gt;
 
 
 
@@ -172,10 +176,10 @@ design of hull &amp;amp; rudder.&lt;/li&gt;
     
     <item>
       <title>Ship Construction Files</title>
-      <link>http://localhost:1313/docs/partb/navarch/scf/</link>
+      <link>https://extra.anirbanmarine.in/docs/partb/navarch/scf/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/navarch/scf/</guid>
+      <guid>https://extra.anirbanmarine.in/docs/partb/navarch/scf/</guid>
       <description>
         
         
@@ -289,21 +293,21 @@ design of hull &amp;amp; rudder.&lt;/li&gt;
     
     <item>
       <title>Ship designs</title>
-      <link>http://localhost:1313/docs/partb/navarch/ship_designs/</link>
+      <link>https://extra.anirbanmarine.in/docs/partb/navarch/ship_designs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/</guid>
+      <guid>https://extra.anirbanmarine.in/docs/partb/navarch/ship_designs/</guid>
       <description>
         
         
         
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/ship_designs/ropax/solas_90&amp;#43;50/&#34;&gt;A Shift Towards Probabilistic Safety Assessment SOLAS 90 plus 50&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/ship_designs/ropax/solas_90&amp;#43;50/&#34;&gt;A Shift Towards Probabilistic Safety Assessment SOLAS 90 plus 50&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/ship_designs/pax/imo_pax_safety/&#34;&gt;IMO RO-RO SHIPS&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/ship_designs/pax/imo_pax_safety/&#34;&gt;IMO RO-RO SHIPS&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/ship_designs/ropax/sola_90/&#34;&gt;SOLAS 90 Requirements for Passenger Ferries&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/ship_designs/ropax/sola_90/&#34;&gt;SOLAS 90 Requirements for Passenger Ferries&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/ship_designs/ropax/stockholm_a/&#34;&gt;Stockholm Agreement&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/ship_designs/ropax/stockholm_a/&#34;&gt;Stockholm Agreement&lt;/a&gt;&lt;/h2&gt;
 
 
 &lt;ol&gt;
@@ -322,10 +326,10 @@ ferries, tankers, bulk carriers, OBOs, chemical tankers, LNG/LPG carriers, conta
     
     <item>
       <title>Ship Motion</title>
-      <link>http://localhost:1313/docs/partb/navarch/ship_motion/</link>
+      <link>https://extra.anirbanmarine.in/docs/partb/navarch/ship_motion/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/navarch/ship_motion/</guid>
+      <guid>https://extra.anirbanmarine.in/docs/partb/navarch/ship_motion/</guid>
       <description>
         
         
@@ -350,15 +354,15 @@ ferries, tankers, bulk carriers, OBOs, chemical tankers, LNG/LPG carriers, conta
     
     <item>
       <title>Stress and Strain</title>
-      <link>http://localhost:1313/docs/partb/navarch/stress_and_strain/</link>
+      <link>https://extra.anirbanmarine.in/docs/partb/navarch/stress_and_strain/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/navarch/stress_and_strain/</guid>
+      <guid>https://extra.anirbanmarine.in/docs/partb/navarch/stress_and_strain/</guid>
       <description>
         
         
         
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/stress_and_strain/section_modulus/&#34;&gt;Section Modulus&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/stress_and_strain/section_modulus/&#34;&gt;Section Modulus&lt;/a&gt;&lt;/h2&gt;
 
 
 &lt;ol&gt;
@@ -377,10 +381,10 @@ ferries, tankers, bulk carriers, OBOs, chemical tankers, LNG/LPG carriers, conta
     
     <item>
       <title>Theory Questions</title>
-      <link>http://localhost:1313/docs/partb/navarch/q_a/</link>
+      <link>https://extra.anirbanmarine.in/docs/partb/navarch/q_a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/docs/partb/navarch/q_a/</guid>
+      <guid>https://extra.anirbanmarine.in/docs/partb/navarch/q_a/</guid>
       <description>
         
         
