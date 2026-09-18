@@ -1,3 +1,10 @@
+---
+Title: Passenger Ship Safety sample question answers
+type: docs
+sidebar:
+  open: true
+
+---
 IMO’s passenger-ship safety initiative is built on the idea that prevention comes first, but if a casualty occurs, the ship should remain survivable—ideally acting as its own “best lifeboat” while returning safely to port or supporting an orderly abandonment. The initiative became necessary because very large cruise ships can carry several thousand people, have complex “hotel” spaces and fire loads, and can overwhelm normal evacuation and search-and-rescue arrangements even when formally compliant with older SOLAS and Load Line provisions. [imo](https://www.imo.org/en/ourwork/safety/pages/passengerships.aspx)
 
 ## Five pillars

@@ -1,3 +1,10 @@
+---
+Title: Specimen Questions
+type: docs
+sidebar:
+  open: true
+
+---
 Discuss the metallurgy of materials used to build a submarine Insta Explain the necessity of stronger inner hull and give examples of materials used for both inner and outer hulls with stress strain diagrams .
 With the diagram show and explain the specific functions and locations of various ballast tanks in a submarine .
 With simple illustrations discuss how does a submarine surface and submerge?

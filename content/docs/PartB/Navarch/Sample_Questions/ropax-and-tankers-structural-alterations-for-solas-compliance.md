@@ -1,4 +1,11 @@
-# **ROPAX and Tankers: Structural Alterations for SOLAS-90 / SOLAS-90+ (50) Compliance**
+---
+Title: ROPAX and Tankers-Sample Questions and answers
+type: docs
+sidebar:
+  open: true
+
+---
+# ****
 
 ---
 

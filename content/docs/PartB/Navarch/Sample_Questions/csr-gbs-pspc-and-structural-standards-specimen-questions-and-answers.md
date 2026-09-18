@@ -1,4 +1,11 @@
-# **CSR, GBS, PSPC, and Structural Standards: Specimen Questions and Answers**
+---
+Title: CSR, GBS, PSPC, and Structural Standards-Specimen Questions and Answers
+type: docs
+sidebar:
+  open: true
+
+---
+
 
 ---
 

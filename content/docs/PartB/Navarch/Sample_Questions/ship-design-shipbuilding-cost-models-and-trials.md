@@ -1,6 +1,11 @@
-# **Ship Design, Shipbuilding Cost Models, and Trials**
+---
+Title: Ship Design, Shipbuilding Cost Models, and Trials
+type: docs
+sidebar:
+  open: true
 
 ---
+
 
 ## **1. Cost Models in Ship Design and Shipbuilding**
 

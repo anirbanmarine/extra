@@ -1,4 +1,8 @@
-# **IMO Fire Safety Regulations: Layers of Protection & SOLAS Chapter II-2**
+---
+Title: IMO Fire Safety Regulations-Layers of Protection & SOLAS Chapter II-2
+type: docs
+sidebar:
+  open: true
 
 ---
 

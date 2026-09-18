@@ -57,7 +57,92 @@
       <description>
         
         
-        &lt;p&gt;&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-68e17a9a&#34;&gt;
+        &lt;p&gt;&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.min.js&#34; integrity=&#34;sha512-i+UmpoqoJqHkpXQ3mQfaIF8UZ2RAGoyqJvMzAKTadhBVhRk883EHluxdPsMf7c5/43D5tVpwIE8KLE1kQa0uCg==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.4.456/pdf.worker.min.js&#34; integrity=&#34;sha512-NuVK4+sDE809oDhbdAABRO1nTe80t56vXda8dg1UQ+RcQ8x7WakwTzKE7LOosoNCKi7EH7FXo7mritFNWpZiLQ==&#34; crossorigin=&#34;anonymous&#34; referrerpolicy=&#34;no-referrer&#34;&gt;&lt;/script&gt;
+
+&lt;style&gt;
+  #embed-pdf-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 20vh;
+     
+  }
+  
+  .pdf-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  #the-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  
+  .pdf-loadingWrapper {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 350px;
+  }
+  
+  .pdf-loading {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 3px solid #d2d0d0;;
+    border-radius: 50%;
+    border-top-color: #383838;
+    animation: spin 1s ease-in-out infinite;
+    -webkit-animation: spin 1s ease-in-out infinite;
+  }
+  
+  
+  
+  
+  
+  #overlayText {
+    word-wrap: break-word;
+    display: grid;
+    justify-content: end;
+  }
+  
+  #overlayText a {
+    position: relative;
+    top: 10px;
+    right: 4px;
+    color: #000;
+    margin: auto;
+    background-color: #eeeeee;
+    padding: 0.3em 1em;
+    border: solid 2px;
+    border-radius: 12px;
+    border-color: #00000030;
+    text-decoration: none;
+  }
+  
+  #overlayText svg {
+    height: clamp(1em, 2vw, 1.4em);
+    width:  clamp(1em, 2vw, 1.4em);
+  }
+  
+  
+  
+  @keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  @-webkit-keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  &lt;/style&gt;&lt;div class=&#34;embed-pdf-container&#34; id=&#34;embed-pdf-container-68e17a9a&#34;&gt;
     &lt;div class=&#34;pdf-loadingWrapper&#34; id=&#34;pdf-loadingWrapper-68e17a9a&#34;&gt;
         &lt;div class=&#34;pdf-loading&#34; id=&#34;pdf-loading-68e17a9a&#34;&gt;&lt;/div&gt;
     &lt;/div&gt;

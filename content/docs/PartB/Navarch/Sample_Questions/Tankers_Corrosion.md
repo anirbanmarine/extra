@@ -1,3 +1,10 @@
+---
+Title: Corrosion
+type: docs
+sidebar:
+  open: true
+
+---
 Corrosion in tankers is dangerous not only because it thins steel, but because it removes strength from highly stressed, poorly accessible parts of the hull girder—often at boundaries between warm oil tanks and cold seawater ballast spaces. Modern SOLAS coating standards and enhanced survey programmes reduce the risk, but inspection must combine close-up visual examination, coating assessment, ultrasonic thickness measurement, structural judgement and timely repair; no single method is sufficient. [ww2.eagle](https://ww2.eagle.org/content/dam/eagle/rules-and-guides/current/survey_and_inspection/49_application_inspection_marine_coating_systems_2017/Coatings_GN_e-Jan17.pdf)
 
 ## Q1. VLCC vapour-space corrosion

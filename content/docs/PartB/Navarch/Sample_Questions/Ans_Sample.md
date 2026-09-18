@@ -1,4 +1,10 @@
+---
+Title: Sample Question and Answers
+type: docs
+sidebar:
+  open: true
 
+---
 ***
 
 ## Part 1: Submarine Design, Metallurgy & Stability
