@@ -460,6 +460,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/heatbudget/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/mag/heeling_error/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/hirecalc/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/marinsurance/histmarinsur/</loc>
@@ -939,6 +941,8 @@
     <loc>http://localhost:1313/docs/partb/navarch/ship_motion/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/shipsize-and-economies-of-sale/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/ship_motion/waves/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_12/</loc>
   </url><url>
