@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – EM301 Marine Environment and Ocean Governance</title>
-    <link>https://extra.anirbanmarine.in/docs/partc/em301/</link>
+    <link>http://localhost:1313/docs/partc/em301/</link>
     <description>Recent content in EM301 Marine Environment and Ocean Governance on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="https://extra.anirbanmarine.in/docs/partc/em301/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/partc/em301/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,25 +16,25 @@
     
     <item>
       <title>Earth&#39;s tides</title>
-      <link>https://extra.anirbanmarine.in/docs/partc/em301/tides/</link>
+      <link>http://localhost:1313/docs/partc/em301/tides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partc/em301/tides/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/tides/</guid>
       <description>
         
         
         
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/tides/typoftides/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/tides/typoftides/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/tides/cotidal/&#34;&gt;Co-Tidal Charts&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/tides/cotidal/&#34;&gt;Co-Tidal Charts&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/tides/datums/&#34;&gt;Establishment of Datums&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/tides/datums/&#34;&gt;Establishment of Datums&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/tides/gktides/&#34;&gt;General Knowledge of Tides&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/tides/gktides/&#34;&gt;General Knowledge of Tides&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/tides/msl/&#34;&gt;Mean Sea Level&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/tides/msl/&#34;&gt;Mean Sea Level&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/tides/tidstream/&#34;&gt;Tidal Streams,currents and their measurement&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/tides/tidstream/&#34;&gt;Tidal Streams,currents and their measurement&lt;/a&gt;&lt;/h2&gt;
 
 
 
@@ -43,39 +43,39 @@
     
     <item>
       <title>Geology and Oceanography</title>
-      <link>https://extra.anirbanmarine.in/docs/partc/em301/oceanogeo/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceanogeo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partc/em301/oceanogeo/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceanogeo/</guid>
       <description>
         
         
         
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceanogeo/actgeo/&#34;&gt;Active geological processes&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceanogeo/actgeo/&#34;&gt;Active geological processes&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceanogeo/bathy/&#34;&gt;Bathymetric Studies&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceanogeo/bathy/&#34;&gt;Bathymetric Studies&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceanogeo/watermass/&#34;&gt;Distribution of Salinity, Temperature and Density of Water&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceanogeo/watermass/&#34;&gt;Distribution of Salinity, Temperature and Density of Water&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceanogeo/earthintro/&#34;&gt;Earth&amp;#39;s status and Earth&amp;#39;s interior age&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceanogeo/earthintro/&#34;&gt;Earth&amp;#39;s status and Earth&amp;#39;s interior age&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceanogeo/seas/&#34;&gt;General characteristics of the seas&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceanogeo/seas/&#34;&gt;General characteristics of the seas&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceanogeo/rocks/&#34;&gt;Genesis of rocks, types of rocks,distribution of rocks in the continents and oceans&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceanogeo/rocks/&#34;&gt;Genesis of rocks, types of rocks,distribution of rocks in the continents and oceans&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceanogeo/heatbudget/&#34;&gt;Heat Budget of the Oceans&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceanogeo/heatbudget/&#34;&gt;Heat Budget of the Oceans&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceanogeo/ice/&#34;&gt;Ice&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceanogeo/ice/&#34;&gt;Ice&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceanogeo/mohole/&#34;&gt;Mohole Project&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceanogeo/mohole/&#34;&gt;Mohole Project&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceanogeo/seawater/&#34;&gt;Physical properties of seawater, light penetration and colour of the sea&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceanogeo/seawater/&#34;&gt;Physical properties of seawater, light penetration and colour of the sea&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceanogeo/satlas/&#34;&gt;Submarine Atlas&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceanogeo/satlas/&#34;&gt;Submarine Atlas&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceanogeo/oceancurr/&#34;&gt;Surface Ocean Currents&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceanogeo/oceancurr/&#34;&gt;Surface Ocean Currents&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceanogeo/tectonics/&#34;&gt;The plate tectonic model&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceanogeo/tectonics/&#34;&gt;The plate tectonic model&lt;/a&gt;&lt;/h2&gt;
 
 
 
@@ -84,21 +84,21 @@
     
     <item>
       <title>Hydrographic Surveying</title>
-      <link>https://extra.anirbanmarine.in/docs/partc/em301/hydrosurv/</link>
+      <link>http://localhost:1313/docs/partc/em301/hydrosurv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partc/em301/hydrosurv/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/hydrosurv/</guid>
       <description>
         
         
         
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/hydrosurv/bashydro/&#34;&gt;Basic techniques of Hydrographic Surveying&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/hydrosurv/bashydro/&#34;&gt;Basic techniques of Hydrographic Surveying&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/hydrosurv/control/&#34;&gt;Control in hydrographic surveying&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/hydrosurv/control/&#34;&gt;Control in hydrographic surveying&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/hydrosurv/posfix/&#34;&gt;Position Fixing using short range high accuracy radio signals&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/hydrosurv/posfix/&#34;&gt;Position Fixing using short range high accuracy radio signals&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/hydrosurv/nchart/&#34;&gt;Theory of preparation of Navigational Chart&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/hydrosurv/nchart/&#34;&gt;Theory of preparation of Navigational Chart&lt;/a&gt;&lt;/h2&gt;
 
 
 
@@ -107,42 +107,42 @@
     
     <item>
       <title>International Conventions</title>
-      <link>https://extra.anirbanmarine.in/docs/partc/em301/intconv/</link>
+      <link>http://localhost:1313/docs/partc/em301/intconv/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partc/em301/intconv/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/intconv/</guid>
       <description>
         
         
         &lt;h2&gt;Contents&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/intconv/agenda_21/&#34;&gt;Agenda 21 UNFCCC &lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/intconv/agenda_21/&#34;&gt;Agenda 21 UNFCCC &lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/intconv/kyotoproto/&#34;&gt;Kyoto Protocol-UNFCCC (UNFCCC,Kyoto,1997)&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/intconv/kyotoproto/&#34;&gt;Kyoto Protocol-UNFCCC (UNFCCC,Kyoto,1997)&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/intconv/rsparis2015/&#34;&gt;Regional Seas Programme (RSP,Paris,2015)&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/intconv/rsparis2015/&#34;&gt;Regional Seas Programme (RSP,Paris,2015)&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/intconv/rio&amp;#43;10_20/&#34;&gt;The 2002 World Summit on Sustainable Development-Rio&amp;#43;10 (WSSD,Johannesburg,2002)The 2012 United Nations Conference on Sustainable Development-Rio&amp;#43;20 (UNCSD,Rio,2012)&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/intconv/rio&amp;#43;10_20/&#34;&gt;The 2002 World Summit on Sustainable Development-Rio&amp;#43;10 (WSSD,Johannesburg,2002)The 2012 United Nations Conference on Sustainable Development-Rio&amp;#43;20 (UNCSD,Rio,2012)&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/intconv/baselconv/&#34;&gt;The Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal, 1989&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/intconv/baselconv/&#34;&gt;The Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal, 1989&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/intconv/csd1992/&#34;&gt;The Commission on Sustainable Development (CSD,Rio,1992)&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/intconv/csd1992/&#34;&gt;The Commission on Sustainable Development (CSD,Rio,1992)&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/intconv/bbnj/&#34;&gt;The Intergovernmental Conference on biological diversity beyond national jurisdiction (BBNJ,2023)&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/intconv/bbnj/&#34;&gt;The Intergovernmental Conference on biological diversity beyond national jurisdiction (BBNJ,2023)&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/intconv/londondump1972/&#34;&gt;The London Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter (LC 1972)&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/intconv/londondump1972/&#34;&gt;The London Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter (LC 1972)&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/intconv/unced/&#34;&gt;The United Nations Conference on Environment and Development (UNCED),1992&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/intconv/unced/&#34;&gt;The United Nations Conference on Environment and Development (UNCED),1992&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/intconv/unconvbiodiversity/&#34;&gt;The United Nations Convention on Biological Diversity (CBD,Rio,1992) &lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/intconv/unconvbiodiversity/&#34;&gt;The United Nations Convention on Biological Diversity (CBD,Rio,1992) &lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/intconv/unfccc/&#34;&gt;The United Nations Framework Convention on Climate Change (UNFCCC,Rio,1992)&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/intconv/unfccc/&#34;&gt;The United Nations Framework Convention on Climate Change (UNFCCC,Rio,1992)&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/intconv/unhe/&#34;&gt;United Nations Convention on Human Environment,1972&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/intconv/unhe/&#34;&gt;United Nations Convention on Human Environment,1972&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/intconv/unclos/&#34;&gt;United Nations Convention on the Law of the Sea&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/intconv/unclos/&#34;&gt;United Nations Convention on the Law of the Sea&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/intconv/unepcont/&#34;&gt;United Nations Environment Programme&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/intconv/unepcont/&#34;&gt;United Nations Environment Programme&lt;/a&gt;&lt;/h2&gt;
 
 
 
@@ -151,21 +151,21 @@
     
     <item>
       <title>Marine Resources</title>
-      <link>https://extra.anirbanmarine.in/docs/partc/em301/marineres/</link>
+      <link>http://localhost:1313/docs/partc/em301/marineres/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partc/em301/marineres/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/marineres/</guid>
       <description>
         
         
         
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/marineres/marfish/&#34;&gt;Fishing&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/marineres/marfish/&#34;&gt;Fishing&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/marineres/oilngas/&#34;&gt;Marine Resources -Oil and Gas&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/marineres/oilngas/&#34;&gt;Marine Resources -Oil and Gas&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/marineres/minerals/&#34;&gt;Marine Resources- Minerals&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/marineres/minerals/&#34;&gt;Marine Resources- Minerals&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/marineres/power/&#34;&gt;Marine Resources-Power&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/marineres/power/&#34;&gt;Marine Resources-Power&lt;/a&gt;&lt;/h2&gt;
 
 
 
@@ -174,22 +174,22 @@
     
     <item>
       <title>Meteorology</title>
-      <link>https://extra.anirbanmarine.in/docs/partc/em301/meteorology/</link>
+      <link>http://localhost:1313/docs/partc/em301/meteorology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partc/em301/meteorology/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/meteorology/</guid>
       <description>
         
         
         &lt;h2&gt;Contents&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/meteorology/cyclones/&#34;&gt;Cyclonic Storms&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/meteorology/cyclones/&#34;&gt;Cyclonic Storms&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/meteorology/el-nino/&#34;&gt;El Nino and La Nina&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/meteorology/el-nino/&#34;&gt;El Nino and La Nina&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/meteorology/metobs/&#34;&gt;Meteorological Observation Systems&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/meteorology/metobs/&#34;&gt;Meteorological Observation Systems&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/meteorology/wind_effects/&#34;&gt;Wind Effects&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/meteorology/wind_effects/&#34;&gt;Wind Effects&lt;/a&gt;&lt;/h2&gt;
 
 
 
@@ -198,27 +198,27 @@
     
     <item>
       <title>Ocean Governance</title>
-      <link>https://extra.anirbanmarine.in/docs/partc/em301/oceangov/</link>
+      <link>http://localhost:1313/docs/partc/em301/oceangov/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partc/em301/oceangov/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/oceangov/</guid>
       <description>
         
         
         
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceangov/abnj/&#34;&gt;Areas Beyond National Jurisdiction&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceangov/abnj/&#34;&gt;Areas Beyond National Jurisdiction&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceangov/clcs/&#34;&gt;Commission on Limits of the Continental Shelf&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceangov/clcs/&#34;&gt;Commission on Limits of the Continental Shelf&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceangov/ccrf/&#34;&gt;FAO Code of Conduct for Responsible Fisheries(CCRF)&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceangov/ccrf/&#34;&gt;FAO Code of Conduct for Responsible Fisheries(CCRF)&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceangov/isa/&#34;&gt;International Seabed Authority&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceangov/isa/&#34;&gt;International Seabed Authority&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceangov/defoceangov/&#34;&gt;Ocean Governance&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceangov/defoceangov/&#34;&gt;Ocean Governance&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceangov/sdev/&#34;&gt;Sustainable Development&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceangov/sdev/&#34;&gt;Sustainable Development&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/oceangov/unfsa/&#34;&gt;UNFSA&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/oceangov/unfsa/&#34;&gt;UNFSA&lt;/a&gt;&lt;/h2&gt;
 
 
 
@@ -227,30 +227,30 @@
     
     <item>
       <title>Satellite Meteorology</title>
-      <link>https://extra.anirbanmarine.in/docs/partc/em301/satmet/</link>
+      <link>http://localhost:1313/docs/partc/em301/satmet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partc/em301/satmet/</guid>
+      <guid>http://localhost:1313/docs/partc/em301/satmet/</guid>
       <description>
         
         
         &lt;h2&gt;Contents&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/satmet/satmethistory/&#34;&gt;History of Satellite Meteorology&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/satmet/satmethistory/&#34;&gt;History of Satellite Meteorology&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/satmet/ismp/&#34;&gt;Indian Satellite Meteorology Programme (ISMP)&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/satmet/ismp/&#34;&gt;Indian Satellite Meteorology Programme (ISMP)&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/satmet/qestsst/&#34;&gt;Quantitative estimation of sea surface temperature (SST)&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/satmet/qestsst/&#34;&gt;Quantitative estimation of sea surface temperature (SST)&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/satmet/rsense/&#34;&gt;Remote sensing techniques&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/satmet/rsense/&#34;&gt;Remote sensing techniques&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/satmet/synclouds/&#34;&gt;Synoptic cloud patterns and their interpretation.&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/satmet/synclouds/&#34;&gt;Synoptic cloud patterns and their interpretation.&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/satmet/sattropic/&#34;&gt;Tropical Storm Analysis using Satellite Data&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/satmet/sattropic/&#34;&gt;Tropical Storm Analysis using Satellite Data&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/satmet/vertprof/&#34;&gt;Vertical profiles of temperature and humidity&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/satmet/vertprof/&#34;&gt;Vertical profiles of temperature and humidity&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partc/em301/satmet/vandirchannels/&#34;&gt;Visual and Infra red Channels&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partc/em301/satmet/vandirchannels/&#34;&gt;Visual and Infra red Channels&lt;/a&gt;&lt;/h2&gt;
 
 
 

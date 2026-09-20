@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – EM201 Advanced Navigation</title>
-    <link>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/</link>
+    <link>http://localhost:1313/docs/partb/adnav/advancements/</link>
     <description>Recent content in EM201 Advanced Navigation on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="https://extra.anirbanmarine.in/docs/partb/adnav/advancements/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/partb/adnav/advancements/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Discuss latest advancement in navigational equipments involving Fibre optic gyroscope,</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_4/</link>
+      <link>http://localhost:1313/docs/partb/adnav/advancements/prompt_4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_4/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/advancements/prompt_4/</guid>
       <description>
         
         
@@ -119,10 +119,10 @@
     
     <item>
       <title>Discuss Special problems in navigation involving GPS compass,</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_6/</link>
+      <link>http://localhost:1313/docs/partb/adnav/advancements/prompt_6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_6/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/advancements/prompt_6/</guid>
       <description>
         
         
@@ -266,10 +266,10 @@
     
     <item>
       <title>Discuss Special problems in navigation involving High latitude navigation;</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_1/</link>
+      <link>http://localhost:1313/docs/partb/adnav/advancements/prompt_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_1/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/advancements/prompt_1/</guid>
       <description>
         
         
@@ -365,10 +365,10 @@
     
     <item>
       <title>Discuss Special problems in navigation involving High speed surface craft;</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_2/</link>
+      <link>http://localhost:1313/docs/partb/adnav/advancements/prompt_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_2/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/advancements/prompt_2/</guid>
       <description>
         
         
@@ -435,10 +435,10 @@
     
     <item>
       <title>Discuss Special problems in navigation involving Infra-red techniques,</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_8/</link>
+      <link>http://localhost:1313/docs/partb/adnav/advancements/prompt_8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_8/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/advancements/prompt_8/</guid>
       <description>
         
         
@@ -542,10 +542,10 @@ This &amp;ldquo;thermal clutter&amp;rdquo; can easily fool a pattern-matching al
     
     <item>
       <title>Discuss Special problems in navigation involving Laser beams,</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_7/</link>
+      <link>http://localhost:1313/docs/partb/adnav/advancements/prompt_7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_7/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/advancements/prompt_7/</guid>
       <description>
         
         
@@ -640,10 +640,10 @@ This &amp;ldquo;thermal clutter&amp;rdquo; can easily fool a pattern-matching al
     
     <item>
       <title>Discuss Special problems in navigation involving satellite compass,</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_5/</link>
+      <link>http://localhost:1313/docs/partb/adnav/advancements/prompt_5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_5/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/advancements/prompt_5/</guid>
       <description>
         
         
@@ -784,10 +784,10 @@ This &amp;ldquo;thermal clutter&amp;rdquo; can easily fool a pattern-matching al
     
     <item>
       <title>Discuss Special problems in navigation involving Ship identification.</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_11/</link>
+      <link>http://localhost:1313/docs/partb/adnav/advancements/prompt_11/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_11/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/advancements/prompt_11/</guid>
       <description>
         
         
@@ -860,10 +860,10 @@ This &amp;ldquo;thermal clutter&amp;rdquo; can easily fool a pattern-matching al
     
     <item>
       <title>Discuss Special problems in navigation involving Split beam channel guidance systems,</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_10/</link>
+      <link>http://localhost:1313/docs/partb/adnav/advancements/prompt_10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_10/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/advancements/prompt_10/</guid>
       <description>
         
         
@@ -935,10 +935,10 @@ This &amp;ldquo;thermal clutter&amp;rdquo; can easily fool a pattern-matching al
     
     <item>
       <title>Discuss Special problems in navigation involving Sub- marine acoustic transponders,</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_9/</link>
+      <link>http://localhost:1313/docs/partb/adnav/advancements/prompt_9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_9/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/advancements/prompt_9/</guid>
       <description>
         
         
@@ -1030,10 +1030,10 @@ This &amp;ldquo;thermal clutter&amp;rdquo; can easily fool a pattern-matching al
     
     <item>
       <title>Discuss Special problems in navigation involving Sub-surface craft.</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_3/</link>
+      <link>http://localhost:1313/docs/partb/adnav/advancements/prompt_3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_3/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/advancements/prompt_3/</guid>
       <description>
         
         
@@ -1125,10 +1125,10 @@ This &amp;ldquo;thermal clutter&amp;rdquo; can easily fool a pattern-matching al
     
     <item>
       <title>Discuss the latest advancement in aids to navigation with respect to Berthing aids</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_13/</link>
+      <link>http://localhost:1313/docs/partb/adnav/advancements/prompt_13/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_13/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/advancements/prompt_13/</guid>
       <description>
         
         
@@ -1228,10 +1228,10 @@ This &amp;ldquo;thermal clutter&amp;rdquo; can easily fool a pattern-matching al
     
     <item>
       <title>Discuss the latest advancement in aids to navigation with respect to Virtual Aids of Navigation</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_12/</link>
+      <link>http://localhost:1313/docs/partb/adnav/advancements/prompt_12/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_12/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/advancements/prompt_12/</guid>
       <description>
         
         
@@ -1303,10 +1303,10 @@ This &amp;ldquo;thermal clutter&amp;rdquo; can easily fool a pattern-matching al
     
     <item>
       <title>Discuss the special navigation systems the basic principle and use of Dynamic Positioning Systems;</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_15/</link>
+      <link>http://localhost:1313/docs/partb/adnav/advancements/prompt_15/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_15/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/advancements/prompt_15/</guid>
       <description>
         
         
@@ -1406,10 +1406,10 @@ This &amp;ldquo;thermal clutter&amp;rdquo; can easily fool a pattern-matching al
     
     <item>
       <title>Discuss the special navigation systems the basic principle and use of Inertial Navigation Systems.</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_16/</link>
+      <link>http://localhost:1313/docs/partb/adnav/advancements/prompt_16/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_16/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/advancements/prompt_16/</guid>
       <description>
         
         
@@ -1512,10 +1512,10 @@ This &amp;ldquo;thermal clutter&amp;rdquo; can easily fool a pattern-matching al
     
     <item>
       <title>Discuss the special navigation systems the basic principle and use of Integrated Navigation System;</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_14/</link>
+      <link>http://localhost:1313/docs/partb/adnav/advancements/prompt_14/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/advancements/prompt_14/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/advancements/prompt_14/</guid>
       <description>
         
         

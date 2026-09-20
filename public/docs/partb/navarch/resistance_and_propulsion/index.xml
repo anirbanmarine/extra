@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – Resistance and Propulsion</title>
-    <link>https://extra.anirbanmarine.in/docs/partb/navarch/resistance_and_propulsion/</link>
+    <link>http://localhost:1313/docs/partb/navarch/resistance_and_propulsion/</link>
     <description>Recent content in Resistance and Propulsion on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="https://extra.anirbanmarine.in/docs/partb/navarch/resistance_and_propulsion/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/partb/navarch/resistance_and_propulsion/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Features of Propellers</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/navarch/resistance_and_propulsion/thrust/</link>
+      <link>http://localhost:1313/docs/partb/navarch/resistance_and_propulsion/thrust/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/navarch/resistance_and_propulsion/thrust/</guid>
+      <guid>http://localhost:1313/docs/partb/navarch/resistance_and_propulsion/thrust/</guid>
       <description>
         
         
@@ -118,10 +118,10 @@ tp = \text{Thrust (N)} \times \text{speed of advance (m/s)} = T \times V_a \quad
     
     <item>
       <title>Powering and Resistance</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/navarch/resistance_and_propulsion/randp/</link>
+      <link>http://localhost:1313/docs/partb/navarch/resistance_and_propulsion/randp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/navarch/resistance_and_propulsion/randp/</guid>
+      <guid>http://localhost:1313/docs/partb/navarch/resistance_and_propulsion/randp/</guid>
       <description>
         
         
@@ -304,10 +304,10 @@ $T = \rho A P^2 N^2 s$ (where $s$ is real slip, $A$ is effective disc area, $N$ 
     
     <item>
       <title>Resistance and Powering of Ships</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/navarch/resistance_and_propulsion/rp/</link>
+      <link>http://localhost:1313/docs/partb/navarch/resistance_and_propulsion/rp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/navarch/resistance_and_propulsion/rp/</guid>
+      <guid>http://localhost:1313/docs/partb/navarch/resistance_and_propulsion/rp/</guid>
       <description>
         
         

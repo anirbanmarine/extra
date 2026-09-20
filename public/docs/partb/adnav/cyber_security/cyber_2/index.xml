@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – Maritime Cyber Security on ships</title>
-    <link>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/</link>
+    <link>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/</link>
     <description>Recent content in Maritime Cyber Security on ships on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Maritime Cyber security and safety management: dangers associated with emails (dangerous attachments, hoaxes, etc.);</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_3/</link>
+      <link>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_3/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_3/</guid>
       <description>
         
         
@@ -173,10 +173,10 @@
     
     <item>
       <title>Maritime Cyber security and safety management: identification of theft and compromise of classified data;</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_2/</link>
+      <link>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_2/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_2/</guid>
       <description>
         
         
@@ -358,10 +358,10 @@
     
     <item>
       <title>Maritime Cyber security and safety management: Malware,viruses and spyware;</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_1/</link>
+      <link>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_1/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_1/</guid>
       <description>
         
         
@@ -524,10 +524,10 @@
     
     <item>
       <title>Maritime Cyber security and safety management:dangers related to mobile devices; dangers of unsecured wireless networks;</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_7/</link>
+      <link>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_7/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_7/</guid>
       <description>
         
         
@@ -643,10 +643,10 @@
     
     <item>
       <title>Maritime Cyber security and safety management:desktop security;</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_8/</link>
+      <link>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_8/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_8/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_8/</guid>
       <description>
         
         
@@ -777,10 +777,10 @@
     
     <item>
       <title>Maritime Cyber security and safety management:File sharing and copyright issues (international regulations in usage of pirated and pornographic material);</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_6/</link>
+      <link>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_6/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_6/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_6/</guid>
       <description>
         
         
@@ -908,10 +908,10 @@ If malware from a pirated file crosses from the crew welfare network to the ship
     
     <item>
       <title>Maritime Cyber security and safety management:phishing, risks regarding removable media;</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_4/</link>
+      <link>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_4/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_4/</guid>
       <description>
         
         
@@ -1031,10 +1031,10 @@ If malware from a pirated file crosses from the crew welfare network to the ship
     
     <item>
       <title>Maritime Cyber security and safety management:risks of social networking;</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_9/</link>
+      <link>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_9/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_9/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_9/</guid>
       <description>
         
         
@@ -1120,10 +1120,10 @@ If malware from a pirated file crosses from the crew welfare network to the ship
     
     <item>
       <title>Maritime Cyber security and safety management:unauthorized system access and characteristics of a strong password;</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_10/</link>
+      <link>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_10/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_10/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_10/</guid>
       <description>
         
         
@@ -1208,10 +1208,10 @@ If malware from a pirated file crosses from the crew welfare network to the ship
     
     <item>
       <title>Maritime Cyber security and safety management:USB stick dangers;</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_5/</link>
+      <link>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/cyber_2/prompt_5/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/cyber_security/cyber_2/prompt_5/</guid>
       <description>
         
         

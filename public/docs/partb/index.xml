@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Study Extra Master – Part B</title>
-    <link>https://extra.anirbanmarine.in/docs/partb/</link>
+    <link>http://localhost:1313/docs/partb/</link>
     <description>Recent content in Part B on Study Extra Master</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	  <atom:link href="https://extra.anirbanmarine.in/docs/partb/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://localhost:1313/docs/partb/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,24 +16,24 @@
     
     <item>
       <title>EM201 Advanced Navigation and Maritime Cyber Security</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/adnav/</link>
+      <link>http://localhost:1313/docs/partb/adnav/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/adnav/</guid>
+      <guid>http://localhost:1313/docs/partb/adnav/</guid>
       <description>
         
         
         &lt;h2&gt;Contents&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/adnav/cyber_security/&#34;&gt;Cyber Security&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/adnav/cyber_security/&#34;&gt;Cyber Security&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/adnav/advancements/&#34;&gt;EM201 Advanced Navigation&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/adnav/advancements/&#34;&gt;EM201 Advanced Navigation&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/adnav/celnav/&#34;&gt;EM201 Celestial Navigation&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/adnav/celnav/&#34;&gt;EM201 Celestial Navigation&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/adnav/mag/&#34;&gt;Magnetism.&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/adnav/mag/&#34;&gt;Magnetism.&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/adnav/projections/&#34;&gt;Projections.&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/adnav/projections/&#34;&gt;Projections.&lt;/a&gt;&lt;/h2&gt;
 
 
 &lt;ul&gt;
@@ -65,34 +65,34 @@
     
     <item>
       <title>EM202 Advanced Naval Architecture</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/navarch/</link>
+      <link>http://localhost:1313/docs/partb/navarch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/navarch/</guid>
+      <guid>http://localhost:1313/docs/partb/navarch/</guid>
       <description>
         
         
         &lt;h2&gt;Contents&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;contents&#34;&gt;&lt;/span&gt;
     &lt;a href=&#34;#contents&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/formula-_index/&#34;&gt;Formulae&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/formula-_index/&#34;&gt;Formulae&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/manoeuvring_trials/&#34;&gt;Manoeuvring trials&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/manoeuvring_trials/&#34;&gt;Manoeuvring trials&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/resistance_and_propulsion/&#34;&gt;Resistance and Propulsion&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/resistance_and_propulsion/&#34;&gt;Resistance and Propulsion&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/revision_of_fundamentals/&#34;&gt;Revision of Fundamentals of  Naval Architecture&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/revision_of_fundamentals/&#34;&gt;Revision of Fundamentals of  Naval Architecture&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/sample_questions/&#34;&gt;Sample Questions&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/sample_questions/&#34;&gt;Sample Questions&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/scf/&#34;&gt;Ship Construction Files&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/scf/&#34;&gt;Ship Construction Files&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/ship_designs/&#34;&gt;Ship designs&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/ship_designs/&#34;&gt;Ship designs&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/ship_motion/&#34;&gt;Ship Motion&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/ship_motion/&#34;&gt;Ship Motion&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/stress_and_strain/&#34;&gt;Stress and Strain&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/stress_and_strain/&#34;&gt;Stress and Strain&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/navarch/q_a/&#34;&gt;Theory Questions&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/navarch/q_a/&#34;&gt;Theory Questions&lt;/a&gt;&lt;/h2&gt;
 
 
 
@@ -101,61 +101,61 @@
     
     <item>
       <title>EM203 Commercial Engineering , Robotics and Alternative Energy</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/engg/</link>
+      <link>http://localhost:1313/docs/partb/engg/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/engg/</guid>
+      <guid>http://localhost:1313/docs/partb/engg/</guid>
       <description>
         
         
         
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/cont/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/cont/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/avr/&#34;&gt;AVR&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/avr/&#34;&gt;AVR&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/azimuth-thrusters/&#34;&gt;Azimuth thrusters&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/azimuth-thrusters/&#34;&gt;Azimuth thrusters&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/diesel_plants/&#34;&gt;Basic Features and Operation of Diesel Plants&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/diesel_plants/&#34;&gt;Basic Features and Operation of Diesel Plants&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/revision/&#34;&gt;Boilers-Oily Water Separator-Fresh Water Generator-Sewage treatment Plant-Pumps&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/revision/&#34;&gt;Boilers-Oily Water Separator-Fresh Water Generator-Sewage treatment Plant-Pumps&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/cng/&#34;&gt;CNG as a Marine Fuel&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/cng/&#34;&gt;CNG as a Marine Fuel&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/transformers_cu_losses/&#34;&gt;Copper Losses in Transformers&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/transformers_cu_losses/&#34;&gt;Copper Losses in Transformers&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/deck-cranes/&#34;&gt;Deck Cranes&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/deck-cranes/&#34;&gt;Deck Cranes&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/eedi_eeoi/&#34;&gt;EEDI and EEOI-Measuring Ship Energy Efficiency&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/eedi_eeoi/&#34;&gt;EEDI and EEOI-Measuring Ship Energy Efficiency&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/electrical/&#34;&gt;Electrical Machines Revision Notes&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/electrical/&#34;&gt;Electrical Machines Revision Notes&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/hydraulics/&#34;&gt;Hydraulics&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/hydraulics/&#34;&gt;Hydraulics&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/induction_motor/&#34;&gt;Induction Motor&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/induction_motor/&#34;&gt;Induction Motor&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/eedi_innovations/&#34;&gt;Innovative Measures to Reduce EEDI&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/eedi_innovations/&#34;&gt;Innovative Measures to Reduce EEDI&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/me_controls/&#34;&gt;Main Engine Maneuvring System&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/me_controls/&#34;&gt;Main Engine Maneuvring System&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/main-engine-maneuvering/&#34;&gt;MAIN ENGINE MANOEUVRING CONTROL&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/main-engine-maneuvering/&#34;&gt;MAIN ENGINE MANOEUVRING CONTROL&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/me_overrides/&#34;&gt;Main engine manual overrides&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/me_overrides/&#34;&gt;Main engine manual overrides&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/robotics/&#34;&gt;Marine Robotics&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/robotics/&#34;&gt;Marine Robotics&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/annex6/&#34;&gt;MARPOL Annex VI – Resolution MEPC.203(62)&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/annex6/&#34;&gt;MARPOL Annex VI – Resolution MEPC.203(62)&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/mooring-winches/&#34;&gt;Mooring Winches&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/mooring-winches/&#34;&gt;Mooring Winches&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/orifice_valve-refrigeration/&#34;&gt;Orifice Valve Refrigeration&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/orifice_valve-refrigeration/&#34;&gt;Orifice Valve Refrigeration&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/electricalpowerfactor/&#34;&gt;Power Factor- Electrical&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/electricalpowerfactor/&#34;&gt;Power Factor- Electrical&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/q_a/&#34;&gt;Questions and Answers&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/q_a/&#34;&gt;Questions and Answers&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/shipboard-refrigeration/&#34;&gt;Refrigeration Components&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/shipboard-refrigeration/&#34;&gt;Refrigeration Components&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/engg/txv/&#34;&gt;Thermostatic Expansion Valve&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/engg/txv/&#34;&gt;Thermostatic Expansion Valve&lt;/a&gt;&lt;/h2&gt;
 
 
 
@@ -164,19 +164,19 @@
     
     <item>
       <title>Question and Answers</title>
-      <link>https://extra.anirbanmarine.in/docs/partb/q_a/</link>
+      <link>http://localhost:1313/docs/partb/q_a/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://extra.anirbanmarine.in/docs/partb/q_a/</guid>
+      <guid>http://localhost:1313/docs/partb/q_a/</guid>
       <description>
         
         
         
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/q_a/q_a_1/qa1/&#34;&gt;Question and Answers-1&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/q_a/q_a_1/qa1/&#34;&gt;Question and Answers-1&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/q_a/q_a_2/qa2-/&#34;&gt;Question and Answers-2&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/q_a/q_a_2/qa2-/&#34;&gt;Question and Answers-2&lt;/a&gt;&lt;/h2&gt;
 
-  &lt;h2&gt;&lt;a href=&#34;https://extra.anirbanmarine.in/docs/partb/q_a/q_a_3/qa3/&#34;&gt;Question and Answers-3&lt;/a&gt;&lt;/h2&gt;
+  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/partb/q_a/q_a_3/qa3/&#34;&gt;Question and Answers-3&lt;/a&gt;&lt;/h2&gt;
 
 
 
