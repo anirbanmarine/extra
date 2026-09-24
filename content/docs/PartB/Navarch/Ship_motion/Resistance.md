@@ -1,5 +1,5 @@
 ---
-title: : "Resistance"
+title: "Resistance"
 type: docs
 ---
 ## Resistance

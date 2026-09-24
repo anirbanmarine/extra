@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="153.8308mm"
+   height="91.959053mm"
+   viewBox="0 0 581.40774 347.56178"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       orient="90"
+       refY="0"
+       refX="0"
+       id="marker18"
+       style="overflow:visible"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <g
+         transform="scale(0.6)"
+         id="g18">
+        <path
+           d="m 0,-40 v 0"
+           id="path10" />
+        <path
+           d="M 0,0 -8,5 V -5 Z"
+           style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+           id="path17" />
+        <path
+           d="M 0,-8 V 40"
+           style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:square"
+           id="path18" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker9"
+       style="overflow:visible"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <g
+         transform="scale(0.6)"
+         id="g9">
+        <path
+           d="m 0,-40 v 0"
+           id="path7" />
+        <path
+           d="M 0,0 8,5 V -5 Z"
+           style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+           id="path8" />
+        <path
+           d="M 0,-8 V 40"
+           style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:square"
+           id="path9" />
+      </g>
+    </marker>
+    <marker
+       orient="auto-start-reverse"
+       refY="0"
+       refX="0"
+       id="DistanceEnd"
+       style="overflow:visible"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <g
+         transform="scale(0.6)"
+         id="g16">
+        <path
+           d="m 0,-40 v 0"
+           id="path14" />
+        <path
+           d="M 0,0 -8,5 V -5 Z"
+           style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+           id="path15" />
+        <path
+           d="M 0,-8 V 40"
+           style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:square"
+           id="path16" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DistanceStart"
+       style="overflow:visible"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <g
+         transform="scale(0.6)"
+         id="g13">
+        <path
+           d="m 0,-40 v 0"
+           id="path11" />
+        <path
+           d="M 0,0 8,5 V -5 Z"
+           style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+           id="path12" />
+        <path
+           d="M 0,-8 V 40"
+           style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:square"
+           id="path13" />
+      </g>
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-95.174291,-70.908271)">
+    <g
+       id="g31">
+      <rect
+         style="opacity:0.65;fill:#8b0000;stroke:#0000ff;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect1"
+         width="505.5419"
+         height="343.76849"
+         x="97.064049"
+         y="72.798035" />
+      <rect
+         style="opacity:0.65;fill:#1e90ff;stroke:#0000ff;stroke-width:2.17833;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect2"
+         width="507.1431"
+         height="113.8315"
+         x="96.263451"
+         y="303.53564" />
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#1e90ff;stroke:#0000ff;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         x="247.71553"
+         y="223.44952"
+         id="text2"><tspan
+           id="tspan2"
+           x="247.71553"
+           y="223.44952"
+           style="fill:#f5f5f5">OIL</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#ffffff;stroke:#0000ff;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         x="240.63795"
+         y="370.05667"
+         id="text3"><tspan
+           id="tspan3"
+           x="240.63795"
+           y="370.05667"
+           style="fill:#ffffff">WATER</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:0.65;fill:#f5f5f5;stroke:#0000ff;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         x="127.25732"
+         y="294.73679"
+         id="text4"><tspan
+           id="tspan4"
+           x="127.25732"
+           y="294.73679">h1</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#000000;stroke:none;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+         x="651.08392"
+         y="364.82074"
+         id="text5"><tspan
+           id="tspan5"
+           x="651.08392"
+           y="364.82074">0.5m</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DistanceStart);marker-end:url(#DistanceEnd)"
+         d="m 619.79438,72.162083 c -0.38166,43.459287 -0.53684,188.882307 -0.3909,231.053657"
+         id="path5" />
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#000000;stroke:none;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+         x="649.61407"
+         y="228.77411"
+         id="text6"><tspan
+           id="tspan6"
+           x="649.61407"
+           y="228.77411">1.0m</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1.00157;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker9);marker-end:url(#marker18)"
+         d="M 618.16376,304.53657 V 418.16961"
+         id="path6" />
+      <circle
+         style="opacity:1;fill:#000000;stroke:none;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+         id="path24"
+         cx="342.23715"
+         cy="320.44519"
+         r="7.4673142" />
+      <text
+         xml:space="preserve"
+         style="font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#f5f5f5;stroke:none;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+         x="378.43109"
+         y="327.91251"
+         id="text25"><tspan
+           id="tspan25"
+           x="378.43109"
+           y="327.91251">COP</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:20px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;opacity:1;fill:#000000;stroke:none;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       x="668.81165"
+       y="298.69257"
+       id="text27"><tspan
+         id="tspan27"
+         x="668.81165"
+         y="298.69257">B</tspan></text>
+  </g>
+</svg>

@@ -902,6 +902,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/satmet/rsense/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/ship_motion/resistance/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/resistance_and_propulsion/rp/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/resistance_and_propulsion/</loc>
@@ -967,6 +969,8 @@
     <loc>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/sola_90/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/sample_questions/specimen-questions/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/ship_motion/speed/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/stockholm_a/</loc>
   </url><url>
@@ -1043,6 +1047,8 @@
     <loc>http://localhost:1313/docs/partb/navarch/q_a/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/txv/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/stress_and_strain/thrust-and-center-of-pressure/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/power/tidalpower/</loc>
   </url><url>
