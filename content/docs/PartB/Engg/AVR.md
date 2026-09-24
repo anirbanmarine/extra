@@ -19,7 +19,7 @@ The primary objective of generation voltage control is to maintain a constant te
 3. Speed
 4. Temperature
 
-## HeadingAutomatic Voltage Regulator (AVR):
+## Automatic Voltage Regulator (AVR):
 
 An Automatic Voltage Regulator (AVR) is a feedback control system that automatically adjusts the generator's excitation to maintain a constant terminal voltage. The AVR's primary function is to regulate the voltage output by controlling the exciter's output.
 
@@ -51,6 +51,8 @@ Functioning of an Automatic Voltage Regulator:
 1. Electronic AVRs (using transistors or ICs)
 2. Magnetic AVRs (using magnetic amplifiers)
 3. Static AVRs (using power electronic devices)
+
+![Static AVR](AVR-1.png)
 
 ## Benefits:
 

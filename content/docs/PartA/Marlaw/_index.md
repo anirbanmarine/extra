@@ -3,7 +3,7 @@ title: EM103 Maritime Law
 type: docs
 toc: true
 sidebar:
-  open: true
+  open: false
 ---
 {{<page_list2>}}
 ## Overview of different types of Constitutions and Legal systems of the world : common law jurisdictions ,civil law jurisdictions.

@@ -2,7 +2,7 @@
 title: Part A
 type: docs
 sidebar:
-  open: close
+  open: false
 ---
 {{<page_list2>}}
 

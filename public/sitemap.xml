@@ -42,6 +42,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/sueandlabourclause/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/projections/gnomonic-azimuthal-projection/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_44/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_47/</loc>
@@ -342,6 +344,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/watermass/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/projections/conical_projection_1/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/dcargochrtr/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/earthintro/</loc>
@@ -449,6 +453,8 @@
     <loc>http://localhost:1313/docs/partc/em301/marineres/marfish/fishgrnd/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/adnav/projections/gnomonic_tangent_equator/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/indianinsurance/wrimhscheme/</loc>
   </url><url>
