@@ -44,6 +44,10 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/projections/gnomonic-azimuthal-projection/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/ship_designs/amv/hscnotes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/stress_and_strain/ballast_tank_corrosion_solas/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_44/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_47/</loc>
@@ -53,6 +57,8 @@
     <loc>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</loc>
   </url><url>
     <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/stress_and_strain/corrosion_oiltankers/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/acc_ratios/</loc>
   </url><url>
@@ -154,6 +160,10 @@
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlaw/comparison-between-rules-/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/monohull_vs_mutihull/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/submarine4/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/mag/mag_coeff/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cabotage/cabotageconcept/</loc>
@@ -189,6 +199,8 @@
     <loc>http://localhost:1313/docs/partb/adnav/mag/prompt_11/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/sample_questions/tankers_corrosion/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/stress_and_strain/corrosion_transition_zones/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/cost-as-dominant-factor/</loc>
   </url><url>
@@ -408,6 +420,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceangov/ccrf/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/stress_and_strain/fatigue-cracks/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/resistance_and_propulsion/thrust/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/finelements/</loc>
@@ -433,6 +447,8 @@
     <loc>http://localhost:1313/docs/parta/marecofin/freight-pricing/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/frustrate/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/submarine2/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/management/funds/</loc>
   </url><url>
@@ -473,6 +489,8 @@
     <loc>http://localhost:1313/docs/partc/em303/marinsurance/histmarinsur/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/satmet/satmethistory/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/submarine-3/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/approches_to_define_leadership/valus_affecting_others/</loc>
   </url><url>
@@ -551,6 +569,8 @@
     <loc>http://localhost:1313/docs/parta/marlead/approches_to_define_leadership/leadership_style/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/legalclaimscarrier/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/stress_and_strain/limitations_of_ut/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/lineragency/</loc>
   </url><url>
@@ -766,6 +786,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/tides/msl/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/submarine1/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em301/meteorology/metobs/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/meteorology/</loc>
@@ -840,6 +862,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/marineres/oilngas/pipelay/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/stress_and_strain/pitting_corrosion/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/parta/marlaw/pledge/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/celnav/pole_star_2/</loc>
@@ -895,6 +919,8 @@
     <loc>http://localhost:1313/docs/partb/engg/q_a/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/readbalance-sheets/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/stress_and_strain/lowerthickness_btmplating/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/engg/shipboard-refrigeration/</loc>
   </url><url>
@@ -963,6 +989,8 @@
     <loc>http://localhost:1313/docs/parta/marecofin/short-notes/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/questions-and-answers/shortnotes/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/submarine5/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlead/approches_to_define_leadership/situational-leadership/</loc>
   </url><url>

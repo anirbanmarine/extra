@@ -1,5 +1,5 @@
 ---
-title:"Fatigue Cracks- Why They Occur, Where to Look, and Which Areas Need More Stringent Inspection"
+title: "Fatigue Cracks- Why They Occur, Where to Look, and Which Areas Need More Stringent Inspection"
 type: docs
 ---
 

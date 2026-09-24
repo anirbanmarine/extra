@@ -15,6 +15,159 @@
     
     
     <item>
+      <title> High Speed Craft Notes</title>
+      <link>http://localhost:1313/docs/partb/navarch/ship_designs/amv/hscnotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/amv/hscnotes/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Q.10 — Notes on High-Speed Craft: Catamaran, Planing Craft, Hovercraft, Air Cushion Vessel, SWATH, and Hydrofoil&lt;/h1&gt;&lt;p&gt;Covering, for each craft type: &lt;strong&gt;(a) how high speed is achieved, (b) transverse and longitudinal stability, (c) seakeeping, and (d) propulsion arrangements.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;1. Catamaran&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-catamaran&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-catamaran&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;As discussed in Q.9, displacement is shared between &lt;strong&gt;two slender hulls&lt;/strong&gt;, each with a high length-to-beam ratio, drastically reducing wave-making resistance per unit displacement compared to an equivalent monohull, allowing higher speed for given power, particularly at higher Froude numbers.&lt;/li&gt;
+&lt;li&gt;Many high-speed catamarans also use &lt;strong&gt;hull forms optimized to minimize wave interference drag&lt;/strong&gt; between the two demi-hulls, with hull separation (beam) tuned to the design speed range.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(b) Transverse and longitudinal stability&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Transverse&lt;/strong&gt;: Very high initial GM due to the wide effective waterplane created by the two widely-separated hulls (large parallel-axis moment of inertia contribution), giving strong resistance to heel — but with the &amp;ldquo;falls away sharply beyond critical angle&amp;rdquo; characteristic noted in Q.9 once one hull lifts clear or the wet-deck (bridging structure) contacts the sea.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Longitudinal&lt;/strong&gt;: Generally good longitudinal stability due to the long waterline length of each slender hull, though the craft is susceptible to &lt;strong&gt;pitching and &amp;ldquo;slamming&amp;rdquo; of the wet-deck/bridging structure&lt;/strong&gt; in head seas if freeboard beneath the bridging structure is insufficient for the sea state encountered.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(c) Seakeeping&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stiff, rapid roll motion&lt;/strong&gt; (short roll period) as noted in Q.9 — while safe, this produces higher accelerations, which can affect passenger comfort and equipment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wet-deck slamming&lt;/strong&gt; in a seaway is the principal seakeeping limitation — when wave height approaches the clearance under the bridging structure, slamming loads can be severe, limiting the catamaran&amp;rsquo;s effective operating sea state compared to a monohull of similar length.&lt;/li&gt;
+&lt;li&gt;Some designs incorporate a &lt;strong&gt;T-foil or trim-tab motion-control system&lt;/strong&gt; at the bow/stern to actively reduce pitching and improve ride comfort in a seaway.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(d) Propulsion arrangements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Typically &lt;strong&gt;twin-screw&lt;/strong&gt; (one propulsion train per hull), using &lt;strong&gt;waterjets&lt;/strong&gt; (very common on high-speed catamaran ferries, since waterjets perform efficiently at high Froude number and avoid the cavitation/appendage drag issues of conventional propellers at high speed) or, for lower-speed/higher-displacement catamarans, &lt;strong&gt;conventional shaft/propeller arrangements&lt;/strong&gt;, often driven by high-speed diesel engines or gas turbines for the largest fast-ferry applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;2. Planing Craft&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-planing-craft&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-planing-craft&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;At low speed, a planing hull behaves in &lt;strong&gt;displacement mode&lt;/strong&gt;, supported by buoyancy in the conventional sense.&lt;/li&gt;
+&lt;li&gt;As speed increases past a critical Froude number, the hull&amp;rsquo;s &lt;strong&gt;flat/warped-bottom aft sections generate dynamic (hydrodynamic) lift&lt;/strong&gt;, causing the hull to rise and &amp;ldquo;plane&amp;rdquo; on top of the water surface rather than pushing through it — this dramatically &lt;strong&gt;reduces wetted surface area and eliminates most wave-making resistance&lt;/strong&gt;, since the vessel is now largely supported by dynamic lift rather than displacement/buoyancy, allowing a steep reduction in resistance per unit speed increase beyond the &amp;ldquo;hump&amp;rdquo; speed.&lt;/li&gt;
+&lt;li&gt;The transition through the resistance &amp;ldquo;hump&amp;rdquo; (the speed range where the craft is neither fully displacement nor fully planing) requires a &lt;strong&gt;surplus of installed power&lt;/strong&gt; to push through before the efficiency gain of full planing is realized.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(b) Transverse and longitudinal stability&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Transverse&lt;/strong&gt;: While planing, stability is provided largely by the &lt;strong&gt;dynamic lift distribution across the flat/warped bottom&lt;/strong&gt; plus, at rest/low speed, conventional hydrostatic (waterplane) stability — a planing hull typically has a wide, flat afterbody giving good transverse stability once on the plane, but can be prone to &lt;strong&gt;chine-tripping or sudden roll instability&lt;/strong&gt; if the dynamic lift distribution is disturbed (e.g., in a hard turn at speed).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Longitudinal&lt;/strong&gt;: The &lt;strong&gt;fore-and-aft trim angle while planing is critical&lt;/strong&gt; — too much bow-up trim reduces wetted area excessively and can cause porpoising (unstable pitching oscillation); too little trim (bow-down) increases resistance and risk of &amp;ldquo;digging in.&amp;rdquo; Trim tabs or interceptors at the transom are commonly used to actively control this running trim angle.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(c) Seakeeping&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Planing craft seakeeping is &lt;strong&gt;generally poor in a seaway compared to displacement/multi-hull types&lt;/strong&gt; — because the hull skims the surface at speed, encounters with waves produce &lt;strong&gt;severe slamming loads&lt;/strong&gt; on the flat bottom sections, transmitting high accelerations to the structure, crew, and equipment; this is the dominant limitation on a planing craft&amp;rsquo;s usable speed in anything beyond calm/moderate sea states.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deep-V hull forms&lt;/strong&gt; (with significant deadrise angle) are used to reduce (though not eliminate) slamming severity compared to flatter-bottomed designs, at some cost in ultimate top-speed efficiency (a deep-V hull has somewhat higher resistance than a flatter hull at the same speed, due to the need to displace water sideways from the V-shape).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(d) Propulsion arrangements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Commonly &lt;strong&gt;high-speed diesel engines with surface-piercing propellers, stern drives (outdrives), or waterjets&lt;/strong&gt; — surface-piercing propellers are specifically suited to planing craft since the propeller operates partially out of the water at speed, reducing appendage drag; waterjets are preferred where shallow draft and the elimination of exposed propeller/shaft appendage drag are priorities (also improving safety around swimmers/divers for recreational and rescue craft).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;3. Hovercraft (Air Cushion Vehicle — fully amphibious, flexible skirt type)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-hovercraft-air-cushion-vehicle--fully-amphibious-flexible-skirt-type&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-hovercraft-air-cushion-vehicle--fully-amphibious-flexible-skirt-type&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A hovercraft is supported almost entirely by a &lt;strong&gt;cushion of air maintained under the hull at a pressure sufficient to lift the vessel&amp;rsquo;s weight&lt;/strong&gt;, contained by a flexible rubber/fabric &lt;strong&gt;skirt&lt;/strong&gt; around the periphery, essentially &lt;strong&gt;eliminating hull-water contact and hence both wave-making and frictional/skin resistance&lt;/strong&gt; while cushion-borne.&lt;/li&gt;
+&lt;li&gt;With essentially no hydrodynamic resistance component, the primary resistance to forward motion is &lt;strong&gt;aerodynamic drag&lt;/strong&gt;, allowing speeds substantially higher than a comparable-size, comparable-power waterborne displacement or even planing craft, and crucially, allowing &lt;strong&gt;true amphibious operation&lt;/strong&gt; — transitioning directly from water onto land, ice, mudflats, or marsh with no change in operating mode.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(b) Transverse and longitudinal stability&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stability is fundamentally different from any waterborne hull — it derives from the &lt;strong&gt;differential pressure distribution within the air cushion&lt;/strong&gt;, segmented in many designs into multiple cells to prevent the entire cushion pressure shifting/venting to one side during a heel or trim disturbance (an undivided single cushion would be inherently unstable, since cushion air would simply migrate to the low side under any disturbance, reducing pressure support exactly where it&amp;rsquo;s needed and worsening the tilt).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Segmented/compartmented cushions&lt;/strong&gt; and the skirt&amp;rsquo;s own flexible geometry provide a self-correcting restoring effect, but hovercraft stability margins are generally &lt;strong&gt;more sensitive to load distribution and cushion pressure balance&lt;/strong&gt; than a conventional hull&amp;rsquo;s hydrostatic stability, requiring careful design of cushion cell geometry and, in larger designs, active cushion pressure control systems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Longitudinal trim&lt;/strong&gt; is similarly managed via fore-aft cushion cell pressure balance and, dynamically, by aerodynamic control surfaces at speed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(c) Seakeeping&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Excellent capability for &lt;strong&gt;operating over very shallow water, mudflats, ice, and marginal terrain&lt;/strong&gt; where no other marine craft can operate at all — a unique amphibious capability rather than a &amp;ldquo;seakeeping&amp;rdquo; advantage in the conventional wave-response sense.&lt;/li&gt;
+&lt;li&gt;In open water with waves, ride quality/seakeeping is &lt;strong&gt;limited by the skirt&amp;rsquo;s ability to follow the wave surface&lt;/strong&gt; — in significant sea states, the skirt can lose full contact/sealing, causing cushion pressure loss, increased drag, and a harsher ride; hovercraft seakeeping in open seaway conditions is generally &lt;strong&gt;inferior to a true seagoing hull form&lt;/strong&gt; and is why the type is favoured for sheltered water, ice, and amphibious/rescue applications rather than open-ocean high-sea-state transits.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(d) Propulsion arrangements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Aerodynamic propulsion&lt;/strong&gt; — large &lt;strong&gt;air propellers (aircraft-type propellers) mounted above the hull&lt;/strong&gt;, driven typically by gas turbine or high-power piston/turboshaft engines — since the craft is not in the water while cushion-borne, waterborne propulsors (propellers/jets) are not used for primary propulsion.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Separate lift and propulsion systems&lt;/strong&gt; are common in larger designs: dedicated &lt;strong&gt;lift fans&lt;/strong&gt; (centrifugal fans) maintain cushion pressure, while separate propulsion air propellers/ducted fans provide forward thrust, allowing independent control of lift and propulsion power — smaller hovercraft may use a single integrated fan/propeller system serving both functions.&lt;/li&gt;
+&lt;li&gt;Directional control is achieved via &lt;strong&gt;rudders in the propeller slipstream&lt;/strong&gt; (aerodynamic rudders) and/or differential thrust, since conventional waterborne steering (rudders in water flow) is unavailable while fully cushion-borne.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;4. Air Cushion Vessel / Surface Effect Ship (SES — rigid sidewall type, distinct from full hovercraft)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-air-cushion-vessel--surface-effect-ship-ses--rigid-sidewall-type-distinct-from-full-hovercraft&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-air-cushion-vessel--surface-effect-ship-ses--rigid-sidewall-type-distinct-from-full-hovercraft&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;em&gt;(Where the question intends the rigid-sidewall Surface Effect Ship variant, distinct from the fully-skirted amphibious hovercraft above — the specimen paper lists both &amp;ldquo;Hovercraft&amp;rdquo; and &amp;ldquo;Air Cushion Vessel&amp;rdquo; separately, suggesting this distinction is intended.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An SES has &lt;strong&gt;rigid, catamaran-like sidewalls extending into the water&lt;/strong&gt;, with a flexible seal only at bow and stern, and an &lt;strong&gt;air cushion trapped between the sidewalls&lt;/strong&gt; supporting the majority (though not all) of the vessel&amp;rsquo;s weight — the sidewalls remain waterborne (unlike the fully-skirted hovercraft), providing directional stability and containing the cushion.&lt;/li&gt;
+&lt;li&gt;Because a large fraction of the weight is cushion-supported, &lt;strong&gt;hull resistance (from the sidewalls, which are now only lightly loaded) is much reduced&lt;/strong&gt; compared to a conventional catamaran/monohull, enabling higher speed for given power, though not achieving the near-zero hydrodynamic resistance of a true fully-skirted, fully amphibious hovercraft, and hence an SES is &lt;strong&gt;not amphibious&lt;/strong&gt; — it remains a waterborne craft, unlike the hovercraft.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(b) Transverse and longitudinal stability&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Transverse stability benefits from the &lt;strong&gt;catamaran-like sidewall arrangement&lt;/strong&gt; (wide effective waterplane from the separated sidewalls, similar in principle to Q.9&amp;rsquo;s catamaran discussion), generally giving good, predictable transverse stability compared to a fully-skirted hovercraft&amp;rsquo;s more cushion-pressure-dependent stability.&lt;/li&gt;
+&lt;li&gt;Longitudinal stability/trim is managed through &lt;strong&gt;cushion pressure distribution (bow/stern seal control)&lt;/strong&gt; combined with the conventional waterplane effect of the sidewalls themselves.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(c) Seakeeping&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Generally &lt;strong&gt;better open-water seakeeping than a fully-skirted hovercraft&lt;/strong&gt; (since the rigid sidewalls provide more predictable directional stability and wave-following behaviour in the water), while still gaining a significant speed/resistance advantage over a conventional catamaran from the cushion lift effect — representing something of a middle ground between a full hovercraft and a conventional multi-hull in both performance and sea-state capability.&lt;/li&gt;
+&lt;li&gt;Bow/stern seal performance and durability in a seaway is a key maintenance and seakeeping-limiting factor, analogous to (though generally more robust than) a full hovercraft&amp;rsquo;s skirt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(d) Propulsion arrangements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Since the sidewalls remain in the water, &lt;strong&gt;conventional waterborne propulsion — waterjets or propellers — can be used&lt;/strong&gt; (unlike the fully-skirted hovercraft, which must use aerial propulsion), typically one unit per sidewall/hull, in addition to a &lt;strong&gt;separate lift-fan system&lt;/strong&gt; to maintain cushion pressure between the sidewalls.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;5. SWATH (Small Waterplane Area Twin Hull)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-swath-small-waterplane-area-twin-hull&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#5-swath-small-waterplane-area-twin-hull&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SWATH achieves its performance benefit not primarily through top-speed maximization (SWATH vessels are typically moderate rather than extreme-high-speed craft) but through &lt;strong&gt;exceptional seakeeping/motion stability at moderate-to-good speed&lt;/strong&gt;, achieved by having the vessel&amp;rsquo;s buoyancy provided by &lt;strong&gt;fully submerged, torpedo-shaped lower hulls&lt;/strong&gt; connected to the above-water structure by &lt;strong&gt;thin, minimal-waterplane-area struts&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Wave-making resistance is significantly reduced because the submerged hulls operate below the zone of maximum wave orbital motion, and the very small waterplane area (at the thin struts) minimizes the vessel&amp;rsquo;s response to surface wave action, though the deeply submerged hull form does carry a frictional resistance penalty.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(b) Transverse and longitudinal stability&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Very small waterplane area&lt;/strong&gt; (by design intent) means BM = I/∇ is inherently &lt;strong&gt;small&lt;/strong&gt; (since I, dependent on waterplane geometry, is deliberately minimized), which would normally suggest poor stability — however, the wide &lt;strong&gt;transverse separation of the two submerged hulls&lt;/strong&gt; (parallel-axis effect, as in the catamaran case) compensates, restoring adequate transverse GM despite the small local waterplane contribution from the struts alone.&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;very small waterplane area is precisely the design feature that gives SWATH its outstanding motion stability in waves&lt;/strong&gt; — since restoring forces (and hence wave-excited motions) in heave and pitch are proportional to waterplane area, a small waterplane area means the vessel is &lt;strong&gt;much less responsive to wave-induced heave and pitch excitation&lt;/strong&gt; than a conventional surface-piercing hull, producing a remarkably steady, low-motion platform even in significant sea states.&lt;/li&gt;
+&lt;li&gt;Active fin/stabilizer systems on the submerged hulls are commonly fitted to further actively control pitch and roll, since the passive stability margins, while adequate, are typically less generous than a conventional wide monohull or catamaran.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(c) Seakeeping&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;SWATH&amp;rsquo;s principal advantage is outstanding seakeeping&lt;/strong&gt; — the deeply submerged hulls and minimal waterplane area give &lt;strong&gt;dramatically reduced heave, pitch, and roll motion in a seaway&lt;/strong&gt; compared to any conventional monohull or surface-piercing catamaran of similar size, making it exceptionally well suited to roles requiring a stable working/sensor platform (research vessels, some naval applications) even in moderate-to-rough sea states.&lt;/li&gt;
+&lt;li&gt;This superior seakeeping comes at the cost of &lt;strong&gt;greater structural complexity, deeper draft (limiting shallow-water/port access), and generally higher construction cost&lt;/strong&gt; than a conventional hull form of similar displacement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(d) Propulsion arrangements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Propulsors (propellers, often in shrouded/ducted arrangements, or waterjets in some designs) are mounted on or near the &lt;strong&gt;submerged lower hulls&lt;/strong&gt;, driven via shafting running up through the connecting struts to machinery located in the above-water cross-structure — the deep hull placement of the propulsors also contributes to reduced propeller ventilation/cavitation issues in a seaway compared to a surface-piercing hull&amp;rsquo;s propellers, which can be prone to emergence in heavy pitching.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;6. Hydrofoil&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;6-hydrofoil&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#6-hydrofoil&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;At low speed, a hydrofoil craft operates as a &lt;strong&gt;conventional displacement hull&lt;/strong&gt;, with &lt;strong&gt;underwater foils (wing-like lifting surfaces)&lt;/strong&gt; mounted on struts below the hull.&lt;/li&gt;
+&lt;li&gt;As speed increases, the foils generate increasing &lt;strong&gt;hydrodynamic lift&lt;/strong&gt; (exactly as an aircraft wing generates aerodynamic lift), until at a critical &amp;ldquo;take-off&amp;rdquo; speed the lift generated equals the vessel&amp;rsquo;s weight, and the &lt;strong&gt;entire hull rises clear of the water surface&lt;/strong&gt;, leaving only the slender foils and their supporting struts in the water.&lt;/li&gt;
+&lt;li&gt;With the hull fully &amp;ldquo;flying&amp;rdquo; clear of the water, &lt;strong&gt;wave-making resistance and hull frictional resistance are almost entirely eliminated&lt;/strong&gt;, leaving only the much smaller resistance of the thin foils/struts — this allows a dramatic increase in achievable speed for a given power compared to a conventional hull, representing one of the most resistance-efficient high-speed configurations at appropriate size/speed ranges.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(b) Transverse and longitudinal stability&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;While foil-borne, stability is provided by the &lt;strong&gt;hydrodynamic lift characteristics of the foil system&lt;/strong&gt; rather than by conventional hydrostatics (the hull itself, providing no buoyancy contribution while flying, plays no role in stability at this stage).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Surface-piercing foil configurations&lt;/strong&gt; (V-shaped or ladder foils that partly pierce the surface) provide &lt;strong&gt;self-stabilizing/self-damping roll and heave characteristics&lt;/strong&gt; — as the craft heels or a foil begins to broach, the immersed foil area changes automatically, generating a self-correcting lift change (more foil area = more lift, restoring level attitude) — a passive stability mechanism requiring no active control system, though offering comparatively modest ride quality.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fully-submerged foil configurations&lt;/strong&gt; (used in the highest-performance/most seaworthy hydrofoils) provide superior ride quality and higher lift efficiency but are &lt;strong&gt;not inherently self-stabilizing&lt;/strong&gt; — they require an &lt;strong&gt;active electronic control system&lt;/strong&gt; with sensors (accelerometers, height/attitude sensors) continuously adjusting foil incidence angle (via flaps or foil pitch actuators) to maintain stable, level foilborne flight, analogous to an aircraft&amp;rsquo;s fly-by-wire stability augmentation system — a failure of this active control system is a critical vulnerability of the fully-submerged-foil type.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Longitudinal stability/trim&lt;/strong&gt; while foilborne is managed by the &lt;strong&gt;relative lift balance between the forward and after foil sets&lt;/strong&gt; (a hydrofoil typically has both a bow foil and a stern foil, analogous to a canard/tailplane arrangement on an aircraft), actively or passively adjusted to maintain level fore-aft trim as speed and loading vary.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(c) Seakeeping&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;While foilborne, a hydrofoil (particularly the fully-submerged, actively-controlled type) offers &lt;strong&gt;exceptionally smooth ride quality&lt;/strong&gt;, since the foils, operating below the more turbulent near-surface wave zone, can actively maintain the hull at a constant height and attitude largely &lt;strong&gt;independent of the passing wave surface&lt;/strong&gt; — a foilborne hydrofoil can &amp;ldquo;fly over&amp;rdquo; small-to-moderate waves with minimal hull motion transmitted to passengers/cargo.&lt;/li&gt;
+&lt;li&gt;This advantage is &lt;strong&gt;limited by wave height relative to foil submergence/strut length&lt;/strong&gt; — in sea states exceeding the craft&amp;rsquo;s foil system design limit, the hull may begin to contact wave crests (hull-borne &amp;ldquo;touchdown&amp;rdquo; in a seaway) or the foils may broach, at which point the craft must revert to hull-borne (displacement) operation at much reduced speed, meaning hydrofoil seakeeping/speed advantage is &lt;strong&gt;strictly bounded by a maximum operable sea state&lt;/strong&gt;, beyond which performance degrades sharply (unlike SWATH, whose motion advantage persists more gradually into higher sea states).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(d) Propulsion arrangements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Options include: &lt;strong&gt;surface-piercing or submerged propellers on shafts extending down from the hull through/near the foil struts&lt;/strong&gt;, &lt;strong&gt;waterjets&lt;/strong&gt; (increasingly preferred in modern designs, avoiding the mechanical complexity of a propeller shaft penetrating a lifting/retracting foil strut arrangement), or, in some older/specialized designs, an &lt;strong&gt;inverted &amp;ldquo;Z-drive&amp;rdquo; or podded propulsor mounted directly on the foil strut&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Since the hull itself rises clear of the water while foilborne, the propulsor and its shafting/strut arrangement must be specifically designed to remain effectively submerged and functional across both the hull-borne (low speed, propulsor deep) and foilborne (high speed, hull risen) conditions — a significant engineering challenge distinguishing hydrofoil propulsion design from simpler, single-condition hull forms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Let me know when you&amp;rsquo;d like Q.11 (SOLAS HSC Chapter / definitions), or if you&amp;rsquo;d like me to circle back to the skipped Q.4, Q.6, and Q.8.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>A Shift Towards Probabilistic Safety Assessment SOLAS 90 plus 50</title>
       <link>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/solas_90&#43;50/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -44,6 +197,364 @@
 &lt;li&gt;&lt;strong&gt;Industry Adoption:&lt;/strong&gt; The transition from deterministic to probabilistic methods requires a significant learning curve for the maritime industry.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Despite these challenges, the move towards probabilistic safety assessment is a crucial step in enhancing maritime safety.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Comparison of mono hull versus mutihull ships</title>
+      <link>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/monohull_vs_mutihull/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/monohull_vs_mutihull/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Q.9 — Comparison of Mono-Hull with Multi-Hull Ship: Stability and Speed/Power Ratio Aspects&lt;/h1&gt;&lt;h2&gt;Basic Configuration Difference&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;basic-configuration-difference&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#basic-configuration-difference&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;A &lt;strong&gt;monohull&lt;/strong&gt; ship has a single continuous hull form providing buoyancy, with stability derived from the waterplane area and beam of that single hull, as discussed in the surface-ship stability mechanism in Q.5.&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;multi-hull&lt;/strong&gt; vessel (catamaran with two hulls, trimaran with three) distributes buoyancy across &lt;strong&gt;two or more separated, generally slender hulls&lt;/strong&gt; connected by a bridging structure (cross-deck/wing deck), fundamentally changing both the stability mechanism and the resistance/powering characteristics compared to a monohull of equivalent displacement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Stability Comparison&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;stability-comparison&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#stability-comparison&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Monohull:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Transverse stability (GM) depends on &lt;strong&gt;BM = I/∇&lt;/strong&gt;, where I is the waterplane&amp;rsquo;s second moment of area about the centreline and ∇ is the displaced volume.&lt;/li&gt;
+&lt;li&gt;For a monohull, achieving a large I relative to ∇ requires either a &lt;strong&gt;wide beam relative to length/draft&lt;/strong&gt;, which increases resistance, or accepting a comparatively &lt;strong&gt;modest GM&lt;/strong&gt;, particularly for slender, fine-lined hulls designed for speed.&lt;/li&gt;
+&lt;li&gt;Roll motion in a seaway tends to have a &lt;strong&gt;relatively long natural roll period&lt;/strong&gt; and a single, continuous roll pattern governed by the one hull&amp;rsquo;s added mass and damping characteristics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Multi-hull:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The two (or more) hulls are set well apart (a wide &lt;strong&gt;overall beam&lt;/strong&gt;), so the &lt;strong&gt;effective &amp;ldquo;waterplane&amp;rdquo; for stability purposes is the combined moment of inertia of the two hulls acting at a large transverse separation&lt;/strong&gt; — the parallel-axis contribution (each hull&amp;rsquo;s waterplane area multiplied by the square of its distance from the centreline) dominates the total I, producing a &lt;strong&gt;very large I relative to the (comparatively small) total displaced volume&lt;/strong&gt; of the two slender hulls.&lt;/li&gt;
+&lt;li&gt;This gives a multi-hull &lt;strong&gt;exceptionally large GM and hence very high initial transverse stability&lt;/strong&gt; compared to a monohull of the same displacement — multihulls resist heeling strongly and have a &lt;strong&gt;short, stiff roll period&lt;/strong&gt; (rapid, &amp;ldquo;snappy&amp;rdquo; roll motion) rather than the slower, easier roll of a monohull.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trade-off&lt;/strong&gt;: this high initial stability comes with a &lt;strong&gt;different failure mode&lt;/strong&gt; — because the righting arm mechanism depends on the geometric separation of the hulls, a multi-hull&amp;rsquo;s stability, while very high at small-to-moderate heel angles, can &lt;strong&gt;fall away rapidly beyond a certain critical heel angle&lt;/strong&gt; (e.g., when one hull begins to lift clear of the water or when the bridging structure starts to submerge/impact the sea), giving a comparatively &lt;strong&gt;narrower range of positive stability at extreme angles&lt;/strong&gt; and a more sudden capsize characteristic once that critical angle is exceeded, compared to a well-formed monohull&amp;rsquo;s more gradually-declining GZ curve.&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;stiff, rapid roll motion&lt;/strong&gt; of multihulls, while safe from a stability-magnitude standpoint, can produce &lt;strong&gt;higher accelerations and reduced comfort/seakeeping&lt;/strong&gt; for personnel and equipment compared to the gentler, longer-period roll of a monohull — an important seakeeping trade-off alongside the pure stability comparison.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Speed / Power Ratio Comparison&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;speed--power-ratio-comparison&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#speed--power-ratio-comparison&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Monohull:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A single hull of a given displacement must be proportionately &lt;strong&gt;beamier and fuller&lt;/strong&gt; to carry that displacement, resulting in &lt;strong&gt;higher wave-making resistance at high Froude numbers&lt;/strong&gt; (speed-to-length ratio) due to the fuller underwater form.&lt;/li&gt;
+&lt;li&gt;Resistance rises steeply as speed increases toward and beyond the hull speed (where wavemaking resistance becomes dominant), requiring a &lt;strong&gt;disproportionately large increase in installed power for further speed gains&lt;/strong&gt; — the classic monohull &amp;ldquo;power wall&amp;rdquo; at high Froude number.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Multi-hull:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Each individual hull of a catamaran/trimaran can be made &lt;strong&gt;very slender (high length-to-beam ratio)&lt;/strong&gt; for the same total displacement, since displacement is now shared between two (or more) hulls rather than carried by one — a slender hull form has &lt;strong&gt;substantially lower wave-making resistance&lt;/strong&gt; for a given speed than a single beamy hull carrying the same total displacement.&lt;/li&gt;
+&lt;li&gt;This allows a multi-hull vessel to achieve a &lt;strong&gt;significantly better speed-to-power ratio&lt;/strong&gt; — i.e., higher speed for the same installed power, or equivalently, less power required for the same speed — compared to an equivalent-displacement monohull, particularly pronounced at higher Froude numbers/speed-length ratios, which is precisely why multi-hull configurations are favoured for high-speed craft (fast ferries, naval fast attack craft) rather than for slow, heavy-displacement cargo carriers where the benefit is less significant relative to the added structural/cost complexity.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Trade-off&lt;/strong&gt;: the total &lt;strong&gt;wetted surface area of two (or more) slender hulls is greater&lt;/strong&gt; than that of a single hull of equivalent displacement, which increases &lt;strong&gt;frictional resistance&lt;/strong&gt; — at &lt;strong&gt;low speed&lt;/strong&gt;, where frictional resistance dominates total resistance (wave-making being comparatively small at low Froude number), a multi-hull can actually be &lt;strong&gt;less efficient (higher resistance) than a monohull&lt;/strong&gt;, meaning the multi-hull&amp;rsquo;s powering advantage is speed-regime dependent, being most pronounced at higher speeds and comparatively disadvantageous at low speeds/displacement-mode operation.&lt;/li&gt;
+&lt;li&gt;Additional powering/structural considerations: the &lt;strong&gt;bridging structure connecting the hulls&lt;/strong&gt; must be strong enough to resist the differential loading between the two hulls in a seaway (each hull can be lifted/depressed independently by wave action), adding structural weight that partially offsets the pure hull-resistance advantage, and &lt;strong&gt;wave interference effects between the two hulls&amp;rsquo; wave systems&lt;/strong&gt; can either favourably or unfavourably affect total resistance depending on hull spacing and speed, requiring careful hull-spacing design (a consideration entirely absent in monohull design).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Summary Table&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;summary-table&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#summary-table&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Aspect&lt;/th&gt;
+					&lt;th&gt;Monohull&lt;/th&gt;
+					&lt;th&gt;Multi-hull (Catamaran/Trimaran)&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;Initial GM/stability&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Moderate (beam-limited)&lt;/td&gt;
+					&lt;td&gt;Very high (wide effective waterplane via hull separation)&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;Roll period&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Longer, gentler roll&lt;/td&gt;
+					&lt;td&gt;Short, stiff, rapid roll&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;Range of positive stability&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Gradual decline, larger range at extreme angles&lt;/td&gt;
+					&lt;td&gt;High initial stability but can fall away sharply beyond critical heel&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;Wave-making resistance at high speed&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;High (fuller hull form)&lt;/td&gt;
+					&lt;td&gt;Low (slender individual hulls)&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;Frictional resistance&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Lower (less wetted surface)&lt;/td&gt;
+					&lt;td&gt;Higher (two/three hulls&amp;rsquo; wetted surface)&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;Speed/power ratio at high speed&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Comparatively poorer&lt;/td&gt;
+					&lt;td&gt;Significantly better&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;Speed/power ratio at low speed&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Comparatively better&lt;/td&gt;
+					&lt;td&gt;Can be poorer (friction-dominated)&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;Structural complexity&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Simpler, single continuous hull&lt;/td&gt;
+					&lt;td&gt;Added bridging structure, differential loading between hulls&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;Best application&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;General cargo/displacement-speed vessels&lt;/td&gt;
+					&lt;td&gt;High-speed craft, ferries, fast naval vessels&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Comparison of Righting Moment (R.M.) Values-Surface Monohull Ship vs. Submerged Submarine</title>
+      <link>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/submarine4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/submarine4/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Compare R.M. (righting moment) values of (a) surface monohull ship and (b) a submerged submarine with the help of diagrams showing positions of K, B, G and M.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;compare-rm-righting-moment-values-of-a-surface-monohull-ship-and-b-a-submerged-submarine-with-the-help-of-diagrams-showing-positions-of-k-b-g-and-m&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#compare-rm-righting-moment-values-of-a-surface-monohull-ship-and-b-a-submerged-submarine-with-the-help-of-diagrams-showing-positions-of-k-b-g-and-m&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;The Fundamental Difference in Stability Mechanism&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-fundamental-difference-in-stability-mechanism&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-fundamental-difference-in-stability-mechanism&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Before comparing R.M. values, it is essential to understand that a &lt;strong&gt;surface ship and a submerged submarine derive their transverse stability from entirely different geometric mechanisms&lt;/strong&gt;, even though both are ultimately governed by the same basic principle — the righting moment is the product of the &lt;strong&gt;displacement (W) and the righting arm (GZ)&lt;/strong&gt;, i.e., &lt;strong&gt;R.M. = W × GZ&lt;/strong&gt;. The difference lies in &lt;em&gt;how&lt;/em&gt; GZ arises and behaves as the vessel heels, which fundamentally changes the shape and magnitude of the R.M. curve between the two cases.&lt;/p&gt;
+&lt;h2&gt;(a) Surface Monohull Ship — Stability Mechanism&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;a-surface-monohull-ship--stability-mechanism&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#a-surface-monohull-ship--stability-mechanism&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Positions of K, B, G, M:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;K&lt;/strong&gt; (keel, baseline reference) is at the bottom.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;B&lt;/strong&gt; (centre of buoyancy) lies below the waterline, at the centroid of the underwater hull volume.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;G&lt;/strong&gt; (centre of gravity) is typically &lt;strong&gt;above B&lt;/strong&gt;, at a height determined by the vessel&amp;rsquo;s loading and design.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;M&lt;/strong&gt; (metacentre) is &lt;strong&gt;above G&lt;/strong&gt; (for a stable ship) — the metacentre is the point about which the centre of buoyancy appears to pivot as the ship heels through small angles, and its height (KM) is a function of the underwater hull&amp;rsquo;s &lt;strong&gt;waterplane second moment of area (I)&lt;/strong&gt;: BM = I/∇ (where ∇ is the volume of displacement).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Mechanism of righting moment generation:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;As a surface ship heels, the &lt;strong&gt;underwater hull shape changes&lt;/strong&gt; — one side emerges from the water while the other side becomes more deeply immersed, causing the &lt;strong&gt;centre of buoyancy B to shift horizontally toward the low (immersed) side&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;This horizontal shift of B, relative to the fixed position of G, creates the &lt;strong&gt;righting arm GZ&lt;/strong&gt;, and hence the righting moment.&lt;/li&gt;
+&lt;li&gt;Because this mechanism depends on the &lt;strong&gt;change of underwater wedge shape (emerged wedge/immersed wedge) at the waterplane&lt;/strong&gt;, GM (metacentric height) and hence initial stability is strongly dependent on the ship&amp;rsquo;s &lt;strong&gt;waterplane area and beam&lt;/strong&gt; — a wide waterplane gives a large I, hence a large BM, hence typically a stable, positive GM.&lt;/li&gt;
+&lt;li&gt;The R.M. curve (GZ curve) for a surface ship typically &lt;strong&gt;rises from zero at zero heel, reaches a maximum GZ at a moderate angle of heel&lt;/strong&gt; (often 30–50° depending on hull form and freeboard), and then &lt;strong&gt;declines, reaching zero (the angle of vanishing stability) at some larger angle&lt;/strong&gt; — commonly 60–90°+ for a well-found ship — beyond which the ship would capsize since GZ becomes negative.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;(b) Submerged Submarine — Stability Mechanism&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;b-submerged-submarine--stability-mechanism&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#b-submerged-submarine--stability-mechanism&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Positions of K, B, G, M:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;For a &lt;strong&gt;submerged submarine, the entire hull is completely enclosed by water&lt;/strong&gt; — there is no waterplane, no &amp;ldquo;emerged wedge/immersed wedge&amp;rdquo; effect possible, since the hull volume displaced does not change at all with heel angle (unlike a surface ship, whose displaced volume shape changes as it heels).&lt;/li&gt;
+&lt;li&gt;Because of this, &lt;strong&gt;B (centre of buoyancy) is fixed relative to the hull&lt;/strong&gt; — it does not shift as the submarine heels, since the underwater (fully submerged) volume and its shape relative to the hull remain constant regardless of heel angle.&lt;/li&gt;
+&lt;li&gt;This is the single most important distinguishing point: &lt;strong&gt;for a submerged submarine, M and B effectively coincide&lt;/strong&gt; (BM = 0, since there is no waterplane moment of inertia term to generate a metacentric radius) — i.e., &lt;strong&gt;the metacentre M is at the same point as the centre of buoyancy B&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;G&lt;/strong&gt;, as with a surface ship, is positioned according to the vessel&amp;rsquo;s mass distribution, and for a submarine, &lt;strong&gt;G must be maintained below B&lt;/strong&gt; for the vessel to be transversely stable when submerged — this is why submarines are specifically designed and ballasted (via the tank arrangement in Q.2) to keep a &lt;strong&gt;positive BG separation&lt;/strong&gt; (G below B) once dived.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Mechanism of righting moment generation:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Since M coincides with B for the submerged case, the righting arm mechanism becomes simply the &lt;strong&gt;direct &amp;ldquo;pendulum&amp;rdquo; effect of G being below B&lt;/strong&gt;: as the submarine heels, gravity acting through G and buoyancy acting through B (which does not move relative to the hull) create a righting couple analogous to a &lt;strong&gt;weighted pendulum or a &amp;ldquo;keel-heavy&amp;rdquo; body&lt;/strong&gt; — the righting arm GZ = &lt;strong&gt;BG × sin(heel angle)&lt;/strong&gt;, directly and simply, rather than through the more complex wedge-transfer mechanism of a surface ship.&lt;/li&gt;
+&lt;li&gt;This is a &lt;strong&gt;fundamentally more robust and &amp;ldquo;large-angle stable&amp;rdquo; mechanism&lt;/strong&gt; than the surface ship&amp;rsquo;s waterplane-dependent stability: because the righting arm is generated by a fixed BG separation acting like a pendulum, &lt;strong&gt;the submerged submarine&amp;rsquo;s GZ curve is close to a pure sine curve, remaining positive through very large heel angles — theoretically even to 90° heel and, in principle, only vanishing at 180° (fully inverted)&lt;/strong&gt;, as long as G remains below B (i.e., BG stays positive) at all heel angles, which it inherently does for a submerged body since B does not move relative to the hull as it rotates.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Comparative R.M. magnitude&lt;/strong&gt;: For a given displacement, the actual &lt;strong&gt;numerical value of BG for a submerged submarine is typically quite small&lt;/strong&gt; compared to the GM of a well-designed surface ship, since submarine designers deliberately keep G close to B (a large BG would require unnecessarily heavy keel ballast and waste buoyancy/payload capacity) — submarines are designed with just enough positive BG for adequate stability, not the generous GM margins used in surface ship design. So while the &lt;em&gt;range&lt;/em&gt; of positive stability (angle of vanishing stability) for a submerged submarine is far greater than for a surface ship, the &lt;strong&gt;magnitude of the righting moment at small angles may actually be comparable or even less&lt;/strong&gt; than a surface ship&amp;rsquo;s, depending on the specific BG value chosen by the designer versus the ship&amp;rsquo;s GM.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Diagram Description (as would be drawn)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;diagram-description-as-would-be-drawn&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#diagram-description-as-would-be-drawn&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Surface ship (heeled condition):&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Waterline shown, hull cross-section heeled to one side.&lt;/li&gt;
+&lt;li&gt;K at keel/baseline.&lt;/li&gt;
+&lt;li&gt;B shown below the waterline, &lt;strong&gt;displaced horizontally toward the low side&lt;/strong&gt; relative to the upright position (this horizontal shift is the key feature to illustrate).&lt;/li&gt;
+&lt;li&gt;G shown on the vessel&amp;rsquo;s centreline (fixed, does not move with heel — this is important to show as a contrast to B&amp;rsquo;s movement).&lt;/li&gt;
+&lt;li&gt;M shown above G on the vertical through the upright centre of buoyancy, essentially fixed for small angles (metacentre assumption valid up to ~10–15°).&lt;/li&gt;
+&lt;li&gt;GZ shown as the horizontal distance between the vertical line through G and the vertical line through the (new) B — i.e., the perpendicular from G onto the line of action of the buoyancy force through B.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Submarine (heeled condition, submerged):&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Fully submerged hull cross-section, heeled to one side, with &lt;strong&gt;no waterline/waterplane shown at all&lt;/strong&gt; (fully submerged — this is the key visual distinction from the surface ship diagram).&lt;/li&gt;
+&lt;li&gt;B and M shown as &lt;strong&gt;coincident, at the geometric centre of the submerged volume&lt;/strong&gt;, and this point does &lt;strong&gt;not move relative to the hull&lt;/strong&gt; as the hull heels (contrast directly with the surface ship&amp;rsquo;s B which does move).&lt;/li&gt;
+&lt;li&gt;G shown &lt;strong&gt;below B/M&lt;/strong&gt;, fixed relative to the hull.&lt;/li&gt;
+&lt;li&gt;As the hull heels, the line KG (through the hull) rotates with the hull, but the vertical line of buoyancy action through B/M remains vertical (through the fixed point B=M) — the righting arm GZ is the horizontal separation that develops between G and the vertical through B as the hull rotates, forming the BG·sin(θ) relationship directly.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Summary Table&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;summary-table&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#summary-table&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Parameter&lt;/th&gt;
+					&lt;th&gt;Surface Monohull Ship&lt;/th&gt;
+					&lt;th&gt;Submerged Submarine&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;B movement with heel&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Shifts horizontally (wedge transfer)&lt;/td&gt;
+					&lt;td&gt;Fixed relative to hull (no shift)&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;M position&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Above G; BM = I/∇ (waterplane-dependent)&lt;/td&gt;
+					&lt;td&gt;Coincides with B; BM ≈ 0&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;Stability-generating separation&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;GM (metacentric height)&lt;/td&gt;
+					&lt;td&gt;BG (centre of buoyancy above centre of gravity)&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;GZ formula (small angle)&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;GZ = GM × sin θ&lt;/td&gt;
+					&lt;td&gt;GZ = BG × sin θ&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;Range of positive stability&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Limited (typically ~60–90°)&lt;/td&gt;
+					&lt;td&gt;Very large (theoretically to ~180°)&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;Dependency&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Waterplane area/beam (I)&lt;/td&gt;
+					&lt;td&gt;Fixed hull volume &amp;amp; mass distribution only&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;p&gt;Let me know when you&amp;rsquo;d like me to go back and cover Q.4 (which was skipped), or continue to Q.6.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Functions and Locations of Various Ballast Tanks in a Submarine</title>
+      <link>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/submarine2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/submarine2/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Q.2 — With a diagram, show and explain the specific functions and locations of various ballast tanks in a submarine.&lt;/h1&gt;&lt;p&gt;A submarine&amp;rsquo;s ability to submerge, remain neutrally buoyant at depth, surface, and maintain precise trim and stability throughout all these evolutions depends on a system of several distinct types of tanks, each serving a specific function. These are typically located as follows (moving conceptually from the outer casing inward, and from bow to stern):&lt;/p&gt;
+&lt;h2&gt;1. Main Ballast Tanks (MBTs)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-main-ballast-tanks-mbts&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-main-ballast-tanks-mbts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Situated within the free-flooding space between the pressure hull and the outer casing (in double-hull designs), typically arranged as a group forward, a group aft, and sometimes amidships/saddle tanks along the sides.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Function:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Provide the &lt;strong&gt;bulk buoyancy change&lt;/strong&gt; required to transition the submarine between the surfaced condition (tanks empty/full of air, providing reserve buoyancy) and the submerged condition (tanks flooded with seawater, buoyancy reduced to approximately zero net buoyancy).&lt;/li&gt;
+&lt;li&gt;Each MBT has a &lt;strong&gt;flood valve (grating) at the bottom&lt;/strong&gt;, normally kept open when the vessel is surfaced and operating on the surface with the tanks blown, and a &lt;strong&gt;main vent valve at the top&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;To &lt;strong&gt;dive&lt;/strong&gt;: the vents are opened, allowing trapped air at the top of the tank to escape upward and seawater to flood in through the bottom flood ports, replacing the air and hence eliminating the reserve buoyancy that kept the vessel surfaced.&lt;/li&gt;
+&lt;li&gt;To &lt;strong&gt;surface&lt;/strong&gt;: high-pressure air (or low-pressure blower air) is admitted to the top of the tanks, forcing the seawater back out through the bottom flood ports, restoring positive buoyancy.&lt;/li&gt;
+&lt;li&gt;MBTs are &lt;strong&gt;not used for fine buoyancy/trim control&lt;/strong&gt; during submerged operation — they are essentially a two-state (full/empty) system for the gross dive/surface evolution only, since precise control of a &amp;ldquo;mostly full&amp;rdquo; MBT is not practicable given the size and flooding characteristics of these tanks.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;2. Trim Tanks (Forward Trim Tank and After Trim Tank)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-trim-tanks-forward-trim-tank-and-after-trim-tank&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-trim-tanks-forward-trim-tank-and-after-trim-tank&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Positioned within the pressure hull (or sometimes just outside it, but as internal/controllable tanks), one well forward and one well aft, connected via a &lt;strong&gt;trim line/trimming pump&lt;/strong&gt; that can transfer water between them.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Function:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Used for &lt;strong&gt;fine adjustment of fore-and-aft trim (pitch balance)&lt;/strong&gt; once the submarine is submerged and in neutral buoyancy — compensating for weight changes such as fuel/stores consumption, torpedo firing (see Q.7), or changes in crew/equipment distribution.&lt;/li&gt;
+&lt;li&gt;By pumping water &lt;strong&gt;from forward trim tank to after trim tank&lt;/strong&gt; (or vice versa), the longitudinal centre of gravity is shifted, correcting bow-down or bow-up trim without changing the total weight (and hence without changing overall buoyancy/depth).&lt;/li&gt;
+&lt;li&gt;Because these tanks are within the pressure hull (variable internal ballast), they operate against full internal (near-atmospheric) conditions and require a &lt;strong&gt;trim pump capable of working against the external sea pressure differential&lt;/strong&gt; to move water in or out or between them.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3. Auxiliary Tanks / Depth Control Tank (also called &amp;ldquo;Regulating Tank&amp;rdquo; or &amp;ldquo;Amidships Tank&amp;rdquo;)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-auxiliary-tanks--depth-control-tank-also-called-regulating-tank-or-amidships-tank&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-auxiliary-tanks--depth-control-tank-also-called-regulating-tank-or-amidships-tank&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Typically located at or near amidships, within the pressure hull.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Function:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Used for &lt;strong&gt;fine control of overall buoyancy (depth-keeping)&lt;/strong&gt; while dived — compensating for small changes in seawater density (moving between waters of different salinity/temperature changes the submarine&amp;rsquo;s buoyancy since seawater density affects displacement), or for minor weight changes not related to trim (fore-aft) balance.&lt;/li&gt;
+&lt;li&gt;Water can be pumped in (to reduce buoyancy slightly, allowing the submarine to maintain depth or descend marginally) or pumped out to sea (to increase buoyancy marginally) using the trim/auxiliary pump against sea pressure.&lt;/li&gt;
+&lt;li&gt;This tank allows the submarine to achieve and hold &lt;strong&gt;precise &amp;ldquo;neutral buoyancy&amp;rdquo; (zero net buoyancy, zero net moment)&lt;/strong&gt;, the ideal condition for submerged control, where the hydroplanes alone (rather than buoyancy changes) are used for maintaining ordered depth while making way.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;4. Negative Tank (also called &amp;ldquo;Negative Buoyancy Tank&amp;rdquo;)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-negative-tank-also-called-negative-buoyancy-tank&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-negative-tank-also-called-negative-buoyancy-tank&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Usually located low down, near amidships or slightly forward, within or adjacent to the pressure hull, positioned to give a strong, quick-acting effect without disturbing trim excessively.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Function:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Specifically designed to be &lt;strong&gt;flooded rapidly to make the submarine significantly negatively buoyant&lt;/strong&gt;, causing a fast, positive initial dive/descent — used particularly during the &lt;strong&gt;initial part of a crash dive&lt;/strong&gt;, where rapid submergence (especially for safety when a threat is detected on the surface) is essential.&lt;/li&gt;
+&lt;li&gt;Once the submarine has achieved the desired depth and speed, the negative tank is normally &lt;strong&gt;blown/emptied again&lt;/strong&gt; (venting the water back out) so that the vessel returns to a neutrally buoyant condition using the trim/auxiliary system for fine control — the negative tank is a &lt;strong&gt;transient-use tank&lt;/strong&gt;, not a tank left flooded during normal submerged cruising.&lt;/li&gt;
+&lt;li&gt;Provides the crew a rapid, decisive means of initiating descent without waiting for the slower, fine-control effect of hydroplane action alone at low speed (hydroplanes are largely ineffective for depth change at very low or zero speed, since they are lift-generating control surfaces requiring flow over them).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;5. Compensating Tank(s)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-compensating-tanks&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#5-compensating-tanks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Distributed within the pressure hull, sometimes integrated with or adjacent to the trim/auxiliary tank system.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Function:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Used to &lt;strong&gt;compensate for the changing weight of the submarine over the course of a patrol&lt;/strong&gt; as fuel, fresh water, food stores, and weapons are consumed/expended — each of these represents a permanent weight loss that must be offset by admitting an equivalent weight of seawater into a compensating tank to maintain the vessel&amp;rsquo;s designed total weight/buoyancy relationship.&lt;/li&gt;
+&lt;li&gt;Unlike trim/auxiliary tanks (used for short-term dynamic control), compensating tanks address the &lt;strong&gt;long-term, cumulative weight changes&lt;/strong&gt; over a patrol duration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;6. Safety Tank (where fitted)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;6-safety-tank-where-fitted&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#6-safety-tank-where-fitted&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt; Within the pressure hull, often positioned to provide a strong emergency buoyancy reserve.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Function:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An &lt;strong&gt;emergency-use tank kept normally empty (dry) during submerged operations&lt;/strong&gt;, which can be rapidly blown with high-pressure air in the event of an emergency (e.g., uncontrolled depth excursion, flooding casualty) to provide immediate additional buoyancy and arrest a dangerous descent — essentially an emergency backup to the main ballast tank blowing system, providing redundancy.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Conceptual diagram description&lt;/strong&gt; (as would be drawn):
+A longitudinal profile of the submarine showing the pressure hull as an inner cylinder and the outer casing as an outer fairing, with: &lt;strong&gt;MBTs shown as forward and after groups (and saddle tanks along the sides) in the free-flooding space between the hulls&lt;/strong&gt;; &lt;strong&gt;forward and after trim tanks shown inside the pressure hull at the extreme ends&lt;/strong&gt;, connected by a trim line running through the vessel to a trim pump; the &lt;strong&gt;auxiliary/depth control tank and negative tank shown amidships inside the pressure hull&lt;/strong&gt;, each with its own flood/vent/blow connections; and &lt;strong&gt;compensating tanks distributed within the pressure hull&lt;/strong&gt; near the centre of buoyancy, all tanks shown with their respective flood valves, vent valves, and high-pressure air blow connections schematically indicated.&lt;/p&gt;
+&lt;hr&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>How a Submarine Surfaces and Submerges; Role of &#39;Negative Tank&#39; and &#39;Trim Tanks&#39;</title>
+      <link>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/submarine-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/submarine-3/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;With a diagram, show and explain the specific functions and locations of various ballast tanks in a submarine.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;with-a-diagram-show-and-explain-the-specific-functions-and-locations-of-various-ballast-tanks-in-a-submarine&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#with-a-diagram-show-and-explain-the-specific-functions-and-locations-of-various-ballast-tanks-in-a-submarine&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;The Basic Principle Governing Surfacing and Submerging&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-basic-principle-governing-surfacing-and-submerging&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-basic-principle-governing-surfacing-and-submerging&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A submarine&amp;rsquo;s ability to surface or submerge is governed by the &lt;strong&gt;balance between its total weight and the buoyancy force (displacement) it generates&lt;/strong&gt; — exactly as for any floating body, but with the critical difference that a submarine can deliberately and controllably change its own effective weight by admitting or expelling seawater from its ballast tank system, whereas a surface ship&amp;rsquo;s displacement is essentially fixed by its hull form floating at a stable waterline.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Surfaced condition&lt;/strong&gt;: The Main Ballast Tanks (MBTs) are empty (blown, full of air), providing substantial &lt;strong&gt;reserve buoyancy&lt;/strong&gt; — the submarine floats with significant freeboard, behaving essentially like a surface vessel, with only a fraction of its total hull volume (the pressure hull and structure below the design waterline) actually contributing to supporting its weight.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Submerged (dived) condition&lt;/strong&gt;: The MBTs are flooded with seawater, eliminating that reserve buoyancy — the submarine&amp;rsquo;s weight now closely equals the weight of water displaced by its &lt;strong&gt;total hull volume (pressure hull + casing, fully submerged)&lt;/strong&gt;, achieving approximately &lt;strong&gt;neutral buoyancy&lt;/strong&gt;, where it neither rises nor sinks of its own accord and can be held at any depth by fine trim/buoyancy control plus (when underway) hydroplane action.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;The Diving Sequence — Simple Illustration (described)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-diving-sequence--simple-illustration-described&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-diving-sequence--simple-illustration-described&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Vents opened, flood valves open&lt;/strong&gt;: With the submarine on the surface, the &lt;strong&gt;main vents&lt;/strong&gt; at the top of each MBT are opened. Trapped air inside the tanks, which had been holding seawater out through the bottom flood ports, now escapes upward and outward through the vents.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Seawater floods in&lt;/strong&gt;: As the air escapes, seawater rushes in through the &lt;strong&gt;flood ports/gratings at the tank bottoms&lt;/strong&gt; (these are generally kept open/uncovered even when surfaced in many designs, with the air trapped inside by the closed vents being what actually provides buoyancy — so opening the vents is the actual &amp;ldquo;trigger&amp;rdquo; for flooding).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Loss of reserve buoyancy&lt;/strong&gt;: As all MBTs flood, the submarine progressively loses its surface reserve buoyancy and settles lower in the water, eventually reaching a condition where the hull is fully submerged and (ideally) very close to neutral buoyancy.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fine control takes over&lt;/strong&gt;: Once submerged, further precise adjustment of buoyancy and trim is handled not by the MBTs (which are now simply &amp;ldquo;full&amp;rdquo; and not used for graduated control) but by the &lt;strong&gt;auxiliary/depth-control tank, trim tanks, and negative tank&lt;/strong&gt; as described below, working in conjunction with the hydroplanes once the vessel has way on.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;(Simple sketch would show: Stage 1 — submarine on surface, MBT shown with air at top (shaded), sea at bottom, vent shut, flood port open but air trapping water out. Stage 2 — vent open, air escaping upward as bubbles, water level rising inside tank. Stage 3 — MBT fully flooded, submarine shown fully submerged at periscope/deep depth.)&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;The Surfacing Sequence — Simple Illustration (described)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-surfacing-sequence--simple-illustration-described&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#the-surfacing-sequence--simple-illustration-described&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Vents shut&lt;/strong&gt;: The main vents at the top of the MBTs are closed first (essential — otherwise blown air would simply escape back out the vents rather than displacing water).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;High-pressure air admitted&lt;/strong&gt;: &lt;strong&gt;High-pressure (HP) air&lt;/strong&gt; from the submarine&amp;rsquo;s HP air banks (or, in a slower/quieter alternative, &lt;strong&gt;low-pressure (LP) blower air&lt;/strong&gt;) is admitted into the top of the MBTs.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Water expelled&lt;/strong&gt;: This air pressure forces the seawater in the tanks back out through the bottom flood ports/gratings, progressively restoring the air-filled volume and hence the reserve buoyancy that had been eliminated during diving.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vessel rises and surfaces&lt;/strong&gt;: As buoyancy is restored, the submarine rises, eventually breaking surface and regaining its normal surfaced freeboard and stability condition, at which point flood valves may be shut and blowing secured, with the tanks left &amp;ldquo;blown&amp;rdquo; (dry) for the surfaced passage.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;em&gt;(Simple sketch would mirror the diving sketch in reverse: air being forced in at the top, water being expelled from the bottom, air pocket growing until the tank is effectively dry and the hull has risen to its surfaced waterline.)&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;Role of the &amp;lsquo;Negative Tank&amp;rsquo; in Surfacing and Submerging&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;role-of-the-negative-tank-in-surfacing-and-submerging&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#role-of-the-negative-tank-in-surfacing-and-submerging&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;negative tank&lt;/strong&gt; (see Q.2) is a &lt;strong&gt;dedicated, rapid-acting tank used specifically to accelerate the initial phase of diving&lt;/strong&gt;, particularly during a &lt;strong&gt;crash dive&lt;/strong&gt; where speed of submergence (for tactical/safety reasons) is more important than smooth, gradual buoyancy change.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Function during diving&lt;/strong&gt;: The negative tank is flooded rapidly (often simultaneously with or just before opening the main vents), which makes the submarine &lt;strong&gt;significantly negatively buoyant almost immediately&lt;/strong&gt; — this produces a fast initial downward momentum and bow-down angle, getting the vessel below the surface and to a safe initial depth quickly, before the (comparatively slower) flooding of the large-volume MBTs has fully taken effect.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;After the initial dive&lt;/strong&gt;: Once at a safe depth and with the MBTs now fully flooded, the negative tank&amp;rsquo;s job is done — it is normally &lt;strong&gt;blown/emptied again&lt;/strong&gt; (venting the water back to sea using HP or LP air, in the same manner as blowing the MBTs), returning the vessel to neutral buoyancy for controlled submerged cruising using the finer trim/auxiliary system.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Role in surfacing&lt;/strong&gt;: The negative tank generally plays &lt;strong&gt;no active role in the surfacing evolution&lt;/strong&gt; — surfacing relies on blowing the MBTs to restore positive reserve buoyancy. The negative tank, if it has any residual water, would in fact work against surfacing (adding negative buoyancy), so it is kept blown/empty during normal submerged running and surfacing operations, being used exclusively as a dive-acceleration tool.&lt;/li&gt;
+&lt;li&gt;In essence, the negative tank provides a &lt;strong&gt;&amp;ldquo;quick-acting negative buoyancy kick&amp;rdquo;&lt;/strong&gt; that the large, comparatively slow-flooding MBTs cannot provide instantaneously, addressing the tactical/operational need for rapid initial submergence.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Role of &amp;lsquo;Trim Tanks&amp;rsquo; in Surfacing and Submerging&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;role-of-trim-tanks-in-surfacing-and-submerging&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#role-of-trim-tanks-in-surfacing-and-submerging&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Trim tanks (forward and after, connected by the trim line and trim pump — see Q.2) are &lt;strong&gt;not used to change overall buoyancy&lt;/strong&gt; (that is the MBTs&amp;rsquo; and, transiently, the negative tank&amp;rsquo;s role) — they are used to control &lt;strong&gt;fore-and-aft weight distribution (pitch/trim balance)&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;During diving&lt;/strong&gt;: As the MBTs flood, they may not all flood at precisely equal rates fore and aft (due to sea state, tank geometry, or venting sequence), and the act of diving itself, combined with hydroplane angle typically applied to assist a smooth dive, can induce an undesired bow-down or bow-up pitch angle. The trim tanks (and the trim pump moving water between them) are used to &lt;strong&gt;counteract this and maintain a controlled, moderate diving angle&lt;/strong&gt; rather than an excessive or uncontrolled pitch.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;During submerged cruising and surfacing&lt;/strong&gt;: As the vessel&amp;rsquo;s weight distribution changes (fuel/stores consumption, personnel movement, weapons expenditure — see Q.7 for the torpedo-firing case specifically), the trim pump transfers water between the forward and after trim tanks to &lt;strong&gt;keep the boat trimmed level (or at a deliberately ordered angle)&lt;/strong&gt; fore-and-aft, working in conjunction with the auxiliary/depth control tank (which handles overall buoyancy) to maintain precise depth-keeping.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;During surfacing&lt;/strong&gt;: As MBTs are blown and the vessel&amp;rsquo;s buoyancy distribution changes (the tanks do not necessarily blow at identical rates fore and aft), the trim tanks are again used to &lt;strong&gt;prevent excessive bow-up or bow-down angle during the ascent&lt;/strong&gt;, ensuring the submarine breaks surface in a controlled, level attitude rather than with an exaggerated, potentially hazardous pitch angle (important for crew safety, for masts/periscopes, and for the boat&amp;rsquo;s stability at the moment of breaking surface).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Summary of the Functional Division&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;summary-of-the-functional-division&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#summary-of-the-functional-division&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;table&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th&gt;Tank&lt;/th&gt;
+					&lt;th&gt;Purpose&lt;/th&gt;
+					&lt;th&gt;When Used&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;Main Ballast Tanks&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Gross buoyancy change — dive/surface&lt;/td&gt;
+					&lt;td&gt;Full-flood to dive; full-blow to surface&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;Negative Tank&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Rapid initial negative buoyancy for fast dive&lt;/td&gt;
+					&lt;td&gt;Flooded briefly at start of (crash) dive; blown once safely dived&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;Trim Tanks (Fwd/Aft)&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Fore-aft pitch/trim balance&lt;/td&gt;
+					&lt;td&gt;Continuously, throughout diving, submerged running, and surfacing&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td&gt;&lt;strong&gt;Auxiliary/Depth Control Tank&lt;/strong&gt;&lt;/td&gt;
+					&lt;td&gt;Fine overall buoyancy control (neutral buoyancy)&lt;/td&gt;
+					&lt;td&gt;Continuously while submerged&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
 
       </description>
     </item>
@@ -547,6 +1058,134 @@ Entry into force: 1 July 1997&lt;/p&gt;
 &lt;p&gt;Amendments to other Chapters in the SOLAS Convention included changes to Chapter III, which deals with life saving appliances and arrangements, including the addition of a section requiring ro-ro passenger ships to be fitted with public address systems, a regulation providing improved requirements for life-saving appliances and arrangements and a requirement for all passenger ships to have full information on the details of passengers on board and requirements for the provision of a helicopter pick-up or landing area.&lt;/p&gt;
 &lt;p&gt;Other amendments were made to Chapter IV (radiocommunications); Chapter V (safety of navigation) - including a requirement that all ro-ro passenger ships should have an established working language - and Chapter VI (carriage of cargoes).&lt;/p&gt;
 &lt;p&gt;The conference also adopted a resolution which permits regional arrangements to be made on special safety requirements for ro-ro passenger ships.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Metallurgy of Submarine Hull Materials</title>
+      <link>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/submarine1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/submarine1/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Discuss the metallurgy of materials used to build a submarine. Explain the necessity of stronger inner hull; give examples of materials used for both inner and outer hulls, with stress/strain diagram.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;discuss-the-metallurgy-of-materials-used-to-build-a-submarine-explain-the-necessity-of-stronger-inner-hull-give-examples-of-materials-used-for-both-inner-and-outer-hulls-with-stressstrain-diagram&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#discuss-the-metallurgy-of-materials-used-to-build-a-submarine-explain-the-necessity-of-stronger-inner-hull-give-examples-of-materials-used-for-both-inner-and-outer-hulls-with-stressstrain-diagram&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Why a submarine&amp;rsquo;s structural design differs fundamentally from a surface ship&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A surface ship&amp;rsquo;s hull is designed primarily against &lt;strong&gt;hogging/sagging bending moments and local hydrostatic/dynamic pressure at relatively shallow draft&lt;/strong&gt;, with stresses that are largely tensile/compressive in bending. A submarine&amp;rsquo;s &lt;strong&gt;pressure hull&lt;/strong&gt;, by contrast, must withstand &lt;strong&gt;uniform external hydrostatic pressure acting radially inward from all directions simultaneously&lt;/strong&gt;, increasing linearly with depth, and must do so repeatedly over the vessel&amp;rsquo;s operational life through many dive/surface cycles. This fundamentally changes the governing failure mode from bending/yield (surface ship) to &lt;strong&gt;elastic instability (buckling) and compressive collapse&lt;/strong&gt; (submarine), which is why submarine pressure hull material selection and design philosophy differ so substantially from conventional shipbuilding steel practice.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Why the inner (pressure) hull must be stronger than the outer (casing/light) hull&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;pressure hull&lt;/strong&gt; is the structural, watertight cylindrical/near-cylindrical shell that must resist the full external sea pressure at maximum operating and test/collapse depth, and contains the crew, machinery, and systems at approximately atmospheric pressure inside — it is therefore the primary strength member and the single most critical structural boundary for the safety of the vessel.&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;outer hull (casing)&lt;/strong&gt;, where fitted (in double-hull designs), is a &lt;strong&gt;non-pressure-resisting, free-flooding fairing&lt;/strong&gt; that shapes the vessel hydrodynamically, houses ballast tanks, and protects the pressure hull, but is &lt;strong&gt;not required to withstand differential sea pressure&lt;/strong&gt; since it floods and equalizes with sea pressure on both sides once submerged. It is therefore built of comparatively thin, lightweight plating (often ordinary or mild shipbuilding steel, or even non-metallic/composite fairing material in some designs) since its role is form and protection, not pressure containment.&lt;/li&gt;
+&lt;li&gt;Consequently, the pressure hull requires a &lt;strong&gt;much higher yield strength-to-weight ratio material with excellent fracture toughness and fatigue resistance&lt;/strong&gt;, since it is the boundary between the crew and the sea and must survive repeated pressure cycling (dive/surface) without progressive fatigue damage, while the outer hull has no such requirement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Materials used for the pressure hull (inner hull)&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;High-Yield (HY) steels&lt;/strong&gt; — the traditional submarine pressure hull material family:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;HY-80&lt;/strong&gt; (yield strength ≈ 80,000 psi / ~550 MPa) — used extensively in earlier generation nuclear submarines (e.g., early US Navy classes).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HY-100&lt;/strong&gt; (yield strength ≈ 100,000 psi / ~690 MPa) — used in later classes for increased depth capability.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;HY-130&lt;/strong&gt; (yield strength ≈ 130,000 psi / ~900 MPa) — developed for even greater depth, though weldability challenges limited widespread adoption.&lt;/li&gt;
+&lt;li&gt;These are &lt;strong&gt;low-alloy, quenched-and-tempered steels&lt;/strong&gt; (containing nickel, chromium, molybdenum as key alloying elements) specifically developed to combine high yield strength with good fracture toughness and, critically, &lt;strong&gt;good weldability&lt;/strong&gt; — an essential property since the pressure hull is fabricated from welded ring sections/frames, and weld quality directly determines fatigue and fracture performance.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;HSLA (High Strength Low Alloy) steels&lt;/strong&gt; — used in various navies&amp;rsquo; newer submarine classes (e.g., HSLA-80, HSLA-100), offering comparable strength to HY-series with improved weldability and reduced susceptibility to weld cracking (lower carbon equivalent), reflecting metallurgical refinement over the original HY-series.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Maraging steels&lt;/strong&gt; — ultra-high-strength steels (yield strength up to ~1400–1700 MPa) used in some deep-diving submarines (notably reported in some Soviet/Russian titanium-hulled and high-strength steel designs) where extreme depth capability is required, though at higher cost and with more demanding fabrication control.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Titanium alloys&lt;/strong&gt; (e.g., Ti-6Al-4V type alloys) — used in specialized deep-diving submarines (most notably several Soviet/Russian classes such as the Alfa and Mike class) due to titanium&amp;rsquo;s exceptional strength-to-weight ratio, superior corrosion resistance (immunity to seawater corrosion, eliminating a major maintenance burden), and non-magnetic property (reducing magnetic signature). Titanium is far more expensive and metallurgically difficult to weld (requiring inert atmosphere welding chambers) than steel, which has historically limited its use to specialized high-value/deep-diving designs.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Materials used for the outer hull/casing (and non-pressure structure)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Typically &lt;strong&gt;ordinary or higher-tensile shipbuilding steel&lt;/strong&gt; (similar in character to surface ship structural steel, e.g., grades comparable to mild steel or AH/DH grades), since it does not need to resist differential hydrostatic pressure.&lt;/li&gt;
+&lt;li&gt;In some modern designs, &lt;strong&gt;glass-reinforced plastic (GRP) or other composite materials&lt;/strong&gt; are used for casing panels, fin (sail) fairings, and non-structural free-flooding sections, offering weight savings, reduced radar/sonar signature, and corrosion immunity, since these panels carry no significant structural load.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Rubber or polymer-based anechoic tiles&lt;/strong&gt; are often bonded to the outer casing (acoustic function, not structural) but are metallurgically irrelevant to strength.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Stress-strain behaviour — conceptual diagram description&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;For the pressure hull material (e.g., HY-80/100), the stress-strain curve is characterized by:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A &lt;strong&gt;steep initial linear-elastic region&lt;/strong&gt; up to the yield point, with modulus of elasticity comparable to ordinary steel (~200 GPa) — governs the hull&amp;rsquo;s elastic buckling behaviour under working depth pressure.&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;well-defined yield point at high stress&lt;/strong&gt; (80,000–100,000+ psi as above) — the pressure hull is designed to operate with a substantial safety margin below this yield stress at maximum operating depth, and typically to remain elastic even at test depth (a depth greater than normal operating depth, used to proof-test the hull).&lt;/li&gt;
+&lt;li&gt;A &lt;strong&gt;significant post-yield plastic/strain-hardening region with high elongation before fracture&lt;/strong&gt; — this ductility and toughness is metallurgically essential: even if local yielding were to occur (e.g., at a stress concentration such as a hull penetration or frame connection) under an extreme event, the material must &lt;strong&gt;deform plastically rather than fracture in a brittle manner&lt;/strong&gt;, since a brittle fracture of the pressure hull at depth would be catastrophic and unarrestable, whereas ductile yielding provides some warning and potential for arrest of a local overload.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Collapse of the pressure hull&lt;/strong&gt; as a structural event is governed not purely by material yield stress alone but by &lt;strong&gt;elastic/inelastic buckling instability&lt;/strong&gt; of the cylindrical shell between frames (interframe buckling) and of the overall hull between bulkheads (general instability) — hence pressure hull design integrates frame spacing, shell thickness, and material yield strength together (per submarine structural design formulae analogous to shell-buckling theory), rather than being a simple direct-stress/allowable-stress calculation as used for surface ship scantlings.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;(A stress-strain diagram would show: origin → straight elastic line with slope E up to yield point σy (e.g., ~550 MPa for HY-80) → curved strain-hardening region → ultimate tensile stress → fracture at high elongation, contrasted with a brittle material&amp;rsquo;s curve which would show little to no plastic region before fracture — the pressure hull material&amp;rsquo;s toughness and ductility being the key metallurgical property distinguishing it from a simply &amp;ldquo;high strength but brittle&amp;rdquo; alternative.)&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Short Notes</title>
+      <link>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/submarine5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/submarine5/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Q.7 — Short Notes:&lt;/h1&gt;&lt;h2&gt;(a) Manoeuvring of a Submarine,&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;a-manoeuvring-of-a-submarine&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#a-manoeuvring-of-a-submarine&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;(b) Trim Control During Torpedo Operations,&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;b-trim-control-during-torpedo-operations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#b-trim-control-during-torpedo-operations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;(c) Collapse Depth and Time Available to Collapse Depth (Numerical)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;c-collapse-depth-and-time-available-to-collapse-depth-numerical&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#c-collapse-depth-and-time-available-to-collapse-depth-numerical&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;(a) Manoeuvring of a Submarine&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;a-manoeuvring-of-a-submarine-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#a-manoeuvring-of-a-submarine-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;A submarine&amp;rsquo;s manoeuvring is fundamentally three-dimensional (unlike a surface ship&amp;rsquo;s essentially two-dimensional manoeuvring in the horizontal plane alone), since it must control motion in &lt;strong&gt;pitch, roll, and yaw simultaneously&lt;/strong&gt;, and depth-keeping is itself an active manoeuvring task rather than a passive, automatically-maintained condition.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Control surfaces and their functions:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Rudder&lt;/strong&gt; — mounted aft, controls &lt;strong&gt;yaw (turning in the horizontal plane)&lt;/strong&gt;, functioning essentially as on a surface ship, deflecting flow to generate a turning moment about the vertical axis.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hydroplanes&lt;/strong&gt; — the primary depth/pitch control surfaces, generating lift (up or down) as they are angled, requiring &lt;strong&gt;forward speed (way on)&lt;/strong&gt; to be effective, since they rely on flow over an aerofoil-type surface exactly as an aircraft&amp;rsquo;s control surfaces do:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Fore-planes (bow planes)&lt;/strong&gt; — located forward, used primarily for &lt;strong&gt;fine, rapid depth-keeping and initial angle of dive/rise&lt;/strong&gt;, and are often rigged in (retracted) when surfaced or alongside to avoid damage, deployed only when submerged/diving.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;After-planes (stern planes)&lt;/strong&gt; — located aft, near the rudder, used primarily to control &lt;strong&gt;pitch angle (fore-and-aft inclination of the hull)&lt;/strong&gt;, working in conjunction with fore-planes for coordinated depth-changes.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Combined plane action&lt;/strong&gt;: To change depth while maintaining a level (non-pitched) hull attitude, fore-planes and after-planes are used in a coordinated, sometimes opposing sense (e.g., bow planes angled to dive while stern planes are angled to counteract excessive bow-down pitch), whereas to change depth via a deliberate pitch angle (common at low speed or in some designs without separate bow planes), the planes work in a complementary sense to incline the entire hull.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Speed and depth interaction:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;At &lt;strong&gt;higher speed&lt;/strong&gt;, hydroplanes are highly effective, and only small angles are needed for a given rate of depth change — this is the primary and most controllable means of managing depth while making way.&lt;/li&gt;
+&lt;li&gt;At &lt;strong&gt;very low speed or zero speed&lt;/strong&gt;, hydroplanes lose effectiveness (insufficient flow for lift generation), and &lt;strong&gt;depth/attitude control must revert to the ballast tank system&lt;/strong&gt; (auxiliary/trim tanks, and negative tank for rapid changes) as discussed in Q.2 and Q.3 — this is an important operational limitation, since a submarine &amp;ldquo;hovering&amp;rdquo; at very low speed is much harder to control precisely in depth than one making way with plane authority.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Horizontal manoeuvring (turning):&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;rudder&lt;/strong&gt; generates a turning moment as on a surface ship, but a submerged submarine additionally experiences &lt;strong&gt;heel (roll) during a turn&lt;/strong&gt;, analogous to an aircraft banking, because the hydrodynamic side force and the vessel&amp;rsquo;s own centrifugal tendency interact with the submarine&amp;rsquo;s transverse stability characteristics (BG, as discussed in Q.5) differently than a surface ship&amp;rsquo;s turn-induced heel — a submarine may heel inward or outward during a turn depending on speed, rudder angle, and hull form, and this coupled roll-yaw-pitch interaction must be managed by the coordinated use of rudder and planes, particularly at higher speeds and larger rudder angles.&lt;/li&gt;
+&lt;li&gt;Because the submarine is a &lt;strong&gt;fully three-dimensional body with roll, pitch, and yaw all dynamically coupled&lt;/strong&gt; (unlike a surface ship where roll is largely decoupled from ordinary turning manoeuvres), submarine manoeuvring at speed requires continuous, coordinated control of rudder and both sets of hydroplanes to maintain the ordered depth, trim, and heading simultaneously — this is typically managed today through integrated ship control systems that coordinate all control surfaces automatically to an ordered depth/course, though manual &amp;ldquo;hands-on&amp;rdquo; planesman/helmsman control remains a fundamental watchkeeping skill.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;(b) Trim Control During Torpedo Operations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;b-trim-control-during-torpedo-operations-1&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#b-trim-control-during-torpedo-operations-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Firing a torpedo represents a &lt;strong&gt;sudden, discrete weight loss&lt;/strong&gt; from the submarine (a torpedo of substantial mass leaving the tube instantaneously), which, if uncompensated, would cause an abrupt change in the vessel&amp;rsquo;s overall buoyancy/weight balance and, because torpedo tubes are located forward (in the bow), a &lt;strong&gt;significant disturbance to fore-and-aft trim&lt;/strong&gt; (a sudden tendency to become bow-light/stern-heavy, causing the bow to rise) — precisely the &amp;ldquo;sudden trim change&amp;rdquo; concern referenced in Q.8.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Compensating measures — Water Round Torpedo (WRT) tanks:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Submarines are fitted with a &lt;strong&gt;WRT (Water Round Torpedo) tank&lt;/strong&gt; system associated with each torpedo tube, specifically designed to &lt;strong&gt;automatically or manually admit an equivalent weight of seawater into the tube/WRT tank at the instant of firing&lt;/strong&gt;, replacing the weight of the departed torpedo essentially simultaneously with its departure.&lt;/li&gt;
+&lt;li&gt;This is typically achieved by the &lt;strong&gt;torpedo tube firing/flooding sequence itself&lt;/strong&gt;: as the torpedo is ejected (by impulse water or air ram), seawater floods in behind it to fill the vacated volume in the tube, and this water mass is drawn from/accounted via the WRT tank system, so that the &lt;strong&gt;net weight of the submarine remains essentially unchanged&lt;/strong&gt; at the moment of firing, rather than suddenly becoming lighter forward.&lt;/li&gt;
+&lt;li&gt;Without this compensation, the sudden forward weight loss would cause an &lt;strong&gt;immediate bow-up trim moment and a tendency to rise&lt;/strong&gt;, which at shallow/periscope depth could risk &lt;strong&gt;broaching (breaking surface unintentionally)&lt;/strong&gt; — a serious tactical and safety concern, particularly during a submerged attack when remaining undetected is essential.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Additional trim management:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Beyond the immediate WRT compensation, the &lt;strong&gt;trim tanks and trim pump&lt;/strong&gt; (Q.2, Q.3) are used to fine-tune and restore precise fore-aft balance following the firing sequence, since the WRT system compensates weight but the &lt;em&gt;distribution&lt;/em&gt; of that compensating water (in the WRT tank, near the bow) may not exactly replicate the original torpedo&amp;rsquo;s centre of gravity contribution to the vessel&amp;rsquo;s overall trim — minor residual trim correction via the trim pump is typically still required after a torpedo firing (or salvo of firings) to restore the boat to a fully balanced condition.&lt;/li&gt;
+&lt;li&gt;Firing &lt;strong&gt;multiple torpedoes in quick succession (a salvo)&lt;/strong&gt; compounds this challenge, requiring rapid, sequential WRT compensation for each tube fired plus ongoing trim monitoring, since cumulative small errors in compensation across a multi-torpedo salvo could produce a more significant net trim disturbance than a single firing.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;(c) Collapse Depth and Time Available to Collapse Depth — Numerical&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;c-collapse-depth-and-time-available-to-collapse-depth--numerical&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#c-collapse-depth-and-time-available-to-collapse-depth--numerical&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Definitions:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Test depth&lt;/strong&gt;: The maximum depth to which the submarine is certified/proven to dive routinely in service, incorporating a safety margin below collapse depth.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Collapse depth (crush depth)&lt;/strong&gt;: The depth at which the external hydrostatic pressure exceeds the pressure hull&amp;rsquo;s structural capacity, causing catastrophic buckling/collapse of the pressure hull — this is a &lt;strong&gt;theoretical/design limit&lt;/strong&gt;, not a depth the submarine is ever intended to reach in service, and is typically &lt;strong&gt;1.5 to 2 times the test depth&lt;/strong&gt; depending on the navy/design safety factor convention.&lt;/li&gt;
+&lt;li&gt;The &amp;ldquo;&lt;strong&gt;time available to collapse depth&lt;/strong&gt;&amp;rdquo; refers to the time interval between the moment an uncontrolled/emergency descent begins (e.g., following a flooding casualty, loss of hydroplane control, or loss of buoyancy) and the moment the submarine would reach collapse depth if the descent rate continues unchecked — this interval represents the &lt;strong&gt;window available for the crew to take corrective action&lt;/strong&gt; (blowing ballast tanks, using the safety tank, correcting planes, etc.) before catastrophic failure.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Illustrative numerical approach&lt;/strong&gt; (the type of calculation typically posed in this specimen question):&lt;/p&gt;
+&lt;p&gt;Given:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Depth at which the casualty/uncontrolled descent begins: $D_1$&lt;/li&gt;
+&lt;li&gt;Collapse depth: $D_c$&lt;/li&gt;
+&lt;li&gt;Rate of descent (sinking rate), $R$ (in metres/second or metres/minute), either given directly or derived from a stated rate of flooding/negative buoyancy and the vessel&amp;rsquo;s response characteristics.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;span class=&#34;katex-display&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34; display=&#34;block&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;Time available&lt;/mtext&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mfrac&gt;&lt;mrow&gt;&lt;msub&gt;&lt;mi&gt;D&lt;/mi&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;/msub&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;msub&gt;&lt;mi&gt;D&lt;/mi&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/msub&gt;&lt;/mrow&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;/mfrac&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\text{Time available} = \frac{D_c - D_1}{R}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6944em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord text&#34;&gt;&lt;span class=&#34;mord&#34;&gt;Time available&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:2.0463em;vertical-align:-0.686em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mopen nulldelimiter&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mfrac&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:1.3603em;&#34;&gt;&lt;span style=&#34;top:-2.314em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0077em;&#34;&gt;R&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.23em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;frac-line&#34; style=&#34;border-bottom-width:0.04em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.677em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0278em;&#34;&gt;D&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.1514em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.0278em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mathnormal mtight&#34;&gt;c&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0278em;&#34;&gt;D&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.3011em;&#34;&gt;&lt;span style=&#34;top:-2.55em;margin-left:-0.0278em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mord mtight&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.15em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.686em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose nulldelimiter&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;&lt;strong&gt;Worked example (illustrative figures):&lt;/strong&gt;
+Suppose a submarine with a collapse depth of 600 m suffers a casualty at an operating depth of 200 m, and begins an uncontrolled descent at a rate of 2 m/s due to loss of buoyancy/planes control.&lt;/p&gt;
+&lt;span class=&#34;katex-display&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34; display=&#34;block&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;Time available&lt;/mtext&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mfrac&gt;&lt;mrow&gt;&lt;mn&gt;600&lt;/mn&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;mn&gt;200&lt;/mn&gt;&lt;/mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/mfrac&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mfrac&gt;&lt;mn&gt;400&lt;/mn&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/mfrac&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;200&lt;/mn&gt;&lt;mtext&gt; seconds&lt;/mtext&gt;&lt;mo&gt;≈&lt;/mo&gt;&lt;mn&gt;3&lt;/mn&gt;&lt;mtext&gt; minutes &lt;/mtext&gt;&lt;mn&gt;20&lt;/mn&gt;&lt;mtext&gt; seconds&lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\text{Time available} = \frac{600 - 200}{2} = \frac{400}{2} = 200 \text{ seconds} \approx 3\ \text{minutes } 20\ \text{seconds}&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6944em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord text&#34;&gt;&lt;span class=&#34;mord&#34;&gt;Time available&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:2.0074em;vertical-align:-0.686em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mopen nulldelimiter&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mfrac&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:1.3214em;&#34;&gt;&lt;span style=&#34;top:-2.314em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.23em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;frac-line&#34; style=&#34;border-bottom-width:0.04em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.677em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;600&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;200&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.686em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose nulldelimiter&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:2.0074em;vertical-align:-0.686em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mopen nulldelimiter&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mfrac&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:1.3214em;&#34;&gt;&lt;span style=&#34;top:-2.314em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.23em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;frac-line&#34; style=&#34;border-bottom-width:0.04em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.677em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;400&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.686em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose nulldelimiter&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6944em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;200&lt;/span&gt;&lt;span class=&#34;mord text&#34;&gt;&lt;span class=&#34;mord&#34;&gt; seconds&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;≈&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6944em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;mspace&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mord text&#34;&gt;&lt;span class=&#34;mord&#34;&gt;minutes &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;20&lt;/span&gt;&lt;span class=&#34;mspace&#34;&gt; &lt;/span&gt;&lt;span class=&#34;mord text&#34;&gt;&lt;span class=&#34;mord&#34;&gt;seconds&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;p&gt;&lt;strong&gt;Interpretation and significance:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This time interval, though it may appear to allow a few minutes, is in practice &lt;strong&gt;extremely short&lt;/strong&gt; given that corrective action requires the crew to first &lt;strong&gt;recognize&lt;/strong&gt; the casualty, diagnose its cause, and then execute the correct emergency procedure (e.g., blowing all main ballast tanks with emergency HP air, hard-rise on all hydroplanes, and possibly an emergency full-astern/full-ahead order depending on doctrine) — the numerical &amp;ldquo;time available&amp;rdquo; figure is intended to emphasize &lt;strong&gt;why submarine emergency drills place such heavy emphasis on immediate, near-instinctive crew reaction&lt;/strong&gt; rather than a considered, deliberative response, since the margin for delay is measured in seconds to a few minutes, not a leisurely timeframe.&lt;/li&gt;
+&lt;li&gt;The calculation also illustrates why &lt;strong&gt;operating depth is kept at a substantial, deliberate margin below test depth (and hence far below collapse depth)&lt;/strong&gt; in normal service — the deeper the initial casualty depth (i.e., the closer routine operating depth is to test/collapse depth), the less time is available for corrective action, which is precisely why navies maintain conservative operating-depth-to-test-depth-to-collapse-depth margins as a fundamental safety philosophy, and why any inadvertent excursion beyond normal operating depth is treated as a serious emergency requiring immediate, practiced corrective drill rather than routine handling.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
 
       </description>
     </item>

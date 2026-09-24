@@ -1,6 +1,6 @@
 ---
-title:"Reasons for Reduced Scantlings of Deck and Inner Bottom Plating of Oil Tankers in the Last Two Decades"
-type:docs
+title: "Reasons for Reduced Scantlings of Deck and Inner Bottom Plating of Oil Tankers in the Last Two Decades"
+type: docs
 ---
 # Q.3 — Reasons for Reduced Scantlings of Deck and Inner Bottom Plating of Oil Tankers in the Last Two Decades
 

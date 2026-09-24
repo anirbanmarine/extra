@@ -1991,6 +1991,208 @@ Seasonal variations&lt;/p&gt;
     </item>
     
     <item>
+      <title> High Speed Craft Notes</title>
+      <link>http://localhost:1313/docs/partb/navarch/ship_designs/amv/hscnotes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/amv/hscnotes/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Q.10 — Notes on High-Speed Craft: Catamaran, Planing Craft, Hovercraft, Air Cushion Vessel, SWATH, and Hydrofoil&lt;/h1&gt;&lt;p&gt;Covering, for each craft type: &lt;strong&gt;(a) how high speed is achieved, (b) transverse and longitudinal stability, (c) seakeeping, and (d) propulsion arrangements.&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2&gt;1. Catamaran&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-catamaran&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-catamaran&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;As discussed in Q.9, displacement is shared between &lt;strong&gt;two slender hulls&lt;/strong&gt;, each with a high length-to-beam ratio, drastically reducing wave-making resistance per unit displacement compared to an equivalent monohull, allowing higher speed for given power, particularly at higher Froude numbers.&lt;/li&gt;
+&lt;li&gt;Many high-speed catamarans also use &lt;strong&gt;hull forms optimized to minimize wave interference drag&lt;/strong&gt; between the two demi-hulls, with hull separation (beam) tuned to the design speed range.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(b) Transverse and longitudinal stability&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Transverse&lt;/strong&gt;: Very high initial GM due to the wide effective waterplane created by the two widely-separated hulls (large parallel-axis moment of inertia contribution), giving strong resistance to heel — but with the &amp;ldquo;falls away sharply beyond critical angle&amp;rdquo; characteristic noted in Q.9 once one hull lifts clear or the wet-deck (bridging structure) contacts the sea.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Longitudinal&lt;/strong&gt;: Generally good longitudinal stability due to the long waterline length of each slender hull, though the craft is susceptible to &lt;strong&gt;pitching and &amp;ldquo;slamming&amp;rdquo; of the wet-deck/bridging structure&lt;/strong&gt; in head seas if freeboard beneath the bridging structure is insufficient for the sea state encountered.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(c) Seakeeping&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Stiff, rapid roll motion&lt;/strong&gt; (short roll period) as noted in Q.9 — while safe, this produces higher accelerations, which can affect passenger comfort and equipment.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Wet-deck slamming&lt;/strong&gt; in a seaway is the principal seakeeping limitation — when wave height approaches the clearance under the bridging structure, slamming loads can be severe, limiting the catamaran&amp;rsquo;s effective operating sea state compared to a monohull of similar length.&lt;/li&gt;
+&lt;li&gt;Some designs incorporate a &lt;strong&gt;T-foil or trim-tab motion-control system&lt;/strong&gt; at the bow/stern to actively reduce pitching and improve ride comfort in a seaway.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(d) Propulsion arrangements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Typically &lt;strong&gt;twin-screw&lt;/strong&gt; (one propulsion train per hull), using &lt;strong&gt;waterjets&lt;/strong&gt; (very common on high-speed catamaran ferries, since waterjets perform efficiently at high Froude number and avoid the cavitation/appendage drag issues of conventional propellers at high speed) or, for lower-speed/higher-displacement catamarans, &lt;strong&gt;conventional shaft/propeller arrangements&lt;/strong&gt;, often driven by high-speed diesel engines or gas turbines for the largest fast-ferry applications.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;2. Planing Craft&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-planing-craft&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-planing-craft&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;At low speed, a planing hull behaves in &lt;strong&gt;displacement mode&lt;/strong&gt;, supported by buoyancy in the conventional sense.&lt;/li&gt;
+&lt;li&gt;As speed increases past a critical Froude number, the hull&amp;rsquo;s &lt;strong&gt;flat/warped-bottom aft sections generate dynamic (hydrodynamic) lift&lt;/strong&gt;, causing the hull to rise and &amp;ldquo;plane&amp;rdquo; on top of the water surface rather than pushing through it — this dramatically &lt;strong&gt;reduces wetted surface area and eliminates most wave-making resistance&lt;/strong&gt;, since the vessel is now largely supported by dynamic lift rather than displacement/buoyancy, allowing a steep reduction in resistance per unit speed increase beyond the &amp;ldquo;hump&amp;rdquo; speed.&lt;/li&gt;
+&lt;li&gt;The transition through the resistance &amp;ldquo;hump&amp;rdquo; (the speed range where the craft is neither fully displacement nor fully planing) requires a &lt;strong&gt;surplus of installed power&lt;/strong&gt; to push through before the efficiency gain of full planing is realized.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(b) Transverse and longitudinal stability&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Transverse&lt;/strong&gt;: While planing, stability is provided largely by the &lt;strong&gt;dynamic lift distribution across the flat/warped bottom&lt;/strong&gt; plus, at rest/low speed, conventional hydrostatic (waterplane) stability — a planing hull typically has a wide, flat afterbody giving good transverse stability once on the plane, but can be prone to &lt;strong&gt;chine-tripping or sudden roll instability&lt;/strong&gt; if the dynamic lift distribution is disturbed (e.g., in a hard turn at speed).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Longitudinal&lt;/strong&gt;: The &lt;strong&gt;fore-and-aft trim angle while planing is critical&lt;/strong&gt; — too much bow-up trim reduces wetted area excessively and can cause porpoising (unstable pitching oscillation); too little trim (bow-down) increases resistance and risk of &amp;ldquo;digging in.&amp;rdquo; Trim tabs or interceptors at the transom are commonly used to actively control this running trim angle.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(c) Seakeeping&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Planing craft seakeeping is &lt;strong&gt;generally poor in a seaway compared to displacement/multi-hull types&lt;/strong&gt; — because the hull skims the surface at speed, encounters with waves produce &lt;strong&gt;severe slamming loads&lt;/strong&gt; on the flat bottom sections, transmitting high accelerations to the structure, crew, and equipment; this is the dominant limitation on a planing craft&amp;rsquo;s usable speed in anything beyond calm/moderate sea states.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deep-V hull forms&lt;/strong&gt; (with significant deadrise angle) are used to reduce (though not eliminate) slamming severity compared to flatter-bottomed designs, at some cost in ultimate top-speed efficiency (a deep-V hull has somewhat higher resistance than a flatter hull at the same speed, due to the need to displace water sideways from the V-shape).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(d) Propulsion arrangements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Commonly &lt;strong&gt;high-speed diesel engines with surface-piercing propellers, stern drives (outdrives), or waterjets&lt;/strong&gt; — surface-piercing propellers are specifically suited to planing craft since the propeller operates partially out of the water at speed, reducing appendage drag; waterjets are preferred where shallow draft and the elimination of exposed propeller/shaft appendage drag are priorities (also improving safety around swimmers/divers for recreational and rescue craft).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;3. Hovercraft (Air Cushion Vehicle — fully amphibious, flexible skirt type)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-hovercraft-air-cushion-vehicle--fully-amphibious-flexible-skirt-type&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-hovercraft-air-cushion-vehicle--fully-amphibious-flexible-skirt-type&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A hovercraft is supported almost entirely by a &lt;strong&gt;cushion of air maintained under the hull at a pressure sufficient to lift the vessel&amp;rsquo;s weight&lt;/strong&gt;, contained by a flexible rubber/fabric &lt;strong&gt;skirt&lt;/strong&gt; around the periphery, essentially &lt;strong&gt;eliminating hull-water contact and hence both wave-making and frictional/skin resistance&lt;/strong&gt; while cushion-borne.&lt;/li&gt;
+&lt;li&gt;With essentially no hydrodynamic resistance component, the primary resistance to forward motion is &lt;strong&gt;aerodynamic drag&lt;/strong&gt;, allowing speeds substantially higher than a comparable-size, comparable-power waterborne displacement or even planing craft, and crucially, allowing &lt;strong&gt;true amphibious operation&lt;/strong&gt; — transitioning directly from water onto land, ice, mudflats, or marsh with no change in operating mode.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(b) Transverse and longitudinal stability&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stability is fundamentally different from any waterborne hull — it derives from the &lt;strong&gt;differential pressure distribution within the air cushion&lt;/strong&gt;, segmented in many designs into multiple cells to prevent the entire cushion pressure shifting/venting to one side during a heel or trim disturbance (an undivided single cushion would be inherently unstable, since cushion air would simply migrate to the low side under any disturbance, reducing pressure support exactly where it&amp;rsquo;s needed and worsening the tilt).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Segmented/compartmented cushions&lt;/strong&gt; and the skirt&amp;rsquo;s own flexible geometry provide a self-correcting restoring effect, but hovercraft stability margins are generally &lt;strong&gt;more sensitive to load distribution and cushion pressure balance&lt;/strong&gt; than a conventional hull&amp;rsquo;s hydrostatic stability, requiring careful design of cushion cell geometry and, in larger designs, active cushion pressure control systems.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Longitudinal trim&lt;/strong&gt; is similarly managed via fore-aft cushion cell pressure balance and, dynamically, by aerodynamic control surfaces at speed.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(c) Seakeeping&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Excellent capability for &lt;strong&gt;operating over very shallow water, mudflats, ice, and marginal terrain&lt;/strong&gt; where no other marine craft can operate at all — a unique amphibious capability rather than a &amp;ldquo;seakeeping&amp;rdquo; advantage in the conventional wave-response sense.&lt;/li&gt;
+&lt;li&gt;In open water with waves, ride quality/seakeeping is &lt;strong&gt;limited by the skirt&amp;rsquo;s ability to follow the wave surface&lt;/strong&gt; — in significant sea states, the skirt can lose full contact/sealing, causing cushion pressure loss, increased drag, and a harsher ride; hovercraft seakeeping in open seaway conditions is generally &lt;strong&gt;inferior to a true seagoing hull form&lt;/strong&gt; and is why the type is favoured for sheltered water, ice, and amphibious/rescue applications rather than open-ocean high-sea-state transits.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(d) Propulsion arrangements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Aerodynamic propulsion&lt;/strong&gt; — large &lt;strong&gt;air propellers (aircraft-type propellers) mounted above the hull&lt;/strong&gt;, driven typically by gas turbine or high-power piston/turboshaft engines — since the craft is not in the water while cushion-borne, waterborne propulsors (propellers/jets) are not used for primary propulsion.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Separate lift and propulsion systems&lt;/strong&gt; are common in larger designs: dedicated &lt;strong&gt;lift fans&lt;/strong&gt; (centrifugal fans) maintain cushion pressure, while separate propulsion air propellers/ducted fans provide forward thrust, allowing independent control of lift and propulsion power — smaller hovercraft may use a single integrated fan/propeller system serving both functions.&lt;/li&gt;
+&lt;li&gt;Directional control is achieved via &lt;strong&gt;rudders in the propeller slipstream&lt;/strong&gt; (aerodynamic rudders) and/or differential thrust, since conventional waterborne steering (rudders in water flow) is unavailable while fully cushion-borne.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;4. Air Cushion Vessel / Surface Effect Ship (SES — rigid sidewall type, distinct from full hovercraft)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-air-cushion-vessel--surface-effect-ship-ses--rigid-sidewall-type-distinct-from-full-hovercraft&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-air-cushion-vessel--surface-effect-ship-ses--rigid-sidewall-type-distinct-from-full-hovercraft&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;em&gt;(Where the question intends the rigid-sidewall Surface Effect Ship variant, distinct from the fully-skirted amphibious hovercraft above — the specimen paper lists both &amp;ldquo;Hovercraft&amp;rdquo; and &amp;ldquo;Air Cushion Vessel&amp;rdquo; separately, suggesting this distinction is intended.)&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;An SES has &lt;strong&gt;rigid, catamaran-like sidewalls extending into the water&lt;/strong&gt;, with a flexible seal only at bow and stern, and an &lt;strong&gt;air cushion trapped between the sidewalls&lt;/strong&gt; supporting the majority (though not all) of the vessel&amp;rsquo;s weight — the sidewalls remain waterborne (unlike the fully-skirted hovercraft), providing directional stability and containing the cushion.&lt;/li&gt;
+&lt;li&gt;Because a large fraction of the weight is cushion-supported, &lt;strong&gt;hull resistance (from the sidewalls, which are now only lightly loaded) is much reduced&lt;/strong&gt; compared to a conventional catamaran/monohull, enabling higher speed for given power, though not achieving the near-zero hydrodynamic resistance of a true fully-skirted, fully amphibious hovercraft, and hence an SES is &lt;strong&gt;not amphibious&lt;/strong&gt; — it remains a waterborne craft, unlike the hovercraft.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(b) Transverse and longitudinal stability&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Transverse stability benefits from the &lt;strong&gt;catamaran-like sidewall arrangement&lt;/strong&gt; (wide effective waterplane from the separated sidewalls, similar in principle to Q.9&amp;rsquo;s catamaran discussion), generally giving good, predictable transverse stability compared to a fully-skirted hovercraft&amp;rsquo;s more cushion-pressure-dependent stability.&lt;/li&gt;
+&lt;li&gt;Longitudinal stability/trim is managed through &lt;strong&gt;cushion pressure distribution (bow/stern seal control)&lt;/strong&gt; combined with the conventional waterplane effect of the sidewalls themselves.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(c) Seakeeping&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Generally &lt;strong&gt;better open-water seakeeping than a fully-skirted hovercraft&lt;/strong&gt; (since the rigid sidewalls provide more predictable directional stability and wave-following behaviour in the water), while still gaining a significant speed/resistance advantage over a conventional catamaran from the cushion lift effect — representing something of a middle ground between a full hovercraft and a conventional multi-hull in both performance and sea-state capability.&lt;/li&gt;
+&lt;li&gt;Bow/stern seal performance and durability in a seaway is a key maintenance and seakeeping-limiting factor, analogous to (though generally more robust than) a full hovercraft&amp;rsquo;s skirt.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(d) Propulsion arrangements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Since the sidewalls remain in the water, &lt;strong&gt;conventional waterborne propulsion — waterjets or propellers — can be used&lt;/strong&gt; (unlike the fully-skirted hovercraft, which must use aerial propulsion), typically one unit per sidewall/hull, in addition to a &lt;strong&gt;separate lift-fan system&lt;/strong&gt; to maintain cushion pressure between the sidewalls.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;5. SWATH (Small Waterplane Area Twin Hull)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-swath-small-waterplane-area-twin-hull&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#5-swath-small-waterplane-area-twin-hull&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;SWATH achieves its performance benefit not primarily through top-speed maximization (SWATH vessels are typically moderate rather than extreme-high-speed craft) but through &lt;strong&gt;exceptional seakeeping/motion stability at moderate-to-good speed&lt;/strong&gt;, achieved by having the vessel&amp;rsquo;s buoyancy provided by &lt;strong&gt;fully submerged, torpedo-shaped lower hulls&lt;/strong&gt; connected to the above-water structure by &lt;strong&gt;thin, minimal-waterplane-area struts&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Wave-making resistance is significantly reduced because the submerged hulls operate below the zone of maximum wave orbital motion, and the very small waterplane area (at the thin struts) minimizes the vessel&amp;rsquo;s response to surface wave action, though the deeply submerged hull form does carry a frictional resistance penalty.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(b) Transverse and longitudinal stability&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Very small waterplane area&lt;/strong&gt; (by design intent) means BM = I/∇ is inherently &lt;strong&gt;small&lt;/strong&gt; (since I, dependent on waterplane geometry, is deliberately minimized), which would normally suggest poor stability — however, the wide &lt;strong&gt;transverse separation of the two submerged hulls&lt;/strong&gt; (parallel-axis effect, as in the catamaran case) compensates, restoring adequate transverse GM despite the small local waterplane contribution from the struts alone.&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;very small waterplane area is precisely the design feature that gives SWATH its outstanding motion stability in waves&lt;/strong&gt; — since restoring forces (and hence wave-excited motions) in heave and pitch are proportional to waterplane area, a small waterplane area means the vessel is &lt;strong&gt;much less responsive to wave-induced heave and pitch excitation&lt;/strong&gt; than a conventional surface-piercing hull, producing a remarkably steady, low-motion platform even in significant sea states.&lt;/li&gt;
+&lt;li&gt;Active fin/stabilizer systems on the submerged hulls are commonly fitted to further actively control pitch and roll, since the passive stability margins, while adequate, are typically less generous than a conventional wide monohull or catamaran.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(c) Seakeeping&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;SWATH&amp;rsquo;s principal advantage is outstanding seakeeping&lt;/strong&gt; — the deeply submerged hulls and minimal waterplane area give &lt;strong&gt;dramatically reduced heave, pitch, and roll motion in a seaway&lt;/strong&gt; compared to any conventional monohull or surface-piercing catamaran of similar size, making it exceptionally well suited to roles requiring a stable working/sensor platform (research vessels, some naval applications) even in moderate-to-rough sea states.&lt;/li&gt;
+&lt;li&gt;This superior seakeeping comes at the cost of &lt;strong&gt;greater structural complexity, deeper draft (limiting shallow-water/port access), and generally higher construction cost&lt;/strong&gt; than a conventional hull form of similar displacement.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(d) Propulsion arrangements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Propulsors (propellers, often in shrouded/ducted arrangements, or waterjets in some designs) are mounted on or near the &lt;strong&gt;submerged lower hulls&lt;/strong&gt;, driven via shafting running up through the connecting struts to machinery located in the above-water cross-structure — the deep hull placement of the propulsors also contributes to reduced propeller ventilation/cavitation issues in a seaway compared to a surface-piercing hull&amp;rsquo;s propellers, which can be prone to emergence in heavy pitching.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2&gt;6. Hydrofoil&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;6-hydrofoil&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#6-hydrofoil&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;At low speed, a hydrofoil craft operates as a &lt;strong&gt;conventional displacement hull&lt;/strong&gt;, with &lt;strong&gt;underwater foils (wing-like lifting surfaces)&lt;/strong&gt; mounted on struts below the hull.&lt;/li&gt;
+&lt;li&gt;As speed increases, the foils generate increasing &lt;strong&gt;hydrodynamic lift&lt;/strong&gt; (exactly as an aircraft wing generates aerodynamic lift), until at a critical &amp;ldquo;take-off&amp;rdquo; speed the lift generated equals the vessel&amp;rsquo;s weight, and the &lt;strong&gt;entire hull rises clear of the water surface&lt;/strong&gt;, leaving only the slender foils and their supporting struts in the water.&lt;/li&gt;
+&lt;li&gt;With the hull fully &amp;ldquo;flying&amp;rdquo; clear of the water, &lt;strong&gt;wave-making resistance and hull frictional resistance are almost entirely eliminated&lt;/strong&gt;, leaving only the much smaller resistance of the thin foils/struts — this allows a dramatic increase in achievable speed for a given power compared to a conventional hull, representing one of the most resistance-efficient high-speed configurations at appropriate size/speed ranges.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(b) Transverse and longitudinal stability&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;While foil-borne, stability is provided by the &lt;strong&gt;hydrodynamic lift characteristics of the foil system&lt;/strong&gt; rather than by conventional hydrostatics (the hull itself, providing no buoyancy contribution while flying, plays no role in stability at this stage).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Surface-piercing foil configurations&lt;/strong&gt; (V-shaped or ladder foils that partly pierce the surface) provide &lt;strong&gt;self-stabilizing/self-damping roll and heave characteristics&lt;/strong&gt; — as the craft heels or a foil begins to broach, the immersed foil area changes automatically, generating a self-correcting lift change (more foil area = more lift, restoring level attitude) — a passive stability mechanism requiring no active control system, though offering comparatively modest ride quality.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fully-submerged foil configurations&lt;/strong&gt; (used in the highest-performance/most seaworthy hydrofoils) provide superior ride quality and higher lift efficiency but are &lt;strong&gt;not inherently self-stabilizing&lt;/strong&gt; — they require an &lt;strong&gt;active electronic control system&lt;/strong&gt; with sensors (accelerometers, height/attitude sensors) continuously adjusting foil incidence angle (via flaps or foil pitch actuators) to maintain stable, level foilborne flight, analogous to an aircraft&amp;rsquo;s fly-by-wire stability augmentation system — a failure of this active control system is a critical vulnerability of the fully-submerged-foil type.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Longitudinal stability/trim&lt;/strong&gt; while foilborne is managed by the &lt;strong&gt;relative lift balance between the forward and after foil sets&lt;/strong&gt; (a hydrofoil typically has both a bow foil and a stern foil, analogous to a canard/tailplane arrangement on an aircraft), actively or passively adjusted to maintain level fore-aft trim as speed and loading vary.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(c) Seakeeping&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;While foilborne, a hydrofoil (particularly the fully-submerged, actively-controlled type) offers &lt;strong&gt;exceptionally smooth ride quality&lt;/strong&gt;, since the foils, operating below the more turbulent near-surface wave zone, can actively maintain the hull at a constant height and attitude largely &lt;strong&gt;independent of the passing wave surface&lt;/strong&gt; — a foilborne hydrofoil can &amp;ldquo;fly over&amp;rdquo; small-to-moderate waves with minimal hull motion transmitted to passengers/cargo.&lt;/li&gt;
+&lt;li&gt;This advantage is &lt;strong&gt;limited by wave height relative to foil submergence/strut length&lt;/strong&gt; — in sea states exceeding the craft&amp;rsquo;s foil system design limit, the hull may begin to contact wave crests (hull-borne &amp;ldquo;touchdown&amp;rdquo; in a seaway) or the foils may broach, at which point the craft must revert to hull-borne (displacement) operation at much reduced speed, meaning hydrofoil seakeeping/speed advantage is &lt;strong&gt;strictly bounded by a maximum operable sea state&lt;/strong&gt;, beyond which performance degrades sharply (unlike SWATH, whose motion advantage persists more gradually into higher sea states).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;(d) Propulsion arrangements&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Options include: &lt;strong&gt;surface-piercing or submerged propellers on shafts extending down from the hull through/near the foil struts&lt;/strong&gt;, &lt;strong&gt;waterjets&lt;/strong&gt; (increasingly preferred in modern designs, avoiding the mechanical complexity of a propeller shaft penetrating a lifting/retracting foil strut arrangement), or, in some older/specialized designs, an &lt;strong&gt;inverted &amp;ldquo;Z-drive&amp;rdquo; or podded propulsor mounted directly on the foil strut&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Since the hull itself rises clear of the water while foilborne, the propulsor and its shafting/strut arrangement must be specifically designed to remain effectively submerged and functional across both the hull-borne (low speed, propulsor deep) and foilborne (high speed, hull risen) conditions — a significant engineering challenge distinguishing hydrofoil propulsion design from simpler, single-condition hull forms.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;Let me know when you&amp;rsquo;d like Q.11 (SOLAS HSC Chapter / definitions), or if you&amp;rsquo;d like me to circle back to the skipped Q.4, Q.6, and Q.8.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title> Q.5 — Ballast Tank Corrosion Prevention as per SOLAS</title>
+      <link>http://localhost:1313/docs/partb/navarch/stress_and_strain/ballast_tank_corrosion_solas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/stress_and_strain/ballast_tank_corrosion_solas/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Ballast tank corrosion prevention as per SOLAS&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ballast-tank-corrosion-prevention-as-per-solas&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ballast-tank-corrosion-prevention-as-per-solas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;SOLAS Chapter II-1, Regulation 3-2, together with the &lt;strong&gt;IMO Performance Standard for Protective Coatings (PSPC) for Dedicated Seawater Ballast Tanks&lt;/strong&gt; (resolution MSC.215(82), adopted 2006, mandatory for ships contracted for construction on or after 1 July 2008), forms the regulatory basis for ballast tank corrosion prevention. It applies to all dedicated seawater ballast tanks of 150 gt and above and to the double-side skin spaces of bulk carriers 150 m and above.&lt;/p&gt;
+&lt;h2&gt;(a) Adherence to Performance Standards of Paint Coatings&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;a-adherence-to-performance-standards-of-paint-coatings&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#a-adherence-to-performance-standards-of-paint-coatings&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Design life target&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PSPC sets a target coating life of &lt;strong&gt;15 years&lt;/strong&gt;, defined as the period during which the coating system is expected to remain in &amp;ldquo;GOOD&amp;rdquo; condition (as per the IACS condition grading: GOOD = spot rusting on less than 3% of the area under consideration, with no visible failure/breakdown over the rest).&lt;/li&gt;
+&lt;li&gt;This is not a guarantee but a &lt;strong&gt;performance benchmark against which the coating system, application procedure, and surface preparation are all certified&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key technical requirements under PSPC&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Coating system selection&lt;/strong&gt;: Only coating systems that have passed a standardized &lt;strong&gt;cyclic testing procedure&lt;/strong&gt; (as per IMO PSPC Annex 1) — which simulates 90 days of accelerated exposure combining seawater immersion, dry heat, condensation humidity, and UV exposure cycles, on both flat panels and specially designed edge/geometry test panels — are approved for use as &amp;ldquo;PSPC-compliant.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Surface preparation standard&lt;/strong&gt;: Steel surfaces must be prepared to &lt;strong&gt;Sa 2½ (near-white blast cleaning)&lt;/strong&gt; per ISO 8501-1, with a specified &lt;strong&gt;surface profile (roughness) of 30–75 microns&lt;/strong&gt;, since coating adhesion and hence service life is highly sensitive to surface cleanliness and profile.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Steel condition before coating&lt;/strong&gt;: Requirements on &lt;strong&gt;primary surface preparation&lt;/strong&gt; (shop primer compatibility) and control of &lt;strong&gt;soluble salt contamination&lt;/strong&gt; (chloride/salt contamination limits, typically ≤50 mg/m² NaCl equivalent) before coating, since residual salts under a coating film cause osmotic blistering and premature localized coating breakdown.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dry film thickness (DFT)&lt;/strong&gt;: A minimum &lt;strong&gt;nominal total DFT of 320 microns&lt;/strong&gt; (two coats of stripe coating plus two full coats, or equivalent), with &lt;strong&gt;90/10 rule compliance&lt;/strong&gt; — at least 90% of DFT measurements must meet or exceed nominal DFT, and no measurement may be below 90% of nominal DFT — ensuring the coating is neither under-applied (early breakdown) nor grossly uneven.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stripe coating requirement&lt;/strong&gt;: Edges, corners, welds, and other geometrically complex areas (exactly the transition zones discussed in Q.4) must receive an &lt;strong&gt;additional stripe coat by brush or roller&lt;/strong&gt; before the main spray coats, because spray application alone cannot achieve adequate film thickness on sharp edges and corners — this is a direct regulatory response to the &amp;ldquo;difficulty of coating during service/construction&amp;rdquo; issue discussed below.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Light-coloured topcoat&lt;/strong&gt;: A light colour finish is required specifically to make &lt;strong&gt;inspection of coating breakdown, rust staining, and mechanical damage easier&lt;/strong&gt; during subsequent surveys.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Coating Technical File (CTF)&lt;/strong&gt;: The shipyard must maintain a full record — surface preparation reports, environmental conditions during application (temperature, humidity, dew point), DFT measurement records, and inspection hold points — which becomes a permanent onboard/class record for verifying that PSPC compliance was actually achieved, not merely specified.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;(b) Importance of Initial Coating and the Difficulty of Coating During Service&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;b-importance-of-initial-coating-and-the-difficulty-of-coating-during-service&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#b-importance-of-initial-coating-and-the-difficulty-of-coating-during-service&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Why the initial (as-built) coating application is disproportionately important&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ballast tanks have highly &lt;strong&gt;complex internal geometry&lt;/strong&gt; — stiffeners, brackets, manholes, air/sounding pipes, girders — and the &lt;em&gt;only&lt;/em&gt; time in a ship&amp;rsquo;s life when full, unrestricted access, proper ventilation, controlled temperature/humidity, and dedicated blasting/spraying equipment are simultaneously available is &lt;strong&gt;during new construction at the shipyard&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Any deficiency in surface preparation or coating application at this stage — inadequate blast profile, insufficient stripe coating at brackets/toes, poor DFT control in way of complex framing — creates a &lt;strong&gt;latent weak point that cannot be economically or technically corrected later&lt;/strong&gt;, and will manifest as early, localized coating breakdown once the tank enters seawater ballast service.&lt;/li&gt;
+&lt;li&gt;This is precisely why PSPC places such heavy emphasis on &lt;strong&gt;third-party verification of the initial coating process&lt;/strong&gt; (via a Coating Inspector qualified to NACE/FROSIO level, and mandatory hold-point inspections by the shipyard, coating manufacturer&amp;rsquo;s representative, and often owner&amp;rsquo;s representative) — the industry recognizes that &lt;strong&gt;&amp;ldquo;getting it right the first time&amp;rdquo; is far more cost-effective and technically achievable than any subsequent in-service repair&lt;/strong&gt;, and that the vast majority of a coating&amp;rsquo;s eventual service life is determined by the quality of this single initial application.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Why coating repair/maintenance during service is difficult&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Access constraints&lt;/strong&gt;: Ballast tanks in service can only be accessed when &lt;strong&gt;empty and gas-freed&lt;/strong&gt;, which for a fully utilized vessel may mean limited windows during scheduled dry-docking or occasional deballasting for inspection — routine, unscheduled repair as soon as breakdown is noticed is often operationally impractical.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Environmental control&lt;/strong&gt;: Shipboard tank atmospheres cannot replicate the shipyard&amp;rsquo;s controlled temperature, humidity, and dew-point conditions; &lt;strong&gt;coating applied in service is far more prone to condensation-induced adhesion failure and incomplete cure&lt;/strong&gt;, especially in tropical humidity or cold climates.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Surface preparation limitations&lt;/strong&gt;: Full abrasive blasting to Sa 2½ inside an enclosed ballast tank on a loaded/operating ship is &lt;strong&gt;extremely difficult, hazardous (confined space, dust, ventilation), and time-consuming&lt;/strong&gt; — in-service repairs frequently rely on hand/power tool cleaning (a lower standard, typically St 2/St 3), which achieves a lesser surface profile and consequently shorter repair-coating life.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Confined space and safety hazards&lt;/strong&gt;: Ballast tank coating repair requires &lt;strong&gt;confined space entry procedures, forced ventilation, and often hot work permits&lt;/strong&gt; near cargo tanks (fire/explosion risk considerations), all of which constrain the scope, timing, and thoroughness of repair work that can practically be undertaken.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cost and downtime&lt;/strong&gt;: Full re-coating of a ballast tank in service (as opposed to spot repair) is a &lt;strong&gt;major, costly undertaking usually reserved for dry-docking&lt;/strong&gt;, meaning that once the original coating begins general breakdown (rather than isolated spot failure), the ship may operate for extended periods with a degraded coating system before a full recoat is economically undertaken — during which time corrosion (including the localized pitting mechanism discussed in Q.2) proceeds essentially unchecked in the breakdown areas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Progressive/cascading breakdown&lt;/strong&gt;: Once isolated coating failure occurs, the exposed bare steel corrodes and the resulting &lt;strong&gt;rust scale further undermines the adhesion of adjacent intact coating&lt;/strong&gt; (edge creep/undercutting), meaning coating breakdown, once started, tends to spread progressively rather than remaining static — making early intervention important but, per the above points, operationally difficult to achieve promptly.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Net regulatory logic&lt;/strong&gt;: Because in-service coating repair is inherently inferior in quality and difficult to execute compared to original shipyard application, PSPC&amp;rsquo;s strategy is to &lt;strong&gt;front-load quality assurance heavily at the newbuilding stage&lt;/strong&gt; (rigorous surface prep standards, stripe coating, DFT verification, documented Coating Technical File) so that the coating is far less likely to require major intervention within its 15-year design life, recognizing that the ballast tank environment will not readily permit an equivalent standard of repair once the ship is in service.&lt;/p&gt;
+&lt;hr&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>13. Terrestrial and ship&#39;s magnetism :</title>
       <link>http://localhost:1313/docs/partb/adnav/mag/prompt_44/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -2232,6 +2434,59 @@ What is the Compass course to steer?&lt;/p&gt;
 &lt;li&gt;&lt;strong&gt;Industry Adoption:&lt;/strong&gt; The transition from deterministic to probabilistic methods requires a significant learning curve for the maritime industry.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Despite these challenges, the move towards probabilistic safety assessment is a crucial step in enhancing maritime safety.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Accelerated corrosion in vapour spaces of Oil Tankers</title>
+      <link>http://localhost:1313/docs/partb/navarch/stress_and_strain/corrosion_oiltankers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/stress_and_strain/corrosion_oiltankers/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Q.1 — Accelerated Corrosion in the Vapour Space of Cargo Tanks (VLCC)&lt;/h1&gt;&lt;p&gt;The vapour space (ullage space) of a crude oil cargo tank — roughly the upper 10–15% of tank height above the highest normal liquid level, extending to the deckhead — is consistently found to suffer the highest corrosion rates in the entire tank structure, often 3–5 times the rate seen in the wetted/immersed zones. The reasons are both chemical and mechanical/operational:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Presence of corrosive gases in the atmosphere above the cargo&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Crude oil vapour is not inert. It contains &lt;strong&gt;hydrogen sulphide (H₂S)&lt;/strong&gt;, especially from sour crudes, which combines with moisture to form corrosive sulphur compounds.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sulphur dioxide (SO₂)&lt;/strong&gt; and other sulphur oxides form from combustion of sulphur-bearing residues when inert gas is used.&lt;/li&gt;
+&lt;li&gt;Inert gas itself (flue gas from IGS) contains &lt;strong&gt;SO₂, SO₃, CO₂, and traces of NOx&lt;/strong&gt;. When these combine with condensed water vapour, they form &lt;strong&gt;sulphurous acid (H₂SO₃), sulphuric acid (H₂SO₄), and carbonic acid (H₂CO₃)&lt;/strong&gt; — all highly aggressive to unprotected mild steel.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Condensation cycle (the primary driver)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The vapour space undergoes continuous temperature cycling — heating during loading/laden passage and cooling during ballast passage, especially when a ship moves from warm to cold climates.&lt;/li&gt;
+&lt;li&gt;Steel plating in the upper tank/deckhead is in direct contact with outside air/sea temperature through the deck plate, making it the coldest surface in the tank.&lt;/li&gt;
+&lt;li&gt;Warm, moisture and acid-gas laden vapour condenses preferentially on this cooler steel, forming a &lt;strong&gt;thin, acidic aqueous film&lt;/strong&gt; on the surface — an ideal electrolyte for electrochemical corrosion.&lt;/li&gt;
+&lt;li&gt;This condensation is repetitive and renews itself with every voyage cycle, unlike the wetted zone where the same cargo remains in contact for the voyage duration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. Absence of a protective liquid buffer&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In the wetted/bottom zone, any acidic condensate that does form is diluted and buffered by the bulk cargo or by settled water, and the oil film itself offers some degree of physical protection to the steel.&lt;/li&gt;
+&lt;li&gt;The vapour space has no such buffering — the acidic film sits directly and undiluted on bare steel.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;4. Structural/geometric factors specific to the vapour space&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;underdeck structure&lt;/strong&gt; (deckhead, longitudinals, brackets, and the underside of deck transverses) has a complex geometry with stiffener webs, flanges, and connections that trap condensate, preventing it from draining back into the cargo.&lt;/li&gt;
+&lt;li&gt;Corrosion products (rust scale) that form on these surfaces are often &lt;strong&gt;loosely adherent and non-protective&lt;/strong&gt;, unlike some passive oxide films, so they do not arrest further attack — this is sometimes described as &lt;strong&gt;&amp;ldquo;top-side&amp;rdquo; or &amp;ldquo;deckhead&amp;rdquo; corrosion&lt;/strong&gt; and is a well-documented classification society concern (particularly flagged in IACS Unified Requirements and CSR for oil tankers).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;5. Coating breakdown accelerates the process&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Even where protective coatings are applied to the upper 1.5 m of tank sides and complete deckhead (a SOLAS/MARPOL requirement since the 2004 amendments – see Q.5), coating failure due to mechanical damage during cargo operations (Butterworth machines, tank cleaning equipment impact, gas-freeing operations) exposes bare steel to this uniquely aggressive acidic-condensation environment, and once breached, corrosion at the holiday/damage spot proceeds rapidly because it is now a localized anodic site surrounded by a large cathodic coated area (an unfavourable anode-to-cathode area ratio).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;6. Oxygen availability&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The vapour space, particularly during gas-freeing, tank cleaning, or when the IGS is not maintaining a positive, oxygen-deficient blanket properly, can have higher oxygen ingress than the oil-covered zones, and oxygen is essential to sustain the cathodic reaction in the corrosion cell, further accelerating attack when combined with the acidic film.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Net effect:&lt;/strong&gt; The combination of
+(a) a continuously renewed acidic electrolyte film from condensation,
+(b) sulphur-bearing corrosive gases from crude and inert gas,
+(c) an unfavourable, undiluted exposure with no cargo buffering,
+and
+(d) complex structural geometry that retains moisture, makes the vapour space — especially the deckhead and upper strakes — the most corrosion-prone zone in a VLCC cargo tank.
+This is precisely why SOLAS Ch. II-1/3-2 mandates protective coating of the entire vapour space (deckhead and 1.5 m of adjacent side shell/transverse structure) on all new oil tankers regardless of size.&lt;/p&gt;
+&lt;hr&gt;
 
       </description>
     </item>
@@ -4792,144 +5047,6 @@ $\qquad \text{Payback Period} = \frac{\text{Initial Investment}}{\text{Annual Ca
 &lt;li&gt;&lt;strong&gt;Make informed shipping decisions:&lt;/strong&gt; Cargo circulars provide shippers with information on freight rates, shipping services, and new technologies that can help them to make informed shipping decisions.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Overall, commercial shipping cargo circulars are a valuable resource for businesses and individuals involved in the shipping of goods. By subscribing to cargo circulars, shippers can stay up-to-date on the latest shipping regulations and trends, avoid costly delays and disruptions, and make informed shipping decisions.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Cargo claims procedure</title>
-      <link>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/cgoclaimsproc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/cgoclaimsproc/</guid>
-      <description>
-        
-        
-        &lt;p&gt;The cargo claims procedure is the process of filing a claim with a carrier or insurer for loss or damage to cargo. The specific steps involved in the process may vary depending on the carrier, the type of cargo, and the nature of the loss or damage. However, the general process is as follows:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Notice of damage or loss:&lt;/strong&gt; The first step is to notify the carrier in writing of the damage or loss as soon as possible. This should be done within the time limits specified in the carrier&amp;rsquo;s bill of lading.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Documentation:&lt;/strong&gt; The claimant must gather all relevant documentation, including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;A copy of the bill of lading&lt;/li&gt;
-&lt;li&gt;A copy of the commercial invoice&lt;/li&gt;
-&lt;li&gt;A copy of the packing list&lt;/li&gt;
-&lt;li&gt;Photographs of the damaged cargo&lt;/li&gt;
-&lt;li&gt;A report from a surveyor or inspector&lt;/li&gt;
-&lt;li&gt;Any other documents that support the claim&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Submit the claim:&lt;/strong&gt; The claim should be submitted to the carrier or insurer in writing. The claim form should include a detailed description of the damage or loss, the value of the cargo, and copies of the supporting documentation.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Investigation:&lt;/strong&gt; The carrier or insurer will investigate the claim to determine if it is valid. This may involve interviewing witnesses, examining the damaged cargo, and reviewing the supporting documentation.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Settlement:&lt;/strong&gt; If the claim is valid, the carrier or insurer will settle the claim by paying the claimant the value of the damaged or lost cargo. The amount of the settlement may be based on the actual value of the cargo, the cost of repairs, or the value of the cargo at the destination.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2&gt;Here are some additional tips for filing a cargo claim:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;here-are-some-additional-tips-for-filing-a-cargo-claim&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#here-are-some-additional-tips-for-filing-a-cargo-claim&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;File the claim as soon as possible:&lt;/strong&gt; The sooner you file the claim, the more likely it is that you will be able to recover your losses.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Gather all relevant documentation:&lt;/strong&gt; The more documentation you can provide, the stronger your claim will be.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Be prepared to cooperate with the carrier&amp;rsquo;s investigation:&lt;/strong&gt; The carrier will need to interview you and inspect the damaged cargo in order to determine if your claim is valid.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Consider hiring a cargo claims attorney:&lt;/strong&gt; If your claim is large or complex, you may want to consider hiring a cargo claims attorney to help you file and process your claim.&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Cargo claims can be complex and time-consuming to process. However, by following the steps outlined above and providing the carrier or insurer with all of the necessary documentation, you can increase your chances of recovering your losses.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Cargo Handling Machineries Required for a Port.</title>
-      <link>http://localhost:1313/docs/partc/em302/portops/cargohandlingequipments/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partc/em302/portops/cargohandlingequipments/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Cargo Handling Equipment:&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;cargo-handling-equipment&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#cargo-handling-equipment&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Cranes&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;cranes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#cranes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Portal Crane,
-Mobile Crane,
-Tower crane,
-Ship to Shore Gantry Crane
-Rubber tyred Gantry Crane
-Rail mounted gantry crane
-Floating cranes&lt;/p&gt;
-&lt;h3&gt;Operational equipment&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;operational-equipment&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#operational-equipment&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Tractors,
-Trailers,
-Forklifts,
-Front Loader,
-Crane Crawlers,
-Reach stacker,
-Conveyors,
-Grabs,
-Spreader,
-Weigh Bridge,
-Bucket Elevator,
-Grain Hoppers,
-Bagging Scales,
-Dust Coil Unit,
-Bag Units Mobile,&lt;/p&gt;
-&lt;h3&gt;Marine Crafts&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;marine-crafts&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#marine-crafts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Berthing tugs,
-Lighter towing tugs,
-Lighters,
-Pontoons,
-labour launches,
-Pilot boats,
-Patrol Boats,
-Mooring Boats,
-Water Barges,
-SBM Tender,&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Cargo insurance rating</title>
-      <link>http://localhost:1313/docs/partc/em303/cargoinsurance/insurancerating/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partc/em303/cargoinsurance/insurancerating/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Cargo insurance basis of rating refers to the factors that insurance companies consider when calculating the premium for a cargo insurance policy. These factors can be broadly divided into two categories:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;Cargo-related factors:&lt;/strong&gt; These factors include the type of cargo being insured, its value, its packaging, and the route it will be taking.&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Transit-related factors:&lt;/strong&gt; These factors include the mode of transportation, the duration of the journey, and the political and economic stability of the countries involved.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;In addition to these general factors, insurance companies may also consider other specific factors, such as the shipper&amp;rsquo;s claims history and the underwriter&amp;rsquo;s own experience with similar risks.&lt;/p&gt;
-&lt;p&gt;The most common basis of rating for cargo insurance is the &lt;strong&gt;CIF + 10%&lt;/strong&gt; basis. This means that the premium is calculated based on the cost, insurance, and freight (CIF) value of the cargo, plus an additional 10%. The CIF value is the total cost of the cargo, plus the cost of insurance and freight to the port of destination.&lt;/p&gt;
-&lt;p&gt;Other common bases of rating include:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;Agreed value:&lt;/strong&gt; Under this basis of rating, the insured and the insurer agree on a value for the cargo before the policy is issued. This value is used to calculate the premium and to settle any claims that may arise.
-2 &lt;strong&gt;Invoice value:&lt;/strong&gt; Under this basis of rating, the premium is calculated based on the invoice value of the cargo. This is the value of the cargo as stated on the invoice from the seller to the buyer.
-3 &lt;strong&gt;Market value:&lt;/strong&gt; Under this basis of rating, the premium is calculated based on the market value of the cargo at the time of the loss. This is the value that the cargo could be sold for on the open market at that time.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;The basis of rating that is used will vary depending on the specific cargo and the insurance company&amp;rsquo;s underwriting guidelines.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Example:&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;A company is shipping a container of smartphones from China to the United States. The CIF value of the shipment is $1 million. The insurance company agrees to insure the shipment on an agreed value basis. The premium rate is 0.5%. The premium for the policy would be calculated as follows:&lt;/p&gt;
-&lt;p&gt;Premium = Agreed value x Premium rate&lt;/p&gt;
-&lt;p&gt;Premium = $1,000,000 x 0.5%&lt;/p&gt;
-&lt;p&gt;Premium = $5,000&lt;/p&gt;
-&lt;p&gt;The company would pay a premium of $5,000 to insure the shipment for its agreed value of $1 million.&lt;/p&gt;
-&lt;p&gt;It is important to note that cargo insurance premiums can vary widely depending on the factors mentioned above. It is therefore important to compare quotes from multiple insurance companies before purchasing a policy.&lt;/p&gt;
 
       </description>
     </item>

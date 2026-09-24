@@ -15,6 +15,415 @@
     
     
     <item>
+      <title> Q.5 — Ballast Tank Corrosion Prevention as per SOLAS</title>
+      <link>http://localhost:1313/docs/partb/navarch/stress_and_strain/ballast_tank_corrosion_solas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/stress_and_strain/ballast_tank_corrosion_solas/</guid>
+      <description>
+        
+        
+        &lt;h2&gt;Ballast tank corrosion prevention as per SOLAS&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ballast-tank-corrosion-prevention-as-per-solas&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#ballast-tank-corrosion-prevention-as-per-solas&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;SOLAS Chapter II-1, Regulation 3-2, together with the &lt;strong&gt;IMO Performance Standard for Protective Coatings (PSPC) for Dedicated Seawater Ballast Tanks&lt;/strong&gt; (resolution MSC.215(82), adopted 2006, mandatory for ships contracted for construction on or after 1 July 2008), forms the regulatory basis for ballast tank corrosion prevention. It applies to all dedicated seawater ballast tanks of 150 gt and above and to the double-side skin spaces of bulk carriers 150 m and above.&lt;/p&gt;
+&lt;h2&gt;(a) Adherence to Performance Standards of Paint Coatings&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;a-adherence-to-performance-standards-of-paint-coatings&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#a-adherence-to-performance-standards-of-paint-coatings&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Design life target&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PSPC sets a target coating life of &lt;strong&gt;15 years&lt;/strong&gt;, defined as the period during which the coating system is expected to remain in &amp;ldquo;GOOD&amp;rdquo; condition (as per the IACS condition grading: GOOD = spot rusting on less than 3% of the area under consideration, with no visible failure/breakdown over the rest).&lt;/li&gt;
+&lt;li&gt;This is not a guarantee but a &lt;strong&gt;performance benchmark against which the coating system, application procedure, and surface preparation are all certified&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Key technical requirements under PSPC&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Coating system selection&lt;/strong&gt;: Only coating systems that have passed a standardized &lt;strong&gt;cyclic testing procedure&lt;/strong&gt; (as per IMO PSPC Annex 1) — which simulates 90 days of accelerated exposure combining seawater immersion, dry heat, condensation humidity, and UV exposure cycles, on both flat panels and specially designed edge/geometry test panels — are approved for use as &amp;ldquo;PSPC-compliant.&amp;rdquo;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Surface preparation standard&lt;/strong&gt;: Steel surfaces must be prepared to &lt;strong&gt;Sa 2½ (near-white blast cleaning)&lt;/strong&gt; per ISO 8501-1, with a specified &lt;strong&gt;surface profile (roughness) of 30–75 microns&lt;/strong&gt;, since coating adhesion and hence service life is highly sensitive to surface cleanliness and profile.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Steel condition before coating&lt;/strong&gt;: Requirements on &lt;strong&gt;primary surface preparation&lt;/strong&gt; (shop primer compatibility) and control of &lt;strong&gt;soluble salt contamination&lt;/strong&gt; (chloride/salt contamination limits, typically ≤50 mg/m² NaCl equivalent) before coating, since residual salts under a coating film cause osmotic blistering and premature localized coating breakdown.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dry film thickness (DFT)&lt;/strong&gt;: A minimum &lt;strong&gt;nominal total DFT of 320 microns&lt;/strong&gt; (two coats of stripe coating plus two full coats, or equivalent), with &lt;strong&gt;90/10 rule compliance&lt;/strong&gt; — at least 90% of DFT measurements must meet or exceed nominal DFT, and no measurement may be below 90% of nominal DFT — ensuring the coating is neither under-applied (early breakdown) nor grossly uneven.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stripe coating requirement&lt;/strong&gt;: Edges, corners, welds, and other geometrically complex areas (exactly the transition zones discussed in Q.4) must receive an &lt;strong&gt;additional stripe coat by brush or roller&lt;/strong&gt; before the main spray coats, because spray application alone cannot achieve adequate film thickness on sharp edges and corners — this is a direct regulatory response to the &amp;ldquo;difficulty of coating during service/construction&amp;rdquo; issue discussed below.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Light-coloured topcoat&lt;/strong&gt;: A light colour finish is required specifically to make &lt;strong&gt;inspection of coating breakdown, rust staining, and mechanical damage easier&lt;/strong&gt; during subsequent surveys.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Coating Technical File (CTF)&lt;/strong&gt;: The shipyard must maintain a full record — surface preparation reports, environmental conditions during application (temperature, humidity, dew point), DFT measurement records, and inspection hold points — which becomes a permanent onboard/class record for verifying that PSPC compliance was actually achieved, not merely specified.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2&gt;(b) Importance of Initial Coating and the Difficulty of Coating During Service&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;b-importance-of-initial-coating-and-the-difficulty-of-coating-during-service&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#b-importance-of-initial-coating-and-the-difficulty-of-coating-during-service&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Why the initial (as-built) coating application is disproportionately important&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ballast tanks have highly &lt;strong&gt;complex internal geometry&lt;/strong&gt; — stiffeners, brackets, manholes, air/sounding pipes, girders — and the &lt;em&gt;only&lt;/em&gt; time in a ship&amp;rsquo;s life when full, unrestricted access, proper ventilation, controlled temperature/humidity, and dedicated blasting/spraying equipment are simultaneously available is &lt;strong&gt;during new construction at the shipyard&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Any deficiency in surface preparation or coating application at this stage — inadequate blast profile, insufficient stripe coating at brackets/toes, poor DFT control in way of complex framing — creates a &lt;strong&gt;latent weak point that cannot be economically or technically corrected later&lt;/strong&gt;, and will manifest as early, localized coating breakdown once the tank enters seawater ballast service.&lt;/li&gt;
+&lt;li&gt;This is precisely why PSPC places such heavy emphasis on &lt;strong&gt;third-party verification of the initial coating process&lt;/strong&gt; (via a Coating Inspector qualified to NACE/FROSIO level, and mandatory hold-point inspections by the shipyard, coating manufacturer&amp;rsquo;s representative, and often owner&amp;rsquo;s representative) — the industry recognizes that &lt;strong&gt;&amp;ldquo;getting it right the first time&amp;rdquo; is far more cost-effective and technically achievable than any subsequent in-service repair&lt;/strong&gt;, and that the vast majority of a coating&amp;rsquo;s eventual service life is determined by the quality of this single initial application.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Why coating repair/maintenance during service is difficult&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Access constraints&lt;/strong&gt;: Ballast tanks in service can only be accessed when &lt;strong&gt;empty and gas-freed&lt;/strong&gt;, which for a fully utilized vessel may mean limited windows during scheduled dry-docking or occasional deballasting for inspection — routine, unscheduled repair as soon as breakdown is noticed is often operationally impractical.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Environmental control&lt;/strong&gt;: Shipboard tank atmospheres cannot replicate the shipyard&amp;rsquo;s controlled temperature, humidity, and dew-point conditions; &lt;strong&gt;coating applied in service is far more prone to condensation-induced adhesion failure and incomplete cure&lt;/strong&gt;, especially in tropical humidity or cold climates.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Surface preparation limitations&lt;/strong&gt;: Full abrasive blasting to Sa 2½ inside an enclosed ballast tank on a loaded/operating ship is &lt;strong&gt;extremely difficult, hazardous (confined space, dust, ventilation), and time-consuming&lt;/strong&gt; — in-service repairs frequently rely on hand/power tool cleaning (a lower standard, typically St 2/St 3), which achieves a lesser surface profile and consequently shorter repair-coating life.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Confined space and safety hazards&lt;/strong&gt;: Ballast tank coating repair requires &lt;strong&gt;confined space entry procedures, forced ventilation, and often hot work permits&lt;/strong&gt; near cargo tanks (fire/explosion risk considerations), all of which constrain the scope, timing, and thoroughness of repair work that can practically be undertaken.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cost and downtime&lt;/strong&gt;: Full re-coating of a ballast tank in service (as opposed to spot repair) is a &lt;strong&gt;major, costly undertaking usually reserved for dry-docking&lt;/strong&gt;, meaning that once the original coating begins general breakdown (rather than isolated spot failure), the ship may operate for extended periods with a degraded coating system before a full recoat is economically undertaken — during which time corrosion (including the localized pitting mechanism discussed in Q.2) proceeds essentially unchecked in the breakdown areas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Progressive/cascading breakdown&lt;/strong&gt;: Once isolated coating failure occurs, the exposed bare steel corrodes and the resulting &lt;strong&gt;rust scale further undermines the adhesion of adjacent intact coating&lt;/strong&gt; (edge creep/undercutting), meaning coating breakdown, once started, tends to spread progressively rather than remaining static — making early intervention important but, per the above points, operationally difficult to achieve promptly.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Net regulatory logic&lt;/strong&gt;: Because in-service coating repair is inherently inferior in quality and difficult to execute compared to original shipyard application, PSPC&amp;rsquo;s strategy is to &lt;strong&gt;front-load quality assurance heavily at the newbuilding stage&lt;/strong&gt; (rigorous surface prep standards, stripe coating, DFT verification, documented Coating Technical File) so that the coating is far less likely to require major intervention within its 15-year design life, recognizing that the ballast tank environment will not readily permit an equivalent standard of repair once the ship is in service.&lt;/p&gt;
+&lt;hr&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Accelerated corrosion in vapour spaces of Oil Tankers</title>
+      <link>http://localhost:1313/docs/partb/navarch/stress_and_strain/corrosion_oiltankers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/stress_and_strain/corrosion_oiltankers/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Q.1 — Accelerated Corrosion in the Vapour Space of Cargo Tanks (VLCC)&lt;/h1&gt;&lt;p&gt;The vapour space (ullage space) of a crude oil cargo tank — roughly the upper 10–15% of tank height above the highest normal liquid level, extending to the deckhead — is consistently found to suffer the highest corrosion rates in the entire tank structure, often 3–5 times the rate seen in the wetted/immersed zones. The reasons are both chemical and mechanical/operational:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Presence of corrosive gases in the atmosphere above the cargo&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Crude oil vapour is not inert. It contains &lt;strong&gt;hydrogen sulphide (H₂S)&lt;/strong&gt;, especially from sour crudes, which combines with moisture to form corrosive sulphur compounds.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Sulphur dioxide (SO₂)&lt;/strong&gt; and other sulphur oxides form from combustion of sulphur-bearing residues when inert gas is used.&lt;/li&gt;
+&lt;li&gt;Inert gas itself (flue gas from IGS) contains &lt;strong&gt;SO₂, SO₃, CO₂, and traces of NOx&lt;/strong&gt;. When these combine with condensed water vapour, they form &lt;strong&gt;sulphurous acid (H₂SO₃), sulphuric acid (H₂SO₄), and carbonic acid (H₂CO₃)&lt;/strong&gt; — all highly aggressive to unprotected mild steel.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Condensation cycle (the primary driver)&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The vapour space undergoes continuous temperature cycling — heating during loading/laden passage and cooling during ballast passage, especially when a ship moves from warm to cold climates.&lt;/li&gt;
+&lt;li&gt;Steel plating in the upper tank/deckhead is in direct contact with outside air/sea temperature through the deck plate, making it the coldest surface in the tank.&lt;/li&gt;
+&lt;li&gt;Warm, moisture and acid-gas laden vapour condenses preferentially on this cooler steel, forming a &lt;strong&gt;thin, acidic aqueous film&lt;/strong&gt; on the surface — an ideal electrolyte for electrochemical corrosion.&lt;/li&gt;
+&lt;li&gt;This condensation is repetitive and renews itself with every voyage cycle, unlike the wetted zone where the same cargo remains in contact for the voyage duration.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. Absence of a protective liquid buffer&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;In the wetted/bottom zone, any acidic condensate that does form is diluted and buffered by the bulk cargo or by settled water, and the oil film itself offers some degree of physical protection to the steel.&lt;/li&gt;
+&lt;li&gt;The vapour space has no such buffering — the acidic film sits directly and undiluted on bare steel.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;4. Structural/geometric factors specific to the vapour space&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;underdeck structure&lt;/strong&gt; (deckhead, longitudinals, brackets, and the underside of deck transverses) has a complex geometry with stiffener webs, flanges, and connections that trap condensate, preventing it from draining back into the cargo.&lt;/li&gt;
+&lt;li&gt;Corrosion products (rust scale) that form on these surfaces are often &lt;strong&gt;loosely adherent and non-protective&lt;/strong&gt;, unlike some passive oxide films, so they do not arrest further attack — this is sometimes described as &lt;strong&gt;&amp;ldquo;top-side&amp;rdquo; or &amp;ldquo;deckhead&amp;rdquo; corrosion&lt;/strong&gt; and is a well-documented classification society concern (particularly flagged in IACS Unified Requirements and CSR for oil tankers).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;5. Coating breakdown accelerates the process&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Even where protective coatings are applied to the upper 1.5 m of tank sides and complete deckhead (a SOLAS/MARPOL requirement since the 2004 amendments – see Q.5), coating failure due to mechanical damage during cargo operations (Butterworth machines, tank cleaning equipment impact, gas-freeing operations) exposes bare steel to this uniquely aggressive acidic-condensation environment, and once breached, corrosion at the holiday/damage spot proceeds rapidly because it is now a localized anodic site surrounded by a large cathodic coated area (an unfavourable anode-to-cathode area ratio).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;6. Oxygen availability&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The vapour space, particularly during gas-freeing, tank cleaning, or when the IGS is not maintaining a positive, oxygen-deficient blanket properly, can have higher oxygen ingress than the oil-covered zones, and oxygen is essential to sustain the cathodic reaction in the corrosion cell, further accelerating attack when combined with the acidic film.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Net effect:&lt;/strong&gt; The combination of
+(a) a continuously renewed acidic electrolyte film from condensation,
+(b) sulphur-bearing corrosive gases from crude and inert gas,
+(c) an unfavourable, undiluted exposure with no cargo buffering,
+and
+(d) complex structural geometry that retains moisture, makes the vapour space — especially the deckhead and upper strakes — the most corrosion-prone zone in a VLCC cargo tank.
+This is precisely why SOLAS Ch. II-1/3-2 mandates protective coating of the entire vapour space (deckhead and 1.5 m of adjacent side shell/transverse structure) on all new oil tankers regardless of size.&lt;/p&gt;
+&lt;hr&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Corrosion as a Prime Cause of Oil Tanker Structural Failures: Casualty Analysis and Risk at Ballast Tank Boundaries and Transition Zones</title>
+      <link>http://localhost:1313/docs/partb/navarch/stress_and_strain/corrosion_transition_zones/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/stress_and_strain/corrosion_transition_zones/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Q.4 — Corrosion as a Prime Cause of Oil Tanker Structural Failures: Casualty Analysis and Risk at Ballast Tank Boundaries and Transition Zones&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;The general finding from casualty investigations&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Since the early 1990s, a series of major tanker structural failures — several resulting in the vessel breaking in two and catastrophic oil pollution — have been investigated by flag states, classification societies, and IMO, and in almost every case, &lt;strong&gt;uncontrolled/undetected corrosion wastage of primary structural members was identified as a principal contributing cause&lt;/strong&gt;, often acting in combination with fatigue cracking, inadequate survey/maintenance history, and in some cases heavy weather loading that a sound structure would have withstood.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Illustrative casualties&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;MV Nakhodka (1997)&lt;/strong&gt; — A Russian-flagged tanker that broke in two in the Sea of Japan during heavy weather, spilling a large quantity of heavy fuel oil. Post-casualty investigation attributed the failure substantially to &lt;strong&gt;severe corrosion of the deck and side shell structure combined with fatigue cracking&lt;/strong&gt; at a location that had not been adequately assessed in prior surveys, illustrating how wastage in way of critical transverse structure reduces the hull girder&amp;rsquo;s residual strength below what heavy weather bending moments then exceeded.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Erika (1999)&lt;/strong&gt; — A tanker that broke in two off the coast of Brittany, France, causing a major pollution incident along the French coastline. The official investigation found that the hull had suffered from &lt;strong&gt;extensive corrosion in the ballast tanks&lt;/strong&gt;, particularly in way of the side shell frames and brackets, which had progressively weakened the transverse structure over a period during which surveys and repairs had not adequately addressed the deterioration. The incident was a major driver behind the EU&amp;rsquo;s subsequent tightening of tanker safety and inspection regimes (the &amp;ldquo;Erika packages&amp;rdquo;).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Prestige (2002)&lt;/strong&gt; — A single-hull tanker that suffered structural failure off the coast of Spain in heavy weather, ultimately breaking apart and sinking with a very large quantity of fuel oil, causing extensive pollution along the Spanish and French coasts. Structural assessment pointed to &lt;strong&gt;corrosion-weakened side shell plating and internal structure&lt;/strong&gt;, with the initiating crack/failure occurring in a heavily corroded area of the hull that had lost significant section modulus, again in combination with severe weather bending loads.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Kirki (1991)&lt;/strong&gt; and several other 1980s–90s single-hull tanker losses were similarly traced back to corrosion-driven loss of the bow structure or hull girder strength, reinforcing the pattern well before Erika and Prestige brought it to wider public/regulatory attention.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Why the risk of failure is elevated specifically adjacent to ballast tanks&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;One-sided exposure and asymmetric corrosion environment&lt;/strong&gt;: A structural member forming the common boundary between a cargo oil tank and a ballast tank (a longitudinal bulkhead, for example) experiences &lt;strong&gt;corrosive attack from both faces simultaneously, but from two different aggressive environments&lt;/strong&gt; — the cargo side subject to acid condensation/H₂S attack as in Q.1, and the ballast side subject to seawater corrosion, particularly aggressive when ballast is carried in tanks that are only intermittently coated-maintained or where coating breakdown allows seawater contact with bare steel for extended periods.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ballast tanks are wet for extended periods and experience the classic seawater corrosion cycle&lt;/strong&gt; — full immersion, wet/dry cycling at the waterline as ballast is taken/discharged, and residual moisture even when &amp;ldquo;empty,&amp;rdquo; all of which sustain a continuously active corrosion cell on the ballast side, unlike cargo tanks where the liquid, while acidic in the vapour space, is oil rather than an electrolyte over most of the wetted surface.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Coating deterioration is typically most advanced in ballast tanks&lt;/strong&gt; because of the combination of mechanical damage (ballast water turbulence, anchor chain/anodes chafing), oxygenated seawater, and historically shorter coating service lives before PSPC — meaning the ballast-side face of these common structural members frequently reaches bare-steel condition well before the cargo-side face does, making these members net thinner from both sides at once.&lt;/li&gt;
+&lt;li&gt;Consequently, &lt;strong&gt;double-bottom structure (inner bottom plating, bottom longitudinals, floors) and the double-hull side structure at the cargo/ballast boundary consistently show up in survey data and casualty records as having the highest wastage rates&lt;/strong&gt; in the ship, precisely because they sit at this two-sided corrosive interface.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Why transition zones are especially vulnerable&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Transition zones&amp;rdquo; refers to locations where there is an &lt;strong&gt;abrupt change in structural continuity, geometry, or material&lt;/strong&gt; — for example:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Where the double bottom structure meets the sloped hopper tank/bilge structure&lt;/li&gt;
+&lt;li&gt;Where a longitudinal bulkhead terminates or changes in stiffening arrangement&lt;/li&gt;
+&lt;li&gt;Where scantlings change from one strength grade of steel to another, or where plate thickness steps down&lt;/li&gt;
+&lt;li&gt;At the ends of the cargo tank block, where the more heavily framed engine room/forecastle structure meets the more lightly framed cargo tank structure&lt;/li&gt;
+&lt;li&gt;At bracket toes, knuckle points, and openings (manholes, access hatches) in primary members&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;These zones are disproportionately at risk for several combined reasons:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Stress concentration&lt;/strong&gt;: Any geometric discontinuity — a knuckle, bracket toe, opening, or abrupt scantling change — inherently produces &lt;strong&gt;localized stress concentration&lt;/strong&gt; under the hull girder&amp;rsquo;s global bending and local pressure loads, well above the nominal/average stress level elsewhere in the member. Corrosion wastage at exactly these high-stress points reduces section modulus precisely where the margin against yield/fatigue failure is already thinnest.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Coating application difficulty&lt;/strong&gt;: Complex geometry at brackets, knuckles, and structural transitions is notoriously &lt;strong&gt;difficult to coat effectively during original construction&lt;/strong&gt; — spray access is restricted, and edges/corners are prone to low dry-film thickness — meaning these areas are statistically more likely to suffer early coating breakdown and hence earlier corrosion onset than flat, easily-coated plate surfaces (this links directly to Q.5&amp;rsquo;s discussion of initial coating difficulty).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fatigue crack initiation sites&lt;/strong&gt;: Because these are also the classic locations for fatigue crack initiation (see Q.6), corrosion and fatigue &lt;strong&gt;interact synergistically&lt;/strong&gt; — corrosion pitting can act as a stress-raiser that initiates a fatigue crack earlier than would occur on smooth, uncorroded plate, and a fatigue crack, once initiated, provides a fresh crevice that further localizes and accelerates corrosion attack. This corrosion-fatigue interaction was specifically identified in several of the above casualty investigations as compounding the loss of structural integrity faster than either mechanism would alone.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Cumulative effect on hull girder strength&lt;/strong&gt;: Because the double bottom and deck are the primary tension/compression flanges of the hull girder box-section, and transition zones/ballast-tank-adjacent members contribute significantly to their combined section modulus, &lt;strong&gt;corrosion-driven thickness loss concentrated at these specific locations reduces overall hull girder strength disproportionately&lt;/strong&gt; relative to the same percentage wastage occurring more generally across less critical areas — which is exactly the mechanism identified as leading to the sudden brittle-style overload failures seen in the Erika, Prestige, and Nakhodka casualties.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Summary of the causal chain identified across these casualties&lt;/strong&gt;
+Undetected/underestimated corrosion wastage (often worse than average survey figures suggested, due to the pitting/localization issues in Q.2) concentrated at ballast-tank-adjacent structure and transition zones → reduced local section modulus and increased stress concentration at points already vulnerable to fatigue → crack initiation and propagation → combined with heavy weather bending moment → residual hull girder strength falls below the applied load → catastrophic hull girder failure (breaking in two), with major oil outflow as the consequence.&lt;/p&gt;
+&lt;hr&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Fatigue Cracks- Why They Occur, Where to Look, and Which Areas Need More Stringent Inspection</title>
+      <link>http://localhost:1313/docs/partb/navarch/stress_and_strain/fatigue-cracks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/stress_and_strain/fatigue-cracks/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Q.6 — Fatigue Cracks: Why They Occur, Where to Look, and Which Areas Need More Stringent Inspection&lt;/h1&gt;&lt;h2&gt;Why Fatigue Cracks Occur&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;why-fatigue-cracks-occur&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#why-fatigue-cracks-occur&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;Basic mechanism&lt;/strong&gt;
+Fatigue cracking is fundamentally different from corrosion or overload failure — it results from &lt;strong&gt;repeated cyclic loading at stress levels well below the material&amp;rsquo;s ultimate tensile strength, and often below yield strength&lt;/strong&gt;, applied over a very large number of cycles. On a ship&amp;rsquo;s hull structure, this cyclic loading arises continuously throughout the vessel&amp;rsquo;s operating life from:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Wave-induced hull girder bending&lt;/strong&gt; — every wave encounter produces alternating hogging and sagging stresses in the hull girder, and over a 25-year design life a vessel may experience on the order of &lt;strong&gt;10⁸ load cycles&lt;/strong&gt;, an enormous number even at relatively low individual stress ranges.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Local dynamic pressure loading&lt;/strong&gt; — slamming (bottom and bow flare slamming in ballast condition), sloshing loads in partially-filled tanks, and green water on deck all impose additional high-frequency local cyclic stresses superimposed on the global hull girder bending.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Thermal cycling&lt;/strong&gt; — repeated heating/cooling of cargo tank structure (hot cargo loading, cold ballast passages) produces cyclic thermal stress in restrained structural members.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vibration&lt;/strong&gt; — machinery-induced and propeller-induced vibration adds high-cycle, low-amplitude stress reversals, particularly in way of the aft structure.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Why cracks initiate specifically where they do&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Fatigue cracks do not initiate randomly on a flat, unstressed plate; they initiate at points of &lt;strong&gt;local stress concentration&lt;/strong&gt;, where the nominal (average) stress in a member is locally amplified by geometry, discontinuity, or a pre-existing flaw:&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Weld toes and weld defects&lt;/strong&gt; — the weld toe geometry itself creates a natural stress-riser (the abrupt change in section and the residual tensile stress field from welding), and any weld defect (porosity, lack of fusion, undercut, slag inclusion) that acts as a micro-notch further concentrates stress at a sub-millimetre scale, providing the ideal crack-initiation site.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Structural discontinuities&lt;/strong&gt; — bracket toes, knuckles, hard points where stiffening arrangements change, scallops, and cut-outs all produce a local stress concentration factor (Kt) significantly above 1.0, meaning the local stress range experienced at these points is several times the nominal stress range elsewhere in the member.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Corrosion pits and wastage&lt;/strong&gt; — as discussed in Q.2 and Q.4, a corrosion pit acts exactly like a machined notch, providing a highly effective, often overlooked, fatigue crack initiation site — this corrosion-fatigue interaction is now recognized as one of the dominant failure mechanisms in aging tankers.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Misalignment and fabrication tolerance&lt;/strong&gt; — out-of-plane misalignment at butt welds or fillet welds introduces additional local bending stress (secondary bending) not accounted for in the nominal design stress, effectively increasing the actual stress range experienced at the joint beyond calculated values.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Once a micro-crack initiates at such a site, &lt;strong&gt;crack propagation follows a well-established fatigue crack growth law (Paris&amp;rsquo; Law regime)&lt;/strong&gt; — the crack grows a small increment with each stress cycle, with the growth rate accelerating as the crack lengthens (because the effective stress intensity factor at the crack tip increases with crack length), until the remaining ligament of sound material can no longer sustain the load, at which point rapid/brittle final fracture occurs — often suddenly, with little visible warning beyond the crack itself if not caught during inspection.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Where to Look During Routine Inspection&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;where-to-look-during-routine-inspection&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#where-to-look-during-routine-inspection&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Because fatigue cracks are inherently localized to specific geometric/structural features rather than distributed generally, inspection must be &lt;strong&gt;targeted rather than generic&lt;/strong&gt;. Key locations include:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Weld connections at bracket toes&lt;/strong&gt; — particularly transverse web frame brackets to longitudinals, at both cargo tank and ballast tank boundaries.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Longitudinal stiffener connections to transverse webs/floors&lt;/strong&gt;, especially where the stiffener passes through a &lt;strong&gt;slot/cut-out in the transverse member&lt;/strong&gt; — the slot edge is a classic high-stress-concentration detail.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Hopper tank knuckle&lt;/strong&gt; (the junction between the inner bottom, hopper sloping plate, and side shell) — a primary hot-spot in double-hull tankers due to the abrupt change in structural stiffness and geometry at this line.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deck plating at hatch corners&lt;/strong&gt; (on vessels with deck openings) and at intersections of deck longitudinals with transverse deck structure.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Side shell frame connections&lt;/strong&gt; to top-side and bottom brackets, particularly in the way of the ballast waterline where corrosion (wet/dry cycling) and stress concentration compound each other.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Manhole and lightening hole corners/edges&lt;/strong&gt; in floors, girders, and web frames — any circular or elliptical cut-out edge in way of a heavily loaded plate field.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Toe of doubler plates, insert plates, and any welded attachment&lt;/strong&gt; to primary structure (ladders, piping clips, staging brackets) — these are often overlooked &amp;ldquo;non-structural&amp;rdquo; attachments that nonetheless introduce local stress concentration into primary members.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Butt weld and block-erection joints&lt;/strong&gt; in highly stressed strakes (sheer strake, bilge strake, deck stringer) where fabrication misalignment is most likely to have occurred.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Termination points of longitudinal bulkheads and girders&lt;/strong&gt;, where a continuous member ends and load must transfer into adjoining structure through a bracket or soft-toe detail.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Inspection at these locations should specifically look for: &lt;strong&gt;hairline cracks in coating (which often show cracking before the underlying steel crack becomes visible), rust bleeding/weeping from a crack line (indicating water ingress through a through-thickness crack), local coating disbondment following a linear pattern, and, where coating is absent, visual crack lines often best revealed by close-up visual examination supplemented by dye penetrant or magnetic particle testing at suspect locations.&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;Areas Requiring More Stringent Inspection&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;areas-requiring-more-stringent-inspection&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#areas-requiring-more-stringent-inspection&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Classification society Enhanced Survey Programme (ESP) requirements and industry experience (including from the casualties discussed in Q.4) direct particular attention to:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Ballast tank structure adjacent to cargo tanks&lt;/strong&gt; — given the combined corrosion-fatigue interaction discussed above, these locations are specifically flagged for &lt;strong&gt;close-up survey&lt;/strong&gt; (meaning the surveyor must be within arm&amp;rsquo;s reach of the structure, not just general visual survey from a distance) under IACS ESP requirements, especially as the vessel ages beyond 10 years.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Transverse bulkhead structure&lt;/strong&gt;, particularly at the connection to the double bottom and to the deck, since transverse bulkheads carry significant racking/shear loads.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fore end structure&lt;/strong&gt; (particularly bottom shell forward, subject to slamming loads) and &lt;strong&gt;aft end/engine room structure&lt;/strong&gt; (subject to propeller-induced vibration and higher local stress from hull form changes).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Any area with a known history of repair or previous crack findings&lt;/strong&gt; — a location that has cracked once is statistically far more likely to crack again, both because the underlying stress concentration that caused the original crack remains, and because repair welding itself introduces new residual stress and potential defects.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Suspect areas identified through the vessel&amp;rsquo;s own trading history and loading pattern&lt;/strong&gt; — vessels engaged in frequent alternate loading (partial cargo/ballast combinations that increase local sloshing and dynamic loading) or vessels with a documented history of heavy weather encounters warrant more targeted attention at the locations known to be sensitive to these load types.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Locations identified by finite element/fatigue strength assessment during design (CSR/HCSR fatigue analysis) as having a low calculated fatigue life or low safety factor&lt;/strong&gt; — modern classification rules require designers to identify and report these &amp;ldquo;fatigue-critical&amp;rdquo; locations specifically, and ESP survey requirements are increasingly being tied to these designer-flagged hot-spots rather than relying solely on generic survey checklists.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The overarching survey principle is that because fatigue cracks are a &lt;strong&gt;statistically low-probability-of-detection defect&lt;/strong&gt; at any single random inspection (a crack must be caught while it&amp;rsquo;s still small enough not to have caused failure, but often after it is large enough to be visible), inspection intervals and intensity must be weighted heavily toward the geometrically and historically known hot-spots rather than treated as a uniform, generic sweep of the entire structure.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Let me know when you&amp;rsquo;d like Q.7.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Limitations of Structural Surveys, Inspections, and Thickness Measurements in Assessing Corrosion and Diminution</title>
+      <link>http://localhost:1313/docs/partb/navarch/stress_and_strain/limitations_of_ut/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/stress_and_strain/limitations_of_ut/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Q.7 — Limitations of Structural Surveys, Inspections, and Thickness Measurements in Assessing Corrosion and Diminution&lt;/h1&gt;&lt;p&gt;While the Enhanced Survey Programme (ESP), close-up surveys, and thickness measurement (TM) regimes form the backbone of tanker structural assessment, each method carries inherent limitations that mean the reported condition of a ship&amp;rsquo;s structure is, at best, a &lt;strong&gt;statistically incomplete and time-lagged approximation&lt;/strong&gt; of true condition — not an exhaustive, real-time picture. These limitations must be understood by anyone relying on survey/TM reports to judge actual structural safety margins.&lt;/p&gt;
+&lt;h2&gt;1. Sampling Nature of Thickness Measurement — Spot Readings Cannot Capture Localized Attack&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-sampling-nature-of-thickness-measurement--spot-readings-cannot-capture-localized-attack&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#1-sampling-nature-of-thickness-measurement--spot-readings-cannot-capture-localized-attack&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;UT thickness gauging is inherently a &lt;strong&gt;point-sampling technique&lt;/strong&gt;: a probe is placed at a discrete location, and the reading represents the thickness at that exact spot only, typically a few square centimetres.&lt;/li&gt;
+&lt;li&gt;As discussed in Q.2, &lt;strong&gt;pitting corrosion is highly localized&lt;/strong&gt; — a pit only a few millimetres in diameter can have penetrated to near-perforation while a TM reading taken even 50–100 mm away shows apparently sound plate. Class society TM patterns (typically a grid of points per panel, per IACS UR Z10 series requirements) are a &lt;strong&gt;statistical sample&lt;/strong&gt;, not a full-coverage survey, and by definition cannot guarantee detection of every pit, particularly where pit density is low but individual pit depth is severe.&lt;/li&gt;
+&lt;li&gt;Reported &amp;ldquo;average diminution&amp;rdquo; or &amp;ldquo;percentage wastage&amp;rdquo; figures derived from TM readings can therefore &lt;strong&gt;mask the true worst-case condition&lt;/strong&gt; of a panel — a plate can show acceptable average thickness while containing isolated pits at or beyond the renewal/critical threshold.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;2. Accessibility Constraints Limit Coverage&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-accessibility-constraints-limit-coverage&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#2-accessibility-constraints-limit-coverage&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Many critical structural locations — the underside of deck structure in way of complex framing, the interior of box girders, the crown of hopper tanks, areas behind permanent staging, pipe runs, or ladders — are &lt;strong&gt;physically difficult or impossible to reach&lt;/strong&gt; for direct contact UT measurement without extensive staging, rafting, or confined-space access, which is costly and time-limited during a survey/dry-dock window.&lt;/li&gt;
+&lt;li&gt;Where access is difficult, surveyors and owners may rely on either &lt;strong&gt;reduced sampling density&lt;/strong&gt; in these areas or on remote means (see point 5) that have their own accuracy limitations, meaning the most geometrically complex — and, as discussed in Q.4 and Q.6, often the most corrosion-and-fatigue-prone — areas are frequently the least thoroughly measured.&lt;/li&gt;
+&lt;li&gt;Confined space entry requirements (gas-freeing, ventilation, permits) further restrict the time available inside a tank during a survey, incentivizing surveyors toward efficient sampling patterns rather than exhaustive coverage.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;3. Coating Presence Obscures the Underlying Steel Condition&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-coating-presence-obscures-the-underlying-steel-condition&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#3-coating-presence-obscures-the-underlying-steel-condition&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Where a tank retains an intact coating (which is the desired condition and is itself credited during survey), the coating &lt;strong&gt;conceals the true condition of the steel beneath it&lt;/strong&gt; from ordinary visual inspection — a surveyor can assess coating condition (breakdown percentage, rust staining, blistering) but cannot visually confirm actual steel thickness or the presence of pitting occurring under an apparently intact but disbonded coating film (&amp;ldquo;under-film corrosion&amp;rdquo;).&lt;/li&gt;
+&lt;li&gt;This means visual survey findings of &amp;ldquo;coating GOOD, no action&amp;rdquo; can coexist with &lt;strong&gt;underlying, undetected pitting or general wastage&lt;/strong&gt; that has begun beneath localized coating disbondment not yet visible from the surface, particularly relevant at the vapour space/deckhead areas of Q.1.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;4. Survey is a Point-in-Time Snapshot, Not a Continuous Record&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-survey-is-a-point-in-time-snapshot-not-a-continuous-record&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#4-survey-is-a-point-in-time-snapshot-not-a-continuous-record&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;A TM survey or close-up survey reports condition &lt;strong&gt;only at the moment of inspection&lt;/strong&gt;, typically conducted at intervals of 2.5–5 years for ESP-applicable tankers depending on age.&lt;/li&gt;
+&lt;li&gt;Corrosion (particularly pitting, which can be autocatalytic and accelerating as discussed in Q.2) and fatigue crack growth are &lt;strong&gt;continuous, time-dependent processes&lt;/strong&gt; — the true condition of the structure at any point between two surveys is unknown and can only be extrapolated (often linearly, which may not reflect the true accelerating/decelerating nature of the actual degradation mechanism).&lt;/li&gt;
+&lt;li&gt;A structure assessed as satisfactory at one survey can deteriorate to a critical condition before the next scheduled survey, particularly if an unanticipated event (coating mechanical damage, cargo change, unusually corrosive cargo/ballast conditions) occurs in the intervening period — the survey regime has &lt;strong&gt;no inherent capability to detect or respond to such intervening deterioration&lt;/strong&gt; except through the ship&amp;rsquo;s own routine (non-class) inspection and reporting, which is of variable quality depending on crew diligence and training.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;5. Limitations of the Measurement Technology Itself&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-limitations-of-the-measurement-technology-itself&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#5-limitations-of-the-measurement-technology-itself&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Conventional UT gauging&lt;/strong&gt; measures thickness accurately at a clean, accessible, reasonably flat spot but is sensitive to surface preparation — loose scale, marine growth, or paint over the measurement point can produce erroneous readings if not properly prepared before gauging.&lt;/li&gt;
+&lt;li&gt;UT does not reliably distinguish between &lt;strong&gt;general wastage and the shape/depth profile of a pit&lt;/strong&gt; unless a dedicated pit-gauge or a much denser measurement grid is specifically used at a location already suspected of pitting — routine survey grids are typically not dense enough to fully characterize pit geometry.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Automated/remote techniques&lt;/strong&gt; (robotic crawlers, drone-based visual inspection now increasingly accepted by class societies as alternative survey methods) improve coverage in difficult-to-access areas but introduce their own limitations — drone visual inspection cannot measure thickness at all (visual only), and robotic UT crawlers may have limited ability to negotiate complex stiffened geometry, weld seams, and corners — precisely the transition-zone/bracket-toe areas of greatest concern from Q.4 and Q.6.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;6. Crack Detection Limitations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;6-crack-detection-limitations&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#6-crack-detection-limitations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Visual examination&lt;/strong&gt;, the primary means of crack detection during survey, can only detect cracks that are already large enough to be visible to the eye, meaning by definition &lt;strong&gt;early-stage fatigue cracks (sub-millimetre to a few millimetres) are undetectable&lt;/strong&gt; by visual survey — this is a fundamental limitation given that fatigue crack growth accelerates with length, so the visible-detection stage may already represent a meaningful fraction of remaining life before critical crack length.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;NDT techniques&lt;/strong&gt; (dye penetrant, magnetic particle inspection) that can detect finer cracks are normally only applied at &lt;strong&gt;specific suspect locations&lt;/strong&gt; identified by visual survey or by known fatigue-critical hot-spot lists (Q.6) — they are not, and cannot practically be, applied as blanket coverage across the entire structure, meaning cracks at unanticipated or newly-developing hot-spots (e.g., due to an unusual loading pattern or a fabrication defect not previously flagged) can go undetected until they become visually apparent or, in the worst case, until failure.&lt;/li&gt;
+&lt;li&gt;Cracks hidden by &lt;strong&gt;corrosion product, coating, or marine growth&lt;/strong&gt; can be physically obscured from visual detection even where a surveyor is looking directly at the location.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;7. Human and Procedural Factors&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;7-human-and-procedural-factors&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#7-human-and-procedural-factors&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Survey quality is dependent on &lt;strong&gt;surveyor experience, thoroughness, available time, and the completeness of staging/access provided by the owner/yard&lt;/strong&gt; — commercial pressure to minimize dry-dock duration can, in practice, compress the time available for thorough close-up survey and TM, particularly in less accessible areas.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reporting thresholds and renewal criteria&lt;/strong&gt; (e.g., renewal at 75% of original thickness, or a stated percentage diminution) are themselves based on general structural strength/corrosion-margin assumptions (Q.3) and do not necessarily capture the &lt;strong&gt;local structural consequence&lt;/strong&gt; of a given thickness loss at a stress-concentration point versus the same percentage loss on an uncritical flat plate area — a uniform numerical criterion cannot fully substitute for engineering judgment of local criticality.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Overall Conclusion&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;overall-conclusion&#34;&gt;&lt;/span&gt;
+    &lt;a href=&#34;#overall-conclusion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Structural surveys and thickness measurement are &lt;strong&gt;necessary but fundamentally probabilistic and incomplete tools&lt;/strong&gt; — they provide a statistically-sampled, point-in-time, partially-accessible picture of condition, filtered through the practical limits of available technology and time. They are most reliable for detecting and tracking &lt;strong&gt;general, widespread wastage trends&lt;/strong&gt;, but are inherently less reliable for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Localized pitting&lt;/strong&gt; (sampling density limitation),&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Early-stage fatigue cracking&lt;/strong&gt; (visual detection threshold limitation),&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Deterioration occurring between survey intervals&lt;/strong&gt; (time-snapshot limitation), and&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Conditions hidden by coating or inaccessible geometry&lt;/strong&gt; (access/concealment limitation).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is precisely why the industry has moved toward &lt;strong&gt;risk-based, targeted survey planning&lt;/strong&gt; (identifying known hot-spots from casualty history, fatigue analysis, and coating condition, as discussed in Q.4 and Q.6) rather than relying solely on generic, uniform survey grids — recognizing that the limitations of the inspection method itself must be compensated for by directing the &lt;em&gt;available&lt;/em&gt; inspection effort toward the locations statistically and mechanistically most likely to be critical, rather than assuming a passed survey represents a guarantee of structural soundness everywhere.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;That completes all seven questions. Let me know if you&amp;rsquo;d like any of these expanded, reformatted into a structured document (e.g., for your Extra Master preparation notes), or cross-referenced with specific IACS UR/CSR clause numbers.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Pitting Corrosion</title>
+      <link>http://localhost:1313/docs/partb/navarch/stress_and_strain/pitting_corrosion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/stress_and_strain/pitting_corrosion/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Q.2 — Pitting Corrosion in Cargo Tanks&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;What is pitting corrosion?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pitting is a highly &lt;strong&gt;localized form of corrosion attack&lt;/strong&gt; in which material loss is concentrated at discrete points on the steel surface rather than occurring uniformly across it. Instead of a general, even wastage of plate thickness (general/uniform corrosion), pitting produces small-diameter, deep cavities — sometimes only a few millimetres across but penetrating a significant fraction, or even the full thickness, of the plate.&lt;/p&gt;
+&lt;p&gt;In cargo tanks, pitting is most commonly seen on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bottom plating&lt;/strong&gt;, particularly where water settles (crude oil carries free water and produced water that separates and sinks to the tank bottom)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Under sediment/sludge accumulations&lt;/strong&gt; (wax, scale, asphaltenes) that sit on horizontal surfaces&lt;/li&gt;
+&lt;li&gt;Areas where &lt;strong&gt;coating breakdown&lt;/strong&gt; has occurred at isolated spots, leaving small bare-steel &amp;ldquo;holidays&amp;rdquo; surrounded by intact coating&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Mechanism — why it occurs&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Anode/cathode area ratio effect (the core electrochemical driver)&lt;/strong&gt;
+When a coating is damaged at a single small point, that exposed bare-steel spot becomes an &lt;strong&gt;anode&lt;/strong&gt;, while the surrounding large area of intact, well-coated steel — plus any adjoining bare steel that has developed a protective scale — acts as the &lt;strong&gt;cathode&lt;/strong&gt;. Because the anodic area is tiny relative to the cathodic area, all of the corrosion current generated by the cathodic reaction over that large area is forced to discharge through the very small anodic spot. This produces an extremely high current density at the pit, and hence a very high rate of metal loss confined to that point — this is the fundamental reason pitting proceeds so much faster locally than general corrosion.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Autocatalytic pit growth (self-accelerating chemistry)&lt;/strong&gt;
+Once a pit initiates, the chemistry inside it becomes self-sustaining and self-worsening:&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Metal dissolution (Fe → Fe²⁺ + 2e⁻) occurs at the pit base.&lt;/li&gt;
+&lt;li&gt;Fe²⁺ hydrolyses with water, producing H⁺ ions, so the &lt;strong&gt;solution inside the pit becomes progressively more acidic&lt;/strong&gt; than the surrounding bulk liquid.&lt;/li&gt;
+&lt;li&gt;Chloride ions (present in any water phase, especially from ballast/seawater residues or produced water in crude) migrate into the pit to balance the excess positive charge, forming aggressive metal chlorides that further break down any protective film.&lt;/li&gt;
+&lt;li&gt;Oxygen is depleted inside the pit (restricted access due to geometry and product buildup), making the interior anodic and strongly differentiated from the oxygenated exterior, which remains cathodic — this &lt;strong&gt;oxygen concentration cell&lt;/strong&gt; reinforces the same directional attack.&lt;/li&gt;
+&lt;li&gt;Corrosion products (rust) often form a cap or dome over the pit mouth, further isolating the interior chemistry from the bulk and accelerating the autocatalytic process underneath.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Presence of settled water and sediment&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Free water that settles at the tank bottom, particularly where it is stagnant beneath sludge/sediment, provides the electrolyte and traps chlorides and sulphur compounds against the steel, initiating pits at these specific locations rather than uniformly.&lt;/li&gt;
+&lt;li&gt;Microbiologically influenced corrosion (MIC) can also occur where sulphate-reducing bacteria thrive in this stagnant, oxygen-depleted water layer, producing highly localized and aggressive pitting.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Coating discontinuities&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Pinholes, mechanical damage from tank cleaning tools, gauging/sounding equipment impact, or poor surface preparation before coating application create the initial bare-metal sites where pits are seeded.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Effect on potential for oil pollution&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Pitting is disproportionately dangerous relative to its visual/statistical significance because:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Thickness measurement (gauging) surveys report average or spot thickness readings and can miss or understate pitting&lt;/strong&gt;, since a UT (ultrasonic thickness) reading taken even a few millimetres from a pit will show apparently healthy plate, while the pit itself may have penetrated far more deeply — this is a key limitation discussed further in Q.7.&lt;/li&gt;
+&lt;li&gt;Because pit growth rate is high (due to the anode-cathode area effect above) and often continues undetected between surveys, a pit can &lt;strong&gt;progress through full plate thickness leading to perforation&lt;/strong&gt; well before scheduled thickness measurements or visual inspection would otherwise flag general wastage as a concern.&lt;/li&gt;
+&lt;li&gt;A single perforation at the tank bottom or at a bulkhead separating cargo from ballast/sea creates a &lt;strong&gt;direct pathway for cargo oil to escape&lt;/strong&gt; — either into the sea (bottom plating pitting-through) or into an adjacent ballast tank (which itself may then be pumped overboard, causing pollution indirectly), or conversely, seawater ingress into cargo. Even a small-bore pinhole leak, sustained over a voyage, can result in a significant pollution event.&lt;/li&gt;
+&lt;li&gt;Pitting at &lt;strong&gt;tank bottom-to-shell connections or in way of suction wells and bell-mouths&lt;/strong&gt; is especially critical since these are lower points where any pollution consequence (direct hull breach) is most severe and where oil accumulates as the last remaining un-pumped residue, keeping those spots wetted and anodic for extended periods.&lt;/li&gt;
+&lt;li&gt;Because pitting is localized and unpredictable in location, it undermines confidence in &amp;ldquo;average condition&amp;rdquo; assessments of tank structure — a tank can appear to be in good condition (high average thickness, low general wastage percentage) while carrying multiple advanced pits that represent near-term perforation risk. This is why classification societies require close-up surveys and specific pitting assessment (extent and depth measured against original thickness) as part of Condition Assessment Schemes (CAS) for tankers, rather than relying on average diminution figures alone.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Reasons for Reduced Scantlings of Deck and Inner Bottom Plating of Oil Tankers in the Last Two Decades</title>
+      <link>http://localhost:1313/docs/partb/navarch/stress_and_strain/lowerthickness_btmplating/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/partb/navarch/stress_and_strain/lowerthickness_btmplating/</guid>
+      <description>
+        
+        
+        &lt;h1&gt;Q.3 — Reasons for Reduced Scantlings of Deck and Inner Bottom Plating of Oil Tankers in the Last Two Decades&lt;/h1&gt;&lt;p&gt;This question refers to the well-documented industry and IACS trend, over roughly the last twenty years, of oil tanker deck and inner bottom plating being built to &lt;strong&gt;progressively thinner scantlings&lt;/strong&gt; than earlier generations of tankers of comparable size, despite corrosion being a known critical failure mode. The reasons are a combination of design philosophy changes, regulatory/class rule evolution, materials technology, and economic pressure:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Shift from prescriptive rules to Common Structural Rules (CSR) and direct calculation methods&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Prior to 2006, individual classification societies used largely &lt;strong&gt;prescriptive, empirically-derived scantling formulae&lt;/strong&gt; which tended to be conservative and included generous built-in margins.&lt;/li&gt;
+&lt;li&gt;With the introduction of &lt;strong&gt;IACS Common Structural Rules for Oil Tankers (CSR-OT, 2006, later harmonized into Harmonised CSR — HCSR in 2015)&lt;/strong&gt;, scantlings began to be derived from &lt;strong&gt;direct strength assessment (finite element analysis) and probabilistic/rational load combination methods&lt;/strong&gt;.&lt;/li&gt;
+&lt;li&gt;Direct calculation allows designers to size plating much more precisely to the actual loads and stresses predicted, removing much of the &amp;ldquo;hidden&amp;rdquo; conservatism of older prescriptive rules — resulting in thinner &amp;ldquo;as-designed&amp;rdquo; (net) scantlings that are still deemed structurally adequate for the design life, but with much less spare margin beyond calculated requirements.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;2. Introduction and reliance on the &amp;ldquo;corrosion addition&amp;rdquo; (net scantling) approach&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Under CSR/HCSR, ships are now designed using a &lt;strong&gt;net scantling approach&lt;/strong&gt;: the required &lt;em&gt;net&lt;/em&gt; thickness for strength is calculated first, and a standardized &lt;strong&gt;corrosion margin (corrosion addition, tc)&lt;/strong&gt; is then added on top of this net figure to arrive at the &amp;ldquo;as-built&amp;rdquo; (gross) thickness.&lt;/li&gt;
+&lt;li&gt;This is a fundamentally different philosophy from the older approach, where a single gross scantling was specified with corrosion allowance built in more informally.&lt;/li&gt;
+&lt;li&gt;The &lt;strong&gt;corrosion additions specified by CSR are based on statistically-derived expected wastage&lt;/strong&gt; over the ship&amp;rsquo;s design life (typically 25 years) rather than the more generous &amp;ldquo;just-in-case&amp;rdquo; margins used previously — meaning the total gross plate thickness (net + corrosion addition) has, in many locations, come out lower than the older prescriptive-rule gross thicknesses, especially for deck and inner bottom.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;3. Improved and mandatory protective coating (PSPC) reducing assumed corrosion rates&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The &lt;strong&gt;IMO Performance Standard for Protective Coatings (PSPC)&lt;/strong&gt;, adopted in 2006 and mandatory for new tankers&amp;rsquo; ballast tanks and cargo oil tank vapour spaces/deckhead from 2008 onward, requires a coating life target of 15 years (&amp;ldquo;GOOD&amp;rdquo; condition).&lt;/li&gt;
+&lt;li&gt;Because effective coatings are now assumed as a baseline design condition (rather than an optional extra), classification societies could justify &lt;strong&gt;reduced statutory corrosion margins/additions&lt;/strong&gt; built into the scantling rules, on the assumption that well-maintained PSPC-compliant coatings will keep actual metal loss close to the design assumption.&lt;/li&gt;
+&lt;li&gt;This directly reduces the required as-built gross thickness of deck and inner bottom plating compared to the pre-PSPC era, when designers had to allow for corrosion margins assuming coatings might fail early or not be applied to the same standard.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;4. Use of higher-tensile steel (HTS) in place of mild steel&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Increasing use of &lt;strong&gt;higher-tensile/high-strength steel (grades AH32, AH36, DH32/36, EH32/36)&lt;/strong&gt; for deck and bottom plating allows the same strength requirement to be met with a thinner plate, since HTS has a higher yield strength than ordinary mild steel.&lt;/li&gt;
+&lt;li&gt;While this reduces weight and increases cargo-carrying capacity/deadweight efficiency (a major commercial driver — see point 6), HTS plating, being thinner, has &lt;strong&gt;less absolute margin of corrosion allowance in millimetres before it reaches minimum acceptable/renewal thickness&lt;/strong&gt;, i.e., the same percentage corrosion rate consumes a proportionately larger share of the total available thickness margin in a thinner HTS plate than in a thicker mild steel plate.&lt;/li&gt;
+&lt;li&gt;This is a widely-noted concern: HTS improves initial strength-to-weight efficiency but can reduce the &amp;ldquo;corrosion margin buffer&amp;rdquo; in absolute terms, making these structures more sensitive to any coating breakdown or unexpectedly high in-service corrosion rate.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;5. Refined load assumptions from improved hydrodynamic/structural analysis&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Modern direct calculation uses more sophisticated &lt;strong&gt;wave load, sloshing, and dynamic load prediction models&lt;/strong&gt; (informed by decades of full-scale monitoring, model testing, and computational hydrodynamics) that are considered more accurate than the older simplified static/quasi-static load assumptions.&lt;/li&gt;
+&lt;li&gt;Refined loads, particularly for double-hull tankers where the inner bottom and deck act as primary strength members of a box-girder hull, have in some cases resulted in &lt;strong&gt;lower calculated design bending moments and local pressures&lt;/strong&gt; than older rules assumed, permitting thinner scantlings while still meeting the rule strength criteria.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;6. Commercial/economic pressure for deadweight efficiency&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Reducing steel weight in the hull directly increases the ship&amp;rsquo;s &lt;strong&gt;cargo deadweight capacity&lt;/strong&gt; for a given displacement, which is commercially significant given the capital cost of steel and the revenue impact of deadweight over a ship&amp;rsquo;s operating life.&lt;/li&gt;
+&lt;li&gt;Shipyards and owners have pushed for scantlings at or close to the &lt;strong&gt;minimum permissible under class rules&lt;/strong&gt;, rather than the more conservative &amp;ldquo;over-thickness&amp;rdquo; that was common practice in earlier decades, since steel weight above the rule minimum is regarded as an avoidable cost with no offsetting benefit if the rules are (in principle) already calibrated to be adequate.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;7. Consequence — narrower margin against actual in-service corrosion&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The net effect of the above trends is that today&amp;rsquo;s tankers are built with &lt;strong&gt;less &amp;ldquo;spare&amp;rdquo; thickness above the calculated structural minimum&lt;/strong&gt; than older tankers were, even though the intent of the net scantling + corrosion addition system is that the ship should still reach 25 years safely &lt;em&gt;if coatings perform to standard and corrosion proceeds at or below the design assumption rate&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;This is precisely why deviations from assumed conditions — coating breakdown, unexpectedly aggressive local corrosion (pitting, vapour space attack as in Q.1/Q.2), or poor maintenance — have a &lt;strong&gt;proportionately larger and faster impact on structural safety margins&lt;/strong&gt; in modern tankers than they would have on the more heavily-scantled tankers of the 1970s–1990s. This is a key reason class societies now place much greater emphasis on rigorous, more frequent close-up surveys and thickness measurement under the Enhanced Survey Programme (ESP) and CAS for tankers approaching or beyond mid-life.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+      </description>
+    </item>
+    
+    <item>
       <title>Section Modulus</title>
       <link>http://localhost:1313/docs/partb/navarch/stress_and_strain/section_modulus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

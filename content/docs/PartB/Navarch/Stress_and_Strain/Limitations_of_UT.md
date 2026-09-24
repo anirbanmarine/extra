@@ -1,5 +1,5 @@
 ---
-title:"Limitations of Structural Surveys, Inspections, and Thickness Measurements in Assessing Corrosion and Diminution"
+title: "Limitations of Structural Surveys, Inspections, and Thickness Measurements in Assessing Corrosion and Diminution"
 type: docs
 ---
 # Q.7 — Limitations of Structural Surveys, Inspections, and Thickness Measurements in Assessing Corrosion and Diminution
