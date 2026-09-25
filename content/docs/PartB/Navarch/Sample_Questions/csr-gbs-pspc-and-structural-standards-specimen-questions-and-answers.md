@@ -12,6 +12,7 @@ sidebar:
 ## **Q.1 Purpose of Common Structural Rules (CSR) and IACS Approaches**
 
 ### **A. Purpose of Introducing CSR**
+
 The **Common Structural Rules (CSR)** were introduced by the **International Association of Classification Societies (IACS)** to address the following key objectives:
 
 1. **Harmonization of Structural Standards**:
@@ -35,10 +36,11 @@ The **Common Structural Rules (CSR)** were introduced by the **International Ass
 ---
 
 ### **B. Fundamental Approaches of IACS in Developing CSR-OT + BC**
+
 The **CSR for Oil Tankers (CSR-OT)** and **Bulk Carriers (CSR-BC)** were developed using the following **fundamental approaches**:
 
 | **Approach** | **Description** | **Application in CSR** |
-|--------------|----------------|------------------------|
+| -------------- | ---------------- | ------------------------ |
 | **Risk-Based Design** | Uses **probabilistic methods** to assess structural reliability. | **Load cases** (e.g., hogging, sagging, torsion) are analyzed for **probability of failure**. |
 | **Performance-Based Standards** | Focuses on **what the structure must achieve** (e.g., strength, fatigue life) rather than **how to achieve it**. | **Functional requirements** (e.g., "The ship must survive a grounding event without catastrophic failure"). |
 | **Harmonized Scantling Calculations** | Unified **formulas for plate thickness, stiffeners, and girder dimensions**. | **Common equations** for **longitudinal strength, buckling, and fatigue**. |
@@ -53,10 +55,11 @@ The **CSR for Oil Tankers (CSR-OT)** and **Bulk Carriers (CSR-BC)** were develop
 ## **Q.2 Class Notations for Bulk Carriers (ECR) vs. SOLAS Ch. XIII**
 
 ### **A. Class Notations for Bulk Carriers (ECR - Enhanced Common Rules)**
+
 The **Enhanced Common Rules (ECR)** for bulk carriers introduce **class notations** based on **cargo density and structural strength requirements**. The primary notations are:
 
 | **Notation** | **Description** | **Cargo Density Range** | **Structural Strength** |
-|--------------|----------------|--------------------------|--------------------------|
+| -------------- | ---------------- | -------------------------- | -------------------------- |
 | **BC-A** | **High-strength bulk carrier** | **> 1.75 t/m³** (e.g., iron ore, coal) | Designed for **high-density cargoes** with **increased scantlings**. |
 | **BC-B** | **Standard bulk carrier** | **1.0–1.75 t/m³** (e.g., grain, bauxite) | **Moderate scantlings** for typical bulk cargoes. |
 | **BC-C** | **Lightweight bulk carrier** | **< 1.0 t/m³** (e.g., light grain, wood chips) | **Reduced scantlings** (lighter cargoes require less structural strength). |
@@ -66,7 +69,7 @@ The **Enhanced Common Rules (ECR)** for bulk carriers introduce **class notation
 ### **B. Comparison with SOLAS Ch. XIII Hull Strength Requirements**
 
 | **Aspect** | **ECR (Class Notations)** | **SOLAS Ch. XIII** |
-|------------|----------------------------|--------------------|
+| ------------ | ---------------------------- | -------------------- |
 | **Basis** | **Performance-based** (cargo density, loading conditions). | **Prescriptive** (minimum scantlings, general requirements). |
 | **Cargo Density Consideration** | **Explicitly accounts for cargo density** (BC-A, BC-B, BC-C). | **No direct classification by density** (general requirements for all bulk carriers). |
 | **Structural Strength** | **Tailored scantlings** based on cargo type. | **Uniform minimum requirements** (e.g., plate thickness, stiffener spacing). |
@@ -78,6 +81,7 @@ The **Enhanced Common Rules (ECR)** for bulk carriers introduce **class notation
 ---
 
 ### **C. Why Cargo Density Matters in Strength Requirements**
+
 The **density of cargo** directly influences the **structural loads** on a bulk carrier in the following ways:
 
 1. **Hull Girder Bending Moments**:
@@ -108,6 +112,7 @@ The **density of cargo** directly influences the **structural loads** on a bulk 
 ## **Q.3 Tiers of Goal-Based Standards (GBS) with Responsibilities**
 
 ### **A. Overview of GBS Tiers**
+
 The **IMO’s Goal-Based Standards (GBS)** framework is structured into **four tiers**, each with **specific responsibilities** for developing and verifying standards.
 
 ---
@@ -123,7 +128,7 @@ graph TD
 ```
 
 | **Tier** | **Name** | **Responsibility** | **Example** | **Key Outputs** |
-|----------|----------|--------------------|-------------|-----------------|
+| ---------- | ---------- | -------------------- | ------------- | ----------------- |
 | **Tier I** | **Goals** | **IMO** defines the **high-level safety, environmental, and operational goals** for ships. | **Goal**: "The ship shall remain afloat and stable after damage." | **GBS Goals Document** (IMO Resolution A.1046(27)). |
 | **Tier II** | **Functional Requirements** | **IMO** specifies **what the ship must achieve** to meet the goals. | **Requirement**: "The ship must survive flooding of any single compartment." | **GBS Functional Requirements** (IMO MSC.287(87)). |
 | **Tier III** | **Verification of Compliance** | **IACS and Class Societies** develop **rules and guidelines** to verify compliance with Tier II. | **Rule**: "The ship must have a minimum metacentric height (GM) of 0.15 m." | **CSR, UR (Unified Requirements), Class Rules**. |
@@ -159,6 +164,7 @@ graph TD
 ### **D. Responsibility Breakdown**
 
 #### **Tier I: IMO (Goals)**
+
 - **Role**: Set **high-level objectives** for ship safety and environmental protection.
 - **Example Goals**:
   - "The ship shall be designed to minimize the risk of loss of life, pollution, and property."
@@ -166,6 +172,7 @@ graph TD
 - **Output**: **GBS Goals Document** (IMO Resolution A.1046(27)).
 
 #### **Tier II: IMO (Functional Requirements)**
+
 - **Role**: Define **what the ship must achieve** to meet the goals.
 - **Example Requirements**:
   - "The ship must survive flooding of any single watertight compartment."
@@ -173,6 +180,7 @@ graph TD
 - **Output**: **GBS Functional Requirements** (IMO MSC.287(87)).
 
 #### **Tier III: IACS/Class Societies (Verification of Compliance)**
+
 - **Role**: Develop **rules and guidelines** to verify compliance with Tier II.
 - **Example Rules**:
   - **CSR for Bulk Carriers**: "The minimum plate thickness in cargo holds must be calculated using the following formula: t = C × L × √(σ / E)."
@@ -180,6 +188,7 @@ graph TD
 - **Output**: **CSR, UR, Class Rules** (e.g., ABS, DNV, LR rules).
 
 #### **Tier IV: Industry (Design and Construction Standards)**
+
 - **Role**: Develop **detailed designs and construction standards** to meet Tier III.
 - **Example Standards**:
   - **Ship Construction File (SCF)**: "The midship section must include 20 mm bottom plates and 15 mm side plates."
@@ -193,9 +202,11 @@ graph TD
 ## **Q.4 Prescriptive Standards vs. Goal-Based Standards (GBS)**
 
 ### **A. Why Existing Construction Standards Are Called Prescriptive**
+
 **Prescriptive standards** are rules that **explicitly specify** **how to achieve compliance** by providing **detailed, step-by-step requirements** for design, materials, and construction. They are **rigid and do not allow for alternative solutions**, even if they achieve the same safety level.
 
 #### **Characteristics of Prescriptive Standards**
+
 1. **Detailed Requirements**:
    - Specify **exact dimensions, materials, and methods** (e.g., "The minimum plate thickness in cargo holds must be 15 mm.").
 2. **No Flexibility**:
@@ -206,8 +217,9 @@ graph TD
    - **Same rules apply to all ships** of a given type, regardless of specific risks.
 
 #### **Examples of Prescriptive Standards**
+
 | **Standard** | **Prescriptive Requirement** | **Source** |
-|--------------|--------------------------------|------------|
+| -------------- | -------------------------------- | ------------ |
 | **SOLAS II-1** | "The minimum freeboard for a bulk carrier must be calculated using the **ILLC 1966** formulas." | IMO |
 | **ILLC 1966** | "The minimum plate thickness for a ship’s bottom shell must be **t = 0.02L + 5 mm**, where L is the ship’s length." | IMO |
 | **Class Society Rules (Pre-CSR)** | "The spacing between transverse frames in cargo holds must not exceed **2.5 m**." | ABS, DNV, LR |
@@ -218,7 +230,7 @@ graph TD
 ### **B. Merits of GBS Over Prescriptive Standards**
 
 | **Aspect** | **Prescriptive Standards** | **Goal-Based Standards (GBS)** |
-|------------|-----------------------------|----------------------------------|
+| ------------ | ----------------------------- | ---------------------------------- |
 | **Flexibility** | **Rigid** (no alternatives allowed). | **Flexible** (allows innovative designs that meet functional requirements). |
 | **Innovation** | **Discourages innovation** (must follow exact rules). | **Encourages innovation** (new materials, designs, and technologies can be used if they meet goals). |
 | **Safety Focus** | **Compliance-based** (follow the rules = safe). | **Performance-based** (meet the safety goals = safe, regardless of method). |
@@ -232,6 +244,7 @@ graph TD
 ### **C. Lack of Innovation Due to Prescriptive Standards: Case Studies**
 
 #### **(a) Typical Bulk Carrier (BC) Sinking Scenario**
+
 **Incident**: **MV Derbyshire (1980)** – Largest British ship lost at sea (180,000 DWT bulk carrier).
 
 - **Prescriptive Rules Followed**:
@@ -257,6 +270,7 @@ graph TD
 ---
 
 #### **(b) Double Hull (DH) Tankers**
+
 **Incidents**: **Erika (1999)**, **Prestige (2002)** – Single-hull tankers that **broke in half**, causing massive oil spills.
 
 - **Prescriptive Rules Followed**:
@@ -286,10 +300,11 @@ graph TD
 ## **Q.5 Industry Innovation Ahead of IMO**
 
 ### **A. Oil Tankers: Industry Led Safety Improvements**
+
 The **shipping industry** introduced **safety innovations** for oil tankers **before IMO made them mandatory**:
 
 | **Innovation** | **Industry Action** | **IMO Adoption** | **Impact** |
-|----------------|---------------------|------------------|------------|
+| ---------------- | --------------------- | ------------------ | ------------ |
 | **Double Hull Design** | **Exxon** and **Shell** voluntarily adopted **double hulls** for new tankers in the **1980s** (after **Exxon Valdez, 1989**). | **MARPOL Annex I, Reg. 13G (2010)** made double hulls **mandatory** for all tankers > 5,000 DWT. | Reduced **oil spill risk** by **90%** in grounding/collision. |
 | **Cargo Tank Coatings** | **OCP (Oil Companies International Marine Forum)** developed **PSPC (Performance Standard for Protective Coatings)** in the **1990s**. | **IMO PSPC (MSC.215(82), 2006)** adopted as **mandatory**. | Extended **tank life** by **15–20 years**, reduced corrosion. |
 | **Crude Oil Washing (COW)** | **Oil companies** introduced **COW** in the **1970s** to clean tanks without water (reducing sludge and corrosion). | **MARPOL Annex I, Reg. 34 (1983)** made COW **mandatory** for tankers > 70,000 DWT. | Reduced **oil pollution** from tank cleaning by **95%**. |
@@ -299,10 +314,11 @@ The **shipping industry** introduced **safety innovations** for oil tankers **be
 ---
 
 ### **B. ROPAX Ships: Industry Led Safety Improvements**
+
 The **ROPAX industry** introduced **safety innovations** before IMO updated SOLAS:
 
 | **Innovation** | **Industry Action** | **IMO Adoption** | **Impact** |
-|----------------|---------------------|------------------|------------|
+| ---------------- | --------------------- | ------------------ | ------------ |
 | **Watertight Bulkheads on Car Decks** | **Stena Line** and **DFDS** added **additional watertight bulkheads** on car decks in the **1990s**. | **SOLAS-90 (1990)** made this **mandatory** for new ROPAX ships. | Reduced **flooding risk** in car decks. |
 | **Automatic Fire Detection in Car Decks** | **Color Line** installed **heat/smoke detectors** in car decks in the **1980s**. | **SOLAS II-2, Reg. 7 (1992)** made **automatic fire detection** mandatory. | Reduced **fire spread** in car decks. |
 | **Double-Skin Car Decks** | **P&O Ferries** introduced **double-skin car decks** in the **1990s** to improve damage stability. | **SOLAS-90+ (50) (1996)** required **enhanced subdivision** (e.g., double side shells). | Improved **survivability** after damage. |
@@ -318,6 +334,7 @@ The **ROPAX industry** introduced **safety innovations** before IMO updated SOLA
 ---
 
 ### **① Ship Construction File (SCF)**
+
 - **Definition**: A **comprehensive document** containing **all structural design, construction, and testing information** for a ship.
 - **Purpose**:
   - Ensure **traceability** of materials, welding, and inspections.
@@ -338,6 +355,7 @@ The **ROPAX industry** introduced **safety innovations** before IMO updated SOLA
 ---
 
 ### **② Functional Requirements (GBS) of "Design"**
+
 - **Definition**: **Performance-based criteria** that a ship’s design must meet to **achieve safety, environmental, and operational goals** (IMO GBS Tier II).
 - **Key Functional Requirements for Design**:
   1. **Structural Integrity**:
@@ -355,6 +373,7 @@ The **ROPAX industry** introduced **safety innovations** before IMO updated SOLA
 ---
 
 ### **③ Coating Technical File (CTF)**
+
 - **Definition**: A **detailed document** specifying the **coating systems** used on a ship, including **application, inspection, and maintenance**.
 - **Purpose**:
   - Ensure **compliance with PSPC** (Performance Standard for Protective Coatings).
@@ -374,6 +393,7 @@ The **ROPAX industry** introduced **safety innovations** before IMO updated SOLA
 ---
 
 ### **④ Useful Coating Life as per PSPC**
+
 - **Definition**: The **minimum expected lifespan** of a coating system **before major maintenance or recoating is required**.
 - **PSPC Requirement (IMO MSC.215(82))**:
   - **15 years** for **ballast tanks** (most critical area).
@@ -402,14 +422,17 @@ The **ROPAX industry** introduced **safety innovations** before IMO updated SOLA
 ---
 
 ### **⑤ Net Scantling (GBS)**
+
 - **Definition**: The **minimum required dimensions** (e.g., plate thickness, stiffener size) of a ship’s **structural members** after accounting for **corrosion, wear, and fatigue**.
 - **Purpose**:
   - Ensure **structural integrity** throughout the ship’s **design life** (typically **25 years** for bulk carriers and tankers).
   - Provide a **safety margin** against **yielding, buckling, and fatigue failure**.
 - **Calculation**:
+
   ```
   Net Scantling = Gross Scantling – Corrosion Allowance – Wear Allowance
   ```
+
   - **Gross Scantling**: **Nominal thickness** (e.g., 20 mm plate).
   - **Corrosion Allowance**: **Extra thickness** to account for **corrosion** (e.g., **2–3 mm** for ballast tanks).
   - **Wear Allowance**: **Extra thickness** for **abrasive cargoes** (e.g., **1–2 mm** for iron ore carriers).
@@ -429,6 +452,7 @@ The **ROPAX industry** introduced **safety innovations** before IMO updated SOLA
 ## **Q.7 CSR by IACS and Compliance with IMO’s GBS**
 
 ### **A. How CSR Development Complied with IMO’s GBS**
+
 The **Common Structural Rules (CSR)** were developed by **IACS** to align with **IMO’s Goal-Based Standards (GBS)**. The compliance process involved:
 
 1. **Alignment with GBS Goals (Tier I)**:
@@ -474,13 +498,14 @@ The **Common Structural Rules (CSR)** were developed by **IACS** to align with *
 ### **B. Does IMO’s GBS (Tier IV & Tier III) Accept CSR as Fulfilling Tier Requirements?**
 
 | **Tier** | **IMO GBS Requirement** | **CSR Compliance** | **Acceptance Status** |
-|----------|------------------------|--------------------|-----------------------|
+| ---------- | ------------------------ | -------------------- | ----------------------- |
 | **Tier III** | Verification of compliance with **functional requirements**. | CSR provides **rules and guidelines** to verify compliance (e.g., **scantling calculations, fatigue analysis**). | **✅ Fully Accepted** – IMO **recognizes CSR as fulfilling Tier III** (IMO MSC.287(87)). |
 | **Tier IV** | Development of **design and construction standards** by industry. | CSR **enables shipyards/designers** to develop compliant designs (e.g., **SCF, CTF**). | **✅ Fully Accepted** – IMO **considers CSR as a valid path** to meet Tier IV. |
 
 ---
 
 ### **C. Key Points**
+
 1. **CSR is a GBS-Compliant Rule Set**:
    - CSR was **developed in collaboration with IMO** to align with **GBS principles**.
    - **IACS UR Z10** (Unified Requirements) **incorporates GBS Tier III and IV requirements**.
@@ -506,7 +531,7 @@ The **Common Structural Rules (CSR)** were developed by **IACS** to align with *
 ## **Summary Table for Quick Revision**
 
 | **Question** | **Key Points** |
-|--------------|----------------|
+| -------------- | ---------------- |
 | **Q.1 CSR Purpose & IACS Approaches** | Harmonize rules, improve safety, align with GBS, risk-based/performance-based design. |
 | **Q.2 BC Notations vs. SOLAS Ch. XIII** | BC-A (high density), BC-B (medium), BC-C (low); SOLAS is prescriptive; cargo density affects hull girder strength, local strength, shear forces. |
 | **Q.3 GBS Tiers** | Tier I (IMO Goals), Tier II (Functional Requirements), Tier III (IACS Verification), Tier IV (Industry Standards). |

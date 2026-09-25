@@ -6,17 +6,19 @@ sidebar:
   open: true
 ---
 
-# A Thermostatic Expansion Valve (TXV) is a crucial component in shipboard refrigeration systems:
+# A Thermostatic Expansion Valve (TXV) is a crucial component in shipboard refrigeration systems
 
-## Function:
+## Function
 
 The TXV regulates refrigerant flow, controlling the superheat and pressure drop between the condenser and evaporator.
 
-## Principle:
+## Principle
 
 The TXV uses a temperature-sensing bulb to monitor evaporator coil temperature. This bulb is filled with a fluid that expands or contracts in response to temperature changes.
 
-## Components:
+![TXV valve](Thermostatic-expansion-valve-768x491.png)
+
+## Components
 
 1. Valve body
 2. Valve stem
@@ -31,12 +33,6 @@ The TXV uses a temperature-sensing bulb to monitor evaporator coil temperature. 
 3. As the coil temperature changes, the bulb fluid expands or contracts.
 4. The valve stem moves, adjusting the orifice opening.
 5. Refrigerant flow increases or decreases, maintaining optimal superheat (typically 5-10°C).
-
-## Types:
-
-1. Internally Equalized TXV (IE-TXV)
-2. Externally Equalized TXV (EE-TXV)
-3. Balancing TXV
 
 ## Advantages:
 
