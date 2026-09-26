@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1728.8684"
+   height="426.88199"
+   viewBox="0 0 1728.8684 426.88199"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DistanceEnd"
+       style="overflow:visible"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <g
+         transform="scale(0.6)"
+         id="g16">
+        <path
+           d="m 0,-40 v 0"
+           id="path14" />
+        <path
+           d="M 0,0 -8,5 V -5 Z"
+           style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+           id="path15" />
+        <path
+           d="M 0,-8 V 40"
+           style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:square"
+           id="path16" />
+      </g>
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="DistanceStart"
+       style="overflow:visible"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       preserveAspectRatio="xMidYMid">
+      <g
+         transform="scale(0.6)"
+         id="g13">
+        <path
+           d="m 0,-40 v 0"
+           id="path11" />
+        <path
+           d="M 0,0 8,5 V -5 Z"
+           style="fill:context-stroke;fill-rule:evenodd;stroke:none"
+           id="path12" />
+        <path
+           d="M 0,-8 V 40"
+           style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:square"
+           id="path13" />
+      </g>
+    </marker>
+  </defs>
+  <g
+     id="layer1"
+     transform="translate(-28.181862,-227.43599)">
+    <g
+       id="g8">
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:5.69;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers"
+         id="rect1"
+         width="1012.1653"
+         height="419.50412"
+         x="389.15701"
+         y="230.28099" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5.83195;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 386.32942,236.65142 33.977294,425.99385 389.14016,649.02094 Z"
+         id="path2" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:5.83195;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="M 1398.9027,236.65142 1751.2549,425.99385 1396.092,649.02094 Z"
+         id="path3" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:7.11884;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DistanceStart);marker-end:url(#DistanceEnd)"
+         d="M 390.95347,426.7438 H 1399.5258"
+         id="path4" />
+      <circle
+         id="path5"
+         style="fill:#000000;stroke:none"
+         cx="1395.9669"
+         cy="558.74377"
+         r="1.5" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:7.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+         x="801.52063"
+         y="515.90082"
+         id="text5"><tspan
+           id="tspan5"
+           x="801.52063"
+           y="515.90082"
+           style="font-size:40px">60m</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:7.11884;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DistanceStart);marker-end:url(#DistanceEnd)"
+         d="M 39.284049,426.1157 H 389.14566"
+         id="path6" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:7.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+         x="191.00826"
+         y="478.41321"
+         id="text6"><tspan
+           id="tspan6"
+           x="191.00826"
+           y="478.41321">30 m</tspan></text>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:7.11884;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DistanceStart);marker-end:url(#DistanceEnd)"
+         d="m 1403.284,426.1157 h 349.8617"
+         id="path7" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:7.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+         x="1555.0082"
+         y="478.41321"
+         id="text7"><tspan
+           id="tspan7"
+           x="1555.0082"
+           y="478.41321">30 m</tspan></text>
+      <path
+         style="fill:none;stroke:#ff6347;stroke-width:7.72145;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#DistanceStart);marker-end:url(#DistanceEnd)"
+         d="M 1303.2827,232.98661 V 644.58706"
+         id="path8" />
+      <text
+         xml:space="preserve"
+         style="font-size:40px;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';text-align:center;letter-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke:none;stroke-width:7.1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+         x="1206.7438"
+         y="399.86777"
+         id="text8"><tspan
+           id="tspan8"
+           x="1206.7438"
+           y="399.86777">20 m</tspan></text>
+    </g>
+  </g>
+</svg>
