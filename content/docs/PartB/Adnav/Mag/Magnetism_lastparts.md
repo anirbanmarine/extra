@@ -47,7 +47,7 @@ flowchart TD
 
 ### k rod heeling error
 
-*1 \( IHE_k \propto cos (compass course) \propto i ( angle of heel) \propto Z \propto \frac {1}{H}\)
+*1 \( IHE_k \propto cos (compass course) \propto i ( angle of heel) \propto Z  \propto  \frac {1}{H}\)
 *2 If Directive force is large then \(IHE_k\) is small.
 
 ### e rod heeling error
