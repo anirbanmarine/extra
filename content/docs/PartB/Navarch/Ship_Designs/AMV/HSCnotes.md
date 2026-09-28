@@ -135,4 +135,3 @@ Covering, for each craft type: **(a) how high speed is achieved, (b) transverse 
 
 ---
 
-Let me know when you'd like Q.11 (SOLAS HSC Chapter / definitions), or if you'd like me to circle back to the skipped Q.4, Q.6, and Q.8.
