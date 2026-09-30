@@ -64,6 +64,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/actgeo/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/ship_designs/amv/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/amortization-of-drydock/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marecofin/cabotage_effect/</loc>
@@ -103,6 +105,8 @@
     <loc>http://localhost:1313/docs/parta/marecofin/breakeven/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/brokerespons/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/ship_designs/bulker/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cabotage/</loc>
   </url><url>
@@ -179,6 +183,8 @@
     <loc>http://localhost:1313/docs/parta/marlaw/constitution-and-legal-systems/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cargoinsuranceclaims/ctl/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/ship_designs/container/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/containerops/</loc>
   </url><url>
@@ -357,6 +363,8 @@
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/watermass/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/adnav/projections/conical_projection_1/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/ship_designs/dredgers/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/dcargochrtr/</loc>
   </url><url>
@@ -826,6 +834,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partc/em302/prtpln/newprtapprovalchklist/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/ship_designs/nuke/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/sample_questions/numericals_prev_years/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceangov/</loc>
@@ -857,6 +867,8 @@
     <loc>http://localhost:1313/docs/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em303/cshipmgmt/passops/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/ship_designs/pax/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/sample_questions/passenger_ships/</loc>
   </url><url>
@@ -956,6 +968,8 @@
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/sample_questions/ropax-and-tankers-structural-alterations-for-solas-compliance/</loc>
   </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/ship_designs/ropax/</loc>
+  </url><url>
     <loc>http://localhost:1313/docs/partc/em303/salepurchase/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partb/navarch/sample_questions/ans_sample/</loc>
@@ -1021,6 +1035,8 @@
     <loc>http://localhost:1313/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/partc/em301/oceanogeo/satlas/</loc>
+  </url><url>
+    <loc>http://localhost:1313/docs/partb/navarch/ship_designs/submersibles/</loc>
   </url><url>
     <loc>http://localhost:1313/docs/parta/marlaw/surety/</loc>
   </url><url>

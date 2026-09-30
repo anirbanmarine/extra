@@ -36,4 +36,11 @@ type: docs
     - at Upper Meridian Passage  \(MZD = (L \sim D)\)
     - at Lower Meridian Passage \(MZD = 180-(L+D)\)
     - \[dA = 15' \times \frac {Cos(Declination)}{Sin (L \sim D)}\] per minute of time.
-
+32. Equation of Equal Altitude- \[ dh = dp (tan (L)\times Cosec (h) - Tan (D) \times Cot (h) )\] where dh = change in hour angle between two observations, dp = change in declination during the difference in time between the two observations.
+33. If stars are concerned then delination is constant therefore time of merpass = \[ t = \frac {(T_1+T_2)}{2}\]
+34. We can find the exact time of merpass by the fact that \(LHA = 0 \degree or 180 \degree\) during merpass. 
+35. Chron Time of Merpass \( T_CR = \frac{T_1 +T_2}{2} \pm e (seconds)\). +e if declination is decreasing -e if declination is increasing.
+36. \[ e_{seconds}= \frac{dp}{15}( Tan (L) \times Cosec (h) - Tan (d)\times Cot (h) )\]
+37. The Maximum Altitude of a heavenly body = \[\frac{Tan(L) \pm Tan(D)}{ 900 \mp x}= \frac {Tan(L) \pm Tan (D) }{900( 1\mp \frac {x}{900})}\] where x is change of Longitude of Observer ship (in minutes of arc per hour) in minutes.
+38. **4 Parts Formula** Cot (outer side) Sine (Inner side) = Cot (outer angle) Sine (inner angle) + Cos (inner side) \times Cos( Inner Angle).
+39. 
