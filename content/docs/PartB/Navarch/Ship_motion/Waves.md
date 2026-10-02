@@ -7,16 +7,19 @@ math: true
 ## Relative Motion and Period of Encounter
 
 **Vectors:**
+
 - Ship's speed vector: \(\vec{V}_s\)
 - Wave speed vector (phase velocity/Celerity): \(\vec{V}_w\)
 - Angle between them: \(\mu\)
 
 **Key Concepts:**
+
 - **Absolute period** of waves: \(T_w\) (true wave period)
 - **Period of encounter**: \(T_e\) (apparent period relative to ship)
 - \(T_e\) is the resultant of \(T_w\) and the ship's speed through waves
 
 **Direction Convention:**
+
 - Head seas (meeting waves): \(\mu = 180^\circ\)
 - Following seas: \(\mu = 0^\circ\)
 
@@ -40,6 +43,7 @@ Exactly half the energy of a wave is kinetic and half is potential.
 ## Sinusoidal and Trochoidal Wave Theory
 
 ### Water Depth Classification
+
 - **Shallow water:** \(d < \frac{\lambda}{2}\)
 - **Deep water:** \(d > \frac{\lambda}{2}\) (presume this if depth not given)
 
@@ -64,6 +68,7 @@ Exactly half the energy of a wave is kinetic and half is potential.
 ## Trochoidal Wave Theory
 
 ### Historical Background
+
 - **1905:** Froude theorized that irregular wave systems are composites of many regular wave systems
 - **1952:** Researchers such as Trucker applied Fourier analysis to regular wave theory based on trochoidal waveforms
 - The Trochoidal wave theory is not a perfect replica of observed sea states but comes closest compared to other theories
@@ -76,6 +81,7 @@ Exactly half the energy of a wave is kinetic and half is potential.
 \[h_w = 2r \quad \text{(wave height, where \(r\) = radius of small circle)} \]
 
 ### Physical Characteristics
+
 - Waveform has **sharper crests than troughs**
 - Theory assumes water has **zero viscosity** and is **frictionless**
 - Only the waveform (phase) moves, not the water mass
@@ -108,10 +114,12 @@ Exactly half the energy of a wave is kinetic and half is potential.
 When wave heights \(h_w\) are arranged in descending order, the mean of the **highest one-third** of the waves is called **SWH**.
 
 **Requirements:**
+
 - At least 20 observations needed for reliable assessment
 - Waves not fully developed are excluded
 
 **Importance:**
+
 - Vital for master's decisions in heavy weather (particularly quartering/following seas)
 - MSC 1228 specifically mentions importance of SWH observation
 
@@ -130,4 +138,16 @@ When wave heights \(h_w\) are arranged in descending order, the mean of the **hi
 | **Particle decay** | \(r = r_0 e^{-2\pi z/\lambda}\) | |
 
 ---
+
+## Heaving period
+
+\[ T_H = 2 \times \pi \times \sqrt(\frac{\Delta}{100\times TPC \times g})\]
+
+## Pitching period
+
+\[ T_P = 2 \times \frac{K}{\sqrt(GM_L)} \] where K = 0.25 L
+
+## Rolling period
+
+\[ T_R = \frac{2 \times \pi \times K}{ \sqrt(g \times GM) }\] where K = 0.35B
 

@@ -6,6 +6,7 @@ type: docs
 **Heeling Error (H/E)** is a deviation that occurs when a vessel rolls, heels, or lists. When the ship is upright, its vertical magnetic forces act perpendicularly to the compass card and exert no horizontal turning force on the compass needle. However, when the ship heels, these vertical magnetic fields tilt relative to the compass plane, developing a horizontal component that deflects the compass card.
 
 Heeling error is caused by a combination of:
+
 1. **Permanent vertical magnetism** (Force \(R\)).
 2. **Induced vertical magnetism** in various soft iron structures.
 
@@ -16,6 +17,7 @@ Heeling error is caused by a combination of:
 The induced components of heeling error arise from four primary soft iron representations:
 
 #### **A. \(k\)-rod (Vertical Soft Iron Directly Below the Compass)**
+
 * **Nature & Location:** Represents vertical soft iron located below the compass position, such as deck pillars, bulkheads, and stanchions.
 * **Induction:** Induced by the Earth's vertical magnetic field (\(Z\)). In the Northern Hemisphere, \(Z\) induces a **Blue pole at the top** (near deck level) and a Red pole at the bottom.
 * **Effect when Heeled:** When the ship heels, the top Blue pole shifts toward the **high side** of the ship (or low side in the Southern Hemisphere). This attracts the North (Red) end of the compass needle toward the high side.
@@ -26,6 +28,7 @@ The induced components of heeling error arise from four primary soft iron repres
   * Can be expressed as varying directly with \(\frac{Z}{H} = \tan(\text{dip})\).
 
 #### **B. \(e\)-rod (Continuous Horizontal Athwartship Soft Iron)**
+
 * **Nature & Location:** Represents continuous athwartship soft iron, such as deck beams and frames running side-to-side.
 * **Induction:** When the vessel is **upright**, these beams lie horizontally and are induced solely by \(H\), producing Coefficient \(D\). When the vessel **heels**, the beams develop a vertical component that becomes induced by Earth's vertical field \(Z\).
 * **Effect when Heeled:** In the Northern Hemisphere, induction by \(Z\) creates a Blue pole at the upper end of the tilted beam and a Red pole at the lower end. This causes an additional deviation toward the **high side** on both Port and Starboard heels.
@@ -34,6 +37,7 @@ The induced components of heeling error arise from four primary soft iron repres
   * Acts in the exact same direction as the \(k\)-rod (toward the high side in the N. Hemisphere); therefore, \(k\)-rod and \(e\)-rod effects are combined together as **total induced H/E** in calculations.
 
 #### **C. \(c\)-rod (Vertical Soft Iron Forward or Abaft the Compass)**
+
 * **Nature & Location:** Represents vertical soft iron situated forward or abaft the compass line (e.g., funnel, mast).
 * **Induction & Effect:** When upright, it is induced by \(Z\) causing \(iB\). When heeled, the vertical rod tilts, developing a horizontal component that becomes induced by \(H\) when heading East or West.
 * **Characteristics:**
@@ -42,6 +46,7 @@ The induced components of heeling error arise from four primary soft iron repres
   * **Correction:** Automatically corrected when the **Flinders Bar** is placed to correct \(iB\), because as the ship heels, the Flinders Bar tilts and develops an opposing induced pole.
 
 #### **D. \(g\)-rod (Fore-and-Aft Horizontal Soft Iron Terminating Below Compass)**
+
 * **Nature & Location:** Represents fore-and-aft horizontal soft iron that terminates directly beneath the compass.
 * **Induction & Effect:** Induced by \(H\) when heading North/South. When the ship heels, its effective pole shifts to the high or low side.
 * **Characteristics:**
@@ -56,6 +61,7 @@ The induced components of heeling error arise from four primary soft iron repres
 Because physically heeling a ship at a quay or sea to adjust magnets is cumbersome and time-consuming, the **Vertical Force Instrument (VFI)** is used to eliminate the ship's vertical magnetic field while the ship remains **completely upright**.
 
 #### **Description & Principle of the VFI**
+
 * **Construction:** The VFI consists of a magnetic needle mounted on a horizontal knife-edge pivot slightly above its center of gravity. In the absence of a vertical magnetic field, the needle lies horizontal. In a vertical field (\(Z\)), the needle tilts (Red end dips down in the Northern Hemisphere).
 * **Graduated Arm & Rider Weight:** A sliding aluminum rider weight (\(w\)) moves along a graduated scale (\(d\)) on the needle to balance the dipping magnetic moment.
 * **Equilibrium Condition:**
@@ -98,5 +104,3 @@ Because physically heeling a ship at a quay or sea to adjust magnets is cumberso
 > **Note on Latitude Changes:** Because vertical permanent magnets correct both permanent (\(R\)) and induced (\(k, e\)) fields together, the correction holds strictly for the latitude in which it was made. As the vessel changes latitude, \(Z\) changes, causing induced heeling error to change while the permanent magnet field remains constant, requiring re-adjustment across major latitude changes.
 
 ---
-
-🧭 Would you like to work through a numerical calculation for setting the VFI rider weight (\(n_1 = n \times \lambda_2\)) or solving a multi-latitude heeling error adjustment problem?

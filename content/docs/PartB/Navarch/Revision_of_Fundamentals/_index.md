@@ -4,6 +4,11 @@ type: docs
 sidebar:
   open: true
 ---
+
+## Contents
+
+{{<page_list2>}}
+
 1. Ship lines, 
 2. Coefficients of form, 
 3. Hull form characteristics, 

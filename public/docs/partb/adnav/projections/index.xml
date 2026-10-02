@@ -1,83 +1,42 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Study Extra Master – Projections.</title>
-    <link>http://localhost:1313/docs/partb/adnav/projections/</link>
-    <description>Recent content in Projections. on Study Extra Master</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	  <atom:link href="http://localhost:1313/docs/partb/adnav/projections/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title> Drawing a Gnomonic Azimuthal Tangent at Equator</title>
-      <link>http://localhost:1313/docs/partb/adnav/projections/gnomonic-azimuthal-projection/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partb/adnav/projections/gnomonic-azimuthal-projection/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Draw a gnomonic Azimuthal graticule , tangent at equator , &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;10&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;20&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;30&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;mi&gt;N&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;0^\circ,10^\circ,20^\circ,30^\circ, N &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.8778em;vertical-align:-0.1944em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mpunct&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mpunct&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mpunct&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mpunct&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.109em;&#34;&gt;N&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; , Longitude &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;30&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mi&gt;W&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;30^\circ W&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.1389em;&#34;&gt;W&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; to &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;30&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mi&gt;E&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;30^\circ E&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0576em;&#34;&gt;E&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; , Interval is &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;10&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;10^\circ &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; using a suitable scale.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;draw-a-gnomonic-azimuthal-graticule--tangent-at-equator----longitude--to---interval-is--using-a-suitable-scale&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#draw-a-gnomonic-azimuthal-graticule--tangent-at-equator----longitude--to---interval-is--using-a-suitable-scale&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Since no scale mentioned , we presume a scale where earth&amp;rsquo;s radius = 5 cm.&lt;/p&gt;
-&lt;h3&gt;STEP 1&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-1&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Study Extra Master – Projections.</title><link>https://extra.anirbanmarine.in/docs/partb/adnav/projections/</link><description>Recent content in Projections. on Study Extra Master</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://extra.anirbanmarine.in/docs/partb/adnav/projections/index.xml" rel="self" type="application/rss+xml"/><item><title> Drawing a Gnomonic Azimuthal Tangent at Equator</title><link>https://extra.anirbanmarine.in/docs/partb/adnav/projections/gnomonic-azimuthal-projection/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://extra.anirbanmarine.in/docs/partb/adnav/projections/gnomonic-azimuthal-projection/</guid><description>
+&lt;h2&gt;Draw a gnomonic Azimuthal graticule , tangent at equator , &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mo separator="true"&gt;,&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;10&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mo separator="true"&gt;,&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;20&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mo separator="true"&gt;,&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;30&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mo separator="true"&gt;,&lt;/mo&gt;&lt;mi&gt;N&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;0^\circ,10^\circ,20^\circ,30^\circ, N &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.8778em;vertical-align:-0.1944em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="mpunct"&gt;,&lt;/span&gt;&lt;span class="mspace" style="margin-right:0.1667em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;1&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="mpunct"&gt;,&lt;/span&gt;&lt;span class="mspace" style="margin-right:0.1667em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;2&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="mpunct"&gt;,&lt;/span&gt;&lt;span class="mspace" style="margin-right:0.1667em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;3&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="mpunct"&gt;,&lt;/span&gt;&lt;span class="mspace" style="margin-right:0.1667em;"&gt;&lt;/span&gt;&lt;span class="mord mathnormal" style="margin-right:0.109em;"&gt;N&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; , Longitude &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;30&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mi&gt;W&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;30^\circ W&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.6833em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;3&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="mord mathnormal" style="margin-right:0.1389em;"&gt;W&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; to &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;30&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mi&gt;E&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;30^\circ E&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.6833em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;3&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="mord mathnormal" style="margin-right:0.0576em;"&gt;E&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; , Interval is &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;10&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;10^\circ &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.6741em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;1&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; using a suitable scale.&lt;span class="hx:absolute hx:-mt-20" id="draw-a-gnomonic-azimuthal-graticule--tangent-at-equator----longitude--to---interval-is--using-a-suitable-scale"&gt;&lt;/span&gt;
+&lt;a href="#draw-a-gnomonic-azimuthal-graticule--tangent-at-equator----longitude--to---interval-is--using-a-suitable-scale" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Since no scale mentioned , we presume a scale where earth&amp;rsquo;s radius = 5 cm.&lt;/p&gt;
+&lt;h3&gt;STEP 1&lt;span class="hx:absolute hx:-mt-20" id="step-1"&gt;&lt;/span&gt;
+&lt;a href="#step-1" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Draw a circle with center at P .&lt;/li&gt;
 &lt;li&gt;Draw two lines one vertical and one horizontal meeting at center P.&lt;/li&gt;
 &lt;li&gt;Extend the vertical line by at least double the radius.&lt;/li&gt;
 &lt;li&gt;Draw a tangent AB at the point where the vertical line meets the circle.Let this point be called C.
-
-    &lt;img src=&#34;../GnomSTEP_1.svg&#34; alt=&#34;Gnom STEP1&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src="../GnomSTEP_1.svg" alt="Gnom STEP1" loading="lazy" /&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;STEP 2&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Draw a line at an angle &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;10&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;10^\circ&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; on both sides of the vertical ending at the tangent to the circle.&lt;/li&gt;
-&lt;li&gt;Keep drawing lines both sides of the vertcal at &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;20&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;30&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;40&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;50&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mo separator=&#34;true&#34;&gt;,&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;60&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;20^\circ,30^\circ,40^\circ,50^\circ,60^\circ&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.8686em;vertical-align:-0.1944em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mpunct&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mpunct&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mpunct&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mpunct&#34;&gt;,&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;6&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; angles to the vertcal and ending on the tangent to the circle.
-
-    &lt;img src=&#34;../GnomSTEP_2.svg&#34; alt=&#34;Gnom STEP2&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;h3&gt;STEP 2&lt;span class="hx:absolute hx:-mt-20" id="step-2"&gt;&lt;/span&gt;
+&lt;a href="#step-2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Draw a line at an angle &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;10&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;10^\circ&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.6741em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;1&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; on both sides of the vertical ending at the tangent to the circle.&lt;/li&gt;
+&lt;li&gt;Keep drawing lines both sides of the vertcal at &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;20&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mo separator="true"&gt;,&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;30&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mo separator="true"&gt;,&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;40&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mo separator="true"&gt;,&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;50&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mo separator="true"&gt;,&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;60&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;20^\circ,30^\circ,40^\circ,50^\circ,60^\circ&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.8686em;vertical-align:-0.1944em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;2&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="mpunct"&gt;,&lt;/span&gt;&lt;span class="mspace" style="margin-right:0.1667em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;3&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="mpunct"&gt;,&lt;/span&gt;&lt;span class="mspace" style="margin-right:0.1667em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;4&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="mpunct"&gt;,&lt;/span&gt;&lt;span class="mspace" style="margin-right:0.1667em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;5&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="mpunct"&gt;,&lt;/span&gt;&lt;span class="mspace" style="margin-right:0.1667em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;6&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; angles to the vertcal and ending on the tangent to the circle.
+&lt;img src="../GnomSTEP_2.svg" alt="Gnom STEP2" loading="lazy" /&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;STEP 3&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;STEP 3&lt;span class="hx:absolute hx:-mt-20" id="step-3"&gt;&lt;/span&gt;
+&lt;a href="#step-3" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Draw Concentric circles with center C and radius equal to the distance from center to each of the points where the concentric circles meet the tangent line AB
-
-    &lt;img src=&#34;../GnomSTEP_3.svg&#34; alt=&#34;Gnom STEP3&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src="../GnomSTEP_3.svg" alt="Gnom STEP3" loading="lazy" /&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;STEP 4&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-4&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;STEP 4&lt;span class="hx:absolute hx:-mt-20" id="step-4"&gt;&lt;/span&gt;
+&lt;a href="#step-4" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Draw tangents from P to the first of concentric circles at the point F where the first circle.
-
-    &lt;img src=&#34;../GnomSTEP_4.svg&#34; alt=&#34;Gnom STEP4&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Co-ordinate Universal time and time signals :</title>
-      <link>http://localhost:1313/docs/partb/adnav/projections/prompt_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partb/adnav/projections/prompt_1/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Of course. Here is a comprehensive explanation of Coordinated Universal Time (UTC) and the time signals that disseminate it.&lt;/p&gt;
+&lt;img src="../GnomSTEP_4.svg" alt="Gnom STEP4" loading="lazy" /&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Co-ordinate Universal time and time signals :</title><link>https://extra.anirbanmarine.in/docs/partb/adnav/projections/prompt_1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://extra.anirbanmarine.in/docs/partb/adnav/projections/prompt_1/</guid><description>
+&lt;p&gt;Of course. Here is a comprehensive explanation of Coordinated Universal Time (UTC) and the time signals that disseminate it.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;Part 1: Coordinated Universal Time (UTC)&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;part-1-coordinated-universal-time-utc&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#part-1-coordinated-universal-time-utc&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;What is UTC?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;what-is-utc&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#what-is-utc&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;Coordinated Universal Time (UTC)&lt;/strong&gt; is the primary time standard by which the world regulates clocks and time. It is, in essence, the &amp;ldquo;master clock&amp;rdquo; for the entire planet.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Part 1: Coordinated Universal Time (UTC)&lt;/strong&gt;&lt;span class="hx:absolute hx:-mt-20" id="part-1-coordinated-universal-time-utc"&gt;&lt;/span&gt;
+&lt;a href="#part-1-coordinated-universal-time-utc" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;h4&gt;What is UTC?&lt;span class="hx:absolute hx:-mt-20" id="what-is-utc"&gt;&lt;/span&gt;
+&lt;a href="#what-is-utc" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;Coordinated Universal Time (UTC)&lt;/strong&gt; is the primary time standard by which the world regulates clocks and time. It is, in essence, the &amp;ldquo;master clock&amp;rdquo; for the entire planet.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;It is a Standard, Not a Time Zone:&lt;/strong&gt; UTC is the reference point from which all other time zones are calculated. For example, New York is UTC-5 during standard time, and Tokyo is UTC+9. UTC itself does not observe daylight saving time.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Successor to GMT:&lt;/strong&gt; For most practical and scientific purposes, UTC has replaced Greenwich Mean Time (GMT). While often used interchangeably in casual contexts (the time in London is UTC+0 in winter, same as GMT), they are technically different. GMT is an astronomical time standard based on the Earth&amp;rsquo;s rotation, whereas UTC is based on atomic clocks.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;The &amp;ldquo;Coordinated&amp;rdquo; Aspect:&lt;/strong&gt; The name &amp;ldquo;Coordinated&amp;rdquo; is key. UTC is a brilliant compromise between two different ways of measuring time.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;How UTC is Calculated: A Tale of Two Times&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;how-utc-is-calculated-a-tale-of-two-times&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#how-utc-is-calculated-a-tale-of-two-times&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;UTC is derived from two different time scales:&lt;/p&gt;
+&lt;h4&gt;How UTC is Calculated: A Tale of Two Times&lt;span class="hx:absolute hx:-mt-20" id="how-utc-is-calculated-a-tale-of-two-times"&gt;&lt;/span&gt;
+&lt;a href="#how-utc-is-calculated-a-tale-of-two-times" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;UTC is derived from two different time scales:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;International Atomic Time (TAI - &lt;em&gt;Temps Atomique International&lt;/em&gt;):&lt;/strong&gt;&lt;/p&gt;
@@ -94,8 +53,8 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4&gt;The Compromise: Leap Seconds&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-compromise-leap-seconds&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#the-compromise-leap-seconds&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Here is the problem: The perfectly stable atomic time (TAI) gradually drifts away from the slightly wobbly Earth-rotation time (UT1). If we only used TAI, noon would eventually happen in the middle of the night.&lt;/p&gt;
+&lt;h4&gt;The Compromise: Leap Seconds&lt;span class="hx:absolute hx:-mt-20" id="the-compromise-leap-seconds"&gt;&lt;/span&gt;
+&lt;a href="#the-compromise-leap-seconds" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Here is the problem: The perfectly stable atomic time (TAI) gradually drifts away from the slightly wobbly Earth-rotation time (UT1). If we only used TAI, noon would eventually happen in the middle of the night.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;UTC is the solution.&lt;/strong&gt; It uses the steady, precise &amp;ldquo;tick&amp;rdquo; of TAI but is intentionally adjusted to stay in sync with the Earth&amp;rsquo;s day (UT1).&lt;/p&gt;
 &lt;p&gt;This adjustment is done by adding a &lt;strong&gt;leap second&lt;/strong&gt;.&lt;/p&gt;
 &lt;ul&gt;
@@ -104,15 +63,14 @@
 &lt;li&gt;This keeps our clocks aligned with the position of the sun in the sky.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;&lt;strong&gt;The Future of Leap Seconds:&lt;/strong&gt; Due to the complexity they cause for computer systems, there is an international agreement to stop adding leap seconds by 2035. After this, UTC will be allowed to drift further from UT1.&lt;/p&gt;
-
+&lt;p&gt;&lt;strong&gt;The Future of Leap Seconds:&lt;/strong&gt; Due to the complexity they cause for computer systems, there is an international agreement to stop adding leap seconds by 2035. After this, UTC will be allowed to drift further from UT1.&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;Part 2: Time Signals&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;part-2-time-signals&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#part-2-time-signals&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A time standard like UTC is useless if no one can access it. &lt;strong&gt;Time signals&lt;/strong&gt; are the delivery mechanism; they are broadcasts or transmissions that disseminate the precise time from the UTC standard to the rest of the world.&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Part 2: Time Signals&lt;/strong&gt;&lt;span class="hx:absolute hx:-mt-20" id="part-2-time-signals"&gt;&lt;/span&gt;
+&lt;a href="#part-2-time-signals" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;A time standard like UTC is useless if no one can access it. &lt;strong&gt;Time signals&lt;/strong&gt; are the delivery mechanism; they are broadcasts or transmissions that disseminate the precise time from the UTC standard to the rest of the world.&lt;/p&gt;
 &lt;p&gt;There are three primary methods for transmitting time signals:&lt;/p&gt;
-&lt;h4&gt;1. Radio Time Signals (Terrestrial)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-radio-time-signals-terrestrial&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-radio-time-signals-terrestrial&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;These are radio stations that broadcast a carrier wave at a very precise frequency, with audio pulses or digital data embedded to encode the time. &amp;ldquo;Atomic&amp;rdquo; clocks and watches use these signals to set themselves.&lt;/p&gt;
+&lt;h4&gt;1. Radio Time Signals (Terrestrial)&lt;span class="hx:absolute hx:-mt-20" id="1-radio-time-signals-terrestrial"&gt;&lt;/span&gt;
+&lt;a href="#1-radio-time-signals-terrestrial" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;These are radio stations that broadcast a carrier wave at a very precise frequency, with audio pulses or digital data embedded to encode the time. &amp;ldquo;Atomic&amp;rdquo; clocks and watches use these signals to set themselves.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;How they work:&lt;/strong&gt; A radio receiver in a watch or clock picks up the low-frequency signal. A microprocessor decodes the signal to get the exact year, month, day, hour, minute, and second.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Famous Examples:&lt;/strong&gt;
@@ -124,8 +82,8 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;2. Satellite Time Signals (GNSS)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-satellite-time-signals-gnss&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2-satellite-time-signals-gnss&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Global Navigation Satellite Systems (GNSS) are a cornerstone of modern timekeeping. Their primary purpose is positioning, but to calculate a position accurately, the system relies on incredibly precise timing.&lt;/p&gt;
+&lt;h4&gt;2. Satellite Time Signals (GNSS)&lt;span class="hx:absolute hx:-mt-20" id="2-satellite-time-signals-gnss"&gt;&lt;/span&gt;
+&lt;a href="#2-satellite-time-signals-gnss" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Global Navigation Satellite Systems (GNSS) are a cornerstone of modern timekeeping. Their primary purpose is positioning, but to calculate a position accurately, the system relies on incredibly precise timing.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;How they work:&lt;/strong&gt; Each satellite in a GNSS constellation (like GPS) has multiple atomic clocks on board. It continuously broadcasts its exact position and the current time according to its clock. A receiver on the ground (in your phone or car) receives signals from multiple satellites. By calculating the tiny differences in the arrival time of these signals, it can pinpoint its location &lt;em&gt;and&lt;/em&gt; derive an extremely accurate time.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Examples:&lt;/strong&gt;
@@ -137,8 +95,8 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;3. Internet Time Signals&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-internet-time-signals&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-internet-time-signals&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;For computers, servers, and network devices, time is synchronized over the internet.&lt;/p&gt;
+&lt;h4&gt;3. Internet Time Signals&lt;span class="hx:absolute hx:-mt-20" id="3-internet-time-signals"&gt;&lt;/span&gt;
+&lt;a href="#3-internet-time-signals" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;For computers, servers, and network devices, time is synchronized over the internet.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;How they work:&lt;/strong&gt; The &lt;strong&gt;Network Time Protocol (NTP)&lt;/strong&gt; is a system that allows a computer to request the current time from a dedicated time server. It accounts for the network delay (latency) to ensure high accuracy. NTP uses a hierarchical system of &amp;ldquo;stratum&amp;rdquo; levels.
 &lt;ul&gt;
@@ -155,68 +113,42 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;&lt;strong&gt;Summary: The Relationship&lt;/strong&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;summary-the-relationship&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#summary-the-relationship&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Think of it as a supply chain for time:&lt;/p&gt;
+&lt;h3&gt;&lt;strong&gt;Summary: The Relationship&lt;/strong&gt;&lt;span class="hx:absolute hx:-mt-20" id="summary-the-relationship"&gt;&lt;/span&gt;
+&lt;a href="#summary-the-relationship" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Think of it as a supply chain for time:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;Source:&lt;/strong&gt; A global network of &lt;strong&gt;Atomic Clocks&lt;/strong&gt; generates ultra-precise &lt;strong&gt;TAI&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Standard:&lt;/strong&gt; The &lt;strong&gt;International Bureau of Weights and Measures (BIPM)&lt;/strong&gt; coordinates these clocks and, by making adjustments based on Earth&amp;rsquo;s rotation (&lt;strong&gt;UT1&lt;/strong&gt;), produces the official world time standard: &lt;strong&gt;UTC&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Distribution:&lt;/strong&gt; &lt;strong&gt;Time Signal Transmitters&lt;/strong&gt; (radio stations, GPS satellites, NTP servers) get the time from UTC.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;End User:&lt;/strong&gt; &lt;strong&gt;Your watch, phone, computer, or car&lt;/strong&gt; receives the time signal and sets its internal clock.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;This entire system ensures that from coordinating international flights and financial transactions to making a video call with someone across the globe, we are all operating on a single, synchronized, and reliable timescale.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Discuss with respect to the theory and general appreciation of cartographical projections Gnomonic:</title>
-      <link>http://localhost:1313/docs/partb/adnav/projections/prompt_4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partb/adnav/projections/prompt_4/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Of course. The Gnomonic projection is a fascinating and fundamental map projection, often misunderstood due to its extreme visual distortion. Its value lies not in its appearance, but in a single, powerful geometric property.&lt;/p&gt;
+&lt;p&gt;This entire system ensures that from coordinating international flights and financial transactions to making a video call with someone across the globe, we are all operating on a single, synchronized, and reliable timescale.&lt;/p&gt;</description></item><item><title>Discuss with respect to the theory and general appreciation of cartographical projections Gnomonic:</title><link>https://extra.anirbanmarine.in/docs/partb/adnav/projections/prompt_4/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://extra.anirbanmarine.in/docs/partb/adnav/projections/prompt_4/</guid><description>
+&lt;p&gt;Of course. The Gnomonic projection is a fascinating and fundamental map projection, often misunderstood due to its extreme visual distortion. Its value lies not in its appearance, but in a single, powerful geometric property.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s discuss it with respect to its theory and its general appreciation in the world of cartography.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;Part 1: The Theory of the Gnomonic Projection&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;part-1-the-theory-of-the-gnomonic-projection&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#part-1-the-theory-of-the-gnomonic-projection&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The theory behind the Gnomonic projection is best understood through its geometric construction. It is a true &lt;strong&gt;perspective projection&lt;/strong&gt;, meaning it can be visualized as projecting the globe&amp;rsquo;s surface onto a plane from a single point of light.&lt;/p&gt;
-&lt;h4&gt;1. Geometric Construction&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-geometric-construction&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-geometric-construction&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
+&lt;h3&gt;Part 1: The Theory of the Gnomonic Projection&lt;span class="hx:absolute hx:-mt-20" id="part-1-the-theory-of-the-gnomonic-projection"&gt;&lt;/span&gt;
+&lt;a href="#part-1-the-theory-of-the-gnomonic-projection" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The theory behind the Gnomonic projection is best understood through its geometric construction. It is a true &lt;strong&gt;perspective projection&lt;/strong&gt;, meaning it can be visualized as projecting the globe&amp;rsquo;s surface onto a plane from a single point of light.&lt;/p&gt;
+&lt;h4&gt;1. Geometric Construction&lt;span class="hx:absolute hx:-mt-20" id="1-geometric-construction"&gt;&lt;/span&gt;
+&lt;a href="#1-geometric-construction" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Point of Projection:&lt;/strong&gt; The &amp;ldquo;light source&amp;rdquo; is placed at the &lt;strong&gt;center of the globe&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Developable Surface:&lt;/strong&gt; The projection surface is a &lt;strong&gt;plane&lt;/strong&gt; that is tangent to the globe at a single point (the &amp;ldquo;point of tangency&amp;rdquo; or &amp;ldquo;center point&amp;rdquo; of the map).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;The Projection Process:&lt;/strong&gt; Imagine straight lines (rays of light) emanating from the center of the Earth. These rays pass through points on the Earth&amp;rsquo;s surface (e.g., coastlines, cities) and continue until they intersect the tangent plane. The point where a ray hits the plane is the location of that feature on the Gnomonic map.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Discuss with respect to the theory and general appreciation of cartographical projections Lambert&#39;s orthomorphic and</title>
-      <link>http://localhost:1313/docs/partb/adnav/projections/prompt_6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partb/adnav/projections/prompt_6/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Of course. Let&amp;rsquo;s delve into a detailed discussion of the &lt;strong&gt;Lambert Conformal Conic&lt;/strong&gt; projection, often known by its older name, Lambert&amp;rsquo;s orthomorphic projection.&lt;/p&gt;
+&lt;/ul&gt;</description></item><item><title>Discuss with respect to the theory and general appreciation of cartographical projections Lambert's orthomorphic and</title><link>https://extra.anirbanmarine.in/docs/partb/adnav/projections/prompt_6/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://extra.anirbanmarine.in/docs/partb/adnav/projections/prompt_6/</guid><description>
+&lt;p&gt;Of course. Let&amp;rsquo;s delve into a detailed discussion of the &lt;strong&gt;Lambert Conformal Conic&lt;/strong&gt; projection, often known by its older name, Lambert&amp;rsquo;s orthomorphic projection.&lt;/p&gt;
 &lt;p&gt;We will discuss it from two perspectives:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;The Theory:&lt;/strong&gt; The geometric and mathematical principles behind its construction and properties.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;The General Appreciation:&lt;/strong&gt; Its practical strengths, weaknesses, applications, and why it holds such an esteemed place in cartography.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
-&lt;h3&gt;A Note on Terminology: Orthomorphic vs. Conformal&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;a-note-on-terminology-orthomorphic-vs-conformal&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#a-note-on-terminology-orthomorphic-vs-conformal&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;First, it&amp;rsquo;s essential to clarify the term &lt;strong&gt;&amp;ldquo;orthomorphic.&amp;rdquo;&lt;/strong&gt; Coined from Greek (&lt;em&gt;orthos&lt;/em&gt; = right, &lt;em&gt;morphe&lt;/em&gt; = shape), it literally means &amp;ldquo;right-shaping.&amp;rdquo; In modern cartography, the term &lt;strong&gt;&amp;ldquo;conformal&amp;rdquo;&lt;/strong&gt; is used almost exclusively.&lt;/p&gt;
+&lt;h3&gt;A Note on Terminology: Orthomorphic vs. Conformal&lt;span class="hx:absolute hx:-mt-20" id="a-note-on-terminology-orthomorphic-vs-conformal"&gt;&lt;/span&gt;
+&lt;a href="#a-note-on-terminology-orthomorphic-vs-conformal" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;First, it&amp;rsquo;s essential to clarify the term &lt;strong&gt;&amp;ldquo;orthomorphic.&amp;rdquo;&lt;/strong&gt; Coined from Greek (&lt;em&gt;orthos&lt;/em&gt; = right, &lt;em&gt;morphe&lt;/em&gt; = shape), it literally means &amp;ldquo;right-shaping.&amp;rdquo; In modern cartography, the term &lt;strong&gt;&amp;ldquo;conformal&amp;rdquo;&lt;/strong&gt; is used almost exclusively.&lt;/p&gt;
 &lt;p&gt;A &lt;strong&gt;conformal (or orthomorphic) projection&lt;/strong&gt; is one that preserves angles locally. This means that if two lines on the globe intersect at a 90-degree angle, their corresponding lines on the map will also intersect at a 90-degree angle. A direct and highly valuable consequence of this property is that the &lt;strong&gt;shapes of very small features are preserved&lt;/strong&gt;. A small island, for instance, will have the correct shape on the map, even if its size is distorted.&lt;/p&gt;
 &lt;p&gt;This preservation of shape comes at a cost: &lt;strong&gt;area is not preserved&lt;/strong&gt;. On a conformal map, you cannot use the map to accurately compare the sizes of different regions.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;1. The Theory of the Lambert Conformal Conic (LCC)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-the-theory-of-the-lambert-conformal-conic-lcc&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-the-theory-of-the-lambert-conformal-conic-lcc&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The LCC was designed by the brilliant Swiss mathematician and cartographer Johann Heinrich Lambert in 1772. It is a &lt;strong&gt;conic&lt;/strong&gt; projection, meaning its construction is based on the idea of projecting the globe onto a cone.&lt;/p&gt;
-&lt;h4&gt;The Geometric Concept: A Cone on a Globe&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-geometric-concept-a-cone-on-a-globe&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#the-geometric-concept-a-cone-on-a-globe&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Imagine the Earth as a transparent globe with a light source at its center.&lt;/p&gt;
+&lt;h3&gt;1. The Theory of the Lambert Conformal Conic (LCC)&lt;span class="hx:absolute hx:-mt-20" id="1-the-theory-of-the-lambert-conformal-conic-lcc"&gt;&lt;/span&gt;
+&lt;a href="#1-the-theory-of-the-lambert-conformal-conic-lcc" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The LCC was designed by the brilliant Swiss mathematician and cartographer Johann Heinrich Lambert in 1772. It is a &lt;strong&gt;conic&lt;/strong&gt; projection, meaning its construction is based on the idea of projecting the globe onto a cone.&lt;/p&gt;
+&lt;h4&gt;The Geometric Concept: A Cone on a Globe&lt;span class="hx:absolute hx:-mt-20" id="the-geometric-concept-a-cone-on-a-globe"&gt;&lt;/span&gt;
+&lt;a href="#the-geometric-concept-a-cone-on-a-globe" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Imagine the Earth as a transparent globe with a light source at its center.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;A &lt;strong&gt;cone&lt;/strong&gt; is placed over the globe, like a dunce cap. The axis of the cone is aligned with the Earth&amp;rsquo;s axis of rotation (the North-South pole line).&lt;/li&gt;
 &lt;li&gt;The features of the globe (continents, latitude/longitude lines) are &amp;ldquo;projected&amp;rdquo; from the central light source onto the surface of the cone.&lt;/li&gt;
@@ -227,8 +159,8 @@
 &lt;li&gt;&lt;strong&gt;Parallels of latitude&lt;/strong&gt; are projected as concentric circles (or arcs of circles) on the cone.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Meridians of longitude&lt;/strong&gt; are projected as straight lines radiating from a single point—the apex of the cone.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;Tangent vs. Secant Case (The Key to its Usefulness)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;tangent-vs-secant-case-the-key-to-its-usefulness&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#tangent-vs-secant-case-the-key-to-its-usefulness&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;There are two ways the cone can be placed, and this is crucial to understanding the LCC&amp;rsquo;s genius.&lt;/p&gt;
+&lt;h4&gt;Tangent vs. Secant Case (The Key to its Usefulness)&lt;span class="hx:absolute hx:-mt-20" id="tangent-vs-secant-case-the-key-to-its-usefulness"&gt;&lt;/span&gt;
+&lt;a href="#tangent-vs-secant-case-the-key-to-its-usefulness" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;There are two ways the cone can be placed, and this is crucial to understanding the LCC&amp;rsquo;s genius.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Tangent Cone:&lt;/strong&gt; The cone touches the globe along a single line of latitude. This line is called the &lt;strong&gt;Standard Parallel&lt;/strong&gt;. Along this line, the map scale is perfectly true, and there is zero distortion. Distortion increases as you move away (north or south) from this standard parallel.&lt;/p&gt;
@@ -242,28 +174,15 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The secant case is far more useful because it distributes the unavoidable distortion over a much larger area. By carefully choosing the two standard parallels, a cartographer can create a map with extremely low distortion across a wide band of latitude.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Discuss with respect to the theory and general appreciation of cartographical projections Lambert&#39;s Stegorographic</title>
-      <link>http://localhost:1313/docs/partb/adnav/projections/prompt_7/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partb/adnav/projections/prompt_7/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Of course. This is an excellent topic, as Lambert&amp;rsquo;s Stereographic projection is one of the most elegant, ancient, and useful projections in the history of cartography.&lt;/p&gt;
+&lt;p&gt;The secant case is far more useful because it distributes the unavoidable distortion over a much larger area. By carefully choosing the two standard parallels, a cartographer can create a map with extremely low distortion across a wide band of latitude.&lt;/p&gt;</description></item><item><title>Discuss with respect to the theory and general appreciation of cartographical projections Lambert's Stegorographic</title><link>https://extra.anirbanmarine.in/docs/partb/adnav/projections/prompt_7/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://extra.anirbanmarine.in/docs/partb/adnav/projections/prompt_7/</guid><description>
+&lt;p&gt;Of course. This is an excellent topic, as Lambert&amp;rsquo;s Stereographic projection is one of the most elegant, ancient, and useful projections in the history of cartography.&lt;/p&gt;
 &lt;p&gt;First, a point of clarification: the correct term is the &lt;strong&gt;Stereographic&lt;/strong&gt; projection. &amp;ldquo;Stegorographic&amp;rdquo; is a common misspelling. While the projection dates back to antiquity (possibly to Hipparchus in the 2nd century BCE), it was Johann Heinrich Lambert who, in 1772, rigorously analyzed its mathematical properties, particularly its conformality, cementing its place in modern cartography.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s discuss it with respect to its theory and its general appreciation.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;Part 1: The Theory of the Stereographic Projection&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;part-1-the-theory-of-the-stereographic-projection&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#part-1-the-theory-of-the-stereographic-projection&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The theory behind the Stereographic projection is best understood through its geometric construction and its resulting mathematical properties.&lt;/p&gt;
-&lt;h4&gt;A. Geometric Construction&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;a-geometric-construction&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#a-geometric-construction&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The Stereographic is an &lt;strong&gt;azimuthal&lt;/strong&gt; (or planar) projection. This means it projects the spherical Earth onto a flat plane. Its construction is pure and geometrically elegant:&lt;/p&gt;
+&lt;h3&gt;Part 1: The Theory of the Stereographic Projection&lt;span class="hx:absolute hx:-mt-20" id="part-1-the-theory-of-the-stereographic-projection"&gt;&lt;/span&gt;
+&lt;a href="#part-1-the-theory-of-the-stereographic-projection" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The theory behind the Stereographic projection is best understood through its geometric construction and its resulting mathematical properties.&lt;/p&gt;
+&lt;h4&gt;A. Geometric Construction&lt;span class="hx:absolute hx:-mt-20" id="a-geometric-construction"&gt;&lt;/span&gt;
+&lt;a href="#a-geometric-construction" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The Stereographic is an &lt;strong&gt;azimuthal&lt;/strong&gt; (or planar) projection. This means it projects the spherical Earth onto a flat plane. Its construction is pure and geometrically elegant:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;strong&gt;The Setup:&lt;/strong&gt; Imagine a transparent globe (the Earth) and a flat plane that is tangent to it at a single point (e.g., the North Pole). This point is the &lt;strong&gt;center point&lt;/strong&gt; or &lt;strong&gt;point of tangency&lt;/strong&gt; of the future map.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;The Point of Projection:&lt;/strong&gt; Place a light source at the point on the globe exactly &lt;em&gt;opposite&lt;/em&gt; to the point of tangency. This is called the &lt;strong&gt;antipode&lt;/strong&gt;. For a map centered on the North Pole, the light source would be at the South Pole.&lt;/li&gt;
@@ -274,45 +193,32 @@
 &lt;li&gt;&lt;strong&gt;Polar Aspect:&lt;/strong&gt; The plane is tangent to a pole (e.g., North Pole). This is the most common use. Meridians project as straight lines radiating from the pole, and parallels of latitude project as concentric circles.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Equatorial Aspect:&lt;/strong&gt; The plane is tangent to a point on the equator. The equator and the central meridian project as straight lines. Other meridians and parallels project as complex curves (arcs of circles).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Oblique Aspect:&lt;/strong&gt; The plane is tangent to any other point on Earth. All great and small circles become circles or straight lines, but the graticule (grid of latitude/longitude) is complex.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Discuss with respect to the theory and general appreciation of cartographical projections Lambert&#39;s-conical</title>
-      <link>http://localhost:1313/docs/partb/adnav/projections/prompt_5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partb/adnav/projections/prompt_5/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Of course. Let&amp;rsquo;s delve into the Lambert Conformal Conic projection, breaking down its theory and its broader appreciation in the world of cartography. It is one of the most significant and widely used map projections ever developed.&lt;/p&gt;
-&lt;h3&gt;The Theory: How It Works&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;the-theory-how-it-works&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#the-theory-how-it-works&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;At its core, every map projection is a systematic method of translating the curved, three-dimensional surface of the Earth onto a flat, two-dimensional plane. The Lambert Conformal Conic (LCC) projection achieves this by conceptualizing a cone placed over the globe.&lt;/p&gt;
-&lt;h4&gt;1. The Geometric Concept: The Cone&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-the-geometric-concept-the-cone&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-the-geometric-concept-the-cone&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Imagine a globe representing the Earth. Now, imagine placing a cone over it, like a lampshade or a dunce cap. The axis of the cone is aligned with the Earth&amp;rsquo;s axis of rotation (the line connecting the North and South Poles).&lt;/p&gt;
+&lt;/ul&gt;</description></item><item><title>Discuss with respect to the theory and general appreciation of cartographical projections Lambert's-conical</title><link>https://extra.anirbanmarine.in/docs/partb/adnav/projections/prompt_5/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://extra.anirbanmarine.in/docs/partb/adnav/projections/prompt_5/</guid><description>
+&lt;p&gt;Of course. Let&amp;rsquo;s delve into the Lambert Conformal Conic projection, breaking down its theory and its broader appreciation in the world of cartography. It is one of the most significant and widely used map projections ever developed.&lt;/p&gt;
+&lt;h3&gt;The Theory: How It Works&lt;span class="hx:absolute hx:-mt-20" id="the-theory-how-it-works"&gt;&lt;/span&gt;
+&lt;a href="#the-theory-how-it-works" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;At its core, every map projection is a systematic method of translating the curved, three-dimensional surface of the Earth onto a flat, two-dimensional plane. The Lambert Conformal Conic (LCC) projection achieves this by conceptualizing a cone placed over the globe.&lt;/p&gt;
+&lt;h4&gt;1. The Geometric Concept: The Cone&lt;span class="hx:absolute hx:-mt-20" id="1-the-geometric-concept-the-cone"&gt;&lt;/span&gt;
+&lt;a href="#1-the-geometric-concept-the-cone" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Imagine a globe representing the Earth. Now, imagine placing a cone over it, like a lampshade or a dunce cap. The axis of the cone is aligned with the Earth&amp;rsquo;s axis of rotation (the line connecting the North and South Poles).&lt;/p&gt;
 &lt;p&gt;There are two primary variations of this concept:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Tangent Cone:&lt;/strong&gt; The cone touches the globe along a single line of latitude. This line is called the &lt;strong&gt;standard parallel&lt;/strong&gt;. Along this specific parallel, the projection is perfectly accurate in scale—there is zero distortion.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Secant Cone:&lt;/strong&gt; The cone slices &lt;em&gt;through&lt;/em&gt; the globe, intersecting it at two lines of latitude. These are the &lt;strong&gt;two standard parallels&lt;/strong&gt;. This is the far more common and useful version of the Lambert projection.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Once the features of the Earth are projected from the globe&amp;rsquo;s center onto the surface of the cone, the cone is &amp;ldquo;unrolled&amp;rdquo; to create a flat map.&lt;/p&gt;
-&lt;h4&gt;2. The Resulting Grid&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-the-resulting-grid&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2-the-resulting-grid&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;When unrolled, the Lambert Conformal Conic projection has a distinct and recognizable appearance:&lt;/p&gt;
+&lt;h4&gt;2. The Resulting Grid&lt;span class="hx:absolute hx:-mt-20" id="2-the-resulting-grid"&gt;&lt;/span&gt;
+&lt;a href="#2-the-resulting-grid" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;When unrolled, the Lambert Conformal Conic projection has a distinct and recognizable appearance:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Parallels of Latitude:&lt;/strong&gt; Appear as concentric circular arcs, centered on the apex of the cone (which is often far off the map).&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Meridians of Longitude:&lt;/strong&gt; Appear as straight lines that radiate outwards from the same apex, converging towards the nearest pole.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;3. The Crucial Property: Conformality&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-the-crucial-property-conformality&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-the-crucial-property-conformality&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The &amp;ldquo;Conformal&amp;rdquo; in its name is its defining characteristic. A &lt;strong&gt;conformal projection&lt;/strong&gt; preserves local shapes and angles.&lt;/p&gt;
+&lt;h4&gt;3. The Crucial Property: Conformality&lt;span class="hx:absolute hx:-mt-20" id="3-the-crucial-property-conformality"&gt;&lt;/span&gt;
+&lt;a href="#3-the-crucial-property-conformality" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The &amp;ldquo;Conformal&amp;rdquo; in its name is its defining characteristic. A &lt;strong&gt;conformal projection&lt;/strong&gt; preserves local shapes and angles.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;What this means:&lt;/strong&gt; If you have a right-angle intersection of two roads on the ground, it will appear as a right angle on a Lambert map. Small shapes, like a small country or a state, look &amp;ldquo;correct&amp;rdquo; and are not sheared or squashed out of shape.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;The Trade-off:&lt;/strong&gt; To achieve conformality, the projection must distort area. This is a fundamental trade-off in cartography known as Tissot&amp;rsquo;s Indicatrix of distortion—you cannot perfectly preserve both shape and area simultaneously. On a Lambert map, areas are progressively exaggerated as you move away from the standard parallels.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;4. The Pattern of Distortion&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-the-pattern-of-distortion&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#4-the-pattern-of-distortion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;This is the key to understanding the projection&amp;rsquo;s utility.&lt;/p&gt;
+&lt;h4&gt;4. The Pattern of Distortion&lt;span class="hx:absolute hx:-mt-20" id="4-the-pattern-of-distortion"&gt;&lt;/span&gt;
+&lt;a href="#4-the-pattern-of-distortion" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;This is the key to understanding the projection&amp;rsquo;s utility.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;At the Standard Parallels:&lt;/strong&gt; Scale is perfectly true. There is no distortion.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Between the Standard Parallels:&lt;/strong&gt; The scale is compressed (things are slightly smaller than they should be).&lt;/li&gt;
@@ -320,24 +226,24 @@
 &lt;/ul&gt;
 &lt;p&gt;By carefully choosing the two standard parallels to bracket the area of interest, cartographers can create a map where distortion is minimized across the entire region.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;General Appreciation: Its Significance and Use&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;general-appreciation-its-significance-and-use&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#general-appreciation-its-significance-and-use&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The theoretical underpinnings of the LCC give rise to its immense practical value. It is not a universal solution, but for its intended purpose, it is nearly perfect.&lt;/p&gt;
-&lt;h4&gt;1. The Champion of the Mid-Latitudes&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-the-champion-of-the-mid-latitudes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-the-champion-of-the-mid-latitudes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The Lambert projection is the undisputed king for mapping regions in the &lt;strong&gt;mid-latitudes (roughly 30° to 60° North or South)&lt;/strong&gt; that have a greater &lt;strong&gt;east-west extent&lt;/strong&gt; than a north-south one.&lt;/p&gt;
+&lt;h3&gt;General Appreciation: Its Significance and Use&lt;span class="hx:absolute hx:-mt-20" id="general-appreciation-its-significance-and-use"&gt;&lt;/span&gt;
+&lt;a href="#general-appreciation-its-significance-and-use" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The theoretical underpinnings of the LCC give rise to its immense practical value. It is not a universal solution, but for its intended purpose, it is nearly perfect.&lt;/p&gt;
+&lt;h4&gt;1. The Champion of the Mid-Latitudes&lt;span class="hx:absolute hx:-mt-20" id="1-the-champion-of-the-mid-latitudes"&gt;&lt;/span&gt;
+&lt;a href="#1-the-champion-of-the-mid-latitudes" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;The Lambert projection is the undisputed king for mapping regions in the &lt;strong&gt;mid-latitudes (roughly 30° to 60° North or South)&lt;/strong&gt; that have a greater &lt;strong&gt;east-west extent&lt;/strong&gt; than a north-south one.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Examples:&lt;/strong&gt; The continental United States, Europe, China, and Australia are all classic candidates for the LCC.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Why it works so well:&lt;/strong&gt; By placing the two standard parallels strategically (e.g., for the USA, they are often set at 33°N and 45°N), the band of minimal distortion covers the bulk of the country. The north-south distortion that increases away from the parallels is less of a problem for these wide landmasses.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;2. The Pilot&amp;rsquo;s Projection: Aeronautical Charts&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-the-pilots-projection-aeronautical-charts&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2-the-pilots-projection-aeronautical-charts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;This is perhaps the LCC&amp;rsquo;s most famous application. The world&amp;rsquo;s standard aeronautical charts (Sectional Charts) are drawn on a Lambert projection.&lt;/p&gt;
+&lt;h4&gt;2. The Pilot&amp;rsquo;s Projection: Aeronautical Charts&lt;span class="hx:absolute hx:-mt-20" id="2-the-pilots-projection-aeronautical-charts"&gt;&lt;/span&gt;
+&lt;a href="#2-the-pilots-projection-aeronautical-charts" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;This is perhaps the LCC&amp;rsquo;s most famous application. The world&amp;rsquo;s standard aeronautical charts (Sectional Charts) are drawn on a Lambert projection.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Why?&lt;/strong&gt; Because it&amp;rsquo;s &lt;strong&gt;conformal&lt;/strong&gt;. A pilot can measure a bearing (an angle) on the chart with a protractor, and it will correspond to the correct magnetic bearing they need to fly. This direct, reliable relationship between the map and the real world is critical for safe navigation.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Great Circles:&lt;/strong&gt; Furthermore, on a Lambert chart, a &lt;strong&gt;great circle route&lt;/strong&gt; (the shortest path between two points on the globe) is represented as a line that is very nearly straight. This allows for easy and efficient flight planning over long distances. While not perfectly straight like on a Gnomonic projection, it is close enough for practical navigation and far better than on other popular projections like the Mercator.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4&gt;3. Use in National Mapping and GIS&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-use-in-national-mapping-and-gis&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-use-in-national-mapping-and-gis&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Many national and regional mapping systems use the LCC. In the United States, the &lt;strong&gt;State Plane Coordinate System (SPCS)&lt;/strong&gt; uses the Lambert Conformal Conic for all states that are wider (east-west) than they are tall (north-south). States that are taller, like Idaho or Illinois, typically use a Transverse Mercator projection. This demonstrates a sophisticated, practical application of choosing the right projection for the right geographic shape.&lt;/p&gt;
-&lt;h4&gt;4. Strengths vs. Weaknesses (The Cartographic Compromise)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-strengths-vs-weaknesses-the-cartographic-compromise&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#4-strengths-vs-weaknesses-the-cartographic-compromise&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;Strengths:&lt;/strong&gt;&lt;/p&gt;
+&lt;h4&gt;3. Use in National Mapping and GIS&lt;span class="hx:absolute hx:-mt-20" id="3-use-in-national-mapping-and-gis"&gt;&lt;/span&gt;
+&lt;a href="#3-use-in-national-mapping-and-gis" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;Many national and regional mapping systems use the LCC. In the United States, the &lt;strong&gt;State Plane Coordinate System (SPCS)&lt;/strong&gt; uses the Lambert Conformal Conic for all states that are wider (east-west) than they are tall (north-south). States that are taller, like Idaho or Illinois, typically use a Transverse Mercator projection. This demonstrates a sophisticated, practical application of choosing the right projection for the right geographic shape.&lt;/p&gt;
+&lt;h4&gt;4. Strengths vs. Weaknesses (The Cartographic Compromise)&lt;span class="hx:absolute hx:-mt-20" id="4-strengths-vs-weaknesses-the-cartographic-compromise"&gt;&lt;/span&gt;
+&lt;a href="#4-strengths-vs-weaknesses-the-cartographic-compromise" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;Strengths:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Conformal:&lt;/strong&gt; Preserves local angles and shapes, essential for navigation.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Low Distortion:&lt;/strong&gt; Minimizes scale and shape distortion over large, east-west oriented areas in the mid-latitudes.&lt;/li&gt;
@@ -349,26 +255,13 @@
 &lt;li&gt;&lt;strong&gt;Not Equal-Area:&lt;/strong&gt; It should &lt;strong&gt;never&lt;/strong&gt; be used for thematic maps where comparing the relative size of different areas is important. For that, its sister projection, the &lt;strong&gt;Albers Equal-Area Conic&lt;/strong&gt;, is the appropriate choice.&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;Limited Geographic Scope:&lt;/strong&gt; It is unsuitable for world maps, as distortion becomes extreme towards the equator and the poles. It is also poor for mapping regions with a primary north-south extent.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Conclusion&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#conclusion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The Lambert Conformal Conic projection, developed by Johann Heinrich Lambert in 1772, is a masterclass in cartographic problem-solving. It is a brilliant compromise, sacrificing true area to preserve the shapes and angles crucial for navigation and regional mapping. Its enduring legacy is seen every day on the flight decks of aircraft and in the foundational data of Geographic Information Systems (GIS) around the world. It is not a map for all purposes, but for its specific purpose—mapping the mid-latitudes with fidelity—it remains an unparalleled and elegant solution.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Discuss with respect to the theory and general appreciation of cartographical projections Mercator;</title>
-      <link>http://localhost:1313/docs/partb/adnav/projections/prompt_2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partb/adnav/projections/prompt_2/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Of course. The Mercator projection is one of the most famous, influential, and controversial maps in the history of cartography. To discuss it is to touch upon the very essence of what a map is: a necessary but imperfect representation of our world.&lt;/p&gt;
+&lt;h3&gt;Conclusion&lt;span class="hx:absolute hx:-mt-20" id="conclusion"&gt;&lt;/span&gt;
+&lt;a href="#conclusion" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The Lambert Conformal Conic projection, developed by Johann Heinrich Lambert in 1772, is a masterclass in cartographic problem-solving. It is a brilliant compromise, sacrificing true area to preserve the shapes and angles crucial for navigation and regional mapping. Its enduring legacy is seen every day on the flight decks of aircraft and in the foundational data of Geographic Information Systems (GIS) around the world. It is not a map for all purposes, but for its specific purpose—mapping the mid-latitudes with fidelity—it remains an unparalleled and elegant solution.&lt;/p&gt;</description></item><item><title>Discuss with respect to the theory and general appreciation of cartographical projections Mercator;</title><link>https://extra.anirbanmarine.in/docs/partb/adnav/projections/prompt_2/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://extra.anirbanmarine.in/docs/partb/adnav/projections/prompt_2/</guid><description>
+&lt;p&gt;Of course. The Mercator projection is one of the most famous, influential, and controversial maps in the history of cartography. To discuss it is to touch upon the very essence of what a map is: a necessary but imperfect representation of our world.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s break down the discussion into its theoretical underpinnings and its general appreciation, which includes its history, use, and critique.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;1. The Theory of the Mercator Projection&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-the-theory-of-the-mercator-projection&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-the-theory-of-the-mercator-projection&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;At its core, the Mercator projection is a mathematical solution to a specific, pressing problem of the 16th century: how to navigate across oceans with a constant compass bearing.&lt;/p&gt;
+&lt;h3&gt;1. The Theory of the Mercator Projection&lt;span class="hx:absolute hx:-mt-20" id="1-the-theory-of-the-mercator-projection"&gt;&lt;/span&gt;
+&lt;a href="#1-the-theory-of-the-mercator-projection" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;At its core, the Mercator projection is a mathematical solution to a specific, pressing problem of the 16th century: how to navigate across oceans with a constant compass bearing.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;a) The Creator and the Problem:&lt;/strong&gt;
 Created by the Flemish cartographer Gerardus Mercator in 1569, the projection&amp;rsquo;s full title was &lt;em&gt;Nova et Aucta Orbis Terrae Descriptio ad Usum Navigantium Emendata&lt;/em&gt; (&amp;ldquo;New and More Complete Representation of the Terrestrial Globe Properly Adapted for Use in Navigation&amp;rdquo;). The key phrase is &lt;strong&gt;&amp;ldquo;for Use in Navigation.&amp;rdquo;&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Before Mercator, if a sailor wanted to sail from Lisbon to a point in the Caribbean, they could draw a straight line on a simple map. However, following that line with a compass would &lt;em&gt;not&lt;/em&gt; lead them to their destination. This is because a line of constant compass bearing (a &lt;strong&gt;rhumb line&lt;/strong&gt; or &lt;strong&gt;loxodrome&lt;/strong&gt;) is a complex spiral on the spherical Earth, not a straight line. Mercator’s genius was to create a map where these rhumb lines become straight lines.&lt;/p&gt;
@@ -391,8 +284,8 @@ This simple cylindrical projection is not enough. While it makes lines of longit
 &lt;li&gt;&lt;strong&gt;The Poles are at Infinity:&lt;/strong&gt; Because the stretching required at 90° latitude is infinite, the poles cannot be shown on a Mercator map.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h3&gt;2. General Appreciation and Critique&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-general-appreciation-and-critique&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2-general-appreciation-and-critique&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The &amp;ldquo;appreciation&amp;rdquo; of the Mercator projection is a story of a brilliant tool being used, celebrated, and then widely misused and criticized.&lt;/p&gt;
+&lt;h3&gt;2. General Appreciation and Critique&lt;span class="hx:absolute hx:-mt-20" id="2-general-appreciation-and-critique"&gt;&lt;/span&gt;
+&lt;a href="#2-general-appreciation-and-critique" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The &amp;ldquo;appreciation&amp;rdquo; of the Mercator projection is a story of a brilliant tool being used, celebrated, and then widely misused and criticized.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;a) The Golden Age of Navigation (The &amp;ldquo;Pro&amp;rdquo;)&lt;/strong&gt;
 For nearly 400 years, the Mercator projection was the undisputed king of nautical charts. It solved a fundamental problem with elegance and precision. Its contribution to the Age of Discovery, global trade, and naval power cannot be overstated. From this perspective, it is a masterpiece of applied mathematics and a tool that literally shaped the modern world.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;b) The Era of Misuse and Controversy (The &amp;ldquo;Con&amp;rdquo;)&lt;/strong&gt;
@@ -416,34 +309,21 @@ Just when it seemed the Mercator projection was destined to be a historical arti
 &lt;li&gt;&lt;strong&gt;Local Accuracy:&lt;/strong&gt; Because it&amp;rsquo;s conformal, when you zoom into a city or neighborhood, street corners are at correct right angles and building shapes are accurate. For local navigation and viewing, it works perfectly.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;However, even digital mapmakers recognize the global distortion. This is why when you zoom all the way out on Google Maps today, the map resolves into a 3D globe, implicitly acknowledging that the flat Mercator view is misleading at a global scale.&lt;/p&gt;
-&lt;h3&gt;Conclusion: A Dual Legacy&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;conclusion-a-dual-legacy&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#conclusion-a-dual-legacy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The Mercator projection holds a unique and polarized place in our appreciation of cartography.&lt;/p&gt;
+&lt;h3&gt;Conclusion: A Dual Legacy&lt;span class="hx:absolute hx:-mt-20" id="conclusion-a-dual-legacy"&gt;&lt;/span&gt;
+&lt;a href="#conclusion-a-dual-legacy" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;The Mercator projection holds a unique and polarized place in our appreciation of cartography.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;As a &lt;strong&gt;theoretical achievement&lt;/strong&gt;, it is a triumph of ingenuity—a brilliant solution to a complex problem that made the world navigable.&lt;/li&gt;
 &lt;li&gt;As a &lt;strong&gt;cultural artifact&lt;/strong&gt;, it is a powerful cautionary tale. It teaches us that &lt;strong&gt;every map projection is a distortion&lt;/strong&gt;, and every map tells a particular story. The choice of projection is not neutral; it carries with it a set of priorities and biases, whether intended or not.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The debate over Mercator forces us to be more &lt;strong&gt;cartographically literate&lt;/strong&gt;. We must ask of any map: What is its purpose? What does it preserve, and at what cost? What story is it trying to tell? In this way, the flawed and brilliant Mercator projection continues to teach us more about our world than Gerardus Mercator could ever have imagined.&lt;/p&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Discuss with respect to the theory and general appreciation of cartographical projections Transverse Mercator;</title>
-      <link>http://localhost:1313/docs/partb/adnav/projections/prompt_3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partb/adnav/projections/prompt_3/</guid>
-      <description>
-        
-        
-        &lt;p&gt;Of course. Let&amp;rsquo;s embark on a detailed discussion of the Transverse Mercator projection, exploring its theory, its place in cartographic history, and its profound practical appreciation in the modern world.&lt;/p&gt;
+&lt;p&gt;The debate over Mercator forces us to be more &lt;strong&gt;cartographically literate&lt;/strong&gt;. We must ask of any map: What is its purpose? What does it preserve, and at what cost? What story is it trying to tell? In this way, the flawed and brilliant Mercator projection continues to teach us more about our world than Gerardus Mercator could ever have imagined.&lt;/p&gt;</description></item><item><title>Discuss with respect to the theory and general appreciation of cartographical projections Transverse Mercator;</title><link>https://extra.anirbanmarine.in/docs/partb/adnav/projections/prompt_3/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://extra.anirbanmarine.in/docs/partb/adnav/projections/prompt_3/</guid><description>
+&lt;p&gt;Of course. Let&amp;rsquo;s embark on a detailed discussion of the Transverse Mercator projection, exploring its theory, its place in cartographic history, and its profound practical appreciation in the modern world.&lt;/p&gt;
 &lt;p&gt;This is an excellent topic because the Transverse Mercator is arguably one of the most important and widely used map projections, yet its logic is often misunderstood by comparing it too closely to its more famous (and infamous) cousin, the standard Mercator.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h3&gt;Introduction: A Shift in Perspective&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;introduction-a-shift-in-perspective&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#introduction-a-shift-in-perspective&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;At its core, a map projection is a systematic transformation of the latitudes and longitudes of locations on the three-dimensional, curved surface of the Earth onto a two-dimensional plane. Every projection must distort reality in some way. The art and science of cartography lie in choosing a projection that minimizes the &lt;em&gt;relevant&lt;/em&gt; distortions for a specific purpose.&lt;/p&gt;
+&lt;h3&gt;Introduction: A Shift in Perspective&lt;span class="hx:absolute hx:-mt-20" id="introduction-a-shift-in-perspective"&gt;&lt;/span&gt;
+&lt;a href="#introduction-a-shift-in-perspective" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;At its core, a map projection is a systematic transformation of the latitudes and longitudes of locations on the three-dimensional, curved surface of the Earth onto a two-dimensional plane. Every projection must distort reality in some way. The art and science of cartography lie in choosing a projection that minimizes the &lt;em&gt;relevant&lt;/em&gt; distortions for a specific purpose.&lt;/p&gt;
 &lt;p&gt;The Transverse Mercator (TM) is a projection designed for one primary goal: &lt;strong&gt;to map regions that are predominantly north-south in extent with extremely high accuracy.&lt;/strong&gt; It achieves this by fundamentally rethinking the orientation of the classic Mercator projection.&lt;/p&gt;
-&lt;h3&gt;1. The Theory: From Mercator to Transverse Mercator&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-the-theory-from-mercator-to-transverse-mercator&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-the-theory-from-mercator-to-transverse-mercator&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To understand the Transverse Mercator, one must first understand the standard &lt;strong&gt;Mercator projection&lt;/strong&gt; (developed by Gerardus Mercator in 1569).&lt;/p&gt;
+&lt;h3&gt;1. The Theory: From Mercator to Transverse Mercator&lt;span class="hx:absolute hx:-mt-20" id="1-the-theory-from-mercator-to-transverse-mercator"&gt;&lt;/span&gt;
+&lt;a href="#1-the-theory-from-mercator-to-transverse-mercator" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;To understand the Transverse Mercator, one must first understand the standard &lt;strong&gt;Mercator projection&lt;/strong&gt; (developed by Gerardus Mercator in 1569).&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Standard Mercator:&lt;/strong&gt; Imagine wrapping a cylinder of paper around the Earth, tangent to the surface along the &lt;strong&gt;Equator&lt;/strong&gt;. The graticule (lines of latitude and longitude) is then projected outwards from the Earth&amp;rsquo;s center onto the cylinder. When unrolled, you get the familiar Mercator map.
 &lt;ul&gt;
@@ -456,367 +336,309 @@ Just when it seemed the Mercator projection was destined to be a historical arti
 &lt;p&gt;The Transverse Mercator, developed by Johann Heinrich Lambert in 1772, performs a brilliant conceptual rotation.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;Transverse Mercator:&lt;/strong&gt; Instead of aligning the cylinder with the Earth&amp;rsquo;s axis of rotation (tangent at the Equator), the cylinder is turned on its side, or &lt;strong&gt;transversely&lt;/strong&gt;, by 90 degrees. It is now tangent to the Earth along a chosen &lt;strong&gt;meridian of longitude&lt;/strong&gt;, known as the &lt;strong&gt;Central Meridian&lt;/strong&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Draw a standard parallel Conical Projection</title>
-      <link>http://localhost:1313/docs/partb/adnav/projections/conical_projection_1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partb/adnav/projections/conical_projection_1/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Draw one standard parallel conical projection on RF: = 1:125000000 where Standard Parallel = &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;45&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;45^\circ&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; latitude extension =&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;75&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mi mathvariant=&#34;double-struck&#34;&gt;N&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;0^\circ -75^\circ\N &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.7574em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6889em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;7&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mord mathbb&#34;&gt;N&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Logitudinal extension &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;60&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mi&gt;E&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;60&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mi&gt;W&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; 60^\circ E - 60^\circ W &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.7667em;vertical-align:-0.0833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;6&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0576em;&#34;&gt;E&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mbin&#34;&gt;−&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2222em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;6&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.1389em;&#34;&gt;W&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;, class interval =&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;15&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt; 15^\circ &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;draw-one-standard-parallel-conical-projection-on-rf--1125000000-where-standard-parallel---latitude-extension-logitudinal-extension--class-interval-&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#draw-one-standard-parallel-conical-projection-on-rf--1125000000-where-standard-parallel---latitude-extension-logitudinal-extension--class-interval-&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Ans - STEP 1&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ans---step-1&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#ans---step-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Assuming Earth&amp;rsquo;s Radius to be 6350km = 635000000cm&lt;/p&gt;
-&lt;span class=&#34;katex-display&#34;&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34; display=&#34;block&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mfrac&gt;&lt;mn&gt;635000000&lt;/mn&gt;&lt;mn&gt;125000000&lt;/mn&gt;&lt;/mfrac&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;5.08&lt;/mn&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;mo&gt;≈&lt;/mo&gt;&lt;mn&gt;5.1&lt;/mn&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;R = \frac {635000000}{125000000}= 5.08 cm \approx 5.1 cm &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0077em;&#34;&gt;R&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:2.0074em;vertical-align:-0.686em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mopen nulldelimiter&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mfrac&#34;&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:1.3214em;&#34;&gt;&lt;span style=&#34;top:-2.314em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;125000000&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.23em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;frac-line&#34; style=&#34;border-bottom-width:0.04em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;top:-3.677em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;635000000&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.686em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mclose nulldelimiter&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6444em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;5.08&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;m&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;≈&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6444em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;5.1&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;c&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;m&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;ul&gt;
+&lt;/ul&gt;</description></item><item><title>Draw a standard parallel Conical Projection</title><link>https://extra.anirbanmarine.in/docs/partb/adnav/projections/conical_projection_1/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://extra.anirbanmarine.in/docs/partb/adnav/projections/conical_projection_1/</guid><description>
+&lt;h2&gt;Draw one standard parallel conical projection on RF: = 1:125000000 where Standard Parallel = &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;45&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;45^\circ&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.6741em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;4&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;5&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; latitude extension =&lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;75&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mi mathvariant="double-struck"&gt;N&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;0^\circ -75^\circ\N &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.7574em;vertical-align:-0.0833em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="mspace" style="margin-right:0.2222em;"&gt;&lt;/span&gt;&lt;span class="mbin"&gt;−&lt;/span&gt;&lt;span class="mspace" style="margin-right:0.2222em;"&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.6889em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;7&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;5&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="mord mathbb"&gt;N&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Logitudinal extension &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;60&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mi&gt;E&lt;/mi&gt;&lt;mo&gt;−&lt;/mo&gt;&lt;msup&gt;&lt;mn&gt;60&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mi&gt;W&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt; 60^\circ E - 60^\circ W &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.7667em;vertical-align:-0.0833em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;6&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="mord mathnormal" style="margin-right:0.0576em;"&gt;E&lt;/span&gt;&lt;span class="mspace" style="margin-right:0.2222em;"&gt;&lt;/span&gt;&lt;span class="mbin"&gt;−&lt;/span&gt;&lt;span class="mspace" style="margin-right:0.2222em;"&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.6833em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;6&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="mord mathnormal" style="margin-right:0.1389em;"&gt;W&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;, class interval =&lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;15&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt; 15^\circ &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.6741em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;1&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;5&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="hx:absolute hx:-mt-20" id="draw-one-standard-parallel-conical-projection-on-rf--1125000000-where-standard-parallel---latitude-extension-logitudinal-extension--class-interval-"&gt;&lt;/span&gt;
+&lt;a href="#draw-one-standard-parallel-conical-projection-on-rf--1125000000-where-standard-parallel---latitude-extension-logitudinal-extension--class-interval-" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Ans - STEP 1&lt;span class="hx:absolute hx:-mt-20" id="ans---step-1"&gt;&lt;/span&gt;
+&lt;a href="#ans---step-1" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;Assuming Earth&amp;rsquo;s Radius to be 6350km = 635000000cm&lt;/p&gt;
+&lt;span class="katex-display"&gt;&lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML" display="block"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;R&lt;/mi&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mfrac&gt;&lt;mn&gt;635000000&lt;/mn&gt;&lt;mn&gt;125000000&lt;/mn&gt;&lt;/mfrac&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mn&gt;5.08&lt;/mn&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;mo&gt;≈&lt;/mo&gt;&lt;mn&gt;5.1&lt;/mn&gt;&lt;mi&gt;c&lt;/mi&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;R = \frac {635000000}{125000000}= 5.08 cm \approx 5.1 cm &lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.6833em;"&gt;&lt;/span&gt;&lt;span class="mord mathnormal" style="margin-right:0.0077em;"&gt;R&lt;/span&gt;&lt;span class="mspace" style="margin-right:0.2778em;"&gt;&lt;/span&gt;&lt;span class="mrel"&gt;=&lt;/span&gt;&lt;span class="mspace" style="margin-right:0.2778em;"&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:2.0074em;vertical-align:-0.686em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mopen nulldelimiter"&gt;&lt;/span&gt;&lt;span class="mfrac"&gt;&lt;span class="vlist-t vlist-t2"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:1.3214em;"&gt;&lt;span style="top:-2.314em;"&gt;&lt;span class="pstrut" style="height:3em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;125000000&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="top:-3.23em;"&gt;&lt;span class="pstrut" style="height:3em;"&gt;&lt;/span&gt;&lt;span class="frac-line" style="border-bottom-width:0.04em;"&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="top:-3.677em;"&gt;&lt;span class="pstrut" style="height:3em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;635000000&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="vlist-s"&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.686em;"&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="mclose nulldelimiter"&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="mspace" style="margin-right:0.2778em;"&gt;&lt;/span&gt;&lt;span class="mrel"&gt;=&lt;/span&gt;&lt;span class="mspace" style="margin-right:0.2778em;"&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.6444em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;5.08&lt;/span&gt;&lt;span class="mord mathnormal"&gt;c&lt;/span&gt;&lt;span class="mord mathnormal"&gt;m&lt;/span&gt;&lt;span class="mspace" style="margin-right:0.2778em;"&gt;&lt;/span&gt;&lt;span class="mrel"&gt;≈&lt;/span&gt;&lt;span class="mspace" style="margin-right:0.2778em;"&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.6444em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;5.1&lt;/span&gt;&lt;span class="mord mathnormal"&gt;c&lt;/span&gt;&lt;span class="mord mathnormal"&gt;m&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;ul&gt;
 &lt;li&gt;Draw a line AB of length 5.1 cm horizontally .&lt;/li&gt;
 &lt;li&gt;Drop a perpendicular from point C to the line AB at point A.
-
-    &lt;img src=&#34;../STEP1.png&#34; alt=&#34;STEP1&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src="../STEP1.png" alt="STEP1" loading="lazy" /&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;STEP 2&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-2&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Make an arc of &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;90&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;90^\circ&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;9&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; between AB and AC of Radius 5.1cm and center at A.&lt;/li&gt;
+&lt;h3&gt;STEP 2&lt;span class="hx:absolute hx:-mt-20" id="step-2"&gt;&lt;/span&gt;
+&lt;a href="#step-2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Make an arc of &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;90&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;90^\circ&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.6741em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;9&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; between AB and AC of Radius 5.1cm and center at A.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;STEP 3&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-3&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-3&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Draw an angle &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;45&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;45^\circ&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;4&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; to line AB called AE , center at A.( ** this is the standard parallel of Latitude ** )&lt;/li&gt;
-&lt;li&gt;Draw an angle &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;15&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;15^\circ&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;5&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; to line AB called AD , center at A.( ** this is the class interval ** )
-
-    &lt;img src=&#34;../STEP2.png&#34; alt=&#34;STEP2&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;h3&gt;STEP 3&lt;span class="hx:absolute hx:-mt-20" id="step-3"&gt;&lt;/span&gt;
+&lt;a href="#step-3" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Draw an angle &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;45&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;45^\circ&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.6741em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;4&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;5&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; to line AB called AE , center at A.( ** this is the standard parallel of Latitude ** )&lt;/li&gt;
+&lt;li&gt;Draw an angle &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;15&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;15^\circ&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.6741em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;1&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;5&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; to line AB called AD , center at A.( ** this is the class interval ** )
+&lt;img src="../STEP2.png" alt="STEP2" loading="lazy" /&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;STEP 4&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-4&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-4&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;STEP 4&lt;span class="hx:absolute hx:-mt-20" id="step-4"&gt;&lt;/span&gt;
+&lt;a href="#step-4" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Mark off BD ( take the distance along the arc between B and D)&lt;/li&gt;
 &lt;li&gt;Draw a circle with center A with radius BD&lt;/li&gt;
 &lt;li&gt;Mark the point where the circle cuts the line AE. Call it X.&lt;/li&gt;
 &lt;li&gt;Drop a perpendicular from X to the line AC. Call it Y.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;STEP 5&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-5&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-5&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;STEP 5&lt;span class="hx:absolute hx:-mt-20" id="step-5"&gt;&lt;/span&gt;
+&lt;a href="#step-5" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Draw a tangent to the arc at E and produce it towards AC extended until both of them meet.&lt;/li&gt;
 &lt;li&gt;Mark the above point H.
-
-    &lt;img src=&#34;../STEP3.png&#34; alt=&#34;STEP3&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
+&lt;img src="../STEP3.png" alt="STEP3" loading="lazy" /&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;STEP 6&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-6&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-6&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;STEP 6&lt;span class="hx:absolute hx:-mt-20" id="step-6"&gt;&lt;/span&gt;
+&lt;a href="#step-6" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Choose a suitable empty space in the middle of the paper and draw a vertical line.&lt;/li&gt;
 &lt;li&gt;Mark the top of the line P.&lt;/li&gt;
 &lt;li&gt;Taking center at P draw an arc with radius HE from STEP 5.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;STEP 7&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-7&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-7&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;STEP 7&lt;span class="hx:absolute hx:-mt-20" id="step-7"&gt;&lt;/span&gt;
+&lt;a href="#step-7" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Mark off distance BD from STEP 4 on the vertical line passing through P above and below the arc of the standard parallel done in STEP 6 .&lt;/li&gt;
 &lt;li&gt;Draw arcs through each of them with center as P.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;STEP 8&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;step-8&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#step-8&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;STEP 8&lt;span class="hx:absolute hx:-mt-20" id="step-8"&gt;&lt;/span&gt;
+&lt;a href="#step-8" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Mark off distance XY from STEP 4 on the arc of the standard parallel arc.&lt;/li&gt;
 &lt;li&gt;Join P with the markings on the standard parallel arc.
-
-    &lt;img src=&#34;../STEP4.png&#34; alt=&#34;Final&#34;  loading=&#34;lazy&#34; /&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>Gnomonic projection tangent to equator</title>
-      <link>http://localhost:1313/docs/partb/adnav/projections/gnomonic_tangent_equator/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partb/adnav/projections/gnomonic_tangent_equator/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;1. Select the tangent point&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-select-the-tangent-point&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-select-the-tangent-point&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div role=&#34;img&#34; aria-label=&#34;Diagram&#34;&gt;
-  &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
-    flowchart LR
-    A[&amp;#34;Globe&amp;#34;] --&amp;gt; B[&amp;#34;Equator&amp;#34;]
-    B --&amp;gt; C[&amp;#34;Select central meridian 40°E&amp;#34;]
-    C --&amp;gt; D[&amp;#34;Tangent point T at Equator ∩ 40°E&amp;#34;]
-    D --&amp;gt; E[&amp;#34;Projection plane tangent at T&amp;#34;]
-  &lt;/pre&gt;
-&lt;/div&gt;&lt;h2&gt;2. Establish the tangent plane&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-establish-the-tangent-plane&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2-establish-the-tangent-plane&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div role=&#34;img&#34; aria-label=&#34;Diagram&#34;&gt;
-  &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
-    flowchart TB
-    O((O&amp;lt;br/&amp;gt;Earth centre))
-    T((T&amp;lt;br/&amp;gt;tangent point))
-    P[&amp;#34;Tangent plane&amp;#34;]
-
-    O ---|&amp;#34;Radius OT&amp;#34;| T
-    T ---|&amp;#34;OT perpendicular to plane&amp;#34;| P
-
-    Note[&amp;#34;The projection plane touches the globe only at T&amp;#34;]
-    P -.-&amp;gt; Note
-  &lt;/pre&gt;
+&lt;img src="../STEP4.png" alt="Final" loading="lazy" /&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>Gnomonic projection tangent to equator</title><link>https://extra.anirbanmarine.in/docs/partb/adnav/projections/gnomonic_tangent_equator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://extra.anirbanmarine.in/docs/partb/adnav/projections/gnomonic_tangent_equator/</guid><description>
+&lt;h2&gt;1. Select the tangent point&lt;span class="hx:absolute hx:-mt-20" id="1-select-the-tangent-point"&gt;&lt;/span&gt;
+&lt;a href="#1-select-the-tangent-point" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div role="img" aria-label="Diagram"&gt;
+&lt;pre class="mermaid hx:mt-6"&gt;
+flowchart LR
+A[&amp;#34;Globe&amp;#34;] --&amp;gt; B[&amp;#34;Equator&amp;#34;]
+B --&amp;gt; C[&amp;#34;Select central meridian 40°E&amp;#34;]
+C --&amp;gt; D[&amp;#34;Tangent point T at Equator ∩ 40°E&amp;#34;]
+D --&amp;gt; E[&amp;#34;Projection plane tangent at T&amp;#34;]
+&lt;/pre&gt;
+&lt;/div&gt;&lt;h2&gt;2. Establish the tangent plane&lt;span class="hx:absolute hx:-mt-20" id="2-establish-the-tangent-plane"&gt;&lt;/span&gt;
+&lt;a href="#2-establish-the-tangent-plane" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div role="img" aria-label="Diagram"&gt;
+&lt;pre class="mermaid hx:mt-6"&gt;
+flowchart TB
+O((O&amp;lt;br/&amp;gt;Earth centre))
+T((T&amp;lt;br/&amp;gt;tangent point))
+P[&amp;#34;Tangent plane&amp;#34;]
+O ---|&amp;#34;Radius OT&amp;#34;| T
+T ---|&amp;#34;OT perpendicular to plane&amp;#34;| P
+Note[&amp;#34;The projection plane touches the globe only at T&amp;#34;]
+P -.-&amp;gt; Note
+&lt;/pre&gt;
 &lt;/div&gt;&lt;p&gt;A more geometrical side view is:&lt;/p&gt;
-&lt;div role=&#34;img&#34; aria-label=&#34;Diagram&#34;&gt;
-  &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
-    flowchart LR
-    A[&amp;#34;Globe surface&amp;#34;] --&amp;gt; B[&amp;#34;T&amp;#34;]
-    B --&amp;gt; C[&amp;#34;Tangent plane&amp;#34;]
-    O((O)) ---|&amp;#34;OT ⟂ tangent plane&amp;#34;| B
-  &lt;/pre&gt;
-&lt;/div&gt;&lt;h2&gt;3. Mark the globe meridians&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-mark-the-globe-meridians&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-mark-the-globe-meridians&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div role=&#34;img&#34; aria-label=&#34;Diagram&#34;&gt;
-  &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
-    flowchart TB
-    E[&amp;#34;Equator&amp;#34;]
-    M1[&amp;#34;20°E&amp;#34;]
-    M2[&amp;#34;30°E&amp;#34;]
-    M3[&amp;#34;40°E&amp;#34;]
-    M4[&amp;#34;50°E&amp;#34;]
-    M5[&amp;#34;60°E&amp;#34;]
-
-    E --&amp;gt; M1
-    E --&amp;gt; M2
-    E --&amp;gt; M3
-    E --&amp;gt; M4
-    E --&amp;gt; M5
-
-    M3 --&amp;gt; C[&amp;#34;Central meridian&amp;#34;]
-    C --&amp;gt; T[&amp;#34;Tangent point at Equator&amp;#34;]
-  &lt;/pre&gt;
+&lt;div role="img" aria-label="Diagram"&gt;
+&lt;pre class="mermaid hx:mt-6"&gt;
+flowchart LR
+A[&amp;#34;Globe surface&amp;#34;] --&amp;gt; B[&amp;#34;T&amp;#34;]
+B --&amp;gt; C[&amp;#34;Tangent plane&amp;#34;]
+O((O)) ---|&amp;#34;OT ⟂ tangent plane&amp;#34;| B
+&lt;/pre&gt;
+&lt;/div&gt;&lt;h2&gt;3. Mark the globe meridians&lt;span class="hx:absolute hx:-mt-20" id="3-mark-the-globe-meridians"&gt;&lt;/span&gt;
+&lt;a href="#3-mark-the-globe-meridians" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div role="img" aria-label="Diagram"&gt;
+&lt;pre class="mermaid hx:mt-6"&gt;
+flowchart TB
+E[&amp;#34;Equator&amp;#34;]
+M1[&amp;#34;20°E&amp;#34;]
+M2[&amp;#34;30°E&amp;#34;]
+M3[&amp;#34;40°E&amp;#34;]
+M4[&amp;#34;50°E&amp;#34;]
+M5[&amp;#34;60°E&amp;#34;]
+E --&amp;gt; M1
+E --&amp;gt; M2
+E --&amp;gt; M3
+E --&amp;gt; M4
+E --&amp;gt; M5
+M3 --&amp;gt; C[&amp;#34;Central meridian&amp;#34;]
+C --&amp;gt; T[&amp;#34;Tangent point at Equator&amp;#34;]
+&lt;/pre&gt;
 &lt;/div&gt;&lt;p&gt;The meridian arrangement is:&lt;/p&gt;
-&lt;div role=&#34;img&#34; aria-label=&#34;Diagram&#34;&gt;
-  &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
-    flowchart LR
-    A[&amp;#34;20°E&amp;#34;] --- B[&amp;#34;30°E&amp;#34;] --- C[&amp;#34;40°E&amp;#34;] --- D[&amp;#34;50°E&amp;#34;] --- E[&amp;#34;60°E&amp;#34;]
-    C --- F[&amp;#34;Central meridian and tangent point&amp;#34;]
-  &lt;/pre&gt;
-&lt;/div&gt;&lt;h2&gt;4. Project the equator&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-project-the-equator&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#4-project-the-equator&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div role=&#34;img&#34; aria-label=&#34;Diagram&#34;&gt;
-  &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
-    flowchart LR
-    G[&amp;#34;Point on globe equator&amp;#34;] --&amp;gt; O((O&amp;lt;br/&amp;gt;centre))
-    O --&amp;gt; P[&amp;#34;Intersection with tangent plane&amp;#34;]
-    P --&amp;gt; Q[&amp;#34;Transfer to plan&amp;#34;]
-    Q --&amp;gt; R[&amp;#34;Projected equator&amp;#34;]
-  &lt;/pre&gt;
+&lt;div role="img" aria-label="Diagram"&gt;
+&lt;pre class="mermaid hx:mt-6"&gt;
+flowchart LR
+A[&amp;#34;20°E&amp;#34;] --- B[&amp;#34;30°E&amp;#34;] --- C[&amp;#34;40°E&amp;#34;] --- D[&amp;#34;50°E&amp;#34;] --- E[&amp;#34;60°E&amp;#34;]
+C --- F[&amp;#34;Central meridian and tangent point&amp;#34;]
+&lt;/pre&gt;
+&lt;/div&gt;&lt;h2&gt;4. Project the equator&lt;span class="hx:absolute hx:-mt-20" id="4-project-the-equator"&gt;&lt;/span&gt;
+&lt;a href="#4-project-the-equator" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div role="img" aria-label="Diagram"&gt;
+&lt;pre class="mermaid hx:mt-6"&gt;
+flowchart LR
+G[&amp;#34;Point on globe equator&amp;#34;] --&amp;gt; O((O&amp;lt;br/&amp;gt;centre))
+O --&amp;gt; P[&amp;#34;Intersection with tangent plane&amp;#34;]
+P --&amp;gt; Q[&amp;#34;Transfer to plan&amp;#34;]
+Q --&amp;gt; R[&amp;#34;Projected equator&amp;#34;]
+&lt;/pre&gt;
 &lt;/div&gt;&lt;p&gt;For several equatorial points:&lt;/p&gt;
-&lt;div role=&#34;img&#34; aria-label=&#34;Diagram&#34;&gt;
-  &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
-    flowchart TB
-    E1[&amp;#34;Equator ∩ 20°E&amp;#34;] --&amp;gt; O1((O))
-    E2[&amp;#34;Equator ∩ 30°E&amp;#34;] --&amp;gt; O2((O))
-    E3[&amp;#34;Equator ∩ 40°E&amp;#34;] --&amp;gt; O3((O))
-    E4[&amp;#34;Equator ∩ 50°E&amp;#34;] --&amp;gt; O4((O))
-    E5[&amp;#34;Equator ∩ 60°E&amp;#34;] --&amp;gt; O5((O))
-
-    O1 --&amp;gt; P1[&amp;#34;Tangent plane&amp;#34;]
-    O2 --&amp;gt; P2[&amp;#34;Tangent plane&amp;#34;]
-    O3 --&amp;gt; P3[&amp;#34;Tangent plane&amp;#34;]
-    O4 --&amp;gt; P4[&amp;#34;Tangent plane&amp;#34;]
-    O5 --&amp;gt; P5[&amp;#34;Tangent plane&amp;#34;]
-
-    P1 --&amp;gt; L[&amp;#34;Join transferred points&amp;#34;]
-    P2 --&amp;gt; L
-    P3 --&amp;gt; L
-    P4 --&amp;gt; L
-    P5 --&amp;gt; L
-
-    L --&amp;gt; R[&amp;#34;Straight projected equator&amp;#34;]
-  &lt;/pre&gt;
-&lt;/div&gt;&lt;h2&gt;5. Construct the projected meridians&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-construct-the-projected-meridians&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#5-construct-the-projected-meridians&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div role=&#34;img&#34; aria-label=&#34;Diagram&#34;&gt;
-  &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
-    flowchart LR
-    A[&amp;#34;Choose globe meridian&amp;#34;] --&amp;gt; B[&amp;#34;Mark its equatorial point&amp;#34;]
-    B --&amp;gt; C[&amp;#34;Join point to globe centre O&amp;#34;]
-    C --&amp;gt; D[&amp;#34;Extend line to tangent plane&amp;#34;]
-    D --&amp;gt; E[&amp;#34;Transfer intersection to plan&amp;#34;]
-    E --&amp;gt; F[&amp;#34;Draw perpendicular to projected equator&amp;#34;]
-    F --&amp;gt; G[&amp;#34;Projected meridian&amp;#34;]
-  &lt;/pre&gt;
+&lt;div role="img" aria-label="Diagram"&gt;
+&lt;pre class="mermaid hx:mt-6"&gt;
+flowchart TB
+E1[&amp;#34;Equator ∩ 20°E&amp;#34;] --&amp;gt; O1((O))
+E2[&amp;#34;Equator ∩ 30°E&amp;#34;] --&amp;gt; O2((O))
+E3[&amp;#34;Equator ∩ 40°E&amp;#34;] --&amp;gt; O3((O))
+E4[&amp;#34;Equator ∩ 50°E&amp;#34;] --&amp;gt; O4((O))
+E5[&amp;#34;Equator ∩ 60°E&amp;#34;] --&amp;gt; O5((O))
+O1 --&amp;gt; P1[&amp;#34;Tangent plane&amp;#34;]
+O2 --&amp;gt; P2[&amp;#34;Tangent plane&amp;#34;]
+O3 --&amp;gt; P3[&amp;#34;Tangent plane&amp;#34;]
+O4 --&amp;gt; P4[&amp;#34;Tangent plane&amp;#34;]
+O5 --&amp;gt; P5[&amp;#34;Tangent plane&amp;#34;]
+P1 --&amp;gt; L[&amp;#34;Join transferred points&amp;#34;]
+P2 --&amp;gt; L
+P3 --&amp;gt; L
+P4 --&amp;gt; L
+P5 --&amp;gt; L
+L --&amp;gt; R[&amp;#34;Straight projected equator&amp;#34;]
+&lt;/pre&gt;
+&lt;/div&gt;&lt;h2&gt;5. Construct the projected meridians&lt;span class="hx:absolute hx:-mt-20" id="5-construct-the-projected-meridians"&gt;&lt;/span&gt;
+&lt;a href="#5-construct-the-projected-meridians" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div role="img" aria-label="Diagram"&gt;
+&lt;pre class="mermaid hx:mt-6"&gt;
+flowchart LR
+A[&amp;#34;Choose globe meridian&amp;#34;] --&amp;gt; B[&amp;#34;Mark its equatorial point&amp;#34;]
+B --&amp;gt; C[&amp;#34;Join point to globe centre O&amp;#34;]
+C --&amp;gt; D[&amp;#34;Extend line to tangent plane&amp;#34;]
+D --&amp;gt; E[&amp;#34;Transfer intersection to plan&amp;#34;]
+E --&amp;gt; F[&amp;#34;Draw perpendicular to projected equator&amp;#34;]
+F --&amp;gt; G[&amp;#34;Projected meridian&amp;#34;]
+&lt;/pre&gt;
 &lt;/div&gt;&lt;p&gt;For the complete set:&lt;/p&gt;
-&lt;div role=&#34;img&#34; aria-label=&#34;Diagram&#34;&gt;
-  &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
-    flowchart TB
-    A[&amp;#34;Projected equator&amp;#34;]
-
-    M20[&amp;#34;20°E point&amp;#34;] --&amp;gt; L20[&amp;#34;Perpendicular line&amp;#34;]
-    M30[&amp;#34;30°E point&amp;#34;] --&amp;gt; L30[&amp;#34;Perpendicular line&amp;#34;]
-    M40[&amp;#34;40°E point&amp;#34;] --&amp;gt; L40[&amp;#34;Perpendicular line&amp;#34;]
-    M50[&amp;#34;50°E point&amp;#34;] --&amp;gt; L50[&amp;#34;Perpendicular line&amp;#34;]
-    M60[&amp;#34;60°E point&amp;#34;] --&amp;gt; L60[&amp;#34;Perpendicular line&amp;#34;]
-
-    A --&amp;gt; M20
-    A --&amp;gt; M30
-    A --&amp;gt; M40
-    A --&amp;gt; M50
-    A --&amp;gt; M60
-
-    L20 --&amp;gt; R[&amp;#34;Five projected meridians&amp;#34;]
-    L30 --&amp;gt; R
-    L40 --&amp;gt; R
-    L50 --&amp;gt; R
-    L60 --&amp;gt; R
-  &lt;/pre&gt;
+&lt;div role="img" aria-label="Diagram"&gt;
+&lt;pre class="mermaid hx:mt-6"&gt;
+flowchart TB
+A[&amp;#34;Projected equator&amp;#34;]
+M20[&amp;#34;20°E point&amp;#34;] --&amp;gt; L20[&amp;#34;Perpendicular line&amp;#34;]
+M30[&amp;#34;30°E point&amp;#34;] --&amp;gt; L30[&amp;#34;Perpendicular line&amp;#34;]
+M40[&amp;#34;40°E point&amp;#34;] --&amp;gt; L40[&amp;#34;Perpendicular line&amp;#34;]
+M50[&amp;#34;50°E point&amp;#34;] --&amp;gt; L50[&amp;#34;Perpendicular line&amp;#34;]
+M60[&amp;#34;60°E point&amp;#34;] --&amp;gt; L60[&amp;#34;Perpendicular line&amp;#34;]
+A --&amp;gt; M20
+A --&amp;gt; M30
+A --&amp;gt; M40
+A --&amp;gt; M50
+A --&amp;gt; M60
+L20 --&amp;gt; R[&amp;#34;Five projected meridians&amp;#34;]
+L30 --&amp;gt; R
+L40 --&amp;gt; R
+L50 --&amp;gt; R
+L60 --&amp;gt; R
+&lt;/pre&gt;
 &lt;/div&gt;&lt;p&gt;The central meridian is identified separately:&lt;/p&gt;
-&lt;div role=&#34;img&#34; aria-label=&#34;Diagram&#34;&gt;
-  &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
-    flowchart TB
-    A[&amp;#34;Projected equator&amp;#34;]
-    B[&amp;#34;40°E equatorial point&amp;#34;]
-    C[&amp;#34;Draw perpendicular&amp;#34;]
-    D[&amp;#34;Central meridian&amp;#34;]
-    E[&amp;#34;Tangent point T&amp;#34;]
-
-    A --&amp;gt; B --&amp;gt; C --&amp;gt; D
-    D --&amp;gt; E
-  &lt;/pre&gt;
-&lt;/div&gt;&lt;h2&gt;6. Project the &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;30&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mi&gt;N&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;30^\circ N&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.109em;&#34;&gt;N&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; parallel&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;6-project-the--parallel&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#6-project-the--parallel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div role=&#34;img&#34; aria-label=&#34;Diagram&#34;&gt;
-  &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
-    flowchart LR
-    A[&amp;#34;Select intersection of 30°N and a meridian&amp;#34;] --&amp;gt; B[&amp;#34;Join point to globe centre O&amp;#34;]
-    B --&amp;gt; C[&amp;#34;Extend ray to tangent plane&amp;#34;]
-    C --&amp;gt; D[&amp;#34;Transfer projected point to plan&amp;#34;]
-    D --&amp;gt; E[&amp;#34;Repeat for every meridian&amp;#34;]
-    E --&amp;gt; F[&amp;#34;Join points with smooth curve&amp;#34;]
-    F --&amp;gt; G[&amp;#34;Projected 30°N parallel&amp;#34;]
-  &lt;/pre&gt;
+&lt;div role="img" aria-label="Diagram"&gt;
+&lt;pre class="mermaid hx:mt-6"&gt;
+flowchart TB
+A[&amp;#34;Projected equator&amp;#34;]
+B[&amp;#34;40°E equatorial point&amp;#34;]
+C[&amp;#34;Draw perpendicular&amp;#34;]
+D[&amp;#34;Central meridian&amp;#34;]
+E[&amp;#34;Tangent point T&amp;#34;]
+A --&amp;gt; B --&amp;gt; C --&amp;gt; D
+D --&amp;gt; E
+&lt;/pre&gt;
+&lt;/div&gt;&lt;h2&gt;6. Project the &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;30&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mi&gt;N&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;30^\circ N&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.6833em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;3&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="mord mathnormal" style="margin-right:0.109em;"&gt;N&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; parallel&lt;span class="hx:absolute hx:-mt-20" id="6-project-the--parallel"&gt;&lt;/span&gt;
+&lt;a href="#6-project-the--parallel" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div role="img" aria-label="Diagram"&gt;
+&lt;pre class="mermaid hx:mt-6"&gt;
+flowchart LR
+A[&amp;#34;Select intersection of 30°N and a meridian&amp;#34;] --&amp;gt; B[&amp;#34;Join point to globe centre O&amp;#34;]
+B --&amp;gt; C[&amp;#34;Extend ray to tangent plane&amp;#34;]
+C --&amp;gt; D[&amp;#34;Transfer projected point to plan&amp;#34;]
+D --&amp;gt; E[&amp;#34;Repeat for every meridian&amp;#34;]
+E --&amp;gt; F[&amp;#34;Join points with smooth curve&amp;#34;]
+F --&amp;gt; G[&amp;#34;Projected 30°N parallel&amp;#34;]
+&lt;/pre&gt;
 &lt;/div&gt;&lt;p&gt;For the five required meridians:&lt;/p&gt;
-&lt;div role=&#34;img&#34; aria-label=&#34;Diagram&#34;&gt;
-  &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
-    flowchart TB
-    N20[&amp;#34;30°N ∩ 20°E&amp;#34;] --&amp;gt; O20((O))
-    N30[&amp;#34;30°N ∩ 30°E&amp;#34;] --&amp;gt; O30((O))
-    N40[&amp;#34;30°N ∩ 40°E&amp;#34;] --&amp;gt; O40((O))
-    N50[&amp;#34;30°N ∩ 50°E&amp;#34;] --&amp;gt; O50((O))
-    N60[&amp;#34;30°N ∩ 60°E&amp;#34;] --&amp;gt; O60((O))
-
-    O20 --&amp;gt; P20[&amp;#34;Projected point&amp;#34;]
-    O30 --&amp;gt; P30[&amp;#34;Projected point&amp;#34;]
-    O40 --&amp;gt; P40[&amp;#34;Projected point&amp;#34;]
-    O50 --&amp;gt; P50[&amp;#34;Projected point&amp;#34;]
-    O60 --&amp;gt; P60[&amp;#34;Projected point&amp;#34;]
-
-    P20 --&amp;gt; C[&amp;#34;Smooth connecting curve&amp;#34;]
-    P30 --&amp;gt; C
-    P40 --&amp;gt; C
-    P50 --&amp;gt; C
-    P60 --&amp;gt; C
-
-    C --&amp;gt; R[&amp;#34;30°N projected parallel&amp;#34;]
-  &lt;/pre&gt;
-&lt;/div&gt;&lt;h2&gt;7. Project the &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;30&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mi&gt;S&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;30^\circ S&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;katex-base&#34;&gt;&lt;span class=&#34;katex-strut&#34; style=&#34;height:0.6833em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;3&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;msupsub&#34;&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.6741em;&#34;&gt;&lt;span style=&#34;top:-3.063em;margin-right:0.05em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;katex-sizing reset-size6 size3 mtight&#34;&gt;&lt;span class=&#34;mbin mtight&#34;&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0576em;&#34;&gt;S&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; parallel&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;7-project-the--parallel&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#7-project-the--parallel&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div role=&#34;img&#34; aria-label=&#34;Diagram&#34;&gt;
-  &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
-    flowchart LR
-    A[&amp;#34;Select intersection of 30°S and a meridian&amp;#34;] --&amp;gt; B[&amp;#34;Join point to globe centre O&amp;#34;]
-    B --&amp;gt; C[&amp;#34;Extend ray to tangent plane&amp;#34;]
-    C --&amp;gt; D[&amp;#34;Transfer projected point to plan&amp;#34;]
-    D --&amp;gt; E[&amp;#34;Repeat for every meridian&amp;#34;]
-    E --&amp;gt; F[&amp;#34;Join points with smooth curve&amp;#34;]
-    F --&amp;gt; G[&amp;#34;Projected 30°S parallel&amp;#34;]
-  &lt;/pre&gt;
-&lt;/div&gt;&lt;div role=&#34;img&#34; aria-label=&#34;Diagram&#34;&gt;
-  &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
-    flowchart TB
-    S20[&amp;#34;30°S ∩ 20°E&amp;#34;] --&amp;gt; O20((O))
-    S30[&amp;#34;30°S ∩ 30°E&amp;#34;] --&amp;gt; O30((O))
-    S40[&amp;#34;30°S ∩ 40°E&amp;#34;] --&amp;gt; O40((O))
-    S50[&amp;#34;30°S ∩ 50°E&amp;#34;] --&amp;gt; O50((O))
-    S60[&amp;#34;30°S ∩ 60°E&amp;#34;] --&amp;gt; O60((O))
-
-    O20 --&amp;gt; P20[&amp;#34;Projected point&amp;#34;]
-    O30 --&amp;gt; P30[&amp;#34;Projected point&amp;#34;]
-    O40 --&amp;gt; P40[&amp;#34;Projected point&amp;#34;]
-    O50 --&amp;gt; P50[&amp;#34;Projected point&amp;#34;]
-    O60 --&amp;gt; P60[&amp;#34;Projected point&amp;#34;]
-
-    P20 --&amp;gt; C[&amp;#34;Smooth connecting curve&amp;#34;]
-    P30 --&amp;gt; C
-    P40 --&amp;gt; C
-    P50 --&amp;gt; C
-    P60 --&amp;gt; C
-
-    C --&amp;gt; R[&amp;#34;30°S projected parallel&amp;#34;]
-  &lt;/pre&gt;
-&lt;/div&gt;&lt;h2&gt;8. Descriptive-geometry transfer&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;8-descriptive-geometry-transfer&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#8-descriptive-geometry-transfer&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div role=&#34;img&#34; aria-label=&#34;Diagram&#34;&gt;
-  &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
-    flowchart LR
-    A[&amp;#34;Globe plan&amp;#34;] --&amp;gt; B[&amp;#34;Project point vertically to elevation&amp;#34;]
-    B --&amp;gt; C[&amp;#34;Locate corresponding point in elevation&amp;#34;]
-    C --&amp;gt; D[&amp;#34;Join point to O&amp;#34;]
-    D --&amp;gt; E[&amp;#34;Intersect tangent plane&amp;#34;]
-    E --&amp;gt; F[&amp;#34;Project intersection back to plan&amp;#34;]
-    F --&amp;gt; G[&amp;#34;Final map point&amp;#34;]
-  &lt;/pre&gt;
+&lt;div role="img" aria-label="Diagram"&gt;
+&lt;pre class="mermaid hx:mt-6"&gt;
+flowchart TB
+N20[&amp;#34;30°N ∩ 20°E&amp;#34;] --&amp;gt; O20((O))
+N30[&amp;#34;30°N ∩ 30°E&amp;#34;] --&amp;gt; O30((O))
+N40[&amp;#34;30°N ∩ 40°E&amp;#34;] --&amp;gt; O40((O))
+N50[&amp;#34;30°N ∩ 50°E&amp;#34;] --&amp;gt; O50((O))
+N60[&amp;#34;30°N ∩ 60°E&amp;#34;] --&amp;gt; O60((O))
+O20 --&amp;gt; P20[&amp;#34;Projected point&amp;#34;]
+O30 --&amp;gt; P30[&amp;#34;Projected point&amp;#34;]
+O40 --&amp;gt; P40[&amp;#34;Projected point&amp;#34;]
+O50 --&amp;gt; P50[&amp;#34;Projected point&amp;#34;]
+O60 --&amp;gt; P60[&amp;#34;Projected point&amp;#34;]
+P20 --&amp;gt; C[&amp;#34;Smooth connecting curve&amp;#34;]
+P30 --&amp;gt; C
+P40 --&amp;gt; C
+P50 --&amp;gt; C
+P60 --&amp;gt; C
+C --&amp;gt; R[&amp;#34;30°N projected parallel&amp;#34;]
+&lt;/pre&gt;
+&lt;/div&gt;&lt;h2&gt;7. Project the &lt;span class="katex"&gt;&lt;span class="katex-mathml"&gt;&lt;math xmlns="http://www.w3.org/1998/Math/MathML"&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;msup&gt;&lt;mn&gt;30&lt;/mn&gt;&lt;mo&gt;∘&lt;/mo&gt;&lt;/msup&gt;&lt;mi&gt;S&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding="application/x-tex"&gt;30^\circ S&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class="katex-html" aria-hidden="true"&gt;&lt;span class="katex-base"&gt;&lt;span class="katex-strut" style="height:0.6833em;"&gt;&lt;/span&gt;&lt;span class="mord"&gt;3&lt;/span&gt;&lt;span class="mord"&gt;&lt;span class="mord"&gt;0&lt;/span&gt;&lt;span class="msupsub"&gt;&lt;span class="vlist-t"&gt;&lt;span class="vlist-r"&gt;&lt;span class="vlist" style="height:0.6741em;"&gt;&lt;span style="top:-3.063em;margin-right:0.05em;"&gt;&lt;span class="pstrut" style="height:2.7em;"&gt;&lt;/span&gt;&lt;span class="katex-sizing reset-size6 size3 mtight"&gt;&lt;span class="mbin mtight"&gt;∘&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class="mord mathnormal" style="margin-right:0.0576em;"&gt;S&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; parallel&lt;span class="hx:absolute hx:-mt-20" id="7-project-the--parallel"&gt;&lt;/span&gt;
+&lt;a href="#7-project-the--parallel" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div role="img" aria-label="Diagram"&gt;
+&lt;pre class="mermaid hx:mt-6"&gt;
+flowchart LR
+A[&amp;#34;Select intersection of 30°S and a meridian&amp;#34;] --&amp;gt; B[&amp;#34;Join point to globe centre O&amp;#34;]
+B --&amp;gt; C[&amp;#34;Extend ray to tangent plane&amp;#34;]
+C --&amp;gt; D[&amp;#34;Transfer projected point to plan&amp;#34;]
+D --&amp;gt; E[&amp;#34;Repeat for every meridian&amp;#34;]
+E --&amp;gt; F[&amp;#34;Join points with smooth curve&amp;#34;]
+F --&amp;gt; G[&amp;#34;Projected 30°S parallel&amp;#34;]
+&lt;/pre&gt;
+&lt;/div&gt;&lt;div role="img" aria-label="Diagram"&gt;
+&lt;pre class="mermaid hx:mt-6"&gt;
+flowchart TB
+S20[&amp;#34;30°S ∩ 20°E&amp;#34;] --&amp;gt; O20((O))
+S30[&amp;#34;30°S ∩ 30°E&amp;#34;] --&amp;gt; O30((O))
+S40[&amp;#34;30°S ∩ 40°E&amp;#34;] --&amp;gt; O40((O))
+S50[&amp;#34;30°S ∩ 50°E&amp;#34;] --&amp;gt; O50((O))
+S60[&amp;#34;30°S ∩ 60°E&amp;#34;] --&amp;gt; O60((O))
+O20 --&amp;gt; P20[&amp;#34;Projected point&amp;#34;]
+O30 --&amp;gt; P30[&amp;#34;Projected point&amp;#34;]
+O40 --&amp;gt; P40[&amp;#34;Projected point&amp;#34;]
+O50 --&amp;gt; P50[&amp;#34;Projected point&amp;#34;]
+O60 --&amp;gt; P60[&amp;#34;Projected point&amp;#34;]
+P20 --&amp;gt; C[&amp;#34;Smooth connecting curve&amp;#34;]
+P30 --&amp;gt; C
+P40 --&amp;gt; C
+P50 --&amp;gt; C
+P60 --&amp;gt; C
+C --&amp;gt; R[&amp;#34;30°S projected parallel&amp;#34;]
+&lt;/pre&gt;
+&lt;/div&gt;&lt;h2&gt;8. Descriptive-geometry transfer&lt;span class="hx:absolute hx:-mt-20" id="8-descriptive-geometry-transfer"&gt;&lt;/span&gt;
+&lt;a href="#8-descriptive-geometry-transfer" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div role="img" aria-label="Diagram"&gt;
+&lt;pre class="mermaid hx:mt-6"&gt;
+flowchart LR
+A[&amp;#34;Globe plan&amp;#34;] --&amp;gt; B[&amp;#34;Project point vertically to elevation&amp;#34;]
+B --&amp;gt; C[&amp;#34;Locate corresponding point in elevation&amp;#34;]
+C --&amp;gt; D[&amp;#34;Join point to O&amp;#34;]
+D --&amp;gt; E[&amp;#34;Intersect tangent plane&amp;#34;]
+E --&amp;gt; F[&amp;#34;Project intersection back to plan&amp;#34;]
+F --&amp;gt; G[&amp;#34;Final map point&amp;#34;]
+&lt;/pre&gt;
 &lt;/div&gt;&lt;p&gt;For each graticule intersection:&lt;/p&gt;
-&lt;div role=&#34;img&#34; aria-label=&#34;Diagram&#34;&gt;
-  &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
-    flowchart TB
-    A[&amp;#34;Intersection on globe&amp;#34;]
-    B[&amp;#34;Plan view&amp;#34;]
-    C[&amp;#34;Elevation view&amp;#34;]
-    D[&amp;#34;Line from O&amp;#34;]
-    E[&amp;#34;Tangent-plane intersection&amp;#34;]
-    F[&amp;#34;Transferred point on map&amp;#34;]
-
-    A --&amp;gt; B
-    B --&amp;gt; C
-    C --&amp;gt; D
-    D --&amp;gt; E
-    E --&amp;gt; F
-  &lt;/pre&gt;
-&lt;/div&gt;&lt;h2&gt;9. Final construction sequence&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;9-final-construction-sequence&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#9-final-construction-sequence&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div role=&#34;img&#34; aria-label=&#34;Diagram&#34;&gt;
-  &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
-    flowchart TD
-    A[&amp;#34;Choose tangent point at 40°E on Equator&amp;#34;]
-    B[&amp;#34;Draw tangent plane&amp;#34;]
-    C[&amp;#34;Mark globe meridians 20°E–60°E&amp;#34;]
-    D[&amp;#34;Project equatorial points&amp;#34;]
-    E[&amp;#34;Draw five projected meridians&amp;#34;]
-    F[&amp;#34;Mark 30°N intersections on globe&amp;#34;]
-    G[&amp;#34;Project 30°N points&amp;#34;]
-    H[&amp;#34;Join them smoothly&amp;#34;]
-    I[&amp;#34;Mark 30°S intersections on globe&amp;#34;]
-    J[&amp;#34;Project 30°S points&amp;#34;]
-    K[&amp;#34;Join them smoothly&amp;#34;]
-    L[&amp;#34;Complete equatorial gnomonic graticule&amp;#34;]
-
-    A --&amp;gt; B --&amp;gt; C --&amp;gt; D --&amp;gt; E
-    E --&amp;gt; F --&amp;gt; G --&amp;gt; H
-    H --&amp;gt; I --&amp;gt; J --&amp;gt; K
-    K --&amp;gt; L
-  &lt;/pre&gt;
-&lt;/div&gt;&lt;h2&gt;10. Final schematic graticule&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;10-final-schematic-graticule&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#10-final-schematic-graticule&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;This is only a conceptual Mermaid representation; it is not geometrically to scale.&lt;/p&gt;
-&lt;div role=&#34;img&#34; aria-label=&#34;Diagram&#34;&gt;
-  &lt;pre class=&#34;mermaid hx:mt-6&#34;&gt;
-    flowchart TB
-    N[&amp;#34;30°N curved parallel&amp;#34;]
-    E[&amp;#34;Equator&amp;#34;]
-    S[&amp;#34;30°S curved parallel&amp;#34;]
-
-    M20[&amp;#34;20°E&amp;#34;] --- M30[&amp;#34;30°E&amp;#34;] --- M40[&amp;#34;40°E&amp;#34;] --- M50[&amp;#34;50°E&amp;#34;] --- M60[&amp;#34;60°E&amp;#34;]
-
-    N --- E --- S
-    M20 --- M30 --- M40 --- M50 --- M60
-    M40 --&amp;gt; C[&amp;#34;Central meridian&amp;#34;]
-    C --&amp;gt; T[&amp;#34;Tangent point at 40°E&amp;#34;]
-  &lt;/pre&gt;
+&lt;div role="img" aria-label="Diagram"&gt;
+&lt;pre class="mermaid hx:mt-6"&gt;
+flowchart TB
+A[&amp;#34;Intersection on globe&amp;#34;]
+B[&amp;#34;Plan view&amp;#34;]
+C[&amp;#34;Elevation view&amp;#34;]
+D[&amp;#34;Line from O&amp;#34;]
+E[&amp;#34;Tangent-plane intersection&amp;#34;]
+F[&amp;#34;Transferred point on map&amp;#34;]
+A --&amp;gt; B
+B --&amp;gt; C
+C --&amp;gt; D
+D --&amp;gt; E
+E --&amp;gt; F
+&lt;/pre&gt;
+&lt;/div&gt;&lt;h2&gt;9. Final construction sequence&lt;span class="hx:absolute hx:-mt-20" id="9-final-construction-sequence"&gt;&lt;/span&gt;
+&lt;a href="#9-final-construction-sequence" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;div role="img" aria-label="Diagram"&gt;
+&lt;pre class="mermaid hx:mt-6"&gt;
+flowchart TD
+A[&amp;#34;Choose tangent point at 40°E on Equator&amp;#34;]
+B[&amp;#34;Draw tangent plane&amp;#34;]
+C[&amp;#34;Mark globe meridians 20°E–60°E&amp;#34;]
+D[&amp;#34;Project equatorial points&amp;#34;]
+E[&amp;#34;Draw five projected meridians&amp;#34;]
+F[&amp;#34;Mark 30°N intersections on globe&amp;#34;]
+G[&amp;#34;Project 30°N points&amp;#34;]
+H[&amp;#34;Join them smoothly&amp;#34;]
+I[&amp;#34;Mark 30°S intersections on globe&amp;#34;]
+J[&amp;#34;Project 30°S points&amp;#34;]
+K[&amp;#34;Join them smoothly&amp;#34;]
+L[&amp;#34;Complete equatorial gnomonic graticule&amp;#34;]
+A --&amp;gt; B --&amp;gt; C --&amp;gt; D --&amp;gt; E
+E --&amp;gt; F --&amp;gt; G --&amp;gt; H
+H --&amp;gt; I --&amp;gt; J --&amp;gt; K
+K --&amp;gt; L
+&lt;/pre&gt;
+&lt;/div&gt;&lt;h2&gt;10. Final schematic graticule&lt;span class="hx:absolute hx:-mt-20" id="10-final-schematic-graticule"&gt;&lt;/span&gt;
+&lt;a href="#10-final-schematic-graticule" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;This is only a conceptual Mermaid representation; it is not geometrically to scale.&lt;/p&gt;
+&lt;div role="img" aria-label="Diagram"&gt;
+&lt;pre class="mermaid hx:mt-6"&gt;
+flowchart TB
+N[&amp;#34;30°N curved parallel&amp;#34;]
+E[&amp;#34;Equator&amp;#34;]
+S[&amp;#34;30°S curved parallel&amp;#34;]
+M20[&amp;#34;20°E&amp;#34;] --- M30[&amp;#34;30°E&amp;#34;] --- M40[&amp;#34;40°E&amp;#34;] --- M50[&amp;#34;50°E&amp;#34;] --- M60[&amp;#34;60°E&amp;#34;]
+N --- E --- S
+M20 --- M30 --- M40 --- M50 --- M60
+M40 --&amp;gt; C[&amp;#34;Central meridian&amp;#34;]
+C --&amp;gt; T[&amp;#34;Tangent point at 40°E&amp;#34;]
+&lt;/pre&gt;
 &lt;/div&gt;&lt;p&gt;The operational rule represented by all the diagrams is:&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;Select a point on the globe, join it to the globe’s centre, extend that line to the tangent plane, and transfer the intersection to the map. Repeat for every required graticule intersection.&lt;/p&gt;
-
-&lt;/blockquote&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;p&gt;Select a point on the globe, join it to the globe’s centre, extend that line to the tangent plane, and transfer the intersection to the map. Repeat for every required graticule intersection.&lt;/p&gt;
+&lt;/blockquote&gt;</description></item></channel></rss>

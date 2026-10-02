@@ -1,49 +1,19 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Study Extra Master – Part A</title>
-    <link>http://localhost:1313/docs/parta/</link>
-    <description>Recent content in Part A on Study Extra Master</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	  <atom:link href="http://localhost:1313/docs/parta/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title>EM101 Leadership, Management and Human Resources</title>
-      <link>http://localhost:1313/docs/parta/marlead/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/parta/marlead/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;Content&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;content&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#content&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlead/approches_to_define_leadership/&#34;&gt;Approaches to defining leadership&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlead/intro/&#34;&gt;Introduction to leadership&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlead/management/&#34;&gt;Management&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlead/misc_aspects_of_leadership/&#34;&gt;Miscellaneous aspects of leadership&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlead/questions-and-answers/&#34;&gt;Questions and Answers&lt;/a&gt;&lt;/h2&gt;
-
-
-&lt;h3&gt;Leadership&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;leadership&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#leadership&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Study Extra Master – Part A</title><link>https://extra.anirbanmarine.in/docs/parta/</link><description>Recent content in Part A on Study Extra Master</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://extra.anirbanmarine.in/docs/parta/index.xml" rel="self" type="application/rss+xml"/><item><title>EM101 Leadership, Management and Human Resources</title><link>https://extra.anirbanmarine.in/docs/parta/marlead/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://extra.anirbanmarine.in/docs/parta/marlead/</guid><description>
+&lt;h2&gt;Content&lt;span class="hx:absolute hx:-mt-20" id="content"&gt;&lt;/span&gt;
+&lt;a href="#content" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlead/approches_to_define_leadership/"&gt;Approaches to defining leadership&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlead/intro/"&gt;Introduction to leadership&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlead/management/"&gt;Management&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlead/misc_aspects_of_leadership/"&gt;Miscellaneous aspects of leadership&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlead/questions-and-answers/"&gt;Questions and Answers&lt;/a&gt;&lt;/h2&gt;
+&lt;h3&gt;Leadership&lt;span class="hx:absolute hx:-mt-20" id="leadership"&gt;&lt;/span&gt;
+&lt;a href="#leadership" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Introduction to Leadership&lt;/li&gt;
 &lt;li&gt;Approaches to defining leadership&lt;/li&gt;
 &lt;li&gt;Miscellaneous aspects of leadership&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Management&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;management&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Management&lt;span class="hx:absolute hx:-mt-20" id="management"&gt;&lt;/span&gt;
+&lt;a href="#management" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Introduction to organization and management&lt;/li&gt;
 &lt;li&gt;Essentials of management function&lt;/li&gt;
 &lt;/ul&gt;
@@ -56,8 +26,8 @@
 &lt;li&gt;Strategic management&lt;/li&gt;
 &lt;li&gt;Information technology management&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;Human Resources&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;human-resources&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#human-resources&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;h3&gt;Human Resources&lt;span class="hx:absolute hx:-mt-20" id="human-resources"&gt;&lt;/span&gt;
+&lt;a href="#human-resources" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;Definitions Objectives and responsibilities&lt;/li&gt;
 &lt;li&gt;Legal issues in HR&lt;/li&gt;
 &lt;li&gt;Compensation&lt;/li&gt;
@@ -66,184 +36,82 @@
 &lt;li&gt;Stress management&lt;/li&gt;
 &lt;li&gt;Conflict management&lt;/li&gt;
 &lt;li&gt;Challenges of HRM&lt;/li&gt;
-&lt;/ul&gt;
-
-      </description>
-    </item>
-    
-    <item>
-      <title>EM102 Maritime Economics and Finance</title>
-      <link>http://localhost:1313/docs/parta/marecofin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/parta/marecofin/</guid>
-      <description>
-        
-        
-        
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/long_term_fin/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/acc_ratios/&#34;&gt;Accountancy Ratios&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/amortization-of-drydock/&#34;&gt;Amortization of Drydock Expenses&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/cabotage_effect/&#34;&gt;Analyze the impact of Cabotage on the development of Indian shipping and shipping in general around the Indian coast in the past 5 years.&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/breakeven/&#34;&gt;Break Even Point&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/capital_budgeting/&#34;&gt;Capital budgeting&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/cashbook/&#34;&gt;Cash Book&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/classification-of-costs/&#34;&gt;Classification of Costs&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/cost-as-dominant-factor/&#34;&gt;Cost as a Dominant Factor in Influencing Innovations and Technological Developments in Shipping&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/costs-and-cash-flow/&#34;&gt;Costs Associated with Fleet Operation, Maintenance, and Financing (Annual)&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/annual-budget/&#34;&gt;Create Annual Budget Sheet&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/credit-risk-analysis/&#34;&gt;Credit Risk Analysis&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/depreciation-vs-amortization/&#34;&gt;Depreciation versus Amortization&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/exchange-rate/&#34;&gt;Exchange Rate Dynamics and how the Master influences it&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/costs_fixed_and_variable/&#34;&gt;Fixed Costs and Variable Costs -Breakeven&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/ffa/&#34;&gt;Forward Freight Agreement&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/freight-pricing/&#34;&gt;Freight pricing in Shipping Markets&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/shipowner_control-pricing/&#34;&gt;How the Shipowners control Freight pricing in Shipping Markets&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/how-to-make-entries-in-the-balance/&#34;&gt;how to make entries in the balance sheet&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/long_term_finance_options/&#34;&gt;Long-Term Sources of Finance for Organizations&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/accbooks/&#34;&gt;Main Books of Account&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/viability/&#34;&gt;Market Viability&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/readbalance-sheets/&#34;&gt;Read Balance sheets&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/shipsize-and-economies-of-sale/&#34;&gt;Ship Size and Economies of Scale&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/shipping-finance-derivatives/&#34;&gt;Shipping Derivatives&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/short-notes/&#34;&gt;Short Notes&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/deutsch_kg/&#34;&gt;The German KG System&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/time_value_of_money/&#34;&gt;Time Value of Money&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/trading-finance/&#34;&gt;Trading Finance&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/trial-balance/&#34;&gt;Trial balance&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/depreciation-/&#34;&gt;Types of Depreciation and how to do it&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marecofin/entrepreneurship_factors/&#34;&gt;What Factors affect success of entreprneurship&lt;/a&gt;&lt;/h2&gt;
-
-
-
-      </description>
-    </item>
-    
-    <item>
-      <title>EM103 Maritime Law</title>
-      <link>http://localhost:1313/docs/parta/marlaw/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/parta/marlaw/</guid>
-      <description>
-        
-        
-        
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/indianwaterawys/&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/arbitration/&#34;&gt;Arbitration&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/arbitration_and_dispute_resolution/&#34;&gt;Arbitration and Dispute Resolution&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/athensconv/&#34;&gt;Athens Convention 1974&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/bailment/&#34;&gt;Bailment&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/banking_and_negotiable_instruments/&#34;&gt;Banking Law and Negotiable Instruments Law&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/civil-law-and-civil-procedure-code/&#34;&gt;Civil Law and Civil Procedure Code&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/comparison-between-rules-/&#34;&gt;Comparison Beween Hague,Hague-Visby,Hamburgh and Rotterdam Rules&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/short-delivery-of-cargo/&#34;&gt;Consequences of Short Delivery&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/constitution-and-legal-systems/&#34;&gt;Constitution and Legal Systems&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/law-of-contract-1872/&#34;&gt;Contract Law 1872&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/contract-of-guarantee/&#34;&gt;Contract of Guarantee&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/contract-of-indemnity/&#34;&gt;Contract of Indemnity&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/sua1988-2005/&#34;&gt;Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation (SUA Convention)-1988/2005 (protocol)&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/admiralty-act/&#34;&gt;he Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/cogsabl/&#34;&gt;Indian Bill of Lading Act 1856 and Carriage od Goods by Sea Act 1925&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/international_national_arbitration_bodies/&#34;&gt;International and National Arbitration bodies&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/piracy-and-other-crimes/&#34;&gt;International_piracy_crimes&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/law-of-agency/&#34;&gt;Law of Agency&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/management_contracts/&#34;&gt;Management Contracts&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/maritime-fraud/&#34;&gt;Maritime fraud&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/law-of-torts/&#34;&gt;Maxims under Tort Law&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/mlc2006/&#34;&gt;MLC2006&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/msact1958/&#34;&gt;MSAct1958&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/overview_of_criminal_law/&#34;&gt;Overview of Criminal Law with respect to Actus reus,Mens Rea, etc&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/passivepersonalityurisdiction/&#34;&gt;passive personality jurisdiction&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/passivepersonality/&#34;&gt;Passive Personality Jurisdiction&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/pledge/&#34;&gt;Pledge&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/sea/&#34;&gt;Seafarers Articles of Agreement&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/surety/&#34;&gt;Surety&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/clc/&#34;&gt;The Civil Liability Convention (CLC)&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/llmc76-98-2012/&#34;&gt;The Convention on Limitation of Liability for Maritime Claims (LLMC) 1976, along with its amendments in 1996 and 2012&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/indian-limitation-act-1963/&#34;&gt;The Indian Limitation Act, 1963&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/arrest_1999/&#34;&gt;The International Convention on Arrest of Ships, 1999&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/vclt/&#34;&gt;The Vienna Convention on the Law of Treaties (VCLT)&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/tonnage-convention-1969/&#34;&gt;Tonnage Convention 1969 and trainee Accommodation&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/tort/&#34;&gt;Tort&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/contracts_types_in_maritime_sector/&#34;&gt;Types of Contracts in Maritime Sector&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/vclt2/&#34;&gt;Vienna Convention on the Law of Treaties (VCLT) 1969&lt;/a&gt;&lt;/h2&gt;
-
-  &lt;h2&gt;&lt;a href=&#34;http://localhost:1313/docs/parta/marlaw/legal-systems/&#34;&gt;World Legal Systems&lt;/a&gt;&lt;/h2&gt;
-
-
-&lt;h2&gt;Overview of different types of Constitutions and Legal systems of the world : common law jurisdictions ,civil law jurisdictions.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;overview-of-different-types-of-constitutions-and-legal-systems-of-the-world--common-law-jurisdictions-civil-law-jurisdictions&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#overview-of-different-types-of-constitutions-and-legal-systems-of-the-world--common-law-jurisdictions-civil-law-jurisdictions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Overview of civil law and commercial law and civil procedures code.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;overview-of-civil-law-and-commercial-law-and-civil-procedures-code&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#overview-of-civil-law-and-commercial-law-and-civil-procedures-code&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;/ul&gt;</description></item><item><title>EM102 Maritime Economics and Finance</title><link>https://extra.anirbanmarine.in/docs/parta/marecofin/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://extra.anirbanmarine.in/docs/parta/marecofin/</guid><description>
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/long_term_fin/"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/acc_ratios/"&gt;Accountancy Ratios&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/amortization-of-drydock/"&gt;Amortization of Drydock Expenses&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/cabotage_effect/"&gt;Analyze the impact of Cabotage on the development of Indian shipping and shipping in general around the Indian coast in the past 5 years.&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/breakeven/"&gt;Break Even Point&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/capital_budgeting/"&gt;Capital budgeting&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/cashbook/"&gt;Cash Book&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/classification-of-costs/"&gt;Classification of Costs&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/cost-as-dominant-factor/"&gt;Cost as a Dominant Factor in Influencing Innovations and Technological Developments in Shipping&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/costs-and-cash-flow/"&gt;Costs Associated with Fleet Operation, Maintenance, and Financing (Annual)&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/annual-budget/"&gt;Create Annual Budget Sheet&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/credit-risk-analysis/"&gt;Credit Risk Analysis&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/depreciation-vs-amortization/"&gt;Depreciation versus Amortization&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/exchange-rate/"&gt;Exchange Rate Dynamics and how the Master influences it&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/costs_fixed_and_variable/"&gt;Fixed Costs and Variable Costs -Breakeven&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/ffa/"&gt;Forward Freight Agreement&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/freight-pricing/"&gt;Freight pricing in Shipping Markets&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/shipowner_control-pricing/"&gt;How the Shipowners control Freight pricing in Shipping Markets&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/how-to-make-entries-in-the-balance/"&gt;how to make entries in the balance sheet&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/long_term_finance_options/"&gt;Long-Term Sources of Finance for Organizations&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/accbooks/"&gt;Main Books of Account&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/viability/"&gt;Market Viability&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/readbalance-sheets/"&gt;Read Balance sheets&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/shipsize-and-economies-of-sale/"&gt;Ship Size and Economies of Scale&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/shipping-finance-derivatives/"&gt;Shipping Derivatives&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/short-notes/"&gt;Short Notes&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/deutsch_kg/"&gt;The German KG System&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/time_value_of_money/"&gt;Time Value of Money&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/trading-finance/"&gt;Trading Finance&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/trial-balance/"&gt;Trial balance&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/depreciation-/"&gt;Types of Depreciation and how to do it&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marecofin/entrepreneurship_factors/"&gt;What Factors affect success of entreprneurship&lt;/a&gt;&lt;/h2&gt;</description></item><item><title>EM103 Maritime Law</title><link>https://extra.anirbanmarine.in/docs/parta/marlaw/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://extra.anirbanmarine.in/docs/parta/marlaw/</guid><description>
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/indianwaterawys/"&gt;&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/arbitration/"&gt;Arbitration&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/arbitration_and_dispute_resolution/"&gt;Arbitration and Dispute Resolution&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/athensconv/"&gt;Athens Convention 1974&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/bailment/"&gt;Bailment&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/banking_and_negotiable_instruments/"&gt;Banking Law and Negotiable Instruments Law&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/civil-law-and-civil-procedure-code/"&gt;Civil Law and Civil Procedure Code&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/comparison-between-rules-/"&gt;Comparison Beween Hague,Hague-Visby,Hamburgh and Rotterdam Rules&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/short-delivery-of-cargo/"&gt;Consequences of Short Delivery&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/constitution-and-legal-systems/"&gt;Constitution and Legal Systems&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/law-of-contract-1872/"&gt;Contract Law 1872&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/contract-of-guarantee/"&gt;Contract of Guarantee&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/contract-of-indemnity/"&gt;Contract of Indemnity&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/sua1988-2005/"&gt;Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation (SUA Convention)-1988/2005 (protocol)&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/admiralty-act/"&gt;he Admiralty (Jurisdiction and Settlement of Maritime Claims) Act, 2017&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/cogsabl/"&gt;Indian Bill of Lading Act 1856 and Carriage od Goods by Sea Act 1925&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/international_national_arbitration_bodies/"&gt;International and National Arbitration bodies&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/piracy-and-other-crimes/"&gt;International_piracy_crimes&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/law-of-agency/"&gt;Law of Agency&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/management_contracts/"&gt;Management Contracts&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/maritime-fraud/"&gt;Maritime fraud&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/law-of-torts/"&gt;Maxims under Tort Law&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/mlc2006/"&gt;MLC2006&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/msact1958/"&gt;MSAct1958&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/overview_of_criminal_law/"&gt;Overview of Criminal Law with respect to Actus reus,Mens Rea, etc&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/passivepersonalityurisdiction/"&gt;passive personality jurisdiction&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/passivepersonality/"&gt;Passive Personality Jurisdiction&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/pledge/"&gt;Pledge&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/sea/"&gt;Seafarers Articles of Agreement&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/surety/"&gt;Surety&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/clc/"&gt;The Civil Liability Convention (CLC)&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/llmc76-98-2012/"&gt;The Convention on Limitation of Liability for Maritime Claims (LLMC) 1976, along with its amendments in 1996 and 2012&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/indian-limitation-act-1963/"&gt;The Indian Limitation Act, 1963&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/arrest_1999/"&gt;The International Convention on Arrest of Ships, 1999&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/vclt/"&gt;The Vienna Convention on the Law of Treaties (VCLT)&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/tonnage-convention-1969/"&gt;Tonnage Convention 1969 and trainee Accommodation&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/tort/"&gt;Tort&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/contracts_types_in_maritime_sector/"&gt;Types of Contracts in Maritime Sector&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/vclt2/"&gt;Vienna Convention on the Law of Treaties (VCLT) 1969&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;&lt;a href="https://extra.anirbanmarine.in/docs/parta/marlaw/legal-systems/"&gt;World Legal Systems&lt;/a&gt;&lt;/h2&gt;
+&lt;h2&gt;Overview of different types of Constitutions and Legal systems of the world : common law jurisdictions ,civil law jurisdictions.&lt;span class="hx:absolute hx:-mt-20" id="overview-of-different-types-of-constitutions-and-legal-systems-of-the-world--common-law-jurisdictions-civil-law-jurisdictions"&gt;&lt;/span&gt;
+&lt;a href="#overview-of-different-types-of-constitutions-and-legal-systems-of-the-world--common-law-jurisdictions-civil-law-jurisdictions" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Overview of civil law and commercial law and civil procedures code.&lt;span class="hx:absolute hx:-mt-20" id="overview-of-civil-law-and-commercial-law-and-civil-procedures-code"&gt;&lt;/span&gt;
+&lt;a href="#overview-of-civil-law-and-commercial-law-and-civil-procedures-code" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;
 &lt;p&gt;Law of contract&lt;/p&gt;
 &lt;ul&gt;
@@ -272,42 +140,30 @@
 &lt;p&gt;Arbitration and Dispute Resolution process and procedure involved .Relevance of IMAA, ICA and other bodies.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Overview of Criminal Law&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;overview-of-criminal-law&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#overview-of-criminal-law&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
+&lt;h2&gt;Overview of Criminal Law&lt;span class="hx:absolute hx:-mt-20" id="overview-of-criminal-law"&gt;&lt;/span&gt;
+&lt;a href="#overview-of-criminal-law" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;International Criminal Law with respect to Piracy, Armed Robbery , Criminal Trespass , Crimes against Humanity etc.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Mational Maritime Regulations&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;mational-maritime-regulations&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#mational-maritime-regulations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;International agreements and overview of Vienna Convention and Law of Treaties&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;international-agreements-and-overview-of-vienna-convention-and-law-of-treaties&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#international-agreements-and-overview-of-vienna-convention-and-law-of-treaties&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;United Nations, its specialized agencies&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;united-nations-its-specialized-agencies&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#united-nations-its-specialized-agencies&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;International Conventions&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;international-conventions&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#international-conventions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Maritime frauds&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;maritime-frauds&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#maritime-frauds&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Law of Torts&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;law-of-torts&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#law-of-torts&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;
-      </description>
-    </item>
-    
-    <item>
-      <title>Question and Answers</title>
-      <link>http://localhost:1313/docs/parta/q-and-a/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/parta/q-and-a/</guid>
-      <description>
-        
-        
-        &lt;h2&gt;﻿12-june-2019 EM 101&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;12-june-2019-em-101&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#12-june-2019-em-101&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Q1&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;q1&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#q1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&amp;lsquo;X&amp;rsquo; is the owner and manager of a company with ten employees. &amp;lsquo;X&amp;rsquo; hires you to take over the functions of the HRM in the company
+&lt;h2&gt;Mational Maritime Regulations&lt;span class="hx:absolute hx:-mt-20" id="mational-maritime-regulations"&gt;&lt;/span&gt;
+&lt;a href="#mational-maritime-regulations" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;International agreements and overview of Vienna Convention and Law of Treaties&lt;span class="hx:absolute hx:-mt-20" id="international-agreements-and-overview-of-vienna-convention-and-law-of-treaties"&gt;&lt;/span&gt;
+&lt;a href="#international-agreements-and-overview-of-vienna-convention-and-law-of-treaties" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;United Nations, its specialized agencies&lt;span class="hx:absolute hx:-mt-20" id="united-nations-its-specialized-agencies"&gt;&lt;/span&gt;
+&lt;a href="#united-nations-its-specialized-agencies" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;International Conventions&lt;span class="hx:absolute hx:-mt-20" id="international-conventions"&gt;&lt;/span&gt;
+&lt;a href="#international-conventions" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Maritime frauds&lt;span class="hx:absolute hx:-mt-20" id="maritime-frauds"&gt;&lt;/span&gt;
+&lt;a href="#maritime-frauds" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;Law of Torts&lt;span class="hx:absolute hx:-mt-20" id="law-of-torts"&gt;&lt;/span&gt;
+&lt;a href="#law-of-torts" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;</description></item><item><title>Question and Answers</title><link>https://extra.anirbanmarine.in/docs/parta/q-and-a/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://extra.anirbanmarine.in/docs/parta/q-and-a/</guid><description>
+&lt;h2&gt;﻿12-june-2019 EM 101&lt;span class="hx:absolute hx:-mt-20" id="12-june-2019-em-101"&gt;&lt;/span&gt;
+&lt;a href="#12-june-2019-em-101" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;Q1&lt;span class="hx:absolute hx:-mt-20" id="q1"&gt;&lt;/span&gt;
+&lt;a href="#q1" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&amp;lsquo;X&amp;rsquo; is the owner and manager of a company with ten employees. &amp;lsquo;X&amp;rsquo; hires you to take over the functions of the HRM in the company
 &amp;lsquo;X&amp;rsquo; believes that the company may be able to save costs by allowing employees to work from home one or two days in a week. However, He has some concerns about productivity if he allows employees to work from home. Despite these concerns, &amp;lsquo;X&amp;rsquo; has even considered closing down the physical office and making his company a virtual organization, but he wonders how such a major change will affect the ability of the employees to communicate and what impact it will have on their motivation.
 &amp;ldquo;X also shares with you his thoughts about the costs of health care on the organization. He has considered cutting benefits entirely and having his employees work for him on a contract basis, instead of being full-time employees. He isn&amp;rsquo;t sure if this would be a good choice.
 During your first two weeks, you find out that the company is expected to experience overall revenue growth by 10 percent over the next three years, with some quarters secing growth as high as 30 percent. However, five of the ten workers are expected to retire within three years. These workers have been with the organization since the beginning and provide a unique historical perspective of the company. The other five workers are of diverse ages.
 &amp;lsquo;X&amp;rsquo; schedules a meeting with you to discuss some of his thoughts. To prepare for the meeting, you perform research so you can provide your new employer with recommendations on the challenges presented.&lt;/p&gt;
-&lt;h4&gt;1. Point out which changes are occurring in the business that affects HRM.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-point-out-which-changes-are-occurring-in-the-business-that-affects-hrm&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-point-out-which-changes-are-occurring-in-the-business-that-affects-hrm&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;2. What considerations the company and HR should be aware of when making changes related to this case study?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-what-considerations-the-company-and-hr-should-be-aware-of-when-making-changes-related-to-this-case-study&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2-what-considerations-the-company-and-hr-should-be-aware-of-when-making-changes-related-to-this-case-study&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;3 What would the initial steps be to start planning for these changes?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-what-would-the-initial-steps-be-to-start-planning-for-these-changes&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-what-would-the-initial-steps-be-to-start-planning-for-these-changes&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;4. What would your role be in implementing these changes and what role would you suggest for &amp;ldquo;X&amp;rdquo;?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-what-would-your-role-be-in-implementing-these-changes-and-what-role-would-you-suggest-for-x&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#4-what-would-your-role-be-in-implementing-these-changes-and-what-role-would-you-suggest-for-x&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;5. What impact the proposed changes could have on the prospects of the company?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-what-impact-the-proposed-changes-could-have-on-the-prospects-of-the-company&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#5-what-impact-the-proposed-changes-could-have-on-the-prospects-of-the-company&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;** 1. Changes Affecting HRM:** 
+&lt;h4&gt;1. Point out which changes are occurring in the business that affects HRM.&lt;span class="hx:absolute hx:-mt-20" id="1-point-out-which-changes-are-occurring-in-the-business-that-affects-hrm"&gt;&lt;/span&gt;
+&lt;a href="#1-point-out-which-changes-are-occurring-in-the-business-that-affects-hrm" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;2. What considerations the company and HR should be aware of when making changes related to this case study?&lt;span class="hx:absolute hx:-mt-20" id="2-what-considerations-the-company-and-hr-should-be-aware-of-when-making-changes-related-to-this-case-study"&gt;&lt;/span&gt;
+&lt;a href="#2-what-considerations-the-company-and-hr-should-be-aware-of-when-making-changes-related-to-this-case-study" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;3 What would the initial steps be to start planning for these changes?&lt;span class="hx:absolute hx:-mt-20" id="3-what-would-the-initial-steps-be-to-start-planning-for-these-changes"&gt;&lt;/span&gt;
+&lt;a href="#3-what-would-the-initial-steps-be-to-start-planning-for-these-changes" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;4. What would your role be in implementing these changes and what role would you suggest for &amp;ldquo;X&amp;rdquo;?&lt;span class="hx:absolute hx:-mt-20" id="4-what-would-your-role-be-in-implementing-these-changes-and-what-role-would-you-suggest-for-x"&gt;&lt;/span&gt;
+&lt;a href="#4-what-would-your-role-be-in-implementing-these-changes-and-what-role-would-you-suggest-for-x" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;h4&gt;5. What impact the proposed changes could have on the prospects of the company?&lt;span class="hx:absolute hx:-mt-20" id="5-what-impact-the-proposed-changes-could-have-on-the-prospects-of-the-company"&gt;&lt;/span&gt;
+&lt;a href="#5-what-impact-the-proposed-changes-could-have-on-the-prospects-of-the-company" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h4&gt;&lt;pre&gt;&lt;code&gt;** 1. Changes Affecting HRM:**
 &lt;/code&gt;&lt;/pre&gt;
 &lt;ul&gt;
 &lt;li&gt;Shift to Remote or Virtual Work: The potential move to remote work, either partially or entirely, changes how performance is managed, collaboration occurs, and company culture is maintained.&lt;/li&gt;
@@ -332,11 +188,11 @@ During your first two weeks, you find out that the company is expected to experi
 &lt;li&gt;Potential Risks: Loss of institutional knowledge, lower morale, and recruitment challenges could harm productivity and growth.&lt;/li&gt;
 &lt;li&gt;Balanced Approach: A hybrid model, phased retirement plans, and strategic hiring can mitigate risks while supporting growth.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Q.2&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;q2&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#q2&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You are the newly appointed Marketing Manager of a privately operated Container Terminal in a Port of india. The Port has two other Container Terminals, operated by other private parties. (All the three terminals are leased out to the operators on revenue share basis). The Port is connected to the hinterland by rail and road. Capacity of rail and road is limited, but capacity expansion projects are already underway (Doubling railway lines and road 4-laning). Your terminal has secured additional yardage space near the Port. The terminal has three high-capacity Rail-mounted Port-Panamax Gantry Cranes on the dockside and sufficient RTGs and forklifts for Yard handling of Containers. The Operators are planning to install rail lines on the terminal to provide direct access to rail wagons from the main line. While your Terminal has one large Container Line as a captive client (5-year contract), there are many other mainline and feeder services who are potential clients, some of whom are being served by competing terminals.&lt;/p&gt;
-&lt;h2&gt;Draw up a 5-year Marketing Strategy for your Terminal so as to achieve the business growth targets set by the terminal operators. [40 Marks]&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;draw-up-a-5-year-marketing-strategy-for-your-terminal-so-as-to-achieve-the-business-growth-targets-set-by-the-terminal-operators-40-marks&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#draw-up-a-5-year-marketing-strategy-for-your-terminal-so-as-to-achieve-the-business-growth-targets-set-by-the-terminal-operators-40-marks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;5-Year Marketing Strategy for the Container Terminal.&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-year-marketing-strategy-for-the-container-terminal&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#5-year-marketing-strategy-for-the-container-terminal&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1. Market Analysis and Positioning&lt;/strong&gt;
+&lt;h2&gt;Q.2&lt;span class="hx:absolute hx:-mt-20" id="q2"&gt;&lt;/span&gt;
+&lt;a href="#q2" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;You are the newly appointed Marketing Manager of a privately operated Container Terminal in a Port of india. The Port has two other Container Terminals, operated by other private parties. (All the three terminals are leased out to the operators on revenue share basis). The Port is connected to the hinterland by rail and road. Capacity of rail and road is limited, but capacity expansion projects are already underway (Doubling railway lines and road 4-laning). Your terminal has secured additional yardage space near the Port. The terminal has three high-capacity Rail-mounted Port-Panamax Gantry Cranes on the dockside and sufficient RTGs and forklifts for Yard handling of Containers. The Operators are planning to install rail lines on the terminal to provide direct access to rail wagons from the main line. While your Terminal has one large Container Line as a captive client (5-year contract), there are many other mainline and feeder services who are potential clients, some of whom are being served by competing terminals.&lt;/p&gt;
+&lt;h2&gt;Draw up a 5-year Marketing Strategy for your Terminal so as to achieve the business growth targets set by the terminal operators. [40 Marks]&lt;span class="hx:absolute hx:-mt-20" id="draw-up-a-5-year-marketing-strategy-for-your-terminal-so-as-to-achieve-the-business-growth-targets-set-by-the-terminal-operators-40-marks"&gt;&lt;/span&gt;
+&lt;a href="#draw-up-a-5-year-marketing-strategy-for-your-terminal-so-as-to-achieve-the-business-growth-targets-set-by-the-terminal-operators-40-marks" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h3&gt;5-Year Marketing Strategy for the Container Terminal.&lt;span class="hx:absolute hx:-mt-20" id="5-year-marketing-strategy-for-the-container-terminal"&gt;&lt;/span&gt;
+&lt;a href="#5-year-marketing-strategy-for-the-container-terminal" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1. Market Analysis and Positioning&lt;/strong&gt;
 Assess Competitor Strengths and Weaknesses: Evaluate the services, pricing, and efficiency of the two competing terminals.
 * Identify Target Customers: Focus on mainline and feeder services not currently using our terminal.
 * Highlight Infrastructure Advantages: Emphasize the additional yard space, high-capacity gantry cranes, and planned rail connectivity.
@@ -362,9 +218,9 @@ Assess Competitor Strengths and Weaknesses: Evaluate the services, pricing, and 
 &lt;li&gt;Monitor Customer Satisfaction: Regularly gather feedback and address service gaps.&lt;/li&gt;
 &lt;li&gt;Review and Adapt Strategy: Conduct biannual strategy reviews to adjust to market dynamics and infrastructure developments.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2&gt;Q.3 Is Transactional Leadership a useful tool for enhancing communication in an organization. Present an analytical framework to illustrate. How is it different from Transformational or Instrumental leadership?&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;q3-is-transactional-leadership-a-useful-tool-for-enhancing-communication-in-an-organization-present-an-analytical-framework-to-illustrate-how-is-it-different-from-transformational-or-instrumental-leadership&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#q3-is-transactional-leadership-a-useful-tool-for-enhancing-communication-in-an-organization-present-an-analytical-framework-to-illustrate-how-is-it-different-from-transformational-or-instrumental-leadership&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;What is Situational/Contingency Model of Leadership? [30 Marks]&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;what-is-situationalcontingency-model-of-leadership-30-marks&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#what-is-situationalcontingency-model-of-leadership-30-marks&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Transactional Leadership and Communication Enhancement
+&lt;h2&gt;Q.3 Is Transactional Leadership a useful tool for enhancing communication in an organization. Present an analytical framework to illustrate. How is it different from Transformational or Instrumental leadership?&lt;span class="hx:absolute hx:-mt-20" id="q3-is-transactional-leadership-a-useful-tool-for-enhancing-communication-in-an-organization-present-an-analytical-framework-to-illustrate-how-is-it-different-from-transformational-or-instrumental-leadership"&gt;&lt;/span&gt;
+&lt;a href="#q3-is-transactional-leadership-a-useful-tool-for-enhancing-communication-in-an-organization-present-an-analytical-framework-to-illustrate-how-is-it-different-from-transformational-or-instrumental-leadership" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;h2&gt;What is Situational/Contingency Model of Leadership? [30 Marks]&lt;span class="hx:absolute hx:-mt-20" id="what-is-situationalcontingency-model-of-leadership-30-marks"&gt;&lt;/span&gt;
+&lt;a href="#what-is-situationalcontingency-model-of-leadership-30-marks" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;Transactional Leadership and Communication Enhancement
 1. Analytical Framework for Transactional Leadership:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Clear Structure and Expectations: Establishes well-defined roles and responsibilities.&lt;/li&gt;
@@ -385,77 +241,77 @@ Assess Competitor Strengths and Weaknesses: Evaluate the services, pricing, and 
 &lt;p&gt;Q.4. Describe the elements of the Financial Management? Select an organisation known to you and explain how its Financial Management might affect it? [25 Marks]
 Ans 4. part 1
 Financial management involves the planning, organizing, directing, and controlling of financial activities within an organization. It aims to optimize the use of financial resources to achieve organizational goals. The key elements of financial management include:&lt;/p&gt;
-&lt;h3&gt;1. ** Financial Planning**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1--financial-planning&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1--financial-planning&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;** Objective Setting:**  Defining short-term and long-term financial goals.&lt;/li&gt;
-&lt;li&gt;** Budgeting:**  Creating a detailed plan for income and expenses.&lt;/li&gt;
-&lt;li&gt;** Forecasting:**  Predicting future financial conditions and needs.&lt;/li&gt;
+&lt;h3&gt;1. ** Financial Planning**&lt;span class="hx:absolute hx:-mt-20" id="1--financial-planning"&gt;&lt;/span&gt;
+&lt;a href="#1--financial-planning" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;** Objective Setting:** Defining short-term and long-term financial goals.&lt;/li&gt;
+&lt;li&gt;** Budgeting:** Creating a detailed plan for income and expenses.&lt;/li&gt;
+&lt;li&gt;** Forecasting:** Predicting future financial conditions and needs.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;2. ** Capital Budgeting**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2--capital-budgeting&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2--capital-budgeting&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;** Investment Decisions:**  Evaluating and selecting long-term investment opportunities.&lt;/li&gt;
-&lt;li&gt;** Project Appraisal:**  Assessing the viability and profitability of projects.&lt;/li&gt;
-&lt;li&gt;** Risk Analysis:**  Identifying and mitigating potential risks associated with investments.&lt;/li&gt;
+&lt;h3&gt;2. ** Capital Budgeting**&lt;span class="hx:absolute hx:-mt-20" id="2--capital-budgeting"&gt;&lt;/span&gt;
+&lt;a href="#2--capital-budgeting" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;** Investment Decisions:** Evaluating and selecting long-term investment opportunities.&lt;/li&gt;
+&lt;li&gt;** Project Appraisal:** Assessing the viability and profitability of projects.&lt;/li&gt;
+&lt;li&gt;** Risk Analysis:** Identifying and mitigating potential risks associated with investments.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;3. ** Capital Structure**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3--capital-structure&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3--capital-structure&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;** Debt vs. Equity:**  Determining the optimal mix of debt and equity financing.&lt;/li&gt;
-&lt;li&gt;** Cost of Capital:**  Calculating the cost of different sources of capital.&lt;/li&gt;
-&lt;li&gt;** Leverage:**  Understanding the impact of debt on the organization&amp;rsquo;s financial health.&lt;/li&gt;
+&lt;h3&gt;3. ** Capital Structure**&lt;span class="hx:absolute hx:-mt-20" id="3--capital-structure"&gt;&lt;/span&gt;
+&lt;a href="#3--capital-structure" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;** Debt vs. Equity:** Determining the optimal mix of debt and equity financing.&lt;/li&gt;
+&lt;li&gt;** Cost of Capital:** Calculating the cost of different sources of capital.&lt;/li&gt;
+&lt;li&gt;** Leverage:** Understanding the impact of debt on the organization&amp;rsquo;s financial health.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;4. ** Working Capital Management**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4--working-capital-management&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#4--working-capital-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;** Cash Management:**  Ensuring sufficient liquidity to meet short-term obligations.&lt;/li&gt;
-&lt;li&gt;** Inventory Management:**  Optimizing inventory levels to balance costs and service levels.&lt;/li&gt;
-&lt;li&gt;** Receivables Management:**  Managing credit policies and collection processes.&lt;/li&gt;
+&lt;h3&gt;4. ** Working Capital Management**&lt;span class="hx:absolute hx:-mt-20" id="4--working-capital-management"&gt;&lt;/span&gt;
+&lt;a href="#4--working-capital-management" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;** Cash Management:** Ensuring sufficient liquidity to meet short-term obligations.&lt;/li&gt;
+&lt;li&gt;** Inventory Management:** Optimizing inventory levels to balance costs and service levels.&lt;/li&gt;
+&lt;li&gt;** Receivables Management:** Managing credit policies and collection processes.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;5. ** Financial Control**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5--financial-control&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#5--financial-control&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;** Performance Monitoring:**  Tracking financial performance against budgets and forecasts.&lt;/li&gt;
-&lt;li&gt;** Variance Analysis:**  Identifying and analyzing deviations from planned financial outcomes.&lt;/li&gt;
-&lt;li&gt;** Internal Audits:**  Conducting regular audits to ensure compliance and accuracy.&lt;/li&gt;
+&lt;h3&gt;5. ** Financial Control**&lt;span class="hx:absolute hx:-mt-20" id="5--financial-control"&gt;&lt;/span&gt;
+&lt;a href="#5--financial-control" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;** Performance Monitoring:** Tracking financial performance against budgets and forecasts.&lt;/li&gt;
+&lt;li&gt;** Variance Analysis:** Identifying and analyzing deviations from planned financial outcomes.&lt;/li&gt;
+&lt;li&gt;** Internal Audits:** Conducting regular audits to ensure compliance and accuracy.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;6. ** Risk Management**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;6--risk-management&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#6--risk-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;** Identification:**  Recognizing financial risks such as market risk, credit risk, and operational risk.&lt;/li&gt;
-&lt;li&gt;** Assessment:**  Evaluating the potential impact and likelihood of risks.&lt;/li&gt;
-&lt;li&gt;** Mitigation:**  Implementing strategies to reduce or manage risks.&lt;/li&gt;
+&lt;h3&gt;6. ** Risk Management**&lt;span class="hx:absolute hx:-mt-20" id="6--risk-management"&gt;&lt;/span&gt;
+&lt;a href="#6--risk-management" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;** Identification:** Recognizing financial risks such as market risk, credit risk, and operational risk.&lt;/li&gt;
+&lt;li&gt;** Assessment:** Evaluating the potential impact and likelihood of risks.&lt;/li&gt;
+&lt;li&gt;** Mitigation:** Implementing strategies to reduce or manage risks.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;7. ** Financial Reporting**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;7--financial-reporting&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#7--financial-reporting&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;** Financial Statements:**  Preparing income statements, balance sheets, and cash flow statements.&lt;/li&gt;
-&lt;li&gt;** Compliance:**  Ensuring adherence to accounting standards and regulatory requirements.&lt;/li&gt;
-&lt;li&gt;** Transparency:**  Providing clear and accurate financial information to stakeholders.&lt;/li&gt;
+&lt;h3&gt;7. ** Financial Reporting**&lt;span class="hx:absolute hx:-mt-20" id="7--financial-reporting"&gt;&lt;/span&gt;
+&lt;a href="#7--financial-reporting" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;** Financial Statements:** Preparing income statements, balance sheets, and cash flow statements.&lt;/li&gt;
+&lt;li&gt;** Compliance:** Ensuring adherence to accounting standards and regulatory requirements.&lt;/li&gt;
+&lt;li&gt;** Transparency:** Providing clear and accurate financial information to stakeholders.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;8. ** Dividend Policy**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;8--dividend-policy&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#8--dividend-policy&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;** Profit Distribution:**  Deciding on the portion of profits to be distributed to shareholders.&lt;/li&gt;
-&lt;li&gt;** Retained Earnings:**  Determining the amount of profits to be reinvested in the business.&lt;/li&gt;
-&lt;li&gt;** Shareholder Value:**  Balancing dividend payouts with the need for reinvestment to enhance shareholder value.&lt;/li&gt;
+&lt;h3&gt;8. ** Dividend Policy**&lt;span class="hx:absolute hx:-mt-20" id="8--dividend-policy"&gt;&lt;/span&gt;
+&lt;a href="#8--dividend-policy" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;** Profit Distribution:** Deciding on the portion of profits to be distributed to shareholders.&lt;/li&gt;
+&lt;li&gt;** Retained Earnings:** Determining the amount of profits to be reinvested in the business.&lt;/li&gt;
+&lt;li&gt;** Shareholder Value:** Balancing dividend payouts with the need for reinvestment to enhance shareholder value.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;9. ** Corporate Finance**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;9--corporate-finance&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#9--corporate-finance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;** Mergers and Acquisitions:**  Evaluating and executing mergers, acquisitions, and divestitures.&lt;/li&gt;
-&lt;li&gt;** Valuation:**  Assessing the value of the company or its assets.&lt;/li&gt;
-&lt;li&gt;** Strategic Financial Decisions:**  Making decisions that align with the overall corporate strategy.&lt;/li&gt;
+&lt;h3&gt;9. ** Corporate Finance**&lt;span class="hx:absolute hx:-mt-20" id="9--corporate-finance"&gt;&lt;/span&gt;
+&lt;a href="#9--corporate-finance" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;** Mergers and Acquisitions:** Evaluating and executing mergers, acquisitions, and divestitures.&lt;/li&gt;
+&lt;li&gt;** Valuation:** Assessing the value of the company or its assets.&lt;/li&gt;
+&lt;li&gt;** Strategic Financial Decisions:** Making decisions that align with the overall corporate strategy.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;10. ** Tax Planning**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;10--tax-planning&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#10--tax-planning&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;** Tax Compliance:**  Ensuring adherence to tax laws and regulations.&lt;/li&gt;
-&lt;li&gt;** Tax Optimization:**  Strategizing to minimize tax liabilities.&lt;/li&gt;
-&lt;li&gt;** Reporting:**  Preparing and filing accurate tax returns.&lt;/li&gt;
+&lt;h3&gt;10. ** Tax Planning**&lt;span class="hx:absolute hx:-mt-20" id="10--tax-planning"&gt;&lt;/span&gt;
+&lt;a href="#10--tax-planning" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;** Tax Compliance:** Ensuring adherence to tax laws and regulations.&lt;/li&gt;
+&lt;li&gt;** Tax Optimization:** Strategizing to minimize tax liabilities.&lt;/li&gt;
+&lt;li&gt;** Reporting:** Preparing and filing accurate tax returns.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;11. ** International Financial Management**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;11--international-financial-management&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#11--international-financial-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;** Foreign Exchange Management:**  Managing exposure to currency fluctuations.&lt;/li&gt;
-&lt;li&gt;** Global Investment:**  Evaluating international investment opportunities.&lt;/li&gt;
-&lt;li&gt;** Cross-border Financing:**  Understanding and managing financing options in different countries.&lt;/li&gt;
+&lt;h3&gt;11. ** International Financial Management**&lt;span class="hx:absolute hx:-mt-20" id="11--international-financial-management"&gt;&lt;/span&gt;
+&lt;a href="#11--international-financial-management" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;** Foreign Exchange Management:** Managing exposure to currency fluctuations.&lt;/li&gt;
+&lt;li&gt;** Global Investment:** Evaluating international investment opportunities.&lt;/li&gt;
+&lt;li&gt;** Cross-border Financing:** Understanding and managing financing options in different countries.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3&gt;12. ** Ethical and Governance Considerations**&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;12--ethical-and-governance-considerations&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#12--ethical-and-governance-considerations&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;** Corporate Governance:**  Ensuring ethical financial practices and accountability.&lt;/li&gt;
-&lt;li&gt;** Stakeholder Interests:**  Balancing the interests of various stakeholders, including shareholders, employees, and the community.&lt;/li&gt;
-&lt;li&gt;** Compliance:**  Adhering to legal and regulatory standards.&lt;/li&gt;
+&lt;h3&gt;12. ** Ethical and Governance Considerations**&lt;span class="hx:absolute hx:-mt-20" id="12--ethical-and-governance-considerations"&gt;&lt;/span&gt;
+&lt;a href="#12--ethical-and-governance-considerations" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;** Corporate Governance:** Ensuring ethical financial practices and accountability.&lt;/li&gt;
+&lt;li&gt;** Stakeholder Interests:** Balancing the interests of various stakeholders, including shareholders, employees, and the community.&lt;/li&gt;
+&lt;li&gt;** Compliance:** Adhering to legal and regulatory standards.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;By effectively managing these elements, organizations can ensure financial stability, profitability, and long-term growth.&lt;/p&gt;
 &lt;p&gt;Ans 4 part 2
@@ -495,346 +351,346 @@ The Indian government intervened to prevent a complete collapse of IL&amp;amp;FS
 Ans 5
 Part 1
 Success in entrepreneurship is influenced by a combination of personal traits, strategic actions, and external factors. Here are the key factors and activities that contribute to entrepreneurial success:&lt;/p&gt;
-&lt;h3&gt;Personal Traits and Skills&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;personal-traits-and-skills&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#personal-traits-and-skills&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Personal Traits and Skills&lt;span class="hx:absolute hx:-mt-20" id="personal-traits-and-skills"&gt;&lt;/span&gt;
+&lt;a href="#personal-traits-and-skills" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Vision and Passion**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Clear Vision:**  Having a clear and compelling vision for the future.&lt;/li&gt;
-&lt;li&gt;** Passion:**  Being deeply committed and enthusiastic about the business idea.&lt;/li&gt;
+&lt;li&gt;** Clear Vision:** Having a clear and compelling vision for the future.&lt;/li&gt;
+&lt;li&gt;** Passion:** Being deeply committed and enthusiastic about the business idea.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Resilience and Perseverance**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Resilience:**  Ability to bounce back from setbacks and failures.&lt;/li&gt;
-&lt;li&gt;** Perseverance:**  Staying committed to long-term goals despite challenges.&lt;/li&gt;
+&lt;li&gt;** Resilience:** Ability to bounce back from setbacks and failures.&lt;/li&gt;
+&lt;li&gt;** Perseverance:** Staying committed to long-term goals despite challenges.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Creativity and Innovation**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Creativity:**  Thinking outside the box to develop unique solutions.&lt;/li&gt;
-&lt;li&gt;** Innovation:**  Continuously improving and adapting products or services.&lt;/li&gt;
+&lt;li&gt;** Creativity:** Thinking outside the box to develop unique solutions.&lt;/li&gt;
+&lt;li&gt;** Innovation:** Continuously improving and adapting products or services.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Risk-taking and Decision-making**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Risk-taking:**  Willingness to take calculated risks.&lt;/li&gt;
-&lt;li&gt;** Decision-making:**  Making informed and timely decisions.&lt;/li&gt;
+&lt;li&gt;** Risk-taking:** Willingness to take calculated risks.&lt;/li&gt;
+&lt;li&gt;** Decision-making:** Making informed and timely decisions.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Leadership and Management Skills**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Leadership:**  Inspiring and guiding a team towards common goals.&lt;/li&gt;
-&lt;li&gt;** Management:**  Effectively organizing and managing resources.&lt;/li&gt;
+&lt;li&gt;** Leadership:** Inspiring and guiding a team towards common goals.&lt;/li&gt;
+&lt;li&gt;** Management:** Effectively organizing and managing resources.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Strategic Actions&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;strategic-actions&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#strategic-actions&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Strategic Actions&lt;span class="hx:absolute hx:-mt-20" id="strategic-actions"&gt;&lt;/span&gt;
+&lt;a href="#strategic-actions" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Market Research and Analysis**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Understanding the Market:**  Conducting thorough market research to understand customer needs and preferences.&lt;/li&gt;
-&lt;li&gt;** Competitive Analysis:**  Analyzing competitors to identify opportunities and threats.&lt;/li&gt;
+&lt;li&gt;** Understanding the Market:** Conducting thorough market research to understand customer needs and preferences.&lt;/li&gt;
+&lt;li&gt;** Competitive Analysis:** Analyzing competitors to identify opportunities and threats.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Business Planning**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Business Plan:**  Developing a comprehensive business plan outlining goals, strategies, and financial projections.&lt;/li&gt;
-&lt;li&gt;** Goal Setting:**  Setting clear, measurable, and achievable goals.&lt;/li&gt;
+&lt;li&gt;** Business Plan:** Developing a comprehensive business plan outlining goals, strategies, and financial projections.&lt;/li&gt;
+&lt;li&gt;** Goal Setting:** Setting clear, measurable, and achievable goals.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Financial Management**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Budgeting:**  Creating and managing budgets to control costs.&lt;/li&gt;
-&lt;li&gt;** Funding:**  Securing adequate funding through investors, loans, or other sources.&lt;/li&gt;
-&lt;li&gt;** Cash Flow Management:**  Ensuring sufficient cash flow to meet operational needs.&lt;/li&gt;
+&lt;li&gt;** Budgeting:** Creating and managing budgets to control costs.&lt;/li&gt;
+&lt;li&gt;** Funding:** Securing adequate funding through investors, loans, or other sources.&lt;/li&gt;
+&lt;li&gt;** Cash Flow Management:** Ensuring sufficient cash flow to meet operational needs.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Marketing and Sales**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Branding:**  Building a strong brand identity.&lt;/li&gt;
-&lt;li&gt;** Marketing Strategies:**  Implementing effective marketing strategies to attract and retain customers.&lt;/li&gt;
-&lt;li&gt;** Sales Techniques:**  Developing and refining sales techniques to drive revenue.&lt;/li&gt;
+&lt;li&gt;** Branding:** Building a strong brand identity.&lt;/li&gt;
+&lt;li&gt;** Marketing Strategies:** Implementing effective marketing strategies to attract and retain customers.&lt;/li&gt;
+&lt;li&gt;** Sales Techniques:** Developing and refining sales techniques to drive revenue.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Customer Focus**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Customer Service:**  Providing excellent customer service to build loyalty.&lt;/li&gt;
-&lt;li&gt;** Feedback:**  Actively seeking and responding to customer feedback.&lt;/li&gt;
+&lt;li&gt;** Customer Service:** Providing excellent customer service to build loyalty.&lt;/li&gt;
+&lt;li&gt;** Feedback:** Actively seeking and responding to customer feedback.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Networking and Relationships**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Networking:**  Building a strong network of contacts, including mentors, partners, and industry experts.&lt;/li&gt;
-&lt;li&gt;** Relationships:**  Cultivating strong relationships with customers, suppliers, and stakeholders.&lt;/li&gt;
+&lt;li&gt;** Networking:** Building a strong network of contacts, including mentors, partners, and industry experts.&lt;/li&gt;
+&lt;li&gt;** Relationships:** Cultivating strong relationships with customers, suppliers, and stakeholders.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;External Factors&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;external-factors&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#external-factors&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;External Factors&lt;span class="hx:absolute hx:-mt-20" id="external-factors"&gt;&lt;/span&gt;
+&lt;a href="#external-factors" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Market Conditions**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Demand:**  Operating in a market with strong demand for the product or service.&lt;/li&gt;
-&lt;li&gt;** Trends:**  Staying attuned to market trends and adapting accordingly.&lt;/li&gt;
+&lt;li&gt;** Demand:** Operating in a market with strong demand for the product or service.&lt;/li&gt;
+&lt;li&gt;** Trends:** Staying attuned to market trends and adapting accordingly.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Economic Environment**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Economic Stability:**  Operating in a stable economic environment.&lt;/li&gt;
-&lt;li&gt;** Access to Capital:**  Availability of funding and investment opportunities.&lt;/li&gt;
+&lt;li&gt;** Economic Stability:** Operating in a stable economic environment.&lt;/li&gt;
+&lt;li&gt;** Access to Capital:** Availability of funding and investment opportunities.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Regulatory Environment**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Compliance:**  Adhering to legal and regulatory requirements.&lt;/li&gt;
-&lt;li&gt;** Support:**  Taking advantage of government programs and incentives for entrepreneurs.&lt;/li&gt;
+&lt;li&gt;** Compliance:** Adhering to legal and regulatory requirements.&lt;/li&gt;
+&lt;li&gt;** Support:** Taking advantage of government programs and incentives for entrepreneurs.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Technological Advancements**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Innovation:**  Leveraging new technologies to improve products, services, and operations.&lt;/li&gt;
-&lt;li&gt;** Efficiency:**  Using technology to enhance efficiency and reduce costs.&lt;/li&gt;
+&lt;li&gt;** Innovation:** Leveraging new technologies to improve products, services, and operations.&lt;/li&gt;
+&lt;li&gt;** Efficiency:** Using technology to enhance efficiency and reduce costs.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Continuous Improvement&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;continuous-improvement&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#continuous-improvement&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Continuous Improvement&lt;span class="hx:absolute hx:-mt-20" id="continuous-improvement"&gt;&lt;/span&gt;
+&lt;a href="#continuous-improvement" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Learning and Adaptation**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Continuous Learning:**  Staying informed about industry developments and best practices.&lt;/li&gt;
-&lt;li&gt;** Adaptation:**  Being flexible and willing to pivot strategies as needed.&lt;/li&gt;
+&lt;li&gt;** Continuous Learning:** Staying informed about industry developments and best practices.&lt;/li&gt;
+&lt;li&gt;** Adaptation:** Being flexible and willing to pivot strategies as needed.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Performance Monitoring**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Metrics:**  Tracking key performance indicators (KPIs) to measure success.&lt;/li&gt;
-&lt;li&gt;** Adjustments:**  Making data-driven adjustments to strategies and operations.&lt;/li&gt;
+&lt;li&gt;** Metrics:** Tracking key performance indicators (KPIs) to measure success.&lt;/li&gt;
+&lt;li&gt;** Adjustments:** Making data-driven adjustments to strategies and operations.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Team Building**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Talent Acquisition:**  Hiring and retaining skilled and motivated employees.&lt;/li&gt;
-&lt;li&gt;** Team Development:**  Investing in training and development to build a strong team.&lt;/li&gt;
+&lt;li&gt;** Talent Acquisition:** Hiring and retaining skilled and motivated employees.&lt;/li&gt;
+&lt;li&gt;** Team Development:** Investing in training and development to build a strong team.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Ethical and Social Responsibility&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ethical-and-social-responsibility&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#ethical-and-social-responsibility&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Ethical and Social Responsibility&lt;span class="hx:absolute hx:-mt-20" id="ethical-and-social-responsibility"&gt;&lt;/span&gt;
+&lt;a href="#ethical-and-social-responsibility" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Ethical Practices**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Integrity:**  Conducting business with honesty and integrity.&lt;/li&gt;
-&lt;li&gt;** Transparency:**  Maintaining transparency in operations and communications.&lt;/li&gt;
+&lt;li&gt;** Integrity:** Conducting business with honesty and integrity.&lt;/li&gt;
+&lt;li&gt;** Transparency:** Maintaining transparency in operations and communications.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Social Responsibility**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Community Engagement:**  Contributing positively to the community.&lt;/li&gt;
-&lt;li&gt;** Sustainability:**  Implementing sustainable practices to minimize environmental impact.&lt;/li&gt;
+&lt;li&gt;** Community Engagement:** Contributing positively to the community.&lt;/li&gt;
+&lt;li&gt;** Sustainability:** Implementing sustainable practices to minimize environmental impact.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;By focusing on these factors and activities, entrepreneurs can enhance their chances of success and build sustainable, thriving businesses.
 Part 2
 Zomato, a leading global food delivery and restaurant discovery platform, exemplifies how the principles of entrepreneurship can drive success. Here’s how various entrepreneurial principles contributed to Zomato&amp;rsquo;s growth and success:&lt;/p&gt;
-&lt;h3&gt;Vision and Passion&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;vision-and-passion&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#vision-and-passion&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Vision and Passion&lt;span class="hx:absolute hx:-mt-20" id="vision-and-passion"&gt;&lt;/span&gt;
+&lt;a href="#vision-and-passion" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Clear Vision**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Founder’s Vision:**  Deepinder Goyal and Pankaj Chaddah envisioned a platform that would simplify food discovery and delivery, addressing a common pain point for food lovers.&lt;/li&gt;
-&lt;li&gt;** Mission:**  Zomato’s mission to provide better food for more people resonated with a broad audience.&lt;/li&gt;
+&lt;li&gt;** Founder’s Vision:** Deepinder Goyal and Pankaj Chaddah envisioned a platform that would simplify food discovery and delivery, addressing a common pain point for food lovers.&lt;/li&gt;
+&lt;li&gt;** Mission:** Zomato’s mission to provide better food for more people resonated with a broad audience.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Passion**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Commitment:**  The founders&amp;rsquo; passion for solving real-world problems and their commitment to the vision kept them motivated through challenges.&lt;/li&gt;
+&lt;li&gt;** Commitment:** The founders&amp;rsquo; passion for solving real-world problems and their commitment to the vision kept them motivated through challenges.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Resilience and Perseverance&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;resilience-and-perseverance&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#resilience-and-perseverance&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Resilience and Perseverance&lt;span class="hx:absolute hx:-mt-20" id="resilience-and-perseverance"&gt;&lt;/span&gt;
+&lt;a href="#resilience-and-perseverance" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Resilience**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Adaptability:**  Zomato faced numerous challenges, including intense competition and regulatory hurdles, but adapted by continuously evolving its business model.&lt;/li&gt;
-&lt;li&gt;** Persistence:**  The company persisted through initial failures and setbacks, learning and improving along the way.&lt;/li&gt;
+&lt;li&gt;** Adaptability:** Zomato faced numerous challenges, including intense competition and regulatory hurdles, but adapted by continuously evolving its business model.&lt;/li&gt;
+&lt;li&gt;** Persistence:** The company persisted through initial failures and setbacks, learning and improving along the way.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Perseverance**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Long-term Focus:**  Zomato maintained a long-term focus, investing in technology, market expansion, and customer experience despite short-term obstacles.&lt;/li&gt;
+&lt;li&gt;** Long-term Focus:** Zomato maintained a long-term focus, investing in technology, market expansion, and customer experience despite short-term obstacles.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Creativity and Innovation&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;creativity-and-innovation&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#creativity-and-innovation&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Creativity and Innovation&lt;span class="hx:absolute hx:-mt-20" id="creativity-and-innovation"&gt;&lt;/span&gt;
+&lt;a href="#creativity-and-innovation" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Creativity**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Unique Solutions:**  Zomato introduced innovative features like user reviews, photos, and menus, which differentiated it from competitors.&lt;/li&gt;
-&lt;li&gt;** Customer Engagement:**  Creative marketing campaigns and loyalty programs helped build a strong customer base.&lt;/li&gt;
+&lt;li&gt;** Unique Solutions:** Zomato introduced innovative features like user reviews, photos, and menus, which differentiated it from competitors.&lt;/li&gt;
+&lt;li&gt;** Customer Engagement:** Creative marketing campaigns and loyalty programs helped build a strong customer base.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Innovation**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Technology:**  Leveraging technology to enhance user experience, such as AI-driven recommendations and real-time order tracking.&lt;/li&gt;
-&lt;li&gt;** Diversification:**  Expanding services beyond restaurant discovery to include food delivery, table reservations, and subscription-based dining programs.&lt;/li&gt;
+&lt;li&gt;** Technology:** Leveraging technology to enhance user experience, such as AI-driven recommendations and real-time order tracking.&lt;/li&gt;
+&lt;li&gt;** Diversification:** Expanding services beyond restaurant discovery to include food delivery, table reservations, and subscription-based dining programs.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Risk-taking and Decision-making&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;risk-taking-and-decision-making&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#risk-taking-and-decision-making&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Risk-taking and Decision-making&lt;span class="hx:absolute hx:-mt-20" id="risk-taking-and-decision-making"&gt;&lt;/span&gt;
+&lt;a href="#risk-taking-and-decision-making" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Risk-taking**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Market Expansion:**  Zomato took calculated risks by expanding into international markets, which paid off by establishing a global presence.&lt;/li&gt;
-&lt;li&gt;** Acquisitions:**  Strategic acquisitions, such as Urbanspoon, helped Zomato enter and dominate new markets.&lt;/li&gt;
+&lt;li&gt;** Market Expansion:** Zomato took calculated risks by expanding into international markets, which paid off by establishing a global presence.&lt;/li&gt;
+&lt;li&gt;** Acquisitions:** Strategic acquisitions, such as Urbanspoon, helped Zomato enter and dominate new markets.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Decision-making**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Data-driven Decisions:**  Using data analytics to make informed decisions about market trends, customer preferences, and operational efficiencies.&lt;/li&gt;
-&lt;li&gt;** Agility:**  Quick decision-making allowed Zomato to capitalize on emerging opportunities and respond to market changes.&lt;/li&gt;
+&lt;li&gt;** Data-driven Decisions:** Using data analytics to make informed decisions about market trends, customer preferences, and operational efficiencies.&lt;/li&gt;
+&lt;li&gt;** Agility:** Quick decision-making allowed Zomato to capitalize on emerging opportunities and respond to market changes.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Leadership and Management Skills&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;leadership-and-management-skills&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#leadership-and-management-skills&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Leadership and Management Skills&lt;span class="hx:absolute hx:-mt-20" id="leadership-and-management-skills"&gt;&lt;/span&gt;
+&lt;a href="#leadership-and-management-skills" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Leadership**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Visionary Leadership:**  Deepinder Goyal’s leadership provided a clear direction and inspired the team to achieve ambitious goals.&lt;/li&gt;
-&lt;li&gt;** Team Building:**  Building a strong, motivated team that shared the company’s vision and values.&lt;/li&gt;
+&lt;li&gt;** Visionary Leadership:** Deepinder Goyal’s leadership provided a clear direction and inspired the team to achieve ambitious goals.&lt;/li&gt;
+&lt;li&gt;** Team Building:** Building a strong, motivated team that shared the company’s vision and values.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Management**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Operational Efficiency:**  Effective management of operations, logistics, and customer service ensured a seamless user experience.&lt;/li&gt;
-&lt;li&gt;** Resource Allocation:**  Efficient allocation of resources to high-impact areas like technology development and market expansion.&lt;/li&gt;
+&lt;li&gt;** Operational Efficiency:** Effective management of operations, logistics, and customer service ensured a seamless user experience.&lt;/li&gt;
+&lt;li&gt;** Resource Allocation:** Efficient allocation of resources to high-impact areas like technology development and market expansion.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Market Research and Analysis&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;market-research-and-analysis&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#market-research-and-analysis&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Market Research and Analysis&lt;span class="hx:absolute hx:-mt-20" id="market-research-and-analysis"&gt;&lt;/span&gt;
+&lt;a href="#market-research-and-analysis" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Understanding the Market**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Customer Insights:**  Conducting thorough market research to understand customer needs and preferences.&lt;/li&gt;
-&lt;li&gt;** Competitive Analysis:**  Analyzing competitors to identify gaps and opportunities.&lt;/li&gt;
+&lt;li&gt;** Customer Insights:** Conducting thorough market research to understand customer needs and preferences.&lt;/li&gt;
+&lt;li&gt;** Competitive Analysis:** Analyzing competitors to identify gaps and opportunities.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Business Planning**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Strategic Planning:**  Developing a comprehensive business plan that outlined growth strategies, financial projections, and risk management.&lt;/li&gt;
+&lt;li&gt;** Strategic Planning:** Developing a comprehensive business plan that outlined growth strategies, financial projections, and risk management.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Financial Management&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;financial-management&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#financial-management&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Financial Management&lt;span class="hx:absolute hx:-mt-20" id="financial-management"&gt;&lt;/span&gt;
+&lt;a href="#financial-management" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Budgeting and Funding**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Funding:**  Securing funding from investors to fuel growth and expansion.&lt;/li&gt;
-&lt;li&gt;** Financial Discipline:**  Maintaining financial discipline to ensure sustainable growth.&lt;/li&gt;
+&lt;li&gt;** Funding:** Securing funding from investors to fuel growth and expansion.&lt;/li&gt;
+&lt;li&gt;** Financial Discipline:** Maintaining financial discipline to ensure sustainable growth.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Cash Flow Management**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Operational Efficiency:**  Ensuring sufficient cash flow to meet operational needs and invest in growth opportunities.&lt;/li&gt;
+&lt;li&gt;** Operational Efficiency:** Ensuring sufficient cash flow to meet operational needs and invest in growth opportunities.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Marketing and Sales&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;marketing-and-sales&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#marketing-and-sales&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Marketing and Sales&lt;span class="hx:absolute hx:-mt-20" id="marketing-and-sales"&gt;&lt;/span&gt;
+&lt;a href="#marketing-and-sales" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Branding**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Strong Brand Identity:**  Building a strong brand that became synonymous with food discovery and delivery.&lt;/li&gt;
-&lt;li&gt;** Customer Loyalty:**  Implementing loyalty programs and customer engagement strategies to build a loyal customer base.&lt;/li&gt;
+&lt;li&gt;** Strong Brand Identity:** Building a strong brand that became synonymous with food discovery and delivery.&lt;/li&gt;
+&lt;li&gt;** Customer Loyalty:** Implementing loyalty programs and customer engagement strategies to build a loyal customer base.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Marketing Strategies**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Digital Marketing:**  Leveraging digital marketing channels to reach a wide audience.&lt;/li&gt;
-&lt;li&gt;** Partnerships:**  Forming strategic partnerships with restaurants and food brands to expand reach and offerings.&lt;/li&gt;
+&lt;li&gt;** Digital Marketing:** Leveraging digital marketing channels to reach a wide audience.&lt;/li&gt;
+&lt;li&gt;** Partnerships:** Forming strategic partnerships with restaurants and food brands to expand reach and offerings.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Customer Focus&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;customer-focus&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#customer-focus&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Customer Focus&lt;span class="hx:absolute hx:-mt-20" id="customer-focus"&gt;&lt;/span&gt;
+&lt;a href="#customer-focus" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Customer Service**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** User Experience:**  Prioritizing user experience with an intuitive interface and responsive customer support.&lt;/li&gt;
-&lt;li&gt;** Feedback Loop:**  Actively seeking and responding to customer feedback to continuously improve services.&lt;/li&gt;
+&lt;li&gt;** User Experience:** Prioritizing user experience with an intuitive interface and responsive customer support.&lt;/li&gt;
+&lt;li&gt;** Feedback Loop:** Actively seeking and responding to customer feedback to continuously improve services.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Networking and Relationships**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Stakeholder Engagement:**  Building strong relationships with restaurants, delivery partners, and investors.&lt;/li&gt;
-&lt;li&gt;** Community Building:**  Engaging with the foodie community through events, social media, and content marketing.&lt;/li&gt;
+&lt;li&gt;** Stakeholder Engagement:** Building strong relationships with restaurants, delivery partners, and investors.&lt;/li&gt;
+&lt;li&gt;** Community Building:** Engaging with the foodie community through events, social media, and content marketing.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Continuous Improvement&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;continuous-improvement-1&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#continuous-improvement-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Continuous Improvement&lt;span class="hx:absolute hx:-mt-20" id="continuous-improvement-1"&gt;&lt;/span&gt;
+&lt;a href="#continuous-improvement-1" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Learning and Adaptation**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Continuous Learning:**  Staying informed about industry trends and technological advancements.&lt;/li&gt;
-&lt;li&gt;** Adaptation:**  Being flexible and willing to pivot strategies based on market feedback and changing conditions.&lt;/li&gt;
+&lt;li&gt;** Continuous Learning:** Staying informed about industry trends and technological advancements.&lt;/li&gt;
+&lt;li&gt;** Adaptation:** Being flexible and willing to pivot strategies based on market feedback and changing conditions.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Performance Monitoring**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** KPIs:**  Tracking key performance indicators to measure success and identify areas for improvement.&lt;/li&gt;
-&lt;li&gt;** Data Analytics:**  Using data analytics to drive continuous improvement in operations and customer experience.&lt;/li&gt;
+&lt;li&gt;** KPIs:** Tracking key performance indicators to measure success and identify areas for improvement.&lt;/li&gt;
+&lt;li&gt;** Data Analytics:** Using data analytics to drive continuous improvement in operations and customer experience.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3&gt;Ethical and Social Responsibility&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;ethical-and-social-responsibility-1&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#ethical-and-social-responsibility-1&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
+&lt;h3&gt;Ethical and Social Responsibility&lt;span class="hx:absolute hx:-mt-20" id="ethical-and-social-responsibility-1"&gt;&lt;/span&gt;
+&lt;a href="#ethical-and-social-responsibility-1" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;** Ethical Practices**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Integrity:**  Conducting business with honesty and transparency.&lt;/li&gt;
-&lt;li&gt;** Fair Practices:**  Ensuring fair practices in dealings with restaurants, delivery partners, and customers.&lt;/li&gt;
+&lt;li&gt;** Integrity:** Conducting business with honesty and transparency.&lt;/li&gt;
+&lt;li&gt;** Fair Practices:** Ensuring fair practices in dealings with restaurants, delivery partners, and customers.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;** Social Responsibility**&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;** Community Engagement:**  Contributing to the community through initiatives like feeding programs and support during crises.&lt;/li&gt;
-&lt;li&gt;** Sustainability:**  Implementing sustainable practices in operations and encouraging eco-friendly packaging.&lt;/li&gt;
+&lt;li&gt;** Community Engagement:** Contributing to the community through initiatives like feeding programs and support during crises.&lt;/li&gt;
+&lt;li&gt;** Sustainability:** Implementing sustainable practices in operations and encouraging eco-friendly packaging.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
@@ -981,7 +837,7 @@ Office equipment 25% on a reducing Balance&lt;/p&gt;
 It sells of one motor vehicle which had originally cost 30,00,000 two years back for
 Full year depreciation is charged in the year of purchase and NIL in the year of sale. [30 Marks]&lt;/p&gt;
 &lt;p&gt;Q.4 Explain with examples the several Long-Term Sources of Finance available for organizations and the various options and distinctive features available for financing the purchase of ships. [30 Marks]
-Q.5 Exchange rate is the rate which is determined freely by Demand (D) and Supply (S) of currencies in the Foreign Exchange market. Explain the same. Give one example to explain the situation where the Captain of a ship creates Demand for Foreign Currency, and another example where the Captain of a ship creates Supply for the same.     [30 Marks]
+Q.5 Exchange rate is the rate which is determined freely by Demand (D) and Supply (S) of currencies in the Foreign Exchange market. Explain the same. Give one example to explain the situation where the Captain of a ship creates Demand for Foreign Currency, and another example where the Captain of a ship creates Supply for the same. [30 Marks]
 Q6. Cost has been a dominant factor in influencing innovations and technological developments. Discuss fully (with examples) and indicate how far this is true with regard to:&lt;/p&gt;
 &lt;p&gt;(a) Cargo handling&lt;/p&gt;
 &lt;p&gt;(c) Navigation&lt;/p&gt;
@@ -1084,15 +940,15 @@ Examine and analyse the above market scenario and explain segment wise which seg
 &lt;p&gt;Q.5 Enlist and examine COSTS, REVENUE AND CASHFLOW for annual operation, Maintaining and financing a fleet of ships. [30 Marks]&lt;/p&gt;
 &lt;p&gt;Q.6 Prepare a monthly cash flow statement for ABC Co for the six months (say Jan 1 to 30 June and comment on your analysis. [30 Marks]&lt;/p&gt;
 &lt;p&gt;The cash balance on January 2019 is $5,000. Projected agency fees over the next 6 months are as follows:&lt;/p&gt;
-&lt;p&gt;January		$29,000	April	$19,000
-February 	$25,000	May	$27,000
-March		$26,000	June	$31,000&lt;/p&gt;
+&lt;p&gt;January $29,000 April $19,000
+February $25,000 May $27,000
+March $26,000 June $31,000&lt;/p&gt;
 &lt;p&gt;Fees in November and December were $24,000 and $19,000 respectively.
 Aged debtors analysis shows that 50% pay in the same months, 30% one month later and 20% two months later.
 Purchases on credit are paid for in the month following the purchase and are expected to be:&lt;/p&gt;
-&lt;p&gt;January		$15,000	April		$12,000
-February	$24,000	May		$35,000
-March		$38,000	June		$21,000&lt;/p&gt;
+&lt;p&gt;January $15,000 April $12,000
+February $24,000 May $35,000
+March $38,000 June $21,000&lt;/p&gt;
 &lt;p&gt;December credit purchases were $800.
 Rent, rates and insurance of $8,000 p.a. are paid quarterly in advance starting on January 1st.
 Telephone expenses are likely to be $320 for the first quarter and $460 for the second and are settled in arrears by one month,
@@ -1213,7 +1069,7 @@ Profits
 (iii) Sales value required to earn a profit of Rs. 5000 per year. [5 marks]
 Q.4 You are assigned as Project manager for developing about 40 Hectares of Land along th Coast of India, which will include a ROPAX Jetty,
 You are to identify all possible Purpose and functions and Controls to be put in place that thi land can be used for and submit an initial EOI for submitting project report to the Stat government.
-Justify each function and the likely Socio Economic Benefit. Yiu can make and state your ow assumptions.            [30 Mark]
+Justify each function and the likely Socio Economic Benefit. Yiu can make and state your ow assumptions. [30 Mark]
 Q.5. a. Why is the time value of money an important concept in capital project evaluatior Explain with appropriate examples
 Q.4 Write short notes on any three of the following (150 words each):
 a) What are the different managerial skills, related to the major managerial functions?
@@ -1349,10 +1205,4 @@ Q.6 Identify and describe the offence committed, the governing jurisdiction and 
 &lt;li&gt;
 &lt;p&gt;A vessel registered in India with Indian crew on board was passing through the Malacca Strait, when it was pursued by persons bearing firearms, calling upon the crew to hand over control of the vessel to them. One seafarer on board the vessel used a firearm to quel the attack and one of the attackers died. The Malaysian Coast Guard intercepted the vessel shortly thereafter and took into custody all the seafarers on board the vessel. Subsequently, the seafarer who had shot the firearm was charged for murder of a &amp;ldquo;fisherman&amp;rdquo; and sought to be tried in the Malaysian courts. The Indian government argued that the attackers were pirates and not fisherman, and that any trial against Indian seafarers, if at all, must be conducted in India alone.&lt;/p&gt;
 &lt;/li&gt;
-&lt;/ol&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;/ol&gt;</description></item></channel></rss>

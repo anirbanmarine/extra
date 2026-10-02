@@ -4,6 +4,7 @@ type: docs
 math: true  
 ---
 ## Form Coefficients
+
 WPA = Waterplane area
 L = Length overall
 B = maximum breadth
@@ -17,6 +18,7 @@ d = maximum depth
 \[ Area Amidships = B \times d\times C_m \]
 
 ## when displacement is constant ( box shaped vessels)
+
 \[\frac {New Displacement}{Old Displacement} = \frac{New Density}{Old Density}\]
 
 \[TPC_{SW}= \frac {WPA} {97.56} \]
@@ -43,7 +45,8 @@ Change of draft Aft \(\delta_{aft} = \frac{1}{L} \times \Delta_T\)
 distance 'd' to keep aft draft constant \(\frac{MCTC \times L}{TPC \times l}\)
 
 ## Simpson's Rules
-Common Area = h
+
+Common Interval = h
 
 * \[Area = \frac{1}{3} \times h \times \Sigma_1\] 
 Multipliers (1,4,1)
@@ -61,6 +64,7 @@ Here the formulas are given for its own centroidal axis.
 For rectangular waterplane Area \[ I_{CG} = \frac { L \times B^3}{12}\]
 
 \[BM = \frac{I}{V}\]
+
 ### triangle base ='B', height ='H'
 
 \[I_{CG}= \frac{B\times H^3}{36}\]
@@ -84,6 +88,7 @@ where b is the horizontal length and h can be height or can be thickness
 
 
 ### **General Formula (Inclined Surface)**
+
 \[h_{CP} = \bar{h} + \frac{I_G \sin^2\theta}{A\bar{h}}\]
 *For vertical surfaces \(\theta = 90°\):* \(\quad h_{CP} = \bar{h} + \dfrac{I_G}{A\bar{h}}\)
 
@@ -104,19 +109,49 @@ where b is the horizontal length and h can be height or can be thickness
 ---
 
 ### **Quick Exam Shortcuts**
-*   **Rectangle (top at surface):** \(h_{CP} = \frac{2}{3}h\) (measured from top)
-*   **Triangle (apex at surface):** \(h_{CP} = \frac{3}{4}h\) (measured from apex)
-*   **Circle (top at surface):** \(h_{CP} = \frac{5}{4}R\) (measured from top)
-*   **Universal Check:** \(h_{CP}\) is always **below** the centroid ( \( \bar{h}\)) for vertical/inclined surfaces.
+
+* **Rectangle (top at surface):** \(h_{CP} = \frac{2}{3}h\) (measured from top)
+* **Triangle (apex at surface):** \(h_{CP} = \frac{3}{4}h\) (measured from apex)
+* **Circle (top at surface):** \(h_{CP} = \frac{5}{4}R\) (measured from top)
+* **Universal Check:** \(h_{CP}\) is always **below** the centroid ( \( \bar{h}\)) for vertical/inclined surfaces.
 
 ### **Bilging Connection (from your previous point)**
-*   **Sinkage:** \(\dfrac{\text{Lost Volume}}{\text{Intact Waterplane Area}}\)
-*   **New \(GM_T\):** Use \(I_{T,\text{intact}}\) (about centerline) \(\rightarrow BM_T = \frac{I_T}{\nabla}\)
-*   **New \(GM_L\):** Use \(I_{L,\text{intact}}\) (about midships) \(\rightarrow BM_L = \frac{I_L}{\nabla}\)
+
+* **Sinkage:** \(\dfrac{\text{Lost Volume}}{\text{Intact Waterplane Area}}\)
+* **New \(GM_T\):** Use \(I_{T,\text{intact}}\) (about centerline) \(\rightarrow BM_T = \frac{I_T}{\nabla}\)
+* **New \(GM_L\):** Use \(I_{L,\text{intact}}\) (about midships) \(\rightarrow BM_L = \frac{I_L}{\nabla}\)
 
 **Pro Tip:** If the surface is **inclined**, remember the \(\sin^2\theta\) factor. If the tank wall is **curved**, find the horizontal/vertical force components first; the center of pressure formula above applies only to **plane** surfaces.
 
+---
+
+### Simpson’s Rules for Moment of Inertia
+
+Area = A, y is athwartship, x is longitudinal, da is an elemental strip of the area.
+
+1st moment of Area about X axis:
+
+2nd moment of inertia about X axis:
+For a small area dA the moment of inertia about its centroid is 
+
+Therefore, when taking moments about X Axis: 
 
 
+Therefore, for Simpson’s Rule 1:
+Where ‘h’ is the common interval along X axis and ‘y0, y1, y2, y3, y4’ are y values along the X axis .
+
+
+1st Moment of Area about Y Axis:
+
+
+2nd Moment of Area about Y Axis:
+ (ignoring first term as it is too small)
+
+For  (stations ) and common interval h,
+ 
+
+Now, if Y is Longitudinal and X is athwartship then switch x for y. 
+Therefore, for TRANSVERSE items like Centre of Floatation use 
+For Longitudinal items use 
 
 

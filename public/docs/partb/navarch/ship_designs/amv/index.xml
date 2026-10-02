@@ -1,32 +1,8 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Study Extra Master – Advanced Marine Vehicles</title>
-    <link>http://localhost:1313/docs/partb/navarch/ship_designs/amv/</link>
-    <description>Recent content in Advanced Marine Vehicles on Study Extra Master</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	  <atom:link href="http://localhost:1313/docs/partb/navarch/ship_designs/amv/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-      
-        
-      
-    
-    
-    <item>
-      <title> High Speed Craft Notes</title>
-      <link>http://localhost:1313/docs/partb/navarch/ship_designs/amv/hscnotes/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/docs/partb/navarch/ship_designs/amv/hscnotes/</guid>
-      <description>
-        
-        
-        &lt;h1&gt;Q.10 — Notes on High-Speed Craft: Catamaran, Planing Craft, Hovercraft, Air Cushion Vessel, SWATH, and Hydrofoil&lt;/h1&gt;&lt;p&gt;Covering, for each craft type: &lt;strong&gt;(a) how high speed is achieved, (b) transverse and longitudinal stability, (c) seakeeping, and (d) propulsion arrangements.&lt;/strong&gt;&lt;/p&gt;
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Study Extra Master – Advanced Marine Vehicles</title><link>https://extra.anirbanmarine.in/docs/partb/navarch/ship_designs/amv/</link><description>Recent content in Advanced Marine Vehicles on Study Extra Master</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="https://extra.anirbanmarine.in/docs/partb/navarch/ship_designs/amv/index.xml" rel="self" type="application/rss+xml"/><item><title> High Speed Craft Notes</title><link>https://extra.anirbanmarine.in/docs/partb/navarch/ship_designs/amv/hscnotes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://extra.anirbanmarine.in/docs/partb/navarch/ship_designs/amv/hscnotes/</guid><description>
+&lt;h1&gt;Q.10 — Notes on High-Speed Craft: Catamaran, Planing Craft, Hovercraft, Air Cushion Vessel, SWATH, and Hydrofoil&lt;/h1&gt;&lt;p&gt;Covering, for each craft type: &lt;strong&gt;(a) how high speed is achieved, (b) transverse and longitudinal stability, (c) seakeeping, and (d) propulsion arrangements.&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2&gt;1. Catamaran&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;1-catamaran&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#1-catamaran&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;1. Catamaran&lt;span class="hx:absolute hx:-mt-20" id="1-catamaran"&gt;&lt;/span&gt;
+&lt;a href="#1-catamaran" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;As discussed in Q.9, displacement is shared between &lt;strong&gt;two slender hulls&lt;/strong&gt;, each with a high length-to-beam ratio, drastically reducing wave-making resistance per unit displacement compared to an equivalent monohull, allowing higher speed for given power, particularly at higher Froude numbers.&lt;/li&gt;
 &lt;li&gt;Many high-speed catamarans also use &lt;strong&gt;hull forms optimized to minimize wave interference drag&lt;/strong&gt; between the two demi-hulls, with hull separation (beam) tuned to the design speed range.&lt;/li&gt;
@@ -47,8 +23,8 @@
 &lt;li&gt;Typically &lt;strong&gt;twin-screw&lt;/strong&gt; (one propulsion train per hull), using &lt;strong&gt;waterjets&lt;/strong&gt; (very common on high-speed catamaran ferries, since waterjets perform efficiently at high Froude number and avoid the cavitation/appendage drag issues of conventional propellers at high speed) or, for lower-speed/higher-displacement catamarans, &lt;strong&gt;conventional shaft/propeller arrangements&lt;/strong&gt;, often driven by high-speed diesel engines or gas turbines for the largest fast-ferry applications.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2&gt;2. Planing Craft&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;2-planing-craft&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#2-planing-craft&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;2. Planing Craft&lt;span class="hx:absolute hx:-mt-20" id="2-planing-craft"&gt;&lt;/span&gt;
+&lt;a href="#2-planing-craft" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;At low speed, a planing hull behaves in &lt;strong&gt;displacement mode&lt;/strong&gt;, supported by buoyancy in the conventional sense.&lt;/li&gt;
 &lt;li&gt;As speed increases past a critical Froude number, the hull&amp;rsquo;s &lt;strong&gt;flat/warped-bottom aft sections generate dynamic (hydrodynamic) lift&lt;/strong&gt;, causing the hull to rise and &amp;ldquo;plane&amp;rdquo; on top of the water surface rather than pushing through it — this dramatically &lt;strong&gt;reduces wetted surface area and eliminates most wave-making resistance&lt;/strong&gt;, since the vessel is now largely supported by dynamic lift rather than displacement/buoyancy, allowing a steep reduction in resistance per unit speed increase beyond the &amp;ldquo;hump&amp;rdquo; speed.&lt;/li&gt;
@@ -69,8 +45,8 @@
 &lt;li&gt;Commonly &lt;strong&gt;high-speed diesel engines with surface-piercing propellers, stern drives (outdrives), or waterjets&lt;/strong&gt; — surface-piercing propellers are specifically suited to planing craft since the propeller operates partially out of the water at speed, reducing appendage drag; waterjets are preferred where shallow draft and the elimination of exposed propeller/shaft appendage drag are priorities (also improving safety around swimmers/divers for recreational and rescue craft).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2&gt;3. Hovercraft (Air Cushion Vehicle — fully amphibious, flexible skirt type)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;3-hovercraft-air-cushion-vehicle--fully-amphibious-flexible-skirt-type&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#3-hovercraft-air-cushion-vehicle--fully-amphibious-flexible-skirt-type&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;3. Hovercraft (Air Cushion Vehicle — fully amphibious, flexible skirt type)&lt;span class="hx:absolute hx:-mt-20" id="3-hovercraft-air-cushion-vehicle--fully-amphibious-flexible-skirt-type"&gt;&lt;/span&gt;
+&lt;a href="#3-hovercraft-air-cushion-vehicle--fully-amphibious-flexible-skirt-type" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;A hovercraft is supported almost entirely by a &lt;strong&gt;cushion of air maintained under the hull at a pressure sufficient to lift the vessel&amp;rsquo;s weight&lt;/strong&gt;, contained by a flexible rubber/fabric &lt;strong&gt;skirt&lt;/strong&gt; around the periphery, essentially &lt;strong&gt;eliminating hull-water contact and hence both wave-making and frictional/skin resistance&lt;/strong&gt; while cushion-borne.&lt;/li&gt;
 &lt;li&gt;With essentially no hydrodynamic resistance component, the primary resistance to forward motion is &lt;strong&gt;aerodynamic drag&lt;/strong&gt;, allowing speeds substantially higher than a comparable-size, comparable-power waterborne displacement or even planing craft, and crucially, allowing &lt;strong&gt;true amphibious operation&lt;/strong&gt; — transitioning directly from water onto land, ice, mudflats, or marsh with no change in operating mode.&lt;/li&gt;
@@ -93,8 +69,8 @@
 &lt;li&gt;Directional control is achieved via &lt;strong&gt;rudders in the propeller slipstream&lt;/strong&gt; (aerodynamic rudders) and/or differential thrust, since conventional waterborne steering (rudders in water flow) is unavailable while fully cushion-borne.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2&gt;4. Air Cushion Vessel / Surface Effect Ship (SES — rigid sidewall type, distinct from full hovercraft)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;4-air-cushion-vessel--surface-effect-ship-ses--rigid-sidewall-type-distinct-from-full-hovercraft&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#4-air-cushion-vessel--surface-effect-ship-ses--rigid-sidewall-type-distinct-from-full-hovercraft&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;em&gt;(Where the question intends the rigid-sidewall Surface Effect Ship variant, distinct from the fully-skirted amphibious hovercraft above — the specimen paper lists both &amp;ldquo;Hovercraft&amp;rdquo; and &amp;ldquo;Air Cushion Vessel&amp;rdquo; separately, suggesting this distinction is intended.)&lt;/em&gt;&lt;/p&gt;
+&lt;h2&gt;4. Air Cushion Vessel / Surface Effect Ship (SES — rigid sidewall type, distinct from full hovercraft)&lt;span class="hx:absolute hx:-mt-20" id="4-air-cushion-vessel--surface-effect-ship-ses--rigid-sidewall-type-distinct-from-full-hovercraft"&gt;&lt;/span&gt;
+&lt;a href="#4-air-cushion-vessel--surface-effect-ship-ses--rigid-sidewall-type-distinct-from-full-hovercraft" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;em&gt;(Where the question intends the rigid-sidewall Surface Effect Ship variant, distinct from the fully-skirted amphibious hovercraft above — the specimen paper lists both &amp;ldquo;Hovercraft&amp;rdquo; and &amp;ldquo;Air Cushion Vessel&amp;rdquo; separately, suggesting this distinction is intended.)&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;An SES has &lt;strong&gt;rigid, catamaran-like sidewalls extending into the water&lt;/strong&gt;, with a flexible seal only at bow and stern, and an &lt;strong&gt;air cushion trapped between the sidewalls&lt;/strong&gt; supporting the majority (though not all) of the vessel&amp;rsquo;s weight — the sidewalls remain waterborne (unlike the fully-skirted hovercraft), providing directional stability and containing the cushion.&lt;/li&gt;
@@ -115,8 +91,8 @@
 &lt;li&gt;Since the sidewalls remain in the water, &lt;strong&gt;conventional waterborne propulsion — waterjets or propellers — can be used&lt;/strong&gt; (unlike the fully-skirted hovercraft, which must use aerial propulsion), typically one unit per sidewall/hull, in addition to a &lt;strong&gt;separate lift-fan system&lt;/strong&gt; to maintain cushion pressure between the sidewalls.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2&gt;5. SWATH (Small Waterplane Area Twin Hull)&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;5-swath-small-waterplane-area-twin-hull&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#5-swath-small-waterplane-area-twin-hull&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;5. SWATH (Small Waterplane Area Twin Hull)&lt;span class="hx:absolute hx:-mt-20" id="5-swath-small-waterplane-area-twin-hull"&gt;&lt;/span&gt;
+&lt;a href="#5-swath-small-waterplane-area-twin-hull" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;SWATH achieves its performance benefit not primarily through top-speed maximization (SWATH vessels are typically moderate rather than extreme-high-speed craft) but through &lt;strong&gt;exceptional seakeeping/motion stability at moderate-to-good speed&lt;/strong&gt;, achieved by having the vessel&amp;rsquo;s buoyancy provided by &lt;strong&gt;fully submerged, torpedo-shaped lower hulls&lt;/strong&gt; connected to the above-water structure by &lt;strong&gt;thin, minimal-waterplane-area struts&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Wave-making resistance is significantly reduced because the submerged hulls operate below the zone of maximum wave orbital motion, and the very small waterplane area (at the thin struts) minimizes the vessel&amp;rsquo;s response to surface wave action, though the deeply submerged hull form does carry a frictional resistance penalty.&lt;/li&gt;
@@ -137,8 +113,8 @@
 &lt;li&gt;Propulsors (propellers, often in shrouded/ducted arrangements, or waterjets in some designs) are mounted on or near the &lt;strong&gt;submerged lower hulls&lt;/strong&gt;, driven via shafting running up through the connecting struts to machinery located in the above-water cross-structure — the deep hull placement of the propulsors also contributes to reduced propeller ventilation/cavitation issues in a seaway compared to a surface-piercing hull&amp;rsquo;s propellers, which can be prone to emergence in heavy pitching.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2&gt;6. Hydrofoil&lt;span class=&#34;hx:absolute hx:-mt-20&#34; id=&#34;6-hydrofoil&#34;&gt;&lt;/span&gt;
-    &lt;a href=&#34;#6-hydrofoil&#34; class=&#34;subheading-anchor&#34; aria-label=&#34;Permalink for this section&#34;&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
+&lt;h2&gt;6. Hydrofoil&lt;span class="hx:absolute hx:-mt-20" id="6-hydrofoil"&gt;&lt;/span&gt;
+&lt;a href="#6-hydrofoil" class="subheading-anchor" aria-label="Permalink for this section"&gt;&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;strong&gt;(a) How high speed is achieved&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;At low speed, a hydrofoil craft operates as a &lt;strong&gt;conventional displacement hull&lt;/strong&gt;, with &lt;strong&gt;underwater foils (wing-like lifting surfaces)&lt;/strong&gt; mounted on struts below the hull.&lt;/li&gt;
 &lt;li&gt;As speed increases, the foils generate increasing &lt;strong&gt;hydrodynamic lift&lt;/strong&gt; (exactly as an aircraft wing generates aerodynamic lift), until at a critical &amp;ldquo;take-off&amp;rdquo; speed the lift generated equals the vessel&amp;rsquo;s weight, and the &lt;strong&gt;entire hull rises clear of the water surface&lt;/strong&gt;, leaving only the slender foils and their supporting struts in the water.&lt;/li&gt;
@@ -161,10 +137,4 @@
 &lt;li&gt;Options include: &lt;strong&gt;surface-piercing or submerged propellers on shafts extending down from the hull through/near the foil struts&lt;/strong&gt;, &lt;strong&gt;waterjets&lt;/strong&gt; (increasingly preferred in modern designs, avoiding the mechanical complexity of a propeller shaft penetrating a lifting/retracting foil strut arrangement), or, in some older/specialized designs, an &lt;strong&gt;inverted &amp;ldquo;Z-drive&amp;rdquo; or podded propulsor mounted directly on the foil strut&lt;/strong&gt;.&lt;/li&gt;
 &lt;li&gt;Since the hull itself rises clear of the water while foilborne, the propulsor and its shafting/strut arrangement must be specifically designed to remain effectively submerged and functional across both the hull-borne (low speed, propulsor deep) and foilborne (high speed, hull risen) conditions — a significant engineering challenge distinguishing hydrofoil propulsion design from simpler, single-condition hull forms.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;hr&gt;
-
-      </description>
-    </item>
-    
-  </channel>
-</rss>
+&lt;hr&gt;</description></item></channel></rss>
