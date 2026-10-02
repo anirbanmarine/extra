@@ -43,4 +43,5 @@ type: docs
 36. \[ e_{seconds}= \frac{dp}{15}( Tan (L) \times Cosec (h) - Tan (d)\times Cot (h) )\]
 37. The Maximum Altitude of a heavenly body = \[\frac{Tan(L) \pm Tan(D)}{ 900 \mp x}= \frac {Tan(L) \pm Tan (D) }{900( 1\mp \frac {x}{900})}\] where x is change of Longitude of Observer ship (in minutes of arc per hour) in minutes.
 38. **4 Parts Formula** Cot (outer side) Sine (Inner side) = Cot (outer angle) Sine (inner angle) + Cos (inner side) \times Cos( Inner Angle).
-39. 
+39. in ABC Tables : \[ A = \frac { tan (Lat)}{tan(HA)} \],\[ B = \frac{sin( Declination)}{ tan (HA)}\],\[ C = A\pm B \]\[tan(Azi) = \frac {1}{C \times Cos(Lat)}\]
+40. \[\delta d'long = \frac{d'lat}{Tan(Azi) \times Cos (Lat)}\]
