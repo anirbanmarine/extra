@@ -8,7 +8,7 @@ type: docs
 
 Knowing a as semi-major axis and b as semi minor axis 
 
-the function of an ellipse = \(\frac ({x}{a})^2 + \frac({y}{b})^2 = 1 \)
+the function of an ellipse = \((\frac {x^2}{a^2}) + (\frac{y^2}{b^2}) = 1 \)
 
 At A the Geocentric Latitude is \(\Phi\) where \[ y = tan(\Phi) \times x\]
 \[ \therefore Gradient_A \propto (\frac {1}{a^2}, \frac{tan(\Phi)}{b^2})\]
@@ -26,7 +26,7 @@ Meridional part is a unit of distance equal to the increased length of a Meridia
 2.Topographic maps, markers etc: height above or below mean sea level = orthometric height.
 3.Height above or below a reference ellipsoid = ellipsoidal height.
 4.Difference between two = geoid height.
-h = ellipsoid height
+h = ellipsoid height 
 N = geoid Height
 H = orthometric height 
 H = h + N

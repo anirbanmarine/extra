@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1920"
+   height="1080"
+   viewBox="0 0 1920 1080"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="layer1">
+    <g
+       id="g15">
+      <g
+         id="g3">
+        <ellipse
+           style="fill:none;stroke:#000000"
+           id="path1"
+           cx="975.8703"
+           cy="551.97949"
+           rx="400"
+           ry="320" />
+        <path
+           style="fill:none;stroke:#000000"
+           d="M 975.8703,44.232082 V 1026.5529"
+           id="path2" />
+        <path
+           style="fill:none;stroke:#000000"
+           d="M 1467.0307,535.39249 H 484.70989"
+           id="path3" />
+      </g>
+      <path
+         style="fill:none;stroke:#000000"
+         d="M 974.94881,534.47099 1350.9215,202.73038"
+         id="path4" />
+      <path
+         style="fill:none;stroke:#ff0000"
+         d="M 1092.4358,536.45203 1314.3193,171.47017"
+         id="path5" />
+      <path
+         style="fill:none;stroke:#800000"
+         d="m 1072.7903,208.56548 364.9819,221.8835"
+         id="path6" />
+      <path
+         style="fill:none;stroke:#800000"
+         d="m 1242.455,290.03092 16.6816,9.63111 -9.3886,16.26156"
+         id="path7" />
+      <text
+         xml:space="preserve"
+         style="writing-mode:lr-tb;direction:ltr;fill:none;stroke:#800000"
+         x="1267.4039"
+         y="312.48492"
+         id="text7"><tspan
+           id="tspan7"
+           x="1267.4039"
+           y="312.48492">90°</tspan></text>
+      <path
+         style="fill:#ffaaaa;stroke:#800000"
+         d="m 1092.7617,535.15382 43.0368,-70.48063 c 0,0 20.9372,19.25016 26.8201,31.80984 5.553,11.8555 6.8609,38.67079 6.8609,38.67079 z"
+         id="path8" />
+      <path
+         style="fill:#ddff55;stroke:#800000"
+         d="m 974.7617,535.15382 62.9959,-56.13501 c 0,0 8.2866,17.91436 10.6033,27.44378 2.2726,9.3478 3.1186,28.69123 3.1186,28.69123 z"
+         id="path9" />
+      <text
+         xml:space="preserve"
+         style="writing-mode:lr-tb;direction:ltr;fill:#ddff55;stroke:#800000"
+         x="1137.0459"
+         y="516.44214"
+         id="text9"><tspan
+           id="tspan9"
+           x="1137.0459"
+           y="516.44214">θ</tspan></text>
+      <text
+         xml:space="preserve"
+         style="writing-mode:lr-tb;direction:ltr;fill:#ddff55;stroke:#800000"
+         x="1018.5387"
+         y="523.3031"
+         id="text10"><tspan
+           id="tspan10"
+           x="1018.5387"
+           y="523.3031">ϕ</tspan></text>
+      <text
+         xml:space="preserve"
+         style="writing-mode:lr-tb;direction:ltr;fill:#ddff55;stroke:#800000"
+         x="1215.0112"
+         y="288.15976"
+         id="text11"><tspan
+           id="tspan11"
+           x="1215.0112"
+           y="288.15976">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="writing-mode:lr-tb;direction:ltr;fill:#ddff55;stroke:#800000"
+         x="977.9967"
+         y="557.60785"
+         id="text12"><tspan
+           id="tspan12"
+           x="977.9967"
+           y="557.60785">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="writing-mode:lr-tb;direction:ltr;fill:#ddff55;stroke:#800000"
+         x="1322.2915"
+         y="175.26601"
+         id="text13"><tspan
+           id="tspan13"
+           x="1322.2915"
+           y="175.26601">N</tspan></text>
+      <text
+         xml:space="preserve"
+         style="writing-mode:lr-tb;direction:ltr;fill:#ddff55;stroke:#800000"
+         x="1384.6637"
+         y="548.25201"
+         id="text14"><tspan
+           id="tspan14"
+           x="1384.6637"
+           y="548.25201">E</tspan></text>
+      <text
+         xml:space="preserve"
+         style="writing-mode:lr-tb;direction:ltr;fill:#ddff55;stroke:#800000"
+         x="555.73663"
+         y="552.61804"
+         id="text15"><tspan
+           id="tspan15"
+           x="555.73663"
+           y="552.61804">E'</tspan></text>
+    </g>
+  </g>
+</svg>
