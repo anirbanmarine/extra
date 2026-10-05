@@ -3,9 +3,10 @@ title: Pole Star Tables
 type: docs
 ---
 
-### 1. \(PZX\) Spherical Triangle Setup
+## 1. \(PZX\) Spherical Triangle Setup
 
 In the celestial sphere, consider the \(PZX\) triangle for Polaris:
+
 * \(P\): Elevated Pole
 * \(Z\): Observer's Zenith
 * \(X\): Position of Polaris
@@ -19,7 +20,7 @@ Let the zenith distance be \(z = c + k\), where \(k\) represents the correction 
 
 ---
 
-### 2. Fundamental Spherical Trigonometry Relation
+## 2. Fundamental Spherical Trigonometry Relation
 
 Applying the **Cosine Formula** to triangle \(PZX\):
 \[\cos z = \cos p \cos c + \sin p \sin c \cos h\]
